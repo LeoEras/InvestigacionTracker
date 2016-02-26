@@ -1,5 +1,6 @@
 from datetime import datetime, timedelta
 import numpy as np
+#import time
 import matplotlib.pyplot as plt
 import sys
 import re
@@ -21,7 +22,7 @@ def findItems(name, item_type, date_start, date_end):
                     result.append(item)
                 elif item_type in item[7]:
                     result.append(item)
-            elif name == item[6]:
+            elif name in item[6]:
                 result.append(item)
     return result
 
@@ -72,6 +73,8 @@ def getNameFromBar(x_axis_value, y_axis_value, dictionary):
 #print(re.split(r'[a-z][A-Z]', "Google Chrome", re.I|re.M))
 #word = re.findall(r'\d{3,5}\s\w+\s\w+\.', "kdwplsjsof324 main street.dsadksadkasdks")
 #print(word[0])
+
+#start_time = time.time()
 item_type = "All"
 input_start_date = "2016-01-01"
 input_end_date = "2020-01-01"
@@ -113,6 +116,7 @@ for line in file_object:
         time_object_1 = datetime.strptime(str(date_start) + " "+ str(time_start), '%Y-%m-%d %H:%M:%S')
         time_object_2 = datetime.strptime(str(date_end) + " "+ str(time_end), '%Y-%m-%d %H:%M:%S')
         elapsed_time = time_object_2 - time_object_1
+        process = collection[4]
         process_type = collection[5].split("/", len(collection))[1]
         collection = [description, date_start, time_start, date_end, time_start, elapsed_time, process, process_type]
         objects.append(collection)
@@ -132,6 +136,8 @@ elif item_type == "Doc":
     title = "Documentos usados"
 elif item_type == "All":
     title = "Aplicaciones y documentos usados"
+
+#print("--- %s seconds ---" % (time.time() - start_time))
 
 if input_start_date == input_end_date:
     fig = plt.figure(title + " durante el dia " + input_start_date)
