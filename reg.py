@@ -21,7 +21,7 @@ def findItems(name, item_type, date_start, date_end):
                     result.append(item)
                 elif item_type in item[7]:
                     result.append(item)
-            elif name in item[6]:
+            elif name == item[6]:
                 result.append(item)
     return result
 
