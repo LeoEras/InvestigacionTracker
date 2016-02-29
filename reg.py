@@ -118,7 +118,7 @@ for line in file_object:
         elapsed_time = time_object_2 - time_object_1
         process = collection[4]
         process_type = collection[5].split("/", len(collection))[1]
-        collection = [description, date_start, time_start, date_end, time_start, elapsed_time, process, process_type]
+        collection = [description, date_start, time_start, date_end, time_end, elapsed_time, process, process_type]
         objects.append(collection)
 
 file_object.close()
