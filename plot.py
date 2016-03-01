@@ -13,9 +13,15 @@ def secToString(integer):
     minute = int((integer - hour*3600)/60)
     second = integer - hour*3600 - minute*60
     if minute < 10:
-        return "" + str(hour) + ":0" + str(minute) + ":" + str(second)
+        if second < 10:
+            return "" + str(hour) + ":0" + str(minute) + ":0" + str(second)
+        else:
+            return "" + str(hour) + ":0" + str(minute) + ":" + str(second)
     else:
-        return "" + str(hour) + ":" + str(minute) + ":" + str(second)
+        if second < 10:
+            return "" + str(hour) + ":" + str(minute) + ":0" + str(second)
+        else:
+            return "" + str(hour) + ":" + str(minute) + ":" + str(second)
 
 def strToDate(string):
     new_date = [int(token) for token in string.split("-", len(string))] 
@@ -28,7 +34,10 @@ def findItems(item_type, date_start):
         item_date_start = strToDate(item[1])
         if d_start == item_date_start:
             if item_type == "All":
-                result.append(item)
+                if "Google" in item[6]:
+                    continue
+                else:
+                    result.append(item)
             elif item_type in item[7]:
                 result.append(item)
     return result
@@ -100,9 +109,11 @@ for line in file_object:
         elapsed_time = time_object_2 - time_object_1
         process = collection[4]
         process_type = collection[5].split("/", len(collection))[1]
-        importance = setImportance(description, process)
-        collection = [description, date_start, time_start, date_end, time_end, elapsed_time, process, process_type, importance]
+        #importance = setImportance(description, process)
+        collection = [description, date_start, time_start, date_end, time_end, elapsed_time, process, process_type, 1]
         objects.append(collection)
+
+file_object.close()
 
 if item_type == "App":
     title = "Aplicaciones usadas"
@@ -117,17 +128,20 @@ ending_time = [strToSeconds(item[4]) for item in selected]
 x = np.arange(min(starting_time), max(ending_time))
 y_vals = [0, 1]
 my_bits = [0 for item in x]
-cont = 0
+#cont = 0
 
 for items in selected:
+    #cont += int(items[5].seconds)
     for value in range(int(items[5].seconds)):
         my_bits[(strToSeconds(items[2]) + value) - x[0]] = items[8]
 
+#print(cont)
 print("Tiempo trabajado: %s" % secToString(sum(my_bits)))
 day_start_time = min(starting_time)
 day_end_time = max(ending_time)
 total_time = day_end_time - day_start_time
 print("Tiempo total de uso: %s" % secToString(total_time))
+#print("Tiempo inactivo: %s" % secToString(total_time - sum(my_bits)))
 
 fig = plt.figure(title + " durante el dia " + input_start_date)
 ax = fig.add_axes([0.1, 0.1, 0.8, 0.8])
