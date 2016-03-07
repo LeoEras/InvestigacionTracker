@@ -1,9 +1,9 @@
 from datetime import datetime, timedelta
 import numpy as np
-#import time
 import matplotlib.pyplot as plt
 import sys
 import re
+#import time
 
 def strToDate(string):
     new_date = [int(token) for token in string.split("-", len(string))] 
@@ -69,6 +69,14 @@ def getNameFromBar(x_axis_value, y_axis_value, dictionary):
             return dictionary.keys()[int(round(x_axis_value)) - 1]
     return {}
 
+def setImportance(filters, description, process):
+    importance = 0
+    for item in filters:
+        if item in description or item in process:
+            importance = 1
+            continue
+    return importance
+
 #print(re.split(r'(s*)', "Here are some words"))
 #print(re.split(r'[a-z][A-Z]', "Google Chrome", re.I|re.M))
 #word = re.findall(r'\d{3,5}\s\w+\s\w+\.', "kdwplsjsof324 main street.dsadksadkasdks")
@@ -79,6 +87,7 @@ item_type = "All"
 input_start_date = "2016-01-01"
 input_end_date = "2020-01-01"
 input_scale = 3600
+filters = []
 #draw = ""
 reload(sys)  
 sys.setdefaultencoding('utf8')
@@ -93,12 +102,20 @@ else:
     print("Error al leer parametros")
     print("Trabajando con valores predeterminados")
 
+#Getting importance from filters.txt
+file_object = open("filters.txt", 'r')
+for line in file_object:
+    line = re.sub(r'\n', "", str(line))
+    filters.append(line)
+
+file_object.close()
+
 file_object = open("output.csv", 'r')
 objects = []
 collection = []
 dictionary_items = {}
 #    	    \date_time_start      \date_time_end    \
-#description\date_start\time_start\date_end\time_end\elapsed_time\process\process_type
+#description\date_start\time_start\date_end\time_end\elapsed_time\process\process_type\importance
 for line in file_object:
     collection = line.split("|", len(line))
     if len(collection) == 6:
@@ -118,7 +135,8 @@ for line in file_object:
         elapsed_time = time_object_2 - time_object_1
         process = collection[4]
         process_type = collection[5].split("/", len(collection))[1]
-        collection = [description, date_start, time_start, date_end, time_end, elapsed_time, process, process_type]
+        importance = setImportance(filters, description, process)
+        collection = [description, date_start, time_start, date_end, time_end, elapsed_time, process, process_type, importance]
         objects.append(collection)
 
 file_object.close()
