@@ -9,6 +9,16 @@ def strToDate(string):
     new_date = [int(token) for token in string.split("-", len(string))] 
     return datetime(new_date[0], new_date[1], new_date[2])
 
+def depurate(item):
+    if "c:" in item or "C:" in item:
+        word = re.findall(r'\w+\.\w+', item)
+        if len(word) > 0:
+            return word[0]
+        else:
+            return ""
+    else:
+        return item
+
 def findItems(name, item_type, date_start, date_end):
     result = []
     for item in objects:
@@ -19,7 +29,10 @@ def findItems(name, item_type, date_start, date_end):
         if d_start <= item_date_start and item_date_end <= d_end:
             if name == "":
                 if item_type == "All":
-                    result.append(item)
+                    if "Chrome" in item[6] and "App" in item[7]:
+                        continue
+                    else:
+                        result.append(item)
                 elif item_type in item[7]:
                     result.append(item)
             elif name in item[6]:
@@ -29,6 +42,7 @@ def findItems(name, item_type, date_start, date_end):
 def graph(name, item_type, input_scale, date_start, date_end):
     dictionary = {}
     for item in findItems(name, item_type, date_start, date_end):
+        item[0] = depurate(item[0])
         if date_start == date_end:
             if str(item[0]) not in dictionary:
                 dictionary[str(item[0])] = item[5]
@@ -119,9 +133,7 @@ dictionary_items = {}
 for line in file_object:
     collection = line.split("|", len(line))
     if len(collection) == 6:
-        if str(collection[4]) != "":
-            process = str(collection[4])
-        else:
+        if str(collection[4]) == "":
             continue
         description = collection[1]
         date_time_start = collection[2].split("T", len(collection[2]))
@@ -130,8 +142,8 @@ for line in file_object:
         time_start = re.sub(r'\.\d*', "", str(date_time_start[1]))
         date_end = date_time_end[0]
         time_end = re.sub(r'\.\d*', "", str(date_time_end[1]))
-        time_object_1 = datetime.strptime(str(date_start) + " "+ str(time_start), '%Y-%m-%d %H:%M:%S')
-        time_object_2 = datetime.strptime(str(date_end) + " "+ str(time_end), '%Y-%m-%d %H:%M:%S')
+        time_object_1 = datetime.strptime(str(date_start) + " " + str(time_start), '%Y-%m-%d %H:%M:%S')
+        time_object_2 = datetime.strptime(str(date_end) + " " + str(time_end), '%Y-%m-%d %H:%M:%S')
         elapsed_time = time_object_2 - time_object_1
         process = collection[4]
         process_type = collection[5].split("/", len(collection))[1]
@@ -140,7 +152,9 @@ for line in file_object:
         objects.append(collection)
 
 file_object.close()
-for item in findItems("", item_type, input_start_date, input_end_date):
+items = findItems("", item_type, input_start_date, input_end_date)
+for item in items:
+    item[6] = depurate(item[6])
     if str(item[6]) not in dictionary_items:
         dictionary_items[str(item[6])] = item[5]
     else:
