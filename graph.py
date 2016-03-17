@@ -50,20 +50,25 @@ def buildMatrix(dictionary, nodes, edges):
                     matrix_base[real_j][real_i] = edges[k][2]
     return matrix_base
 
-def getmsc(matrix1, matrix2, size):
+def getmcs(matrix1, matrix2, size):
     matrix_base = np.ones((size, size))
     matrix_base = np.multiply(-1, matrix_base)
     rows = matrix_base.shape[0]
     for i in range(rows):
         for j in range(rows):
-            if matrix1[i][j] > 0 and matrix2[i][j] > 0:
-                matrix_base[i][j] = min(matrix1[i][j], matrix2[i][j])
-            elif matrix1[i][j] > 0 and matrix2[i][j] == 0:
+            matrix_base[i][j] = min(matrix1[i][j], matrix2[i][j])
+    return matrix_base
+
+def getMCS(matrix1, matrix2, size):
+    matrix_base = np.zeros((size, size))
+    rows = matrix_base.shape[0]
+    for i in range(rows):
+        for j in range(rows):
+            max_val = max(matrix1[i][j], matrix2[i][j])
+            if max_val == -1:
                 matrix_base[i][j] = 0
-            elif matrix2[i][j] > 0 and matrix1[i][j] == 0:
-                matrix_base[i][j] = 0
-            elif matrix1[i][j] == 0 and matrix2[i][j] == 0:
-                matrix_base[i][j] = 0
+            else:
+                matrix_base[i][j] = max_val
     return matrix_base
 
 def getAbsentNodes(dictionary, nodes):
@@ -93,27 +98,37 @@ def getSize(matrix):
 def distanceMCS(matrix1, matrix2, matrix3):
     return 1 - (float(getSize(matrix3))/max(float(getSize(matrix1)), float(getSize(matrix2))))
 
+def distanceWGU(matrix1, matrix2, matrix3):
+    return 1 - (float(getSize(matrix3))/(float(getSize(matrix1)) + float(getSize(matrix2)) - float(getSize(matrix3))))
+                
 def distanceUGU(matrix1, matrix2, matrix3):
     return getSize(matrix1) + getSize(matrix2) - 2 * getSize(matrix3)
 
+def distanceMMCS(matrix1, matrix2):
+    return getSize(matrix1) - getSize(matrix2)
+
+def distanceMMCSN(matrix1, matrix2):
+    return 1 - (float(getSize(matrix1))/max(float(getSize(matrix2))))
+
 dictionary_1 = {}
-##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "ntcpy1.csv")
-##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "ntcpy2.csv")
+##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nt.csv")
+##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nt1.csv")
 ###nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nodesTest2.csv")
-##edges1 = loadEdges("etcpy1.csv")
-##edges2 = loadEdges("etcpy2.csv")
+##edges1 = loadEdges("et.csv")
+##edges2 = loadEdges("et1.csv")
 ###edges2 = loadEdges("edgesTest2.csv")
 ##mat1 = buildMatrix(dictionary_1, nodes1, edges1)
 ##mat2 = buildMatrix(dictionary_1, nodes2, edges2)
 ###mat2 = buildMatrix(dictionary_1, nodes2, edges2)
-##matrix3 = getmsc(mat1, mat2, len(dictionary_1))
+##mat3 = getMCS(mat1, mat2, len(dictionary_1))
+##print(getmcs(mat1, mat3, len(dictionary_1)))
 ##print("%.2f" % distanceMCS(mat1, mat2, matrix3))
 ##print(distanceUGU(mat1, mat2, matrix3))
 print("Requiero la importancia tambien")
 print("Hay dudas sobre el peso del grafo")
 
-nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nodesAll.csv")
-edges1 = loadEdges("edgesAll.csv")
-mat1 = buildMatrix(dictionary_1, nodes1, edges1)
-print(getSize(mat1))
+##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nodesAll.csv")
+##edges1 = loadEdges("edgesAll.csv")
+##mat1 = buildMatrix(dictionary_1, nodes1, edges1)
+##print(getSize(mat1))
 
