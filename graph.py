@@ -30,10 +30,18 @@ def loadEdges(string):
         if not isNumber(temp_array[0]):
             continue
         edge = (int(temp_array[0]), int(temp_array[1]), int(temp_array[2]))
+	#edge = (origin_id, destiny_id, weight)
         edges.append(edge)
     file_object.close()
     return edges
 
+def getAbsentNodes(dictionary, nodes):
+    absent_nodes = []
+    for item in dictionary:
+        if item not in nodes:
+            absent_nodes.append(dictionary[item])
+    return absent_nodes
+	
 def buildMatrix(dictionary, nodes, edges):
     matrix_base = np.zeros((len(dictionary),len(dictionary)))
     absent_nodes = getAbsentNodes(dictionary, nodes)
@@ -47,10 +55,11 @@ def buildMatrix(dictionary, nodes, edges):
                 real_j = dictionary[nodes[edges[k][1]]]
                 if i == edges[k][0] and j == edges[k][1]:
                     matrix_base[real_i][real_j] = edges[k][2]
-                    matrix_base[real_j][real_i] = edges[k][2]
+                    #matrix_base[real_j][real_i] = edges[k][2]
     return matrix_base
 
-def getmcs(matrix1, matrix2, size):
+def getmcs(matrix1, matrix2):
+    size = matrix1.shape[0]
     matrix_base = np.ones((size, size))
     matrix_base = np.multiply(-1, matrix_base)
     rows = matrix_base.shape[0]
@@ -59,7 +68,8 @@ def getmcs(matrix1, matrix2, size):
             matrix_base[i][j] = min(matrix1[i][j], matrix2[i][j])
     return matrix_base
 
-def getMCS(matrix1, matrix2, size):
+def getMCS(matrix1, matrix2):
+    size = matrix1.shape[0]
     matrix_base = np.zeros((size, size))
     rows = matrix_base.shape[0]
     for i in range(rows):
@@ -70,13 +80,6 @@ def getMCS(matrix1, matrix2, size):
             else:
                 matrix_base[i][j] = max_val
     return matrix_base
-
-def getAbsentNodes(dictionary, nodes):
-    absent_nodes = []
-    for item in dictionary:
-        if item not in nodes:
-            absent_nodes.append(dictionary[item])
-    return absent_nodes
 
 def getSize(matrix):
     size = 0
@@ -93,22 +96,35 @@ def getSize(matrix):
             invalid_nodes += 1
     valid_num_nodes = num_nodes - invalid_nodes
     size = acum + valid_num_nodes
-    return int(size)
+    return float(size)
 
-def distanceMCS(matrix1, matrix2, matrix3):
-    return 1 - (float(getSize(matrix3))/max(float(getSize(matrix1)), float(getSize(matrix2))))
+def getMedianGraph(set_of_graphs, function_distance):
+    list_distance = [0 for i in range(len(set_of_graphs))]
+    if len(set_of_graphs) == 1:
+        return set_of_graphs[0]
+    else:
+        for i in range(len(set_of_graphs)):
+            for j in range(len(set_of_graphs)):
+                if i == j:
+                    list_distance[i] = 0
+                    continue
+                list_distance[i] += function_distance(set_of_graphs[i], set_of_graphs[j])
+        return set_of_graphs[list_distance.index(min(list_distance))]
 
-def distanceWGU(matrix1, matrix2, matrix3):
-    return 1 - (float(getSize(matrix3))/(float(getSize(matrix1)) + float(getSize(matrix2)) - float(getSize(matrix3))))
+def distanceMCS(matrix1, matrix2):
+    return 1 - (getSize(getmcs(matrix1, matrix2))/max(getSize(matrix1), getSize(matrix2)))
+
+def distanceWGU(matrix1, matrix2):
+    return 1 - (getSize(getmcs(matrix1, matrix2))/(getSize(matrix1) + getSize(matrix2) - getSize(getmcs(matrix1, matrix2))))
                 
-def distanceUGU(matrix1, matrix2, matrix3):
-    return getSize(matrix1) + getSize(matrix2) - 2 * getSize(matrix3)
+def distanceUGU(matrix1, matrix2):
+    return getSize(matrix1) + getSize(matrix2) - 2 * getSize(getmcs(matrix1, matrix2))
 
 def distanceMMCS(matrix1, matrix2):
-    return getSize(matrix1) - getSize(matrix2)
+    return getSize(getMCS(matrix1, matrix2)) - getSize(getmcs(matrix1, matrix2))
 
 def distanceMMCSN(matrix1, matrix2):
-    return 1 - (float(getSize(matrix1))/max(float(getSize(matrix2))))
+    return 1 - (getSize(getmcs(matrix1, matrix2))/max(getSize(getMCS(matrix1, matrix2))))
 
 dictionary_1 = {}
 ##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nt.csv")
@@ -120,15 +136,9 @@ dictionary_1 = {}
 ##mat1 = buildMatrix(dictionary_1, nodes1, edges1)
 ##mat2 = buildMatrix(dictionary_1, nodes2, edges2)
 ###mat2 = buildMatrix(dictionary_1, nodes2, edges2)
-##mat3 = getMCS(mat1, mat2, len(dictionary_1))
-##print(getmcs(mat1, mat3, len(dictionary_1)))
-##print("%.2f" % distanceMCS(mat1, mat2, matrix3))
-##print(distanceUGU(mat1, mat2, matrix3))
+##mat3 = getMCS(mat1, mat2)
+##print(getmcs(mat1, mat3))
+##print("%.2f" % distanceMCS(mat1, mat2, mat3))
+##print(distanceUGU(mat1, mat2, mat3))
 print("Requiero la importancia tambien")
 print("Hay dudas sobre el peso del grafo")
-
-##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nodesAll.csv")
-##edges1 = loadEdges("edgesAll.csv")
-##mat1 = buildMatrix(dictionary_1, nodes1, edges1)
-##print(getSize(mat1))
-
