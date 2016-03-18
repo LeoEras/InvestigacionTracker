@@ -55,7 +55,7 @@ def buildMatrix(dictionary, nodes, edges):
                 real_j = dictionary[nodes[edges[k][1]]]
                 if i == edges[k][0] and j == edges[k][1]:
                     matrix_base[real_i][real_j] = edges[k][2]
-                    #matrix_base[real_j][real_i] = edges[k][2]
+                    matrix_base[real_j][real_i] = edges[k][2]
     return matrix_base
 
 def getmcs(matrix1, matrix2):
@@ -106,9 +106,9 @@ def getMedianGraph(set_of_graphs, function_distance):
         for i in range(len(set_of_graphs)):
             for j in range(len(set_of_graphs)):
                 if i == j:
-                    list_distance[i] = 0
                     continue
                 list_distance[i] += function_distance(set_of_graphs[i], set_of_graphs[j])
+        print(list_distance)                
         return set_of_graphs[list_distance.index(min(list_distance))]
 
 def distanceMCS(matrix1, matrix2):
@@ -124,21 +124,34 @@ def distanceMMCS(matrix1, matrix2):
     return getSize(getMCS(matrix1, matrix2)) - getSize(getmcs(matrix1, matrix2))
 
 def distanceMMCSN(matrix1, matrix2):
-    return 1 - (getSize(getmcs(matrix1, matrix2))/max(getSize(getMCS(matrix1, matrix2))))
+    return 1 - (getSize(getmcs(matrix1, matrix2))/getSize(getMCS(matrix1, matrix2)))
 
 dictionary_1 = {}
 ##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nt.csv")
 ##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nt1.csv")
-###nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nodesTest2.csv")
+##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nodesTest2.csv")
 ##edges1 = loadEdges("et.csv")
 ##edges2 = loadEdges("et1.csv")
-###edges2 = loadEdges("edgesTest2.csv")
+##edges2 = loadEdges("edgesTest2.csv")
 ##mat1 = buildMatrix(dictionary_1, nodes1, edges1)
 ##mat2 = buildMatrix(dictionary_1, nodes2, edges2)
-###mat2 = buildMatrix(dictionary_1, nodes2, edges2)
+##mat2 = buildMatrix(dictionary_1, nodes2, edges2)
 ##mat3 = getMCS(mat1, mat2)
 ##print(getmcs(mat1, mat3))
 ##print("%.2f" % distanceMCS(mat1, mat2, mat3))
 ##print(distanceUGU(mat1, mat2, mat3))
-print("Requiero la importancia tambien")
-print("Hay dudas sobre el peso del grafo")
+##print("Requiero la importancia tambien")
+##print("Hay dudas sobre el peso del grafo")
+##
+##print("Usando distancia MCS")
+##print(getMedianGraph([mat1, mat2], distanceMCS))
+##print("Usando distancia WGU")
+##print(getMedianGraph([mat1, mat2], distanceWGU))
+##print("Usando distancia UGU")
+##print(getMedianGraph([mat1, mat2], distanceUGU))
+##print("Usando distancia MMCS")
+##print(getMedianGraph([mat1, mat2], distanceMMCS))
+##print("Usando distancia MMCSN")
+##print(getMedianGraph([mat1, mat2], distanceMMCSN))
+
+
