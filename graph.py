@@ -55,7 +55,7 @@ def buildMatrix(dictionary, nodes, edges):
                 real_j = dictionary[nodes[edges[k][1]]]
                 if i == edges[k][0] and j == edges[k][1]:
                     matrix_base[real_i][real_j] = edges[k][2]
-                    matrix_base[real_j][real_i] = edges[k][2]
+                    #matrix_base[real_j][real_i] = edges[k][2]
     return matrix_base
 
 def getmcs(matrix1, matrix2):
