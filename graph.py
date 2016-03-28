@@ -9,6 +9,7 @@ def isNumber(value):
 
 def loadNodes(id_value, dictionary, string):
     nodes = []
+    #times = []
     file_object = open(string, 'r')
     for line in file_object:
         temp_array = line.split(";")
@@ -18,6 +19,7 @@ def loadNodes(id_value, dictionary, string):
             dictionary[temp_array[1]] = id_value
             id_value += 1
         nodes.append(temp_array[1])
+        #times.append(temp_array[3])
     file_object.close()
     return nodes
 
@@ -45,9 +47,9 @@ def getAbsentNodes(dictionary, nodes):
 def buildMatrix(dictionary, nodes, edges):
     matrix_base = np.zeros((len(dictionary),len(dictionary)))
     absent_nodes = getAbsentNodes(dictionary, nodes)
-    rows = matrix_base.shape[0]
-    for i in range(rows):
-        for j in range(rows):
+    size = matrix_base.shape[0]
+    for i in range(size):
+        for j in range(size):
             if i in absent_nodes or j in absent_nodes:
                 matrix_base[i][j] = -1
             for k in range(len(edges)):
@@ -62,18 +64,16 @@ def getmcs(matrix1, matrix2):
     size = matrix1.shape[0]
     matrix_base = np.ones((size, size))
     matrix_base = np.multiply(-1, matrix_base)
-    rows = matrix_base.shape[0]
-    for i in range(rows):
-        for j in range(rows):
+    for i in range(size):
+        for j in range(size):
             matrix_base[i][j] = min(matrix1[i][j], matrix2[i][j])
     return matrix_base
 
 def getMCS(matrix1, matrix2):
     size = matrix1.shape[0]
     matrix_base = np.zeros((size, size))
-    rows = matrix_base.shape[0]
-    for i in range(rows):
-        for j in range(rows):
+    for i in range(size):
+        for j in range(size):
             max_val = max(matrix1[i][j], matrix2[i][j])
             if max_val == -1:
                 matrix_base[i][j] = 0
@@ -153,5 +153,13 @@ dictionary_1 = {}
 ##print(getMedianGraph([mat1, mat2], distanceMMCS))
 ##print("Usando distancia MMCSN")
 ##print(getMedianGraph([mat1, mat2], distanceMMCSN))
+##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nodesApp.csv")
+##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nodesAll.csv")
+##edges1 = loadEdges("edgesApp.csv")
+##edges2 = loadEdges("edgesAll.csv")
+##mat1 = buildMatrix(dictionary_1, nodes1, edges1)
+##mat2 = buildMatrix(dictionary_1, nodes2, edges2)
+##mat3 = getmcs(mat1, mat2)
+##print(mat3)
 
 
