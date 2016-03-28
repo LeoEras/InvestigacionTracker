@@ -51,7 +51,7 @@ def buildMatrix(dictionary, nodes, edges):
     for i in range(size):
         for j in range(size):
             if i in absent_nodes or j in absent_nodes:
-                matrix_base[i][j] = -1
+                matrix_base[i][j] = MIN_VALUE
             for k in range(len(edges)):
                 real_i = dictionary[nodes[edges[k][0]]]
                 real_j = dictionary[nodes[edges[k][1]]]
@@ -63,7 +63,7 @@ def buildMatrix(dictionary, nodes, edges):
 def getmcs(matrix1, matrix2):
     size = matrix1.shape[0]
     matrix_base = np.ones((size, size))
-    matrix_base = np.multiply(-1, matrix_base)
+    matrix_base = np.multiply(MIN_VALUE, matrix_base)
     for i in range(size):
         for j in range(size):
             matrix_base[i][j] = min(matrix1[i][j], matrix2[i][j])
@@ -75,7 +75,7 @@ def getMCS(matrix1, matrix2):
     for i in range(size):
         for j in range(size):
             max_val = max(matrix1[i][j], matrix2[i][j])
-            if max_val == -1:
+            if max_val == MIN_VALUE:
                 matrix_base[i][j] = 0
             else:
                 matrix_base[i][j] = max_val
@@ -88,7 +88,7 @@ def getSize(matrix):
     for i in range(num_nodes):
         for j in range(num_nodes):
             if i <= j:
-                if matrix[i][j] != -1:
+                if matrix[i][j] != MIN_VALUE:
                     acum = acum + matrix[i][j]
     invalid_nodes = 0
     for item in matrix[0]:
@@ -126,6 +126,7 @@ def distanceMMCS(matrix1, matrix2):
 def distanceMMCSN(matrix1, matrix2):
     return 1 - (getSize(getmcs(matrix1, matrix2))/getSize(getMCS(matrix1, matrix2)))
 
+MIN_VALUE = -100000
 dictionary_1 = {}
 ##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nt.csv")
 ##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nt1.csv")
@@ -160,6 +161,5 @@ dictionary_1 = {}
 ##mat1 = buildMatrix(dictionary_1, nodes1, edges1)
 ##mat2 = buildMatrix(dictionary_1, nodes2, edges2)
 ##mat3 = getmcs(mat1, mat2)
-##print(mat3)
 
 
