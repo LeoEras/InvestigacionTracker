@@ -1,4 +1,5 @@
 import numpy as np
+import datetime
 
 def isNumber(value):
     try:
@@ -9,7 +10,7 @@ def isNumber(value):
 
 def loadNodes(id_value, dictionary, string):
     nodes = []
-    #times = []
+    node_size = []
     file_object = open(string, 'r')
     for line in file_object:
         temp_array = line.split(";")
@@ -19,9 +20,9 @@ def loadNodes(id_value, dictionary, string):
             dictionary[temp_array[1]] = id_value
             id_value += 1
         nodes.append(temp_array[1])
-        #times.append(temp_array[3])
+        node_size.append(int(temp_array[3]))
     file_object.close()
-    return nodes
+    return nodes, node_size
 
 def loadEdges(string):
     edges = []
@@ -44,7 +45,7 @@ def getAbsentNodes(dictionary, nodes):
             absent_nodes.append(dictionary[item])
     return absent_nodes
 	
-def buildMatrix(dictionary, nodes, edges):
+def buildMatrix(dictionary, nodes, nodes_size, edges):
     matrix_base = np.zeros((len(dictionary),len(dictionary)))
     absent_nodes = getAbsentNodes(dictionary, nodes)
     size = matrix_base.shape[0]
@@ -53,11 +54,26 @@ def buildMatrix(dictionary, nodes, edges):
             if i in absent_nodes or j in absent_nodes:
                 matrix_base[i][j] = MIN_VALUE
             for k in range(len(edges)):
-                real_i = dictionary[nodes[edges[k][0]]]
-                real_j = dictionary[nodes[edges[k][1]]]
+                #edges[k] is an edge, the k-th edge.
+                #edges[k][n] is the n-th element of the k-th edge
+                #where n = {0, 1, 2}. 0: Source, 1: Destiny, 2: Weight.
+                #Here I look for the edge where i and j appears as source
+                #and destiny respectively.
                 if i == edges[k][0] and j == edges[k][1]:
+                    #Then I look for the node's name. nodes[edges[k][n]].
+                    #Finally I look for it's real value in the dictionary of
+                    #all the nodes out there. This happens beacause the graph1
+                    #doesn't know (and shouldn't really know) graph2's structure
+                    real_i = dictionary[nodes[edges[k][0]]]
+                    real_j = dictionary[nodes[edges[k][1]]]
                     matrix_base[real_i][real_j] = edges[k][2]
                     #matrix_base[real_j][real_i] = edges[k][2]
+    #Loading the weights of the nodes. If there's an arc, it will add with this
+    #new value.
+    for i in range(size):
+        if matrix_base[i][i] != MIN_VALUE:
+            if nodes_size:
+                matrix_base[i][i] += nodes_size.pop()
     return matrix_base
 
 def getmcs(matrix1, matrix2):
@@ -128,6 +144,9 @@ def distanceMMCSN(matrix1, matrix2):
 
 MIN_VALUE = -100000
 dictionary_1 = {}
+
+start = datetime.datetime.now()
+
 ##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nt.csv")
 ##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nt1.csv")
 ##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nodesTest2.csv")
@@ -154,12 +173,15 @@ dictionary_1 = {}
 ##print(getMedianGraph([mat1, mat2], distanceMMCS))
 ##print("Usando distancia MMCSN")
 ##print(getMedianGraph([mat1, mat2], distanceMMCSN))
-##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nodesApp.csv")
-##nodes2 = loadNodes(len(dictionary_1), dictionary_1, "nodesAll.csv")
+##nodes1, nsize1 = loadNodes(len(dictionary_1), dictionary_1, "nodesApp.csv")
+##nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodesAll.csv")
 ##edges1 = loadEdges("edgesApp.csv")
 ##edges2 = loadEdges("edgesAll.csv")
-##mat1 = buildMatrix(dictionary_1, nodes1, edges1)
-##mat2 = buildMatrix(dictionary_1, nodes2, edges2)
+##print(sum(nsize2))
+##mat1 = buildMatrix(dictionary_1, nodes1, nsize1, edges1)
+##mat2 = buildMatrix(dictionary_1, nodes2, nsize2, edges2)
 ##mat3 = getmcs(mat1, mat2)
+##print(getSize(mat2))
 
-
+finish = datetime.datetime.now()
+print(finish-start)
