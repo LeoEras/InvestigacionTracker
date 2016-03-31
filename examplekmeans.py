@@ -47,7 +47,7 @@ def isIsomorph(matrix1, matrix2):
             return False
     return True
 
-def kmeans(list_of_matrices, clusters, function_distance, mode="random"):
+def kmeans(list_of_matrices, clusters, function_distance, mode):
     available = [1 for value in range(clusters)]
     all_used = False
     list_of_median_graphs = [None for value in range(clusters)]
@@ -55,7 +55,6 @@ def kmeans(list_of_matrices, clusters, function_distance, mode="random"):
     membership = [-1 for value in range(len(list_of_matrices))]
     list_of_clusters = [[] for value in range(clusters)]
     list_distances = [0 for value in range(clusters)]
-    convergence_reached = False
     previous_list = [False for value in range(clusters)]
 
     if "f" in mode:
@@ -99,7 +98,6 @@ def kmeans(list_of_matrices, clusters, function_distance, mode="random"):
         for value in range(clusters):
             list_of_median_graphs[value] = getCentroid(list_of_clusters[value], function_distance)
 
-    #previous_median_graph_list = copy.deepcopy(list_of_median_graphs)
     while True:
         previous_median_graph_list = copy.deepcopy(list_of_median_graphs)
 
