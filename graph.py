@@ -140,7 +140,7 @@ def isIsomorph(matrix1, matrix2):
 def allSame(items):
     return all(x == items[0] for x in items)
 
-def kmeans(list_of_matrices, clusters, function_distance):
+def kmeans(list_of_matrices, clusters, function_distance, mode):
     available = [1 for value in range(clusters)]
     all_used = False
     list_of_median_graphs = [None for value in range(clusters)]
@@ -148,29 +148,48 @@ def kmeans(list_of_matrices, clusters, function_distance):
     membership = [-1 for value in range(len(list_of_matrices))]
     list_of_clusters = [[] for value in range(clusters)]
     list_distances = [0 for value in range(clusters)]
-    convergence_reached = False
     previous_list = [False for value in range(clusters)]
 
-    #Assign each item in the list to a random cluster
-    for index in range(len(list_of_matrices)):
-        rgn = randint(0, clusters - 1)
-        availability = available[rgn]
-        if not all_used:
-            while availability != 1:
-                availability = available[(rgn + 1)%clusters]
-                if availability != 1:
-                    rgn = randint(0, clusters - 1)
-                    availability = available[rgn]
-                else:
-                    rgn = (rgn + 1)%clusters
-        membership[index] = rgn
-        list_of_clusters[rgn].append(list_of_matrices[index])
-        available[rgn] = 0
-        all_used = allSame(available)
+    if "f" in mode:
+        #"Forgy" mode
+        #Selecting random items as means of the clusters
+        for value in range(clusters):
+            selected = randint(0, len(list_of_matrices) - 1)
+            while membership[selected] != -1:
+                selected = randint(0, len(list_of_matrices))
+            membership[selected] = value
+            list_of_median_graphs[value] = list_of_matrices[selected]
 
-    #Determining the median of each cluster
-    for value in range(clusters):
-        list_of_median_graphs[value] = getMedianGraph(list_of_clusters[value], function_distance)
+        #Calculating distances and reassign to clusters
+        for index in range(len(list_of_matrices)):
+            for value in range(clusters):
+                list_distances[value] = function_distance(list_of_matrices[index], list_of_median_graphs[value])
+
+            new_cluster = list_distances.index(min(list_distances))
+            list_of_clusters[new_cluster].append(list_of_matrices[index])
+            membership[index] = new_cluster
+    else:
+        #Random mode
+        #Assign each item in the list to a random cluster
+        for index in range(len(list_of_matrices)):
+            rgn = randint(0, clusters - 1)
+            availability = available[rgn]
+            if not all_used:
+                while availability != 1:
+                    availability = available[(rgn + 1)%clusters]
+                    if availability != 1:
+                        rgn = randint(0, clusters - 1)
+                        availability = available[rgn]
+                    else:
+                        rgn = (rgn + 1)%clusters
+            membership[index] = rgn
+            list_of_clusters[rgn].append(list_of_matrices[index])
+            available[rgn] = 0
+            all_used = allSame(available)
+
+        #Determining the median of each cluster
+        for value in range(clusters):
+            list_of_median_graphs[value] = getMedianGraph(list_of_clusters[value], function_distance)
 
     while True:
         previous_median_graph_list = copy.deepcopy(list_of_median_graphs)
@@ -266,8 +285,29 @@ start = datetime.datetime.now()
 ##    matrix = buildMatrix(dictionary_1, nodes[i-1], nsizes[i-1], edges[i-1])
 ##    matrices.append(matrix)
 ##
-##mg, mem = kmeans(matrices, 2, distanceMCS)
+##mg, mem = kmeans(matrices, 2, distanceMCS, "r")
 ##print(mem)
+##nodes1, nsize1 = loadNodes(len(dictionary_1), dictionary_1, "nodes_total.csv")
+##edges1 = loadEdges("edges_total.csv")
+##nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodes_est1.csv")
+##edges2 = loadEdges("edges_est1.csv")
+##nodes3, nsize3 = loadNodes(len(dictionary_1), dictionary_1, "nodes_est2.csv")
+##edges3 = loadEdges("edges_est2.csv")
+##mat1 = buildMatrix(dictionary_1, nodes1, nsize1, edges1)
+##mat2 = buildMatrix(dictionary_1, nodes2, nsize2, edges2)
+##mat3 = buildMatrix(dictionary_1, nodes3, nsize3, edges3)
+##
+##print("Usando distancia MCS")
+##print(distanceMCS(mat1, mat2))
+##print(distanceMCS(mat1, mat3))
+##
+##print("Usando distancia UGU")
+##print(distanceUGU(mat1, mat2))
+##print(distanceUGU(mat1, mat3))
+##
+##print("Usando distancia WGU")
+##print(distanceWGU(mat1, mat2))
+##print(distanceWGU(mat1, mat3))
 
 finish = datetime.datetime.now()
 print(finish-start)
