@@ -47,7 +47,7 @@ def isIsomorph(matrix1, matrix2):
             return False
     return True
 
-def kmeans(list_of_matrices, clusters, function_distance):
+def kmeans(list_of_matrices, clusters, function_distance, mode="random"):
     available = [1 for value in range(clusters)]
     all_used = False
     list_of_median_graphs = [None for value in range(clusters)]
@@ -58,26 +58,46 @@ def kmeans(list_of_matrices, clusters, function_distance):
     convergence_reached = False
     previous_list = [False for value in range(clusters)]
 
-    #Assign each item in the list to a random cluster
-    for index in range(len(list_of_matrices)):
-        rgn = randint(0, clusters - 1)
-        availability = available[rgn]
-        if not all_used:
-            while availability != 1:
-                availability = available[(rgn + 1)%clusters]
-                if availability != 1:
-                    rgn = randint(0, clusters - 1)
-                    availability = available[rgn]
-                else:
-                    rgn = (rgn + 1)%clusters
-        membership[index] = rgn
-        list_of_clusters[rgn].append(list_of_matrices[index])
-        available[rgn] = 0
-        all_used = allSame(available)
+    if "f" in mode:
+        #"Forgy" mode
+        #Selecting random items as means of the clusters
+        for value in range(clusters):
+            selected = randint(0, len(list_of_matrices) - 1)
+            while membership[selected] != -1:
+                selected = randint(0, len(list_of_matrices))
+            membership[selected] = value
+            list_of_median_graphs[value] = list_of_matrices[selected]
 
-    #Determining the median of each cluster
-    for value in range(clusters):
-        list_of_median_graphs[value] = getCentroid(list_of_clusters[value], function_distance)
+        #Calculating distances and reassign to clusters
+        for index in range(len(list_of_matrices)):
+            for value in range(clusters):
+                list_distances[value] = function_distance(list_of_matrices[index], list_of_median_graphs[value])
+
+            new_cluster = list_distances.index(min(list_distances))
+            list_of_clusters[new_cluster].append(list_of_matrices[index])
+            membership[index] = new_cluster
+    else:
+        #Random mode
+        #Assign each item in the list to a random cluster
+        for index in range(len(list_of_matrices)):
+            rgn = randint(0, clusters - 1)
+            availability = available[rgn]
+            if not all_used:
+                while availability != 1:
+                    availability = available[(rgn + 1)%clusters]
+                    if availability != 1:
+                        rgn = randint(0, clusters - 1)
+                        availability = available[rgn]
+                    else:
+                        rgn = (rgn + 1)%clusters
+            membership[index] = rgn
+            list_of_clusters[rgn].append(list_of_matrices[index])
+            available[rgn] = 0
+            all_used = allSame(available)
+
+        #Determining the median of each cluster
+        for value in range(clusters):
+            list_of_median_graphs[value] = getCentroid(list_of_clusters[value], function_distance)
 
     #previous_median_graph_list = copy.deepcopy(list_of_median_graphs)
     while True:
@@ -119,6 +139,7 @@ start = datetime.datetime.now()
 ##colors = colors.cnames.keys()
 ##points = int(raw_input("Points: "))
 ##num_c = int(raw_input("Clusters: "))
+##mode = raw_input("K means mode: ")
 ##
 ##o = []
 ##radius = [0 for value in range(num_c)]
@@ -126,24 +147,26 @@ start = datetime.datetime.now()
 ##    o.append([randint(0,100), randint(0,100)])
 ##    radius[i] = randint(1, 10)
 ##
-##for i in range(1, points):
-##    for j in range(num_c):
-##        if i > j * int(points/num_c) and i <= (j + 1) * int(points/num_c):
-##            c = generateCoordenates2(o[j][0], o[j][1], radius[j])
-##            while c[0] == -1:
-##                c = generateCoordenates2(o[j][0], o[j][1], radius[j])
-##            coor.append(c)
-####
-####o = [randint(0,100), randint(0,100)]
-####radius = randint(1, 100)
-####
 ####for i in range(1, points):
-####    c = generateCoordenates2(o[0], o[1], radius)
-####    while c[0] == -1:
-####        c = generateCoordenates2(o[0], o[1], radius)
-####    coor.append(c)
-####            
-##mg, mem = kmeans(coor, num_c, distance)
+####    for j in range(num_c):
+####        if i > j * int(points/num_c) and i <= (j + 1) * int(points/num_c):
+######            c = generateCoordenates(randint(1, 100), randint(1, 100), randint(1, 100), randint(1, 100))
+####            c = generateCoordenates2(o[j][0], o[j][1], radius[j])
+####            while c[0] == -1:
+####                c = generateCoordenates2(o[j][0], o[j][1], radius[j])
+####            coor.append(c)
+##
+##o = [randint(0,100), randint(0,100)]
+##radius = randint(1, 100)
+##
+##for i in range(1, points):
+####    c = generateCoordenates(0, 100, 0, 100)
+##    c = generateCoordenates2(o[0], o[1], radius)
+##    while c[0] == -1:
+##        c = generateCoordenates2(o[0], o[1], radius)
+##    coor.append(c)
+##            
+##mg, mem = kmeans(coor, num_c, distance, mode)
 ##
 ##cx = [[] for item in range(num_c)]
 ##cy = [[] for item in range(num_c)]
