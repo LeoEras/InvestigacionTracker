@@ -97,7 +97,7 @@ def kmeans(list_of_matrices, clusters, function_distance, mode):
         #Determining the median of each cluster
         for value in range(clusters):
             list_of_median_graphs[value] = getCentroid(list_of_clusters[value], function_distance)
-
+        
     while True:
         previous_median_graph_list = copy.deepcopy(list_of_median_graphs)
 
@@ -106,15 +106,15 @@ def kmeans(list_of_matrices, clusters, function_distance, mode):
         for index in range(len(list_of_matrices)):
             for value in range(clusters):
                 list_distances[value] = function_distance(list_of_matrices[index], list_of_median_graphs[value])
-
+                
             new_cluster = list_distances.index(min(list_distances))
             list_of_clusters[new_cluster].append(list_of_matrices[index])
             membership[index] = new_cluster
-            
+
         #Determining the median of each cluster
         for value in range(clusters):
             list_of_median_graphs[value] = getCentroid(list_of_clusters[value], function_distance)    
-
+        
         for value in range(clusters):
             previous_list[value] = isIsomorph(previous_median_graph_list[value], list_of_median_graphs[value])
         
@@ -145,24 +145,24 @@ start = datetime.datetime.now()
 ##    o.append([randint(0,100), randint(0,100)])
 ##    radius[i] = randint(1, 10)
 ##
-####for i in range(1, points):
-####    for j in range(num_c):
-####        if i > j * int(points/num_c) and i <= (j + 1) * int(points/num_c):
-######            c = generateCoordenates(randint(1, 100), randint(1, 100), randint(1, 100), randint(1, 100))
-####            c = generateCoordenates2(o[j][0], o[j][1], radius[j])
-####            while c[0] == -1:
-####                c = generateCoordenates2(o[j][0], o[j][1], radius[j])
-####            coor.append(c)
-##
-##o = [randint(0,100), randint(0,100)]
-##radius = randint(1, 100)
-##
 ##for i in range(1, points):
-####    c = generateCoordenates(0, 100, 0, 100)
-##    c = generateCoordenates2(o[0], o[1], radius)
-##    while c[0] == -1:
-##        c = generateCoordenates2(o[0], o[1], radius)
-##    coor.append(c)
+##    for j in range(num_c):
+##        if i > j * int(points/num_c) and i <= (j + 1) * int(points/num_c):
+####            c = generateCoordenates(randint(1, 100), randint(1, 100), randint(1, 100), randint(1, 100))
+##            c = generateCoordenates2(o[j][0], o[j][1], radius[j])
+##            while c[0] == -1:
+##                c = generateCoordenates2(o[j][0], o[j][1], radius[j])
+##            coor.append(c)
+####
+####o = [randint(0,100), randint(0,100)]
+####radius = randint(1, 100)
+####
+####for i in range(1, points):
+######    c = generateCoordenates(0, 100, 0, 100)
+####    c = generateCoordenates2(o[0], o[1], radius)
+####    while c[0] == -1:
+####        c = generateCoordenates2(o[0], o[1], radius)
+####    coor.append(c)
 ##            
 ##mg, mem = kmeans(coor, num_c, distance, mode)
 ##
@@ -183,43 +183,100 @@ start = datetime.datetime.now()
 ##plt.scatter([mg[k][0] for k in range(num_c)], [mg[k][1] for k in range(num_c)], color="gold")
 ##plt.show()
 ##
-####coor = []
-####colors = colors.cnames.keys()
-####points = int(raw_input("Points: "))
-####groups = int(raw_input("Groups: "))
-####num_c = int(raw_input("Clusters: "))
-####
-####o = []
-####radius = [0 for value in range(groups)]
-####for i in range(groups):
-####    o.append([randint(0,100), randint(0,100)])
-####    radius[i] = randint(1, 50)
-####
-####for i in range(1, points):
-####    for j in range(groups):
-####        if i > j * int(points/groups) and i <= (j + 1) * int(points/groups):
-####            c = generateCoordenates2(o[j][0], o[j][1], radius[j])
-####            while c[0] == -1:
-####                c = generateCoordenates2(o[j][0], o[j][1], radius[j])
-####            coor.append(c)
-####
-####mg, mem = kmeans(coor, num_c, distance)
-####
-####cx = [[] for item in range(num_c)]
-####cy = [[] for item in range(num_c)]
-####
-####for i in range(points):
-####    x = coor[i - 1][0]
-####    y = coor[i - 1][1]
-####    for w in range(num_c):
-####        if mem[i - 1] == w:
-####            cx[w].append(x)
-####            cy[w].append(y)
-####        
-####for k in range(num_c):
-####    plt.scatter(cx[k], cy[k], color=colors[randint(0, len(colors))])
-####
-####plt.scatter([mg[k][0] for k in range(num_c)], [mg[k][1] for k in range(num_c)], color="gold")
-####plt.show()
+##coor = []
+##colors = colors.cnames.keys()
+##points = int(raw_input("Points: "))
+##groups = int(raw_input("Groups: "))
+##num_c = int(raw_input("Clusters: "))
+##
+##o = []
+##radius = [0 for value in range(groups)]
+##for i in range(groups):
+##    o.append([randint(0,100), randint(0,100)])
+##    radius[i] = randint(1, 50)
+##
+##for i in range(1, points):
+##    for j in range(groups):
+##        if i > j * int(points/groups) and i <= (j + 1) * int(points/groups):
+##            c = generateCoordenates2(o[j][0], o[j][1], radius[j])
+##            while c[0] == -1:
+##                c = generateCoordenates2(o[j][0], o[j][1], radius[j])
+##            coor.append(c)
+##
+##mg, mem = kmeans(coor, num_c, distance, "s")
+##
+##cx = [[] for item in range(num_c)]
+##cy = [[] for item in range(num_c)]
+##
+##for i in range(points):
+##    x = coor[i - 1][0]
+##    y = coor[i - 1][1]
+##    for w in range(num_c):
+##        if mem[i - 1] == w:
+##            cx[w].append(x)
+##            cy[w].append(y)
+##        
+##for k in range(num_c):
+##    plt.scatter(cx[k], cy[k], color=colors[randint(0, len(colors))])
+##
+##plt.scatter([mg[k][0] for k in range(num_c)], [mg[k][1] for k in range(num_c)], color="gold")
+##plt.show()
+##
+##fig = plt.figure()
+##ax = fig.gca()
+##fig.show()
+##
+##x = []
+##y = []
+##c = []
+##coor = []
+##colors = colors.cnames.keys()
+##ax = fig.add_subplot(111)
+##ax.set_xlim([-100, 100])
+##ax.set_ylim([-100, 100])
+##
+##def onclick(event):
+##    if event.button != 1:
+##        fig.canvas.mpl_disconnect(cid)
+##        plt.close()
+##    else:
+##        for i in range(1, 75):
+##            c = generateCoordenates2(event.xdata, event.ydata, 20)
+##            while c[0] == -1:
+##                c = generateCoordenates2(event.xdata, event.ydata, 20)
+##            coor.append(c)
+##            x.append(event.xdata)
+##            y.append(event.ydata)
+##            plt.scatter(c[0], c[1], color="blue")
+##        fig.canvas.draw()
+##    
+##cid = fig.canvas.mpl_connect('button_press_event', onclick)
+##plt.show()
+##
+##num_c = int(raw_input("Clusters: "))
+##mode = raw_input("K means mode: ")
+##
+##for points in range(len(x)):
+##    coor.append([x[points], y[points]])
+##
+##mg, mem = kmeans(coor, num_c, distance, "s")
+##
+##cx = [[] for item in range(num_c)]
+##cy = [[] for item in range(num_c)]
+##
+##for i in range(len(x)):
+##    x = coor[i - 1][0]
+##    y = coor[i - 1][1]
+##    for w in range(num_c):
+##        if mem[i - 1] == w:
+##            cx[w].append(x)
+##            cy[w].append(y)
+##
+##for k in range(num_c):
+##    plt.scatter(cx[k], cy[k], color=colors[randint(0, len(colors))])
+##
+##plt.scatter([mg[k][0] for k in range(num_c)], [mg[k][1] for k in range(num_c)], color="gold")
+##plt.show()
+
 finish = datetime.datetime.now()
 print(finish-start)
