@@ -97,10 +97,10 @@ def kmeans(list_of_matrices, clusters, function_distance, mode):
         #Determining the median of each cluster
         for value in range(clusters):
             list_of_median_graphs[value] = getCentroid(list_of_clusters[value], function_distance)
-        
+
     while True:
         previous_median_graph_list = copy.deepcopy(list_of_median_graphs)
-
+         
         #Calculating distances and reassign to clusters
         list_of_clusters = [[] for value in range(clusters)]
         for index in range(len(list_of_matrices)):
@@ -113,11 +113,14 @@ def kmeans(list_of_matrices, clusters, function_distance, mode):
 
         #Determining the median of each cluster
         for value in range(clusters):
-            list_of_median_graphs[value] = getCentroid(list_of_clusters[value], function_distance)    
-        
+            try:
+                list_of_median_graphs[value] = getCentroid(list_of_clusters[value], function_distance)
+            except:
+                pass
+            
         for value in range(clusters):
             previous_list[value] = isIsomorph(previous_median_graph_list[value], list_of_median_graphs[value])
-        
+
         if any(previous_list):
             break
     return list_of_median_graphs, membership
@@ -153,7 +156,7 @@ start = datetime.datetime.now()
 ##            while c[0] == -1:
 ##                c = generateCoordenates2(o[j][0], o[j][1], radius[j])
 ##            coor.append(c)
-####
+##
 ####o = [randint(0,100), randint(0,100)]
 ####radius = randint(1, 100)
 ####
@@ -163,7 +166,7 @@ start = datetime.datetime.now()
 ####    while c[0] == -1:
 ####        c = generateCoordenates2(o[0], o[1], radius)
 ####    coor.append(c)
-##            
+####            
 ##mg, mem = kmeans(coor, num_c, distance, mode)
 ##
 ##cx = [[] for item in range(num_c)]
@@ -240,10 +243,10 @@ start = datetime.datetime.now()
 ##        fig.canvas.mpl_disconnect(cid)
 ##        plt.close()
 ##    else:
-##        for i in range(1, 75):
-##            c = generateCoordenates2(event.xdata, event.ydata, 20)
+##        for i in range(1, 300):
+##            c = generateCoordenates2(event.xdata, event.ydata, 100)
 ##            while c[0] == -1:
-##                c = generateCoordenates2(event.xdata, event.ydata, 20)
+##                c = generateCoordenates2(event.xdata, event.ydata, 100)
 ##            coor.append(c)
 ##            x.append(event.xdata)
 ##            y.append(event.ydata)
@@ -259,7 +262,7 @@ start = datetime.datetime.now()
 ##for points in range(len(x)):
 ##    coor.append([x[points], y[points]])
 ##
-##mg, mem = kmeans(coor, num_c, distance, "s")
+##mg, mem = kmeans(coor, num_c, distance, mode)
 ##
 ##cx = [[] for item in range(num_c)]
 ##cy = [[] for item in range(num_c)]
