@@ -191,6 +191,7 @@ start = datetime.datetime.now()
 ##points = int(raw_input("Points: "))
 ##groups = int(raw_input("Groups: "))
 ##num_c = int(raw_input("Clusters: "))
+##mode = raw_input("Mode: ")
 ##
 ##o = []
 ##radius = [0 for value in range(groups)]
@@ -198,7 +199,7 @@ start = datetime.datetime.now()
 ##    o.append([randint(0,100), randint(0,100)])
 ##    radius[i] = randint(1, 50)
 ##
-##for i in range(1, points):
+##for i in range(points):
 ##    for j in range(groups):
 ##        if i > j * int(points/groups) and i <= (j + 1) * int(points/groups):
 ##            c = generateCoordenates2(o[j][0], o[j][1], radius[j])
@@ -206,16 +207,16 @@ start = datetime.datetime.now()
 ##                c = generateCoordenates2(o[j][0], o[j][1], radius[j])
 ##            coor.append(c)
 ##
-##mg, mem = kmeans(coor, num_c, distance, "s")
+##mg, mem = kmeans(coor, num_c, distance, mode)
 ##
 ##cx = [[] for item in range(num_c)]
 ##cy = [[] for item in range(num_c)]
 ##
-##for i in range(points):
-##    x = coor[i - 1][0]
-##    y = coor[i - 1][1]
+##for i in range(len(coor)):
+##    x = coor[i][0]
+##    y = coor[i][1]
 ##    for w in range(num_c):
-##        if mem[i - 1] == w:
+##        if mem[i] == w:
 ##            cx[w].append(x)
 ##            cy[w].append(y)
 ##        
