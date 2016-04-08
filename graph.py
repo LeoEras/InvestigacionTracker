@@ -38,7 +38,7 @@ def loadEdges(string):
 	#edge = (origin_id, destiny_id, weight)
         edges.append(edge)
     file_object.close()
-    return edges
+    return sorted(edges)
 
 def getAbsentNodes(dictionary, nodes):
     absent_nodes = []
@@ -66,10 +66,13 @@ def buildMatrix(dictionary, nodes, nodes_size, edges):
                     #Finally I look for it's real value in the dictionary of
                     #all the nodes out there. This happens beacause the graph1
                     #doesn't know (and shouldn't really know) graph2's structure
-                    real_i = dictionary[nodes[edges[k][0]]]
-                    real_j = dictionary[nodes[edges[k][1]]]
+                    real_i = dictionary[nodes[edges[k][0] - 1]]
+                    real_j = dictionary[nodes[edges[k][1] - 1]]
                     matrix_base[real_i][real_j] = edges[k][2]
                     #matrix_base[real_j][real_i] = edges[k][2]
+                    continue
+                else:
+                    continue
     #Loading the weights of the nodes. If there's an arc, it will add with this
     #new value.
     for i in range(size):
@@ -232,6 +235,7 @@ def distanceMMCSN(matrix1, matrix2):
 MIN_VALUE = -1
 dictionary_1 = {}
 
+zero = datetime.datetime.now()
 start = datetime.datetime.now()
 
 ##nodes1 = loadNodes(len(dictionary_1), dictionary_1, "nt.csv")
@@ -287,27 +291,80 @@ start = datetime.datetime.now()
 ##
 ##mg, mem = kmeans(matrices, 2, distanceMCS, "r")
 ##print(mem)
+##
+##file_object = open("resultsall.txt", 'w')
+##file_object.write("Inicio\n")
 ##nodes1, nsize1 = loadNodes(len(dictionary_1), dictionary_1, "nodes_total.csv")
 ##edges1 = loadEdges("edges_total.csv")
-##nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodes_est1.csv")
-##edges2 = loadEdges("edges_est1.csv")
-##nodes3, nsize3 = loadNodes(len(dictionary_1), dictionary_1, "nodes_est2.csv")
-##edges3 = loadEdges("edges_est2.csv")
+##nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodes_allison.csv")
+##edges2 = loadEdges("edges_allison.csv")
+##nodes3, nsize3 = loadNodes(len(dictionary_1), dictionary_1, "nodes_jimmy.csv")
+##edges3 = loadEdges("edges_jimmy.csv")
+##nodes4, nsize4 = loadNodes(len(dictionary_1), dictionary_1, "nodes_lenin.csv")
+##edges4 = loadEdges("edges_lenin.csv")
+##nodes5, nsize5 = loadNodes(len(dictionary_1), dictionary_1, "nodes_milton.csv")
+##edges5 = loadEdges("edges_milton.csv")
+##nodes6, nsize6= loadNodes(len(dictionary_1), dictionary_1, "nodes_nicole.csv")
+##edges6 = loadEdges("edges_nicole.csv")
+##finish = datetime.datetime.now()
+##file_object.write(str(finish-start) + "\n")
+##file_object.write("CONSTRUYENDO MATRIZ 1 TOTAL\n")
+##start = datetime.datetime.now()
 ##mat1 = buildMatrix(dictionary_1, nodes1, nsize1, edges1)
+##finish = datetime.datetime.now()
+##file_object.write(str(finish-start) + "\n")
+##file_object.write("CONSTRUYENDO MATRIZ 2 ALLISON\n")
+##start = datetime.datetime.now()
 ##mat2 = buildMatrix(dictionary_1, nodes2, nsize2, edges2)
+##finish = datetime.datetime.now()
+##file_object.write(str(finish-start) + "\n")
+##file_object.write("CONSTRUYENDO MATRIZ 3 JIMMY\n")
+##start = datetime.datetime.now()
 ##mat3 = buildMatrix(dictionary_1, nodes3, nsize3, edges3)
+##finish = datetime.datetime.now()
+##file_object.write(str(finish-start) + "\n")
+##file_object.write("CONSTRUYENDO MATRIZ 4 LENIN\n")
+##start = datetime.datetime.now()
+##mat4 = buildMatrix(dictionary_1, nodes4, nsize4, edges4)
+##finish = datetime.datetime.now()
+##file_object.write(str(finish-start) + "\n")
+##file_object.write("CONSTRUYENDO MATRIZ 5 MILTON\n")
+##start = datetime.datetime.now()
+##mat5 = buildMatrix(dictionary_1, nodes5, nsize5, edges5)
+##finish = datetime.datetime.now()
+##file_object.write(str(finish-start) + "\n")
+##file_object.write("CONSTRUYENDO MATRIZ 5 NICOLE\n")
+##start = datetime.datetime.now()
+##mat6 = buildMatrix(dictionary_1, nodes6, nsize6, edges6)
+##finish = datetime.datetime.now()
+##file_object.write(str(finish-start) + "\n")
 ##
-##print("Usando distancia MCS")
-##print(distanceMCS(mat1, mat2))
-##print(distanceMCS(mat1, mat3))
+##file_object.write("Usando distancia MCS \n")
+##file_object.write(str(distanceMCS(mat1, mat1)) + "\n")
+##file_object.write(str(distanceMCS(mat1, mat2)) + "\n")
+##file_object.write(str(distanceMCS(mat1, mat3)) + "\n")
+##file_object.write(str(distanceMCS(mat1, mat4)) + "\n")
+##file_object.write(str(distanceMCS(mat1, mat5)) + "\n")
+##file_object.write(str(distanceMCS(mat1, mat6)) + "\n")
 ##
-##print("Usando distancia UGU")
-##print(distanceUGU(mat1, mat2))
-##print(distanceUGU(mat1, mat3))
+##file_object.write("Usando distancia UGU \n")
+##file_object.write(str(distanceUGU(mat1, mat1)) + "\n")
+##file_object.write(str(distanceUGU(mat1, mat2)) + "\n")
+##file_object.write(str(distanceUGU(mat1, mat3)) + "\n")
+##file_object.write(str(distanceUGU(mat1, mat4)) + "\n")
+##file_object.write(str(distanceUGU(mat1, mat5)) + "\n")
+##file_object.write(str(distanceUGU(mat1, mat6)) + "\n")
 ##
-##print("Usando distancia WGU")
-##print(distanceWGU(mat1, mat2))
-##print(distanceWGU(mat1, mat3))
-
+##file_object.write("Usando distancia WGU \n")
+##file_object.write(str(distanceWGU(mat1, mat1)) + "\n")
+##file_object.write(str(distanceWGU(mat1, mat2)) + "\n")
+##file_object.write(str(distanceWGU(mat1, mat3)) + "\n")
+##file_object.write(str(distanceWGU(mat1, mat4)) + "\n")
+##file_object.write(str(distanceWGU(mat1, mat5)) + "\n")
+##file_object.write(str(distanceWGU(mat1, mat6)) + "\n")
+##
+##finish = datetime.datetime.now()
+##file_object.write(str(finish-zero) + "\n")
+##file_object.close()
 finish = datetime.datetime.now()
 print(finish-start)
