@@ -1,0 +1,19 @@
+####################### 1000 tests ############################
+Test with Vary-Density, forgy K-means
+Average total correct matches of 150 points
+Average total = 0.919593333333
+
+Average correct matches per cluster
+Cluster 1 = 0.96968
+Cluster 2 = 0.88852
+Cluster 3 = 0.90058
+
+
+Test with Vary-Density, random K-means
+Average total correct matches of 150 points
+Average total = 0.92118
+
+Average correct matches per cluster
+Cluster 1 = 0.96772
+Cluster 2 = 0.89232
+Cluster 3 = 0.9035
