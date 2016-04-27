@@ -1,0 +1,19 @@
+####################### 1000 tests ############################
+Test with Mouse, forgy K-means
+Average total correct matches of 490 points
+Average total = 0.815636734694
+
+Average correct matches per cluster
+Head cluster = 0.704731034483
+Left Ear cluster = 0.97905
+Right Ear cluster = 0.97385
+
+
+Test with Mouse, random K-means
+Average total correct matches of 490 points
+Average total = 0.810695918367
+
+Average correct matches per cluster
+Head cluster = 0.691865517241
+Left Ear cluster = 0.9892
+Right Ear cluster = 0.9768
