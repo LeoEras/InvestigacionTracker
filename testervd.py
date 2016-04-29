@@ -2,14 +2,6 @@ import examplekmeans as km
 import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 from random import randint
-
-def translate(fake, value, array):
-    if fake == 0:
-        return cpr(0, 290, value, array)
-    elif fake == 1:
-        return cpr(290, 390, value, array)
-    elif fake == 2:
-        return cpr(390, 490, value, array)
     
 def test(fake, value, arr):
     result = []
@@ -45,22 +37,18 @@ def cpr(start, end, value, arr):
 f = file("vary-density.csv", "r")
 parse = ""
 coor = []
-blong = []
 iden = 1
 for line in f:
     parse = line.split(" ")
     try:
-        if "1" in parse[2]:
+        if "Cluster1" in parse[2]:
             coor.append([float(parse[0]), float(parse[1]), iden, 0])
-            blong.append(0)
             iden = iden + 1
-        elif "2" in parse[2]:
+        elif "Cluster2" in parse[2]:
             coor.append([float(parse[0]), float(parse[1]), iden, 1])
-            blong.append(1)
             iden = iden + 1
-        elif "3" in parse[2]:
+        elif "Cluster3" in parse[2]:
             coor.append([float(parse[0]), float(parse[1]), iden, 2])
-            blong.append(2)
             iden = iden + 1
     except:
         continue
