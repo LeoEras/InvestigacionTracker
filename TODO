@@ -6,4 +6,5 @@ TO DO:
 5.- Lectura de libro para investigación. (Completo)
 6.- Agregar el tiempo como parte de los nodos, usarlo para medir tamaño de un grafo. (Completo)
 7.- Implementar algoritmo kmeans. (Completo)
-8.- Implementar algoritmo cmeans.
+8.- Implementar algoritmo cmeans. (Completo)
+9.- Nuevo requerimiento: gráficas para visión de actividad, muy similares a reg.py
