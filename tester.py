@@ -2,15 +2,7 @@ import examplekmeans as km
 import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 from random import randint
-
-def translate(fake, value, array):
-    if fake == 0:
-        return cpr(0, 290, value, array)
-    elif fake == 1:
-        return cpr(290, 390, value, array)
-    elif fake == 2:
-        return cpr(390, 490, value, array)
-    
+  
 def test(fake, value, arr):
     result = []
     if fake == 0:
@@ -45,7 +37,6 @@ def cpr(start, end, value, arr):
 f = file("mouse.csv", "r")
 parse = ""
 coor = []
-blong = []
 count_mouse = [290, 100, 100, 10]
 iden = 1
 for line in f:
@@ -53,19 +44,15 @@ for line in f:
     try:
         if "Head" in parse[2]:
             coor.append([float(parse[0]), float(parse[1]), iden, 0])
-            blong.append(0)
             iden = iden + 1
         elif "Ear_l" in parse[2]:
             coor.append([float(parse[0]), float(parse[1]), iden, 1])
-            blong.append(1)
             iden = iden + 1
         elif "Ear_r" in parse[2]:
             coor.append([float(parse[0]), float(parse[1]), iden, 2])
-            blong.append(2)
             iden = iden + 1
         elif "Noi" in parse[2]:
             coor.append([float(parse[0]), float(parse[1]), iden, 3])
-            blong.append(3)
     except:
         continue
 f.close()
