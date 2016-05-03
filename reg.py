@@ -41,21 +41,25 @@ def findItems(name, item_type, date_start, date_end):
 
 def graph(name, item_type, input_scale, date_start, date_end):
     dictionary = {}
-    for item in findItems(name, item_type, date_start, date_end):
-        item[0] = depurate(item[0])
-        if date_start == date_end:
+    item_list = findItems(name, item_type, date_start, date_end)
+    if date_start == date_end:
+        for item in item_list:
+            item[0] = depurate(item[0])    
             if str(item[0]) not in dictionary:
                 dictionary[str(item[0])] = item[5]
             else:
                 dictionary[str(item[0])] += item[5]
-        else:
+    else:
+        for item in item_list:
+            item[1] = depurate(item[1])
             if str(item[1]) not in dictionary:
                 dictionary[str(item[1])] = item[5]
             else:
                 dictionary[str(item[1])] += item[5]
+            
     x_axis = range(1, len(dictionary.keys()) + 1)
-    fig = plt.figure(name + ": tiempo de uso por dia")
     y_axis = []
+    fig = plt.figure(name + ": tiempo de uso por dia")
     for key in sorted(dictionary.keys()):
         y_axis.append(int(dictionary[key].seconds))
     plt.bar(x_axis, y_axis, align='center')
@@ -65,7 +69,6 @@ def graph(name, item_type, input_scale, date_start, date_end):
     plt.show()
 
 def onclick(event):
-    #print ('button=%d, x=%d, y=%d, xdata=%f, ydata=%f'%(event.button, event.x, event.y, event.xdata, event.ydata))
     if event.button == 1 and event.dblclick:
         name = getNameFromBar(event.xdata, event.ydata, dictionary_items)
         if name:
@@ -102,7 +105,6 @@ input_start_date = "2016-01-01"
 input_end_date = "2020-01-01"
 input_scale = 3600
 filters = []
-#draw = ""
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
@@ -111,7 +113,6 @@ if len(sys.argv) > 1 and len(sys.argv) == 5:
     input_start_date = str(sys.argv[2])
     input_end_date = str(sys.argv[3])
     input_scale = int(str(sys.argv[4]))
-    #draw = str(sys.argv[5])
 else:
     print("Error al leer parametros")
     print("Trabajando con valores predeterminados")
@@ -173,31 +174,16 @@ elif item_type == "All":
 
 if input_start_date == input_end_date:
     fig = plt.figure(title + " durante el dia " + input_start_date)
-    y = [int(item.seconds) for item in dictionary_items.values()]
-    plt.bar(x, y, align='center')
-    cid = fig.canvas.mpl_connect('button_press_event', onclick)
-    plt.xticks(rotation=90)
-    plt.xticks(range(1, len(dictionary_items.keys()) + 1), dictionary_items.keys(), size='small')
-    plt.yticks(range(0, max(y) + input_scale, input_scale), [timedelta(seconds=y) for y in range(0, max(y) + input_scale, input_scale)], size='small')
-    plt.show()
 else:
     fig = plt.figure(title + " desde el " + input_start_date + " hasta el " + input_end_date)
-    y = [int(item.seconds) for item in dictionary_items.values()]
-    plt.bar(x, y, align='center')
-    cid = fig.canvas.mpl_connect('button_press_event', onclick)
-    plt.xticks(rotation=90)
-    plt.xticks(range(1, len(dictionary_items.keys()) + 1), dictionary_items.keys(), size='small')
-    plt.yticks(range(0, max(y) + input_scale, input_scale), [timedelta(seconds=y) for y in range(0, max(y) + input_scale, input_scale)], size='small')
-    plt.show()
-
-##circle1=plt.Circle((0,0),.2,color='r')
-##circle2=plt.Circle((.5,.5),.2,color='b')
-##circle3=plt.Circle((1,1),.2,color='g',clip_on=False)
-##fig = plt.gcf()
-##fig.gca().add_artist(circle1)
-##fig.gca().add_artist(circle2)
-##fig.gca().add_artist(circle3)
-##fig.savefig('plotcircles.png')
+    
+y = [int(item.seconds) for item in dictionary_items.values()]
+plt.bar(x, y, align='center')
+cid = fig.canvas.mpl_connect('button_press_event', onclick)
+plt.xticks(rotation=90)
+plt.xticks(range(1, len(dictionary_items.keys()) + 1), dictionary_items.keys(), size='small')
+plt.yticks(range(0, max(y) + input_scale, input_scale), [timedelta(seconds=y) for y in range(0, max(y) + input_scale, input_scale)], size='small')
+plt.show()
 
 
 
