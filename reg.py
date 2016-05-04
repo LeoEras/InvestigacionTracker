@@ -9,6 +9,21 @@ def strToDate(string):
     new_date = [int(token) for token in string.split("-", len(string))] 
     return datetime(new_date[0], new_date[1], new_date[2])
 
+def correctAll(item):
+    if "App" in item[7]:
+        if "Chrome" in item[6]:
+            return True
+        elif "Reader" in item[6]:
+            return True
+        elif "Point" in item[6]:
+            return True
+        elif "Word" in item[6]:
+            return True
+        elif "Notepad" in item[6]:
+            return True
+    else:
+        return False
+
 def depurate(item):
     if "c:" in item or "C:" in item:
         word = re.findall(r'\w+\.\w+', item)
@@ -29,7 +44,7 @@ def findItems(name, item_type, date_start, date_end):
         if d_start <= item_date_start and item_date_end <= d_end:
             if name == "":
                 if item_type == "All":
-                    if "Chrome" in item[6] and "App" in item[7]:
+                    if correctAll(item):
                         continue
                     else:
                         result.append(item)
@@ -184,6 +199,3 @@ plt.xticks(rotation=90)
 plt.xticks(range(1, len(dictionary_items.keys()) + 1), dictionary_items.keys(), size='small')
 plt.yticks(range(0, max(y) + input_scale, input_scale), [timedelta(seconds=y) for y in range(0, max(y) + input_scale, input_scale)], size='small')
 plt.show()
-
-
-
