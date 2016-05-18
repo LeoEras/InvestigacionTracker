@@ -1,0 +1,10 @@
+stackoverflow
+Stackoverflow
+Komodo
+komodo
+Notepad
+notepad
+cmd
+localhost
+python
+Python
