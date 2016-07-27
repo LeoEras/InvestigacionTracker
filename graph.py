@@ -61,14 +61,19 @@ def buildMatrix(dictionary, nodes, nodes_size, edges):
                 #where n = {0, 1, 2}. 0: Source, 1: Destiny, 2: Weight.
                 #Here I look for the edge where i and j appears as source
                 #and destiny respectively.
-                if i == edges[k][0] and j == edges[k][1]:
+                #print(i, j)
+                if i == (edges[k][0] - 1) and j == (edges[k][1] - 1): #First index = 1
+##                if i == edges[k][0] and j == edges[k][1]: #First index = 0
                     #Then I look for the node's name. nodes[edges[k][n]].
                     #Finally I look for it's real value in the dictionary of
                     #all the nodes out there. This happens beacause the graph1
                     #doesn't know (and shouldn't really know) graph2's structure
-                    real_i = dictionary[nodes[edges[k][0] - 1]]
-                    real_j = dictionary[nodes[edges[k][1] - 1]]
+##                    real_i = dictionary[nodes[edges[k][0]]] #First index = 0
+##                    real_j = dictionary[nodes[edges[k][1]]] #First index = 0
+                    real_i = dictionary[nodes[edges[k][0] - 1]] #First index = 1
+                    real_j = dictionary[nodes[edges[k][1] - 1]] #First index = 1
                     matrix_base[real_i][real_j] = edges[k][2]
+                    #print(edges[k][0], edges[k][1], edges[k][2])
                     #matrix_base[real_j][real_i] = edges[k][2]
                     continue
                 else:
@@ -78,7 +83,7 @@ def buildMatrix(dictionary, nodes, nodes_size, edges):
     for i in range(size):
         if matrix_base[i][i] != MIN_VALUE:
             if nodes_size:
-                matrix_base[i][i] += nodes_size.pop()
+                matrix_base[i][i] += nodes_size.pop(0)
     return matrix_base
 
 def getmcs(matrix1, matrix2):
@@ -294,8 +299,15 @@ start = datetime.datetime.now()
 ##
 ##file_object = open("resultsall.txt", 'w')
 ##file_object.write("Inicio\n")
-##nodes1, nsize1 = loadNodes(len(dictionary_1), dictionary_1, "nodes_total.csv")
-##edges1 = loadEdges("edges_total.csv")
+############################TEST BEGINS############################################
+##nodes1, nsize1 = loadNodes(len(dictionary_1), dictionary_1, "nodes1.csv")
+##edges1 = loadEdges("edges1.csv")
+##nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodes2.csv")
+##edges2 = loadEdges("edges2.csv")
+##mat1 = buildMatrix(dictionary_1, nodes2, nsize2, edges2)
+##print(mat1)
+##print(dictionary_1)
+############################TEST END##############################################
 ##nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodes_allison.csv")
 ##edges2 = loadEdges("edges_allison.csv")
 ##nodes3, nsize3 = loadNodes(len(dictionary_1), dictionary_1, "nodes_jimmy.csv")
