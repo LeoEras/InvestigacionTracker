@@ -55,29 +55,21 @@ def buildMatrix(dictionary, nodes, nodes_size, edges):
         for j in range(size):
             if i in absent_nodes or j in absent_nodes:
                 matrix_base[i][j] = MIN_VALUE
-            for k in range(len(edges)):
-                #edges[k] is an edge, the k-th edge.
-                #edges[k][n] is the n-th element of the k-th edge
-                #where n = {0, 1, 2}. 0: Source, 1: Destiny, 2: Weight.
-                #Here I look for the edge where i and j appears as source
-                #and destiny respectively.
-                #print(i, j)
-                if i == (edges[k][0] - 1) and j == (edges[k][1] - 1): #First index = 1
-##                if i == edges[k][0] and j == edges[k][1]: #First index = 0
-                    #Then I look for the node's name. nodes[edges[k][n]].
-                    #Finally I look for it's real value in the dictionary of
-                    #all the nodes out there. This happens beacause the graph1
-                    #doesn't know (and shouldn't really know) graph2's structure
-##                    real_i = dictionary[nodes[edges[k][0]]] #First index = 0
-##                    real_j = dictionary[nodes[edges[k][1]]] #First index = 0
-                    real_i = dictionary[nodes[edges[k][0] - 1]] #First index = 1
-                    real_j = dictionary[nodes[edges[k][1] - 1]] #First index = 1
-                    matrix_base[real_i][real_j] = edges[k][2]
-                    #print(edges[k][0], edges[k][1], edges[k][2])
-                    #matrix_base[real_j][real_i] = edges[k][2]
-                    continue
-                else:
-                    continue
+
+    for k in range(len(edges)):
+        ##edges[k] is an edge, the k-th edge.
+        ##edges[k][n] is the n-th element of the k-th edge
+        ##where n = {0, 1, 2}. 0: Source, 1: Destiny, 2: Weight.
+        ##Once I have the edge value, which is a node (0, 1),
+        ##I look for the node name, then I search for it in the
+        ##dictionary of all nodes. This happens beacause the graph1
+        ##doesn't know (and shouldn't really know) graph2's structure.
+##        real_i = dictionary[nodes[edges[k][0]]] #First index = 0
+##        real_j = dictionary[nodes[edges[k][1]]] #First index = 0
+        real_i = dictionary[nodes[edges[k][0] - 1]] #First index = 1
+        real_j = dictionary[nodes[edges[k][1] - 1]] #First index = 1
+        matrix_base[real_i][real_j] = edges[k][2]
+
     #Loading the weights of the nodes. If there's an arc, it will add with this
     #new value.
     for i in range(size):
@@ -299,15 +291,12 @@ start = datetime.datetime.now()
 ##
 ##file_object = open("resultsall.txt", 'w')
 ##file_object.write("Inicio\n")
-############################TEST BEGINS############################################
-##nodes1, nsize1 = loadNodes(len(dictionary_1), dictionary_1, "nodes1.csv")
-##edges1 = loadEdges("edges1.csv")
-##nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodes2.csv")
-##edges2 = loadEdges("edges2.csv")
-##mat1 = buildMatrix(dictionary_1, nodes2, nsize2, edges2)
-##print(mat1)
-##print(dictionary_1)
-############################TEST END##############################################
+nodes1, nsize1 = loadNodes(len(dictionary_1), dictionary_1, "nodes1.csv")
+edges1 = loadEdges("edges1.csv")
+nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodes2.csv")
+edges2 = loadEdges("edges2.csv")
+mat1 = buildMatrix(dictionary_1, nodes2, nsize2, edges2)
+print(mat1)
 ##nodes2, nsize2 = loadNodes(len(dictionary_1), dictionary_1, "nodes_allison.csv")
 ##edges2 = loadEdges("edges_allison.csv")
 ##nodes3, nsize3 = loadNodes(len(dictionary_1), dictionary_1, "nodes_jimmy.csv")
