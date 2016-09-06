@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sys
 import re
+from Base import *
 #import time
 
 def strToDate(string):
@@ -140,34 +141,11 @@ for line in file_object:
 
 file_object.close()
 
-file_object = open("output.csv", 'r')
 objects = []
-collection = []
 dictionary_items = {}
-#    	    \date_time_start      \date_time_end    \
-#description\date_start\time_start\date_end\time_end\elapsed_time\process\process_type\importance
-for line in file_object:
-    collection = line.split("|", len(line))
-    if len(collection) == 6:
-        if str(collection[4]) == "":
-            continue
-        description = collection[1]
-        date_time_start = collection[2].split("T", len(collection[2]))
-        date_time_end = collection[3].split("T", len(collection[3]))
-        date_start = date_time_start[0]
-        time_start = re.sub(r'\.\d*', "", str(date_time_start[1]))
-        date_end = date_time_end[0]
-        time_end = re.sub(r'\.\d*', "", str(date_time_end[1]))
-        time_object_1 = datetime.strptime(str(date_start) + " " + str(time_start), '%Y-%m-%d %H:%M:%S')
-        time_object_2 = datetime.strptime(str(date_end) + " " + str(time_end), '%Y-%m-%d %H:%M:%S')
-        elapsed_time = time_object_2 - time_object_1
-        process = collection[4]
-        process_type = collection[5].split("/", len(collection))[1]
-        importance = setImportance(filters, description, process)
-        collection = [description, date_start, time_start, date_end, time_end, elapsed_time, process, process_type, importance]
-        objects.append(collection)
+objects = getList("output.csv")
 
-file_object.close()
+
 items = findItems("", item_type, input_start_date, input_end_date)
 for item in items:
     item[6] = depurate(item[6])

@@ -2,6 +2,7 @@ import re
 from datetime import datetime, timedelta
 import sys
 from random import randint
+from Base import *
 
 def randomColor(array):
     return str(array[randint(0,len(array) - 1)])
@@ -51,30 +52,9 @@ def loadEdges(dictionary, string):
     
 objects = []
 linearr = []
-fob = open("output.csv", 'r')
 reload(sys)
 sys.setdefaultencoding('utf8')
-#    \timestart          \timeend        \
-#desc\datestart\hourstart\dateend\hourend\elapsedtime\process\type
-for line in fob: #begin for
-    linearr = line.split("|", len(line))
-    if len(linearr) == 6:
-        desc = linearr[1]
-        timestart = linearr[2].split("T", len(linearr[2]))
-        timeend = linearr[3].split("T", len(linearr[3]))
-        datestart = timestart[0]
-        hourstart = re.sub(r'\.\d*', "", str(timestart[1]))
-        dateend = timeend[0]
-        hourend = re.sub(r'\.\d*', "", str(timeend[1]))
-        time_object1 = datetime.strptime(str(datestart) + " "+ str(hourstart), '%Y-%m-%d %H:%M:%S')
-        time_object2 = datetime.strptime(str(dateend) + " "+ str(hourend), '%Y-%m-%d %H:%M:%S')
-        elapsedtime = time_object2 - time_object1
-        process = str(linearr[4])
-        pType = linearr[5].split("/", len(linearr))[1]
-        linearr = [desc, datestart, hourstart, dateend, hourend, elapsedtime, process, pType]
-        objects.append(linearr)
-    #end for
-fob.close()
+objects = getList("output.csv")
 
 dictionary_items = {}
 if len(sys.argv) >= 2:
