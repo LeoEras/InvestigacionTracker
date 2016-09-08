@@ -1,0 +1,799 @@
+1|Espere mientras se abre la aplicación|2016-05-24T09:38:57.0000000|2016-05-24T09:39:09.0000000|ManicTime|ManicTime/Applications
+2|ManicTime|2016-05-24T09:39:09.0000000|2016-05-24T09:39:14.0000000|ManicTime|ManicTime/Applications
+3||2016-05-24T09:38:57.0000000|2016-05-24T09:39:28.0000000||ManicTime/ComputerUsage
+4|ManicTime|2016-05-24T09:39:14.0000000|2016-05-24T09:39:19.0000000|ManicTime|ManicTime/Applications
+5|Configuración|2016-05-24T09:39:19.0000000|2016-05-24T09:39:25.0000000|ManicTime|ManicTime/Applications
+6|Menú Inicio|2016-05-24T09:39:25.0000000|2016-05-24T09:39:28.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+7|Sistema operativo Microsoft® Windows®|2016-06-02T15:33:55.0000000|2016-06-02T15:34:06.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+8|Servicios|2016-06-02T15:34:06.0000000|2016-06-02T15:34:17.0000000|Servicios|ManicTime/Applications
+9|Propiedades de Web Deployment Agent Service (Equipo local)|2016-06-02T15:34:17.0000000|2016-06-02T15:34:23.0000000|Propiedades de Web Deployment Agent Service (Equipo local)|ManicTime/Applications
+10|Servicios|2016-06-02T15:34:23.0000000|2016-06-02T15:34:28.0000000|Servicios|ManicTime/Applications
+11|Installers|2016-06-02T15:34:28.0000000|2016-06-02T15:34:33.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+12|Setup|2016-06-02T15:34:33.0000000|2016-06-02T15:34:41.0000000|Microsoft® Visual Studio® 2008|ManicTime/Applications
+13|Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02T15:34:41.0000000|2016-06-02T15:34:47.0000000|Microsoft® Visual Studio® 2008|ManicTime/Applications
+14|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-02T15:34:47.0000000|2016-06-02T15:34:52.0000000|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|ManicTime/Applications
+15|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|2016-06-02T15:34:52.0000000|2016-06-02T15:35:24.0000000|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|ManicTime/Applications
+16||2016-06-02T15:33:55.0000000|2016-06-02T15:47:05.0000000||ManicTime/ComputerUsage
+17|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|2016-06-02T15:35:24.0000000|2016-06-02T15:35:41.0000000|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|ManicTime/Applications
+18|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-02T15:35:41.0000000|2016-06-02T15:36:06.0000000|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|ManicTime/Applications
+19|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2016-06-02T15:36:06.0000000|2016-06-02T15:36:13.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
+20|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|2016-06-02T15:36:13.0000000|2016-06-02T15:38:33.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
+21|Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02T15:38:33.0000000|2016-06-02T15:39:15.0000000|Microsoft® Visual Studio® 2008|ManicTime/Applications
+22|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 Setup|2016-06-02T15:39:15.0000000|2016-06-02T15:39:21.0000000|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|ManicTime/Applications
+23|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|2016-06-02T15:39:21.0000000|2016-06-02T15:39:40.0000000|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|ManicTime/Applications
+24|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610|2016-06-02T15:39:40.0000000|2016-06-02T15:39:52.0000000|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610|ManicTime/Applications
+25|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 Setup|2016-06-02T15:39:52.0000000|2016-06-02T15:41:01.0000000|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|ManicTime/Applications
+26|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 Setup|2016-06-02T15:41:01.0000000|2016-06-02T15:41:06.0000000|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|ManicTime/Applications
+27|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|2016-06-02T15:41:06.0000000|2016-06-02T15:42:06.0000000|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|ManicTime/Applications
+28|Installers|2016-06-02T15:42:06.0000000|2016-06-02T15:42:15.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+29|Setup - Wampserver64|2016-06-02T15:42:15.0000000|2016-06-02T15:44:21.0000000|wampserver3.0.4_x64_apache2.4.18_mysql5.7.11_php5.6.19-7.0.4|ManicTime/Applications
+30|Program Manager|2016-06-02T15:44:21.0000000|2016-06-02T15:44:26.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+31|Setup - Wampserver64|2016-06-02T15:44:26.0000000|2016-06-02T15:44:31.0000000|wampserver3.0.4_x64_apache2.4.18_mysql5.7.11_php5.6.19-7.0.4|ManicTime/Applications
+32|Python 3.5.1 (64-bit) Setup|2016-06-02T15:44:31.0000000|2016-06-02T15:44:36.0000000|Python 3.5.1 (64-bit)|ManicTime/Applications
+33|Python 3.5.1 (64-bit)|2016-06-02T15:44:36.0000000|2016-06-02T15:46:10.0000000|Python 3.5.1 (64-bit)|ManicTime/Applications
+34|Program Manager|2016-06-02T15:46:10.0000000|2016-06-02T15:46:24.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+35|Installers|2016-06-02T15:46:24.0000000|2016-06-02T15:46:29.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+36|new 1 - Notepad++|2016-06-02T15:46:29.0000000|2016-06-02T15:46:35.0000000|Notepad++|ManicTime/Applications
+37|Acceso denegado a la carpeta|2016-06-02T15:46:35.0000000|2016-06-02T15:46:40.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+38|Program Manager|2016-06-02T15:46:40.0000000|2016-06-02T15:46:49.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+39|Installers|2016-06-02T15:46:49.0000000|2016-06-02T15:46:59.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+41|new 1|2016-06-02T15:46:29.0000000|2016-06-02T15:46:35.0000000|new 1|ManicTime/Documents
+42|Menú Inicio|2016-06-02T15:46:59.0000000|2016-06-02T15:47:04.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+43|Sistema operativo Microsoft® Windows®|2016-06-02T15:47:04.0000000|2016-06-02T15:47:05.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+44|Descubre Google Drive: un lugar para todos tus archivos - Google Chrome|2016-06-15T09:01:02.0000000|2016-06-15T09:01:19.0000000|Google Chrome|ManicTime/Applications
+45|Descubre Google Drive: un lugar para todos tus archivos - Google Chrome|2016-06-15T09:01:19.0000000|2016-06-15T09:01:25.0000000|Google Chrome|ManicTime/Applications
+46|Mi unidad - Google Drive - Google Chrome|2016-06-15T09:01:25.0000000|2016-06-15T09:01:40.0000000|Google Chrome|ManicTime/Applications
+47|DAW - Google Drive - Google Chrome|2016-06-15T09:01:40.0000000|2016-06-15T09:01:53.0000000|Google Chrome|ManicTime/Applications
+48|Nueva pestaña - Google Chrome|2016-06-15T09:01:53.0000000|2016-06-15T09:02:09.0000000|Google Chrome|ManicTime/Applications
+49||2016-06-15T09:01:02.0000000|2016-06-15T09:54:15.0000000||ManicTime/ComputerUsage
+50|https://accounts.google.com/ServiceLogin?service=wise&passive=true&continue=http:%2F%2Fdrive.google.com%2F%3Futm_source%3Des-419%26utm_medium%3Dbutton%26utm_campaign%3Dweb%26utm_content%3Dgotodrive%26usp%3Dgtd%26ltmpl%3Ddrive&urp=https:%2F%2Fwww.google.com.ec%2F#identifier|2016-06-15T09:01:02.0000000|2016-06-15T09:01:19.0000000|accounts.google.com|ManicTime/Documents
+51|https://accounts.google.com/ServiceLogin?service=wise&passive=true&continue=http:%2F%2Fdrive.google.com%2F%3Futm_source%3Des-419%26utm_medium%3Dbutton%26utm_campaign%3Dweb%26utm_content%3Dgotodrive%26usp%3Dgtd%26ltmpl%3Ddrive&urp=https:%2F%2Fwww.google.com.ec%2F#password|2016-06-15T09:01:19.0000000|2016-06-15T09:01:25.0000000|accounts.google.com|ManicTime/Documents
+52|https://drive.google.com/drive/my-drive|2016-06-15T09:01:25.0000000|2016-06-15T09:01:40.0000000|drive.google.com|ManicTime/Documents
+53|https://drive.google.com/drive/folders/0BwdLXTwiUhKuSWpCSG9DQS05TzQ|2016-06-15T09:01:40.0000000|2016-06-15T09:01:53.0000000|drive.google.com|ManicTime/Documents
+54|MOCKUP CHROME - Buscar con Google - Google Chrome|2016-06-15T09:02:09.0000000|2016-06-15T09:02:17.0000000|Google Chrome|ManicTime/Applications
+55|Balsamiq Mockups 3 - Chrome Web Store - Google Chrome|2016-06-15T09:02:17.0000000|2016-06-15T09:02:28.0000000|Google Chrome|ManicTime/Applications
+56|Aplicaciones - Google Chrome|2016-06-15T09:02:28.0000000|2016-06-15T09:02:33.0000000|Google Chrome|ManicTime/Applications
+57|NewProject - Google Chrome|2016-06-15T09:02:33.0000000|2016-06-15T09:03:03.0000000|Google Chrome|ManicTime/Applications
+58|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=MOCKUP+CHROME|2016-06-15T09:02:09.0000000|2016-06-15T09:02:17.0000000|www.google.com.ec|ManicTime/Documents
+59|https://chrome.google.com/webstore/detail/balsamiq-mockups-3/iedapplgopkgngalkbailjoikghljkki|2016-06-15T09:02:17.0000000|2016-06-15T09:02:28.0000000|chrome.google.com|ManicTime/Documents
+60|chrome://apps/|2016-06-15T09:02:28.0000000|2016-06-15T09:02:33.0000000|apps|ManicTime/Documents
+61|https://mockups-gdrive-bmpr.appspot.com/?state={"action":"create","folderId":"","userId":"101555761280415650465"}#|2016-06-15T09:02:33.0000000|2016-06-15T09:03:03.0000000|mockups-gdrive-bmpr.appspot.com|ManicTime/Documents
+62|DAW - Google Chrome|2016-06-15T09:03:03.0000000|2016-06-15T09:05:31.0000000|Google Chrome|ManicTime/Applications
+63|https://mockups-gdrive-bmpr.appspot.com/?state={"ids":["0BwdLXTwiUhKuYVg0a2pZQ0tyY1U"],"action":"open","userId":"101555761280415650465"}|2016-06-15T09:03:03.0000000|2016-06-15T09:05:31.0000000|mockups-gdrive-bmpr.appspot.com|ManicTime/Documents
+64|DAW - Google Drive - Google Chrome|2016-06-15T09:05:31.0000000|2016-06-15T09:05:41.0000000|Google Chrome|ManicTime/Applications
+65|Balsamiq Mockups 3 - Google Chrome|2016-06-15T09:05:41.0000000|2016-06-15T09:05:46.0000000|Google Chrome|ManicTime/Applications
+66|Balsamiq Mockups 3 - Chrome Web Store - Google Chrome|2016-06-15T09:05:46.0000000|2016-06-15T09:06:00.0000000|Google Chrome|ManicTime/Applications
+67|DAW - Google Chrome|2016-06-15T09:06:00.0000000|2016-06-15T09:06:15.0000000|Google Chrome|ManicTime/Applications
+68|https://drive.google.com/drive/folders/0BwdLXTwiUhKuSWpCSG9DQS05TzQ|2016-06-15T09:05:31.0000000|2016-06-15T09:05:41.0000000|drive.google.com|ManicTime/Documents
+69|https://chrome.google.com/webstore/detail/balsamiq-mockups-3/iedapplgopkgngalkbailjoikghljkki/related|2016-06-15T09:05:46.0000000|2016-06-15T09:06:00.0000000|chrome.google.com|ManicTime/Documents
+70|https://mockups-gdrive-bmpr.appspot.com/?state={"ids":["0BwdLXTwiUhKuYVg0a2pZQ0tyY1U"],"action":"open","userId":"101555761280415650465"}|2016-06-15T09:06:00.0000000|2016-06-15T09:06:15.0000000|mockups-gdrive-bmpr.appspot.com|ManicTime/Documents
+71|DAW - Google Drive - Google Chrome|2016-06-15T09:06:15.0000000|2016-06-15T09:06:20.0000000|Google Chrome|ManicTime/Applications
+72|Inicio de sesión - Cuentas de Google - Google Chrome|2016-06-15T09:06:20.0000000|2016-06-15T09:13:01.0000000|Google Chrome|ManicTime/Applications
+73|https://drive.google.com/drive/folders/0BwdLXTwiUhKuSWpCSG9DQS05TzQ|2016-06-15T09:06:15.0000000|2016-06-15T09:06:20.0000000|drive.google.com|ManicTime/Documents
+74|https://accounts.google.com/ServiceLogin?elo=1|2016-06-15T09:06:20.0000000|2016-06-15T09:13:01.0000000|accounts.google.com|ManicTime/Documents
+75|Getting started · Bootstrap - Google Chrome|2016-06-15T09:13:01.0000000|2016-06-15T09:13:58.0000000|Google Chrome|ManicTime/Applications
+76|http://getbootstrap.com/getting-started/|2016-06-15T09:13:01.0000000|2016-06-15T09:13:58.0000000|getbootstrap.com|ManicTime/Documents
+77|Chrome - Google Chrome|2016-06-15T09:13:58.0000000|2016-06-15T09:14:06.0000000|Google Chrome|ManicTime/Applications
+78|chrome://chrome-signin/?access_point=0&reason=0|2016-06-15T09:13:58.0000000|2016-06-15T09:14:06.0000000|chrome-signin|ManicTime/Documents
+79|Sublime Text: The text editor you'll fall in love with - Google Chrome|2016-06-15T09:14:06.0000000|2016-06-15T09:15:45.0000000|Google Chrome|ManicTime/Applications
+80|https://www.sublimetext.com/|2016-06-15T09:14:06.0000000|2016-06-15T09:15:45.0000000|www.sublimetext.com|ManicTime/Documents
+81|Nueva pestaña - Google Chrome|2016-06-15T09:15:45.0000000|2016-06-15T09:15:54.0000000|Google Chrome|ManicTime/Applications
+82|bootstrap - Buscar con Google - Google Chrome|2016-06-15T09:15:54.0000000|2016-06-15T09:16:02.0000000|Google Chrome|ManicTime/Applications
+84|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bootstrap|2016-06-15T09:15:54.0000000|2016-06-15T09:16:02.0000000|www.google.com.ec|ManicTime/Documents
+86|Sublime Text: The text editor you'll fall in love with - Google Chrome|2016-06-15T09:16:02.0000000|2016-06-15T09:16:11.0000000|Google Chrome|ManicTime/Applications
+87|Setup - Sublime Text 3|2016-06-15T09:16:11.0000000|2016-06-15T09:16:35.0000000|Sublime Text Build 3114 x64 Setup|ManicTime/Applications
+88|Sublime Text: The text editor you'll fall in love with - Google Chrome|2016-06-15T09:16:35.0000000|2016-06-15T09:17:22.0000000|Google Chrome|ManicTime/Applications
+89|https://www.sublimetext.com/|2016-06-15T09:16:02.0000000|2016-06-15T09:16:11.0000000|www.sublimetext.com|ManicTime/Documents
+90|https://www.sublimetext.com/|2016-06-15T09:16:35.0000000|2016-06-15T09:17:22.0000000|www.sublimetext.com|ManicTime/Documents
+91|Inicio|2016-06-15T09:17:22.0000000|2016-06-15T09:17:29.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+92|untitled - Sublime Text (UNREGISTERED)|2016-06-15T09:17:29.0000000|2016-06-15T09:17:47.0000000|Sublime Text|ManicTime/Applications
+93|Program Manager|2016-06-15T09:17:47.0000000|2016-06-15T09:18:04.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+94|untitled|2016-06-15T09:17:29.0000000|2016-06-15T09:17:47.0000000|untitled|ManicTime/Documents
+95|Seleccionar carpeta|2016-06-15T09:18:04.0000000|2016-06-15T09:18:11.0000000|Sublime Text|ManicTime/Applications
+96|untitled (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:18:11.0000000|2016-06-15T09:18:26.0000000|Sublime Text|ManicTime/Applications
+97|Guardar como|2016-06-15T09:18:26.0000000|2016-06-15T09:18:54.0000000|Sublime Text|ManicTime/Applications
+98|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:18:54.0000000|2016-06-15T09:19:00.0000000|Sublime Text|ManicTime/Applications
+99|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:19:00.0000000|2016-06-15T09:20:18.0000000|Sublime Text|ManicTime/Applications
+100|untitled|2016-06-15T09:18:11.0000000|2016-06-15T09:18:26.0000000|untitled|ManicTime/Documents
+101|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:18:54.0000000|2016-06-15T09:19:00.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+102|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:19:00.0000000|2016-06-15T09:20:18.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+103|daw|2016-06-15T09:20:18.0000000|2016-06-15T09:20:28.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+104|DAW - Google Chrome|2016-06-15T09:20:28.0000000|2016-06-15T09:20:33.0000000|Google Chrome|ManicTime/Applications
+105|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:20:33.0000000|2016-06-15T09:20:39.0000000|Sublime Text|ManicTime/Applications
+106|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:20:39.0000000|2016-06-15T09:24:48.0000000|Sublime Text|ManicTime/Applications
+107|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T09:20:28.0000000|2016-06-15T09:20:33.0000000|file|ManicTime/Documents
+108|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:20:33.0000000|2016-06-15T09:20:39.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+109|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:20:39.0000000|2016-06-15T09:24:48.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+110|untitled (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:24:48.0000000|2016-06-15T09:24:59.0000000|Sublime Text|ManicTime/Applications
+111|Guardar como|2016-06-15T09:24:59.0000000|2016-06-15T09:25:07.0000000|Sublime Text|ManicTime/Applications
+112|untitled|2016-06-15T09:24:48.0000000|2016-06-15T09:24:59.0000000|untitled|ManicTime/Documents
+113|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:25:07.0000000|2016-06-15T09:27:30.0000000|Sublime Text|ManicTime/Applications
+114|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:25:07.0000000|2016-06-15T09:27:30.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+115|C:\Users\estudiante.2016\Desktop\daw\stilos.css • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:27:30.0000000|2016-06-15T09:28:07.0000000|Sublime Text|ManicTime/Applications
+116|C:\Users\estudiante.2016\Desktop\daw\stilos.css|2016-06-15T09:27:30.0000000|2016-06-15T09:28:07.0000000|C:\Users\estudiante.2016\Desktop\daw\stilos.css|ManicTime/Documents
+117|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:28:07.0000000|2016-06-15T09:28:24.0000000|Sublime Text|ManicTime/Applications
+118|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:28:24.0000000|2016-06-15T09:47:20.0000000|Sublime Text|ManicTime/Applications
+119|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:28:07.0000000|2016-06-15T09:28:24.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+120|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:28:24.0000000|2016-06-15T09:47:20.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+121|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:47:20.0000000|2016-06-15T09:47:42.0000000|Sublime Text|ManicTime/Applications
+122|EcuadorPrimer S.A. - Google Chrome|2016-06-15T09:47:42.0000000|2016-06-15T09:47:48.0000000|Google Chrome|ManicTime/Applications
+123|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:47:48.0000000|2016-06-15T09:47:59.0000000|Sublime Text|ManicTime/Applications
+124|Página principal - Internet Explorer|2016-06-15T09:47:59.0000000|2016-06-15T09:50:06.0000000|Internet Explorer|ManicTime/Applications
+125|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:47:20.0000000|2016-06-15T09:47:42.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+126|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T09:47:42.0000000|2016-06-15T09:47:48.0000000|file|ManicTime/Documents
+127|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:47:48.0000000|2016-06-15T09:47:59.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+128|http://go.microsoft.com/fwlink/p/?LinkId=255141|2016-06-15T09:47:59.0000000|2016-06-15T09:50:06.0000000|go.microsoft.com|ManicTime/Documents
+129|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:50:06.0000000|2016-06-15T09:50:14.0000000|Sublime Text|ManicTime/Applications
+130|EcuadorPrimer S.A. - Google Chrome|2016-06-15T09:50:14.0000000|2016-06-15T09:50:24.0000000|Google Chrome|ManicTime/Applications
+131|C:\Users\estudiante.2016\Desktop\daw\stilos.css (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:50:24.0000000|2016-06-15T09:53:04.0000000|Sublime Text|ManicTime/Applications
+132|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:50:06.0000000|2016-06-15T09:50:14.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+133|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T09:50:14.0000000|2016-06-15T09:50:24.0000000|file|ManicTime/Documents
+134|C:\Users\estudiante.2016\Desktop\daw\stilos.css|2016-06-15T09:50:24.0000000|2016-06-15T09:53:04.0000000|C:\Users\estudiante.2016\Desktop\daw\stilos.css|ManicTime/Documents
+135|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T09:53:04.0000000|2016-06-15T09:54:15.0000000|Sublime Text|ManicTime/Applications
+136|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T09:53:04.0000000|2016-06-15T09:54:15.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+137||2016-06-15T09:54:15.0000000|2016-06-15T10:11:09.0000000||ManicTime/ComputerUsage
+138|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:11:09.0000000|2016-06-15T10:11:31.0000000|Sublime Text|ManicTime/Applications
+139|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:11:31.0000000|2016-06-15T10:11:51.0000000|Google Chrome|ManicTime/Applications
+140|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:11:51.0000000|2016-06-15T10:12:22.0000000|Sublime Text|ManicTime/Applications
+141||2016-06-15T10:11:09.0000000|2016-06-15T11:34:58.0000000||ManicTime/ComputerUsage
+142|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:11:09.0000000|2016-06-15T10:11:31.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+143|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T10:11:31.0000000|2016-06-15T10:11:51.0000000|file|ManicTime/Documents
+144|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:11:51.0000000|2016-06-15T10:12:22.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+145|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:12:22.0000000|2016-06-15T10:13:09.0000000|Sublime Text|ManicTime/Applications
+146|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:12:22.0000000|2016-06-15T10:13:09.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+147|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:13:09.0000000|2016-06-15T10:15:18.0000000|Google Chrome|ManicTime/Applications
+148|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T10:13:09.0000000|2016-06-15T10:15:18.0000000|file|ManicTime/Documents
+149|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:15:18.0000000|2016-06-15T10:17:54.0000000|Sublime Text|ManicTime/Applications
+150|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:15:18.0000000|2016-06-15T10:17:54.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+151|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:17:54.0000000|2016-06-15T10:18:00.0000000|Sublime Text|ManicTime/Applications
+152|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:18:00.0000000|2016-06-15T10:18:05.0000000|Google Chrome|ManicTime/Applications
+153|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:17:54.0000000|2016-06-15T10:18:00.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+154|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T10:18:00.0000000|2016-06-15T10:18:05.0000000|file|ManicTime/Documents
+155|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:18:05.0000000|2016-06-15T10:18:36.0000000|Sublime Text|ManicTime/Applications
+156|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:18:36.0000000|2016-06-15T10:21:10.0000000|Sublime Text|ManicTime/Applications
+157|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:18:05.0000000|2016-06-15T10:18:36.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+158|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:18:36.0000000|2016-06-15T10:21:10.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+159|Inicio|2016-06-15T10:21:10.0000000|2016-06-15T10:21:43.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+160|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:21:43.0000000|2016-06-15T10:23:46.0000000|Sublime Text|ManicTime/Applications
+161|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:21:43.0000000|2016-06-15T10:23:46.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+162|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:23:46.0000000|2016-06-15T10:24:52.0000000|Sublime Text|ManicTime/Applications
+163|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:23:46.0000000|2016-06-15T10:24:52.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+164|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:24:52.0000000|2016-06-15T10:24:57.0000000|Google Chrome|ManicTime/Applications
+165|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:24:57.0000000|2016-06-15T10:25:05.0000000|Sublime Text|ManicTime/Applications
+167|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T10:24:52.0000000|2016-06-15T10:24:57.0000000|file|ManicTime/Documents
+168|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:24:57.0000000|2016-06-15T10:25:05.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+170|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:25:05.0000000|2016-06-15T10:25:58.0000000|Google Chrome|ManicTime/Applications
+171|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:25:58.0000000|2016-06-15T10:26:04.0000000|Sublime Text|ManicTime/Applications
+172|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:26:04.0000000|2016-06-15T10:29:24.0000000|Sublime Text|ManicTime/Applications
+173|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T10:25:05.0000000|2016-06-15T10:25:58.0000000|file|ManicTime/Documents
+174|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:25:58.0000000|2016-06-15T10:26:04.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+175|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:26:04.0000000|2016-06-15T10:29:24.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+176|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:29:24.0000000|2016-06-15T10:29:37.0000000|Google Chrome|ManicTime/Applications
+177|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:29:37.0000000|2016-06-15T10:30:02.0000000|Sublime Text|ManicTime/Applications
+178|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:30:02.0000000|2016-06-15T10:30:36.0000000|Google Chrome|ManicTime/Applications
+179|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T10:29:24.0000000|2016-06-15T10:29:37.0000000|file|ManicTime/Documents
+180|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:29:37.0000000|2016-06-15T10:30:02.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+181|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T10:30:02.0000000|2016-06-15T10:30:36.0000000|file|ManicTime/Documents
+182|Google - Google Chrome|2016-06-15T10:30:36.0000000|2016-06-15T10:30:43.0000000|Google Chrome|ManicTime/Applications
+183|ESPOL | Servicio de Autenticación - Google Chrome|2016-06-15T10:30:43.0000000|2016-06-15T10:31:06.0000000|Google Chrome|ManicTime/Applications
+184|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8|2016-06-15T10:30:36.0000000|2016-06-15T10:30:43.0000000|www.google.com.ec|ManicTime/Documents
+185|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-06-15T10:30:43.0000000|2016-06-15T10:31:06.0000000|auth.espol.edu.ec|ManicTime/Documents
+186|Actividad reciente - Google Chrome|2016-06-15T10:31:06.0000000|2016-06-15T10:31:48.0000000|Google Chrome|ManicTime/Applications
+187|Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15T10:31:48.0000000|2016-06-15T10:31:55.0000000|Google Chrome|ManicTime/Applications
+188|1465999059_998__bootstrap.zip - WinRAR (copia de evaluación)|2016-06-15T10:31:55.0000000|2016-06-15T10:33:30.0000000|WinRAR|ManicTime/Applications
+189|https://www.sidweb.espol.edu.ec/|2016-06-15T10:31:06.0000000|2016-06-15T10:31:48.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+190|https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15T10:31:48.0000000|2016-06-15T10:31:55.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+191|daw|2016-06-15T10:33:30.0000000|2016-06-15T10:33:36.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+192|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:33:36.0000000|2016-06-15T10:33:47.0000000|Sublime Text|ManicTime/Applications
+193|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:33:47.0000000|2016-06-15T10:37:17.0000000|Sublime Text|ManicTime/Applications
+194|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:33:36.0000000|2016-06-15T10:33:47.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+195|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:33:47.0000000|2016-06-15T10:37:17.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+196|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:37:17.0000000|2016-06-15T10:37:26.0000000|Google Chrome|ManicTime/Applications
+197|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:37:26.0000000|2016-06-15T10:37:47.0000000|Sublime Text|ManicTime/Applications
+198|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:37:47.0000000|2016-06-15T10:37:53.0000000|Sublime Text|ManicTime/Applications
+199|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:37:53.0000000|2016-06-15T10:37:59.0000000|Sublime Text|ManicTime/Applications
+200|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:37:59.0000000|2016-06-15T10:38:14.0000000|Google Chrome|ManicTime/Applications
+201|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T10:37:17.0000000|2016-06-15T10:37:26.0000000|file|ManicTime/Documents
+202|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:37:26.0000000|2016-06-15T10:37:47.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+203|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:37:47.0000000|2016-06-15T10:37:53.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+204|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:37:53.0000000|2016-06-15T10:37:59.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+205|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T10:37:59.0000000|2016-06-15T10:38:14.0000000|file|ManicTime/Documents
+206|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:38:14.0000000|2016-06-15T10:38:34.0000000|Sublime Text|ManicTime/Applications
+207|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:38:34.0000000|2016-06-15T10:38:42.0000000|Sublime Text|ManicTime/Applications
+208|Nueva pestaña - Google Chrome|2016-06-15T10:38:42.0000000|2016-06-15T10:38:53.0000000|Google Chrome|ManicTime/Applications
+209|google hosting jquery - Buscar con Google - Google Chrome|2016-06-15T10:38:53.0000000|2016-06-15T10:38:58.0000000|Google Chrome|ManicTime/Applications
+210|Hosted Libraries  |  Hosted Libraries  |  Google Developers - Google Chrome|2016-06-15T10:38:58.0000000|2016-06-15T10:39:04.0000000|Google Chrome|ManicTime/Applications
+211|Hosted Libraries  |  Hosted Libraries  |  Google Developers - Google Chrome|2016-06-15T10:39:04.0000000|2016-06-15T10:39:09.0000000|Google Chrome|ManicTime/Applications
+212|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:38:14.0000000|2016-06-15T10:38:34.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+213|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:38:34.0000000|2016-06-15T10:38:42.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+214|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google hosting jquery|2016-06-15T10:38:53.0000000|2016-06-15T10:38:58.0000000|www.google.com.ec|ManicTime/Documents
+215|https://developers.google.com/speed/libraries/|2016-06-15T10:38:58.0000000|2016-06-15T10:39:04.0000000|developers.google.com|ManicTime/Documents
+216|https://developers.google.com/speed/libraries/#libraries|2016-06-15T10:39:04.0000000|2016-06-15T10:39:09.0000000|developers.google.com|ManicTime/Documents
+217|Resultados de búsqueda de "jquery"   |   Google Developers - Google Chrome|2016-06-15T10:39:09.0000000|2016-06-15T10:39:20.0000000|Google Chrome|ManicTime/Applications
+218|Hosted Libraries  |  Hosted Libraries  |  Google Developers - Google Chrome|2016-06-15T10:39:20.0000000|2016-06-15T10:39:26.0000000|Google Chrome|ManicTime/Applications
+219|Hosted Libraries  |  Hosted Libraries  |  Google Developers - Google Chrome|2016-06-15T10:39:26.0000000|2016-06-15T10:39:37.0000000|Google Chrome|ManicTime/Applications
+220|Hosted Libraries  |  Hosted Libraries  |  Google Developers - Google Chrome|2016-06-15T10:39:37.0000000|2016-06-15T10:39:42.0000000|Google Chrome|ManicTime/Applications
+221|Hosted Libraries  |  Hosted Libraries  |  Google Developers - Google Chrome|2016-06-15T10:39:42.0000000|2016-06-15T10:39:54.0000000|Google Chrome|ManicTime/Applications
+222|index.html#carousel-example-generic - Google Chrome|2016-06-15T10:39:54.0000000|2016-06-15T10:39:59.0000000|Google Chrome|ManicTime/Applications
+223|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:39:59.0000000|2016-06-15T10:40:37.0000000|Google Chrome|ManicTime/Applications
+224|https://developers.google.com/s/results/?q=jquery&p=%2Fspeed%2Flibraries%2F|2016-06-15T10:39:09.0000000|2016-06-15T10:39:20.0000000|developers.google.com|ManicTime/Documents
+225|https://developers.google.com/speed/libraries/|2016-06-15T10:39:20.0000000|2016-06-15T10:39:26.0000000|developers.google.com|ManicTime/Documents
+226|https://developers.google.com/speed/libraries/#angular-material|2016-06-15T10:39:26.0000000|2016-06-15T10:39:37.0000000|developers.google.com|ManicTime/Documents
+227|https://developers.google.com/speed/libraries/#libraries|2016-06-15T10:39:37.0000000|2016-06-15T10:39:42.0000000|developers.google.com|ManicTime/Documents
+228|https://developers.google.com/speed/libraries/#jquery|2016-06-15T10:39:42.0000000|2016-06-15T10:39:54.0000000|developers.google.com|ManicTime/Documents
+229|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T10:39:54.0000000|2016-06-15T10:39:59.0000000|file|ManicTime/Documents
+230|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T10:39:59.0000000|2016-06-15T10:40:37.0000000|file|ManicTime/Documents
+231|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:40:37.0000000|2016-06-15T10:40:42.0000000|Sublime Text|ManicTime/Applications
+232|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:40:42.0000000|2016-06-15T10:40:51.0000000|Sublime Text|ManicTime/Applications
+233|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:40:51.0000000|2016-06-15T10:41:32.0000000|Google Chrome|ManicTime/Applications
+234|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:40:37.0000000|2016-06-15T10:40:42.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+235|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:40:42.0000000|2016-06-15T10:40:51.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+236|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T10:40:51.0000000|2016-06-15T10:41:32.0000000|file|ManicTime/Documents
+237|daw|2016-06-15T10:41:32.0000000|2016-06-15T10:41:37.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+238|principal1 - Visualizador de fotos de Windows|2016-06-15T10:41:37.0000000|2016-06-15T10:41:59.0000000|COM Surrogate|ManicTime/Applications
+239|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:41:59.0000000|2016-06-15T10:43:05.0000000|Sublime Text|ManicTime/Applications
+240|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:41:59.0000000|2016-06-15T10:43:05.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+241|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:43:05.0000000|2016-06-15T10:49:29.0000000|Google Chrome|ManicTime/Applications
+242|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T10:43:05.0000000|2016-06-15T10:49:29.0000000|file|ManicTime/Documents
+243|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:49:29.0000000|2016-06-15T10:50:06.0000000|Sublime Text|ManicTime/Applications
+244|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:50:06.0000000|2016-06-15T10:52:45.0000000|Sublime Text|ManicTime/Applications
+245|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:49:29.0000000|2016-06-15T10:50:06.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+246|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:50:06.0000000|2016-06-15T10:52:45.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+247|EcuadorPrimer S.A. - Google Chrome|2016-06-15T10:52:45.0000000|2016-06-15T10:53:21.0000000|Google Chrome|ManicTime/Applications
+248|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T10:52:45.0000000|2016-06-15T10:53:21.0000000|file|ManicTime/Documents
+249|principal1 - Visualizador de fotos de Windows|2016-06-15T10:53:21.0000000|2016-06-15T10:53:40.0000000|COM Surrogate|ManicTime/Applications
+250|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:53:40.0000000|2016-06-15T10:54:29.0000000|Sublime Text|ManicTime/Applications
+251|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:53:40.0000000|2016-06-15T10:54:29.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+252|principal1 - Visualizador de fotos de Windows|2016-06-15T10:54:29.0000000|2016-06-15T10:54:59.0000000|COM Surrogate|ManicTime/Applications
+253|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:54:59.0000000|2016-06-15T10:58:14.0000000|Sublime Text|ManicTime/Applications
+254|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:54:59.0000000|2016-06-15T10:58:14.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+255|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T10:58:14.0000000|2016-06-15T11:10:57.0000000|Sublime Text|ManicTime/Applications
+256|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T10:58:14.0000000|2016-06-15T11:10:57.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+257|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:10:57.0000000|2016-06-15T11:11:06.0000000|Sublime Text|ManicTime/Applications
+258|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:11:06.0000000|2016-06-15T11:11:22.0000000|Google Chrome|ManicTime/Applications
+259|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:10:57.0000000|2016-06-15T11:11:06.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+260|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:11:06.0000000|2016-06-15T11:11:22.0000000|file|ManicTime/Documents
+261|principal1 - Visualizador de fotos de Windows|2016-06-15T11:11:22.0000000|2016-06-15T11:11:36.0000000|COM Surrogate|ManicTime/Applications
+262|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:11:36.0000000|2016-06-15T11:11:41.0000000|Google Chrome|ManicTime/Applications
+263|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:11:41.0000000|2016-06-15T11:11:49.0000000|Sublime Text|ManicTime/Applications
+264|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:11:49.0000000|2016-06-15T11:12:11.0000000|Sublime Text|ManicTime/Applications
+265|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:11:36.0000000|2016-06-15T11:11:41.0000000|file|ManicTime/Documents
+266|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:11:41.0000000|2016-06-15T11:11:49.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+267|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:11:49.0000000|2016-06-15T11:12:11.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+268|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:12:11.0000000|2016-06-15T11:12:39.0000000|Google Chrome|ManicTime/Applications
+269|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:12:39.0000000|2016-06-15T11:13:28.0000000|Sublime Text|ManicTime/Applications
+270|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:12:11.0000000|2016-06-15T11:12:39.0000000|file|ManicTime/Documents
+271|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:12:39.0000000|2016-06-15T11:13:28.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+272|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:13:28.0000000|2016-06-15T11:13:51.0000000|Sublime Text|ManicTime/Applications
+273|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:13:51.0000000|2016-06-15T11:14:09.0000000|Google Chrome|ManicTime/Applications
+274|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:13:28.0000000|2016-06-15T11:13:51.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+275|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:13:51.0000000|2016-06-15T11:14:09.0000000|file|ManicTime/Documents
+276|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:14:09.0000000|2016-06-15T11:14:46.0000000|Sublime Text|ManicTime/Applications
+277|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:14:46.0000000|2016-06-15T11:14:55.0000000|Sublime Text|ManicTime/Applications
+278|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:14:55.0000000|2016-06-15T11:15:13.0000000|Google Chrome|ManicTime/Applications
+279|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:14:09.0000000|2016-06-15T11:14:46.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+280|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:14:46.0000000|2016-06-15T11:14:55.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+281|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:14:55.0000000|2016-06-15T11:15:13.0000000|file|ManicTime/Documents
+282|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:15:13.0000000|2016-06-15T11:15:18.0000000|Sublime Text|ManicTime/Applications
+283|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:15:18.0000000|2016-06-15T11:15:32.0000000|Sublime Text|ManicTime/Applications
+284|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:15:32.0000000|2016-06-15T11:15:52.0000000|Google Chrome|ManicTime/Applications
+285|Getting started · Bootstrap - Google Chrome|2016-06-15T11:15:52.0000000|2016-06-15T11:16:00.0000000|Google Chrome|ManicTime/Applications
+286|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:16:00.0000000|2016-06-15T11:17:15.0000000|Sublime Text|ManicTime/Applications
+287|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:15:13.0000000|2016-06-15T11:15:18.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+288|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:15:18.0000000|2016-06-15T11:15:32.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+289|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:15:32.0000000|2016-06-15T11:15:52.0000000|file|ManicTime/Documents
+290|http://getbootstrap.com/getting-started/|2016-06-15T11:15:52.0000000|2016-06-15T11:16:00.0000000|getbootstrap.com|ManicTime/Documents
+291|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:16:00.0000000|2016-06-15T11:17:15.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+292|Getting started · Bootstrap - Google Chrome|2016-06-15T11:17:15.0000000|2016-06-15T11:17:20.0000000|Google Chrome|ManicTime/Applications
+293|imagenes del sitio|2016-06-15T11:17:20.0000000|2016-06-15T11:17:25.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+294|principal2 - Visualizador de fotos de Windows|2016-06-15T11:17:25.0000000|2016-06-15T11:17:33.0000000|COM Surrogate|ManicTime/Applications
+295|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:17:33.0000000|2016-06-15T11:17:40.0000000|Sublime Text|ManicTime/Applications
+296|C:\Users\estudiante.2016\Desktop\daw\stilos.css • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:17:40.0000000|2016-06-15T11:17:45.0000000|Sublime Text|ManicTime/Applications
+297|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:17:45.0000000|2016-06-15T11:17:56.0000000|Google Chrome|ManicTime/Applications
+298|C:\Users\estudiante.2016\Desktop\daw\stilos.css (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:17:56.0000000|2016-06-15T11:18:01.0000000|Sublime Text|ManicTime/Applications
+299|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:18:01.0000000|2016-06-15T11:18:16.0000000|Google Chrome|ManicTime/Applications
+301|http://getbootstrap.com/getting-started/|2016-06-15T11:17:15.0000000|2016-06-15T11:17:20.0000000|getbootstrap.com|ManicTime/Documents
+302|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:17:33.0000000|2016-06-15T11:17:40.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+303|C:\Users\estudiante.2016\Desktop\daw\stilos.css|2016-06-15T11:17:40.0000000|2016-06-15T11:17:45.0000000|C:\Users\estudiante.2016\Desktop\daw\stilos.css|ManicTime/Documents
+304|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:17:45.0000000|2016-06-15T11:17:56.0000000|file|ManicTime/Documents
+305|C:\Users\estudiante.2016\Desktop\daw\stilos.css|2016-06-15T11:17:56.0000000|2016-06-15T11:18:01.0000000|C:\Users\estudiante.2016\Desktop\daw\stilos.css|ManicTime/Documents
+306|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:18:01.0000000|2016-06-15T11:18:16.0000000|file|ManicTime/Documents
+308|C:\Users\estudiante.2016\Desktop\daw\stilos.css (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:18:16.0000000|2016-06-15T11:18:21.0000000|Sublime Text|ManicTime/Applications
+309|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:18:21.0000000|2016-06-15T11:18:43.0000000|Google Chrome|ManicTime/Applications
+310|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:18:43.0000000|2016-06-15T11:20:03.0000000|Sublime Text|ManicTime/Applications
+311|C:\Users\estudiante.2016\Desktop\daw\stilos.css|2016-06-15T11:18:16.0000000|2016-06-15T11:18:21.0000000|C:\Users\estudiante.2016\Desktop\daw\stilos.css|ManicTime/Documents
+312|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:18:21.0000000|2016-06-15T11:18:43.0000000|file|ManicTime/Documents
+313|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:18:43.0000000|2016-06-15T11:20:03.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+314|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:20:03.0000000|2016-06-15T11:20:16.0000000|Google Chrome|ManicTime/Applications
+315|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:20:03.0000000|2016-06-15T11:20:16.0000000|file|ManicTime/Documents
+316|lorem ipsum - Buscar con Google - Google Chrome|2016-06-15T11:20:16.0000000|2016-06-15T11:20:21.0000000|Google Chrome|ManicTime/Applications
+317|Lorem Ipsum - All the facts - Lipsum generator - Google Chrome|2016-06-15T11:20:21.0000000|2016-06-15T11:20:30.0000000|Google Chrome|ManicTime/Applications
+318|lorem ipsum - Buscar con Google - Google Chrome|2016-06-15T11:20:30.0000000|2016-06-15T11:20:36.0000000|Google Chrome|ManicTime/Applications
+319|Lorem Ipsum Generator - Google Chrome|2016-06-15T11:20:36.0000000|2016-06-15T11:20:55.0000000|Google Chrome|ManicTime/Applications
+320|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:20:55.0000000|2016-06-15T11:21:04.0000000|Sublime Text|ManicTime/Applications
+321|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:21:04.0000000|2016-06-15T11:21:16.0000000|Sublime Text|ManicTime/Applications
+322|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=lorem ipsum|2016-06-15T11:20:16.0000000|2016-06-15T11:20:21.0000000|www.google.com.ec|ManicTime/Documents
+323|http://es.lipsum.com/|2016-06-15T11:20:21.0000000|2016-06-15T11:20:30.0000000|es.lipsum.com|ManicTime/Documents
+324|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=lorem ipsum|2016-06-15T11:20:30.0000000|2016-06-15T11:20:36.0000000|www.google.com.ec|ManicTime/Documents
+325|http://lorem-ipsum.perbang.dk/|2016-06-15T11:20:36.0000000|2016-06-15T11:20:55.0000000|lorem-ipsum.perbang.dk|ManicTime/Documents
+326|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:20:55.0000000|2016-06-15T11:21:04.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+327|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:21:04.0000000|2016-06-15T11:21:16.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+328|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:21:16.0000000|2016-06-15T11:21:27.0000000|Google Chrome|ManicTime/Applications
+329|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:21:27.0000000|2016-06-15T11:22:58.0000000|Sublime Text|ManicTime/Applications
+330|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:21:16.0000000|2016-06-15T11:21:27.0000000|file|ManicTime/Documents
+331|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:21:27.0000000|2016-06-15T11:22:58.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+332|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:22:58.0000000|2016-06-15T11:24:21.0000000|Google Chrome|ManicTime/Applications
+333|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:22:58.0000000|2016-06-15T11:24:21.0000000|file|ManicTime/Documents
+334|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:24:21.0000000|2016-06-15T11:27:01.0000000|Sublime Text|ManicTime/Applications
+335|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:24:21.0000000|2016-06-15T11:27:01.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+336|C:\Users\estudiante.2016\Desktop\daw\stilos.css (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:27:01.0000000|2016-06-15T11:27:09.0000000|Sublime Text|ManicTime/Applications
+337|C:\Users\estudiante.2016\Desktop\daw\stilos.css|2016-06-15T11:27:01.0000000|2016-06-15T11:27:09.0000000|C:\Users\estudiante.2016\Desktop\daw\stilos.css|ManicTime/Documents
+338|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:27:09.0000000|2016-06-15T11:28:38.0000000|Google Chrome|ManicTime/Applications
+339|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html#carousel-example-generic|2016-06-15T11:27:09.0000000|2016-06-15T11:28:38.0000000|file|ManicTime/Documents
+340|C:\Users\estudiante.2016\Desktop\daw\stilos.css (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:28:38.0000000|2016-06-15T11:28:45.0000000|Sublime Text|ManicTime/Applications
+341|1465999059_998__bootstrap.zip - WinRAR (copia de evaluación)|2016-06-15T11:28:45.0000000|2016-06-15T11:28:53.0000000|WinRAR|ManicTime/Applications
+342|daw|2016-06-15T11:28:53.0000000|2016-06-15T11:29:05.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+343|Eliminar elementos múltiples|2016-06-15T11:29:05.0000000|2016-06-15T11:29:10.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+344|C:\Users\estudiante.2016\Desktop\daw\stilos.css|2016-06-15T11:28:38.0000000|2016-06-15T11:28:45.0000000|C:\Users\estudiante.2016\Desktop\daw\stilos.css|ManicTime/Documents
+345|daw|2016-06-15T11:29:10.0000000|2016-06-15T11:29:38.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+346|imagenes del sitio|2016-06-15T11:29:38.0000000|2016-06-15T11:29:43.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+347|Nueva pestaña - Google Chrome|2016-06-15T11:29:43.0000000|2016-06-15T11:29:51.0000000|Google Chrome|ManicTime/Applications
+348|Nueva pestaña - Google Chrome|2016-06-15T11:29:51.0000000|2016-06-15T11:29:58.0000000|Google Chrome|ManicTime/Applications
+349|Nueva pestaña - Google Chrome|2016-06-15T11:29:58.0000000|2016-06-15T11:30:05.0000000|Google Chrome|ManicTime/Applications
+351|https://www.google.com.ec/search?q=icono+espol&oq=icono+espol&aqs=chrome..69i57.5307j0j7&sourceid=chrome&ie=UTF-8|2016-06-15T11:29:51.0000000|2016-06-15T11:29:58.0000000|www.google.com.ec|ManicTime/Documents
+353|Nueva pestaña - Google Chrome|2016-06-15T11:30:05.0000000|2016-06-15T11:30:41.0000000|Google Chrome|ManicTime/Applications
+354|icono espol - Buscar con Google - Google Chrome|2016-06-15T11:30:41.0000000|2016-06-15T11:32:05.0000000|Google Chrome|ManicTime/Applications
+355|https://www.google.com.ec/search?q=sidweb+espol&oq=sid&aqs=chrome.1.69i57j69i59j69i60l4.3283j0j7&sourceid=chrome&ie=UTF-8|2016-06-15T11:30:05.0000000|2016-06-15T11:30:41.0000000|www.google.com.ec|ManicTime/Documents
+356|https://www.google.com.ec/search?q=icono+espol&oq=icono+espol&aqs=chrome..69i57.5307j0j7&sourceid=chrome&ie=UTF-8|2016-06-15T11:30:41.0000000|2016-06-15T11:32:05.0000000|www.google.com.ec|ManicTime/Documents
+357|imagenes del sitio|2016-06-15T11:32:05.0000000|2016-06-15T11:32:10.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+358|fotos|2016-06-15T11:32:10.0000000|2016-06-15T11:32:15.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+359|daw|2016-06-15T11:32:15.0000000|2016-06-15T11:32:22.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+360|C:\Users\estudiante.2016\Desktop\daw\index.html (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:32:22.0000000|2016-06-15T11:32:40.0000000|Sublime Text|ManicTime/Applications
+361|C:\Users\estudiante.2016\Desktop\daw\index.html • (daw) - Sublime Text (UNREGISTERED)|2016-06-15T11:32:40.0000000|2016-06-15T11:32:50.0000000|Sublime Text|ManicTime/Applications
+362|Program Manager|2016-06-15T11:32:50.0000000|2016-06-15T11:32:59.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+363|icono espol - Buscar con Google - Google Chrome|2016-06-15T11:32:59.0000000|2016-06-15T11:33:06.0000000|Google Chrome|ManicTime/Applications
+364|ESPOL | Servicio de Autenticación - Google Chrome|2016-06-15T11:33:06.0000000|2016-06-15T11:33:16.0000000|Google Chrome|ManicTime/Applications
+365|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:32:22.0000000|2016-06-15T11:32:40.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+366|C:\Users\estudiante.2016\Desktop\daw\index.html|2016-06-15T11:32:40.0000000|2016-06-15T11:32:50.0000000|C:\Users\estudiante.2016\Desktop\daw\index.html|ManicTime/Documents
+367|https://www.google.com.ec/search?q=icono+espol&oq=icono+espol&aqs=chrome..69i57.5307j0j7&sourceid=chrome&ie=UTF-8|2016-06-15T11:32:59.0000000|2016-06-15T11:33:06.0000000|www.google.com.ec|ManicTime/Documents
+368|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-06-15T11:33:06.0000000|2016-06-15T11:33:16.0000000|auth.espol.edu.ec|ManicTime/Documents
+369|Actividad reciente - Google Chrome|2016-06-15T11:33:16.0000000|2016-06-15T11:33:37.0000000|Google Chrome|ManicTime/Applications
+370|Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15T11:33:37.0000000|2016-06-15T11:33:42.0000000|Google Chrome|ManicTime/Applications
+371|Abrir|2016-06-15T11:33:42.0000000|2016-06-15T11:33:50.0000000|Google Chrome|ManicTime/Applications
+372|Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15T11:33:50.0000000|2016-06-15T11:33:56.0000000|Google Chrome|ManicTime/Applications
+373|EcuadorPrimer S.A. - Google Chrome|2016-06-15T11:33:56.0000000|2016-06-15T11:34:35.0000000|Google Chrome|ManicTime/Applications
+374|https://www.sidweb.espol.edu.ec/|2016-06-15T11:33:16.0000000|2016-06-15T11:33:37.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+375|https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15T11:33:37.0000000|2016-06-15T11:33:42.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+376|https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15T11:33:50.0000000|2016-06-15T11:33:56.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+377|http://file///C:/Users/estudiante.2016/Desktop/daw/index.html|2016-06-15T11:33:56.0000000|2016-06-15T11:34:35.0000000|file|ManicTime/Documents
+378|Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15T11:34:35.0000000|2016-06-15T11:34:47.0000000|Google Chrome|ManicTime/Applications
+379|ESPOL | Servicio de Autenticación - Google Chrome|2016-06-15T11:34:47.0000000|2016-06-15T11:34:52.0000000|Google Chrome|ManicTime/Applications
+380|Chrome - Google Chrome|2016-06-15T11:34:52.0000000|2016-06-15T11:34:58.0000000|Google Chrome|ManicTime/Applications
+381||2016-06-15T11:34:58.0000000|2016-06-17T20:22:47.0000000||ManicTime/ComputerUsage
+382|https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15T11:34:35.0000000|2016-06-15T11:34:47.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+383|https://auth.espol.edu.ec/logout?destination=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-06-15T11:34:47.0000000|2016-06-15T11:34:52.0000000|auth.espol.edu.ec|ManicTime/Documents
+384|chrome://chrome-signin/?access_point=0&reason=0|2016-06-15T11:34:52.0000000|2016-06-15T11:34:58.0000000|chrome-signin|ManicTime/Documents
+385|Menú Inicio|2016-07-20T09:21:48.0000000|2016-07-20T09:21:54.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+386|Sistema operativo Microsoft® Windows®|2016-07-20T09:21:54.0000000|2016-07-20T09:22:08.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+387|Starting NetBeans IDE|2016-07-20T09:22:08.0000000|2016-07-20T09:23:13.0000000|NetBeans IDE 8.1|ManicTime/Applications
+388||2016-07-20T09:21:45.0000000|2016-07-20T10:35:16.0000000||ManicTime/ComputerUsage
+389|NetBeans IDE 8.1|2016-07-20T09:23:13.0000000|2016-07-20T09:23:29.0000000|NetBeans IDE 8.1|ManicTime/Applications
+390|New Project|2016-07-20T09:23:29.0000000|2016-07-20T09:23:54.0000000|NetBeans IDE 8.1|ManicTime/Applications
+391|New Web Application|2016-07-20T09:23:54.0000000|2016-07-20T09:24:26.0000000|NetBeans IDE 8.1|ManicTime/Applications
+392|Chrome - Google Chrome|2016-07-20T09:24:26.0000000|2016-07-20T09:24:55.0000000|Google Chrome|ManicTime/Applications
+393|chrome://chrome-signin/?access_point=0&reason=0|2016-07-20T09:24:26.0000000|2016-07-20T09:24:55.0000000|chrome-signin|ManicTime/Documents
+394|Documentos|2016-07-20T09:24:55.0000000|2016-07-20T09:25:23.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+395|1469023283_510__AdmProyectos.zip - WinRAR (solo le quedan 6 días de prueba)|2016-07-20T09:25:23.0000000|2016-07-20T09:25:31.0000000|WinRAR|ManicTime/Applications
+396|Carpeta y opciones de extracción|2016-07-20T09:25:31.0000000|2016-07-20T09:25:38.0000000|WinRAR|ManicTime/Applications
+397|1469023283_510__AdmProyectos.zip - WinRAR (solo le quedan 6 días de prueba)|2016-07-20T09:25:38.0000000|2016-07-20T09:25:46.0000000|WinRAR|ManicTime/Applications
+398|admProyectos - NetBeans IDE 8.1|2016-07-20T09:25:46.0000000|2016-07-20T09:25:56.0000000|NetBeans IDE 8.1|ManicTime/Applications
+399|Abrir|2016-07-20T09:25:56.0000000|2016-07-20T09:26:01.0000000|NetBeans IDE 8.1|ManicTime/Applications
+400|Import Project(s) from ZIP|2016-07-20T09:26:01.0000000|2016-07-20T09:26:14.0000000|NetBeans IDE 8.1|ManicTime/Applications
+401|Open Project|2016-07-20T09:26:14.0000000|2016-07-20T09:26:26.0000000|NetBeans IDE 8.1|ManicTime/Applications
+402|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:26:26.0000000|2016-07-20T09:26:50.0000000|NetBeans IDE 8.1|ManicTime/Applications
+403|New File|2016-07-20T09:26:50.0000000|2016-07-20T09:26:55.0000000|NetBeans IDE 8.1|ManicTime/Applications
+404|New Servlet|2016-07-20T09:26:55.0000000|2016-07-20T09:27:25.0000000|NetBeans IDE 8.1|ManicTime/Applications
+405|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:27:25.0000000|2016-07-20T09:42:36.0000000|NetBeans IDE 8.1|ManicTime/Applications
+406|Install Chrome Extension|2016-07-20T09:42:36.0000000|2016-07-20T09:42:43.0000000|NetBeans IDE 8.1|ManicTime/Applications
+407|Chrome Web Store - Aplicaciones - Google Chrome|2016-07-20T09:42:43.0000000|2016-07-20T09:42:50.0000000|Google Chrome|ManicTime/Applications
+408|https://chrome.google.com/webstore/detail/netbeans-connector/hafdlehgocfcodbgjnpecfajgkeejnaa|2016-07-20T09:42:43.0000000|2016-07-20T09:42:50.0000000|chrome.google.com|ManicTime/Documents
+409|NetBeans Connector - Chrome Web Store - Google Chrome|2016-07-20T09:42:50.0000000|2016-07-20T09:43:07.0000000|Google Chrome|ManicTime/Applications
+410|NetBeans Connector - Chrome Web Store - Google Chrome|2016-07-20T09:43:07.0000000|2016-07-20T09:43:24.0000000|Google Chrome|ManicTime/Applications
+411|blank6081314907338508441.html - Google Chrome|2016-07-20T09:43:24.0000000|2016-07-20T09:43:32.0000000|Google Chrome|ManicTime/Applications
+412|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:32.0000000|2016-07-20T09:43:42.0000000|Google Chrome|ManicTime/Applications
+413|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:42.0000000|2016-07-20T09:43:47.0000000|Google Chrome|ManicTime/Applications
+414|https://chrome.google.com/webstore/detail/netbeans-connector/hafdlehgocfcodbgjnpecfajgkeejnaa|2016-07-20T09:42:50.0000000|2016-07-20T09:43:07.0000000|chrome.google.com|ManicTime/Documents
+415|https://chrome.google.com/webstore/detail/netbeans-connector/hafdlehgocfcodbgjnpecfajgkeejnaa/related|2016-07-20T09:43:07.0000000|2016-07-20T09:43:24.0000000|chrome.google.com|ManicTime/Documents
+416|http://file///C:/Users/ESTUDI~1.201/AppData/Local/Temp/blank6081314907338508441.html|2016-07-20T09:43:24.0000000|2016-07-20T09:43:32.0000000|file|ManicTime/Documents
+417|http://localhost:8080/admProyectos/|2016-07-20T09:43:32.0000000|2016-07-20T09:43:42.0000000|localhost|ManicTime/Documents
+418|http://localhost:8080/admProyectos/Logi|2016-07-20T09:43:42.0000000|2016-07-20T09:43:47.0000000|localhost|ManicTime/Documents
+419|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:47.0000000|2016-07-20T09:43:52.0000000|Google Chrome|ManicTime/Applications
+420|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:52.0000000|2016-07-20T09:43:58.0000000|Google Chrome|ManicTime/Applications
+421|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:58.0000000|2016-07-20T09:44:03.0000000|Google Chrome|ManicTime/Applications
+422|Administrador de Proyectos - Google Chrome|2016-07-20T09:44:03.0000000|2016-07-20T09:44:29.0000000|Google Chrome|ManicTime/Applications
+423|Administrador de Proyectos - Google Chrome|2016-07-20T09:44:29.0000000|2016-07-20T09:44:34.0000000|Google Chrome|ManicTime/Applications
+424|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:44:34.0000000|2016-07-20T09:44:55.0000000|Google Chrome|ManicTime/Applications
+425|http://localhost:8080/admProyectos/LoginServlet|2016-07-20T09:43:47.0000000|2016-07-20T09:43:52.0000000|localhost|ManicTime/Documents
+426|http://localhost:8080/admProyectos/LoginServlet?|2016-07-20T09:43:52.0000000|2016-07-20T09:43:58.0000000|localhost|ManicTime/Documents
+427|http://localhost:8080/admProyectos/LoginServlet?usuario=|2016-07-20T09:43:58.0000000|2016-07-20T09:44:03.0000000|localhost|ManicTime/Documents
+428|http://localhost:8080/admProyectos/LoginServlet?usuario=pepe|2016-07-20T09:44:03.0000000|2016-07-20T09:44:29.0000000|localhost|ManicTime/Documents
+429|http://localhost:8080/admProyectos/LoginServlet?usuario=pepe&pass|2016-07-20T09:44:29.0000000|2016-07-20T09:44:34.0000000|localhost|ManicTime/Documents
+430|http://localhost:8080/admProyectos/LoginServlet?usuario=pepe&password=145|2016-07-20T09:44:34.0000000|2016-07-20T09:44:55.0000000|localhost|ManicTime/Documents
+431|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:44:55.0000000|2016-07-20T09:45:09.0000000|NetBeans IDE 8.1|ManicTime/Applications
+432|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:45:09.0000000|2016-07-20T09:45:58.0000000|Google Chrome|ManicTime/Applications
+433|http://localhost:8080/admProyectos/LoginServlet?usuario=pepe&password=145|2016-07-20T09:45:09.0000000|2016-07-20T09:45:58.0000000|localhost|ManicTime/Documents
+434|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:45:58.0000000|2016-07-20T09:46:09.0000000|NetBeans IDE 8.1|ManicTime/Applications
+435|Administrador de Proyectos - Google Chrome|2016-07-20T09:46:09.0000000|2016-07-20T09:46:17.0000000|Google Chrome|ManicTime/Applications
+436|Administrador de Proyectos - Google Chrome|2016-07-20T09:46:17.0000000|2016-07-20T09:46:22.0000000|Google Chrome|ManicTime/Applications
+437|Administrador de Proyectos - Google Chrome|2016-07-20T09:46:22.0000000|2016-07-20T09:46:32.0000000|Google Chrome|ManicTime/Applications
+438|Administrador de Proyectos - Google Chrome|2016-07-20T09:46:32.0000000|2016-07-20T09:46:37.0000000|Google Chrome|ManicTime/Applications
+439|Administrador de Proyectos - Google Chrome|2016-07-20T09:46:37.0000000|2016-07-20T09:46:43.0000000|Google Chrome|ManicTime/Applications
+440|Administrador de Proyectos - Google Chrome|2016-07-20T09:46:43.0000000|2016-07-20T09:46:48.0000000|Google Chrome|ManicTime/Applications
+441|http://localhost:8080/admProyectos/|2016-07-20T09:46:09.0000000|2016-07-20T09:46:17.0000000|localhost|ManicTime/Documents
+442|http://localhost:8080/admProyectos/Ne|2016-07-20T09:46:17.0000000|2016-07-20T09:46:22.0000000|localhost|ManicTime/Documents
+443|http://localhost:8080/admProyectos/Net|2016-07-20T09:46:22.0000000|2016-07-20T09:46:32.0000000|localhost|ManicTime/Documents
+444|http://localhost:8080/admProyectos/LoginServ|2016-07-20T09:46:32.0000000|2016-07-20T09:46:37.0000000|localhost|ManicTime/Documents
+445|http://localhost:8080/admProyectos/LoginServlet?|2016-07-20T09:46:37.0000000|2016-07-20T09:46:43.0000000|localhost|ManicTime/Documents
+446|http://localhost:8080/admProyectos/LoginServlet?usuario|2016-07-20T09:46:43.0000000|2016-07-20T09:46:48.0000000|localhost|ManicTime/Documents
+447|Administrador de Proyectos - Google Chrome|2016-07-20T09:46:48.0000000|2016-07-20T09:46:53.0000000|Google Chrome|ManicTime/Applications
+448|Administrador de Proyectos - Google Chrome|2016-07-20T09:46:53.0000000|2016-07-20T09:46:58.0000000|Google Chrome|ManicTime/Applications
+449|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:46:58.0000000|2016-07-20T09:47:32.0000000|Google Chrome|ManicTime/Applications
+450|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:47:32.0000000|2016-07-20T09:47:46.0000000|NetBeans IDE 8.1|ManicTime/Applications
+451|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:47:46.0000000|2016-07-20T09:47:51.0000000|Google Chrome|ManicTime/Applications
+452|http://localhost:8080/admProyectos/LoginServlet?usuario=admi|2016-07-20T09:46:48.0000000|2016-07-20T09:46:53.0000000|localhost|ManicTime/Documents
+453|http://localhost:8080/admProyectos/LoginServlet?usuario=admin&pass|2016-07-20T09:46:53.0000000|2016-07-20T09:46:58.0000000|localhost|ManicTime/Documents
+454|http://localhost:8080/admProyectos/LoginServlet?usuario=admin&password=1234|2016-07-20T09:46:58.0000000|2016-07-20T09:47:32.0000000|localhost|ManicTime/Documents
+455|http://localhost:8080/admProyectos/LoginServlet?usuario=admin&password=1234|2016-07-20T09:47:46.0000000|2016-07-20T09:47:51.0000000|localhost|ManicTime/Documents
+456|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:47:51.0000000|2016-07-20T09:48:06.0000000|NetBeans IDE 8.1|ManicTime/Applications
+457|Administrador de Proyectos - Google Chrome|2016-07-20T09:48:06.0000000|2016-07-20T09:48:13.0000000|Google Chrome|ManicTime/Applications
+458|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:48:13.0000000|2016-07-20T09:48:23.0000000|NetBeans IDE 8.1|ManicTime/Applications
+459|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:48:23.0000000|2016-07-20T09:48:28.0000000|Google Chrome|ManicTime/Applications
+460|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:48:28.0000000|2016-07-20T09:48:38.0000000|NetBeans IDE 8.1|ManicTime/Applications
+461|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:48:38.0000000|2016-07-20T09:48:43.0000000|Google Chrome|ManicTime/Applications
+462|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:48:43.0000000|2016-07-20T09:48:48.0000000|Google Chrome|ManicTime/Applications
+463|http://localhost:8080/admProyectos/|2016-07-20T09:48:06.0000000|2016-07-20T09:48:13.0000000|localhost|ManicTime/Documents
+464|http://localhost:8080/admProyectos/LoginServlet|2016-07-20T09:48:23.0000000|2016-07-20T09:48:28.0000000|localhost|ManicTime/Documents
+465|http://localhost:8080/AdmProyectos/LoginServlet|2016-07-20T09:48:38.0000000|2016-07-20T09:48:43.0000000|localhost|ManicTime/Documents
+466|http://localhost:8080/admProyectos/LoginServlet?us|2016-07-20T09:48:43.0000000|2016-07-20T09:48:48.0000000|localhost|ManicTime/Documents
+467|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:48:48.0000000|2016-07-20T09:48:53.0000000|Google Chrome|ManicTime/Applications
+468|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:48:53.0000000|2016-07-20T09:49:40.0000000|NetBeans IDE 8.1|ManicTime/Applications
+469|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:49:40.0000000|2016-07-20T09:49:46.0000000|Google Chrome|ManicTime/Applications
+470|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:49:46.0000000|2016-07-20T09:50:00.0000000|NetBeans IDE 8.1|ManicTime/Applications
+471|http://localhost:8080/admProyectos/LoginServlet?usuario=sdnsd&|2016-07-20T09:48:48.0000000|2016-07-20T09:48:53.0000000|localhost|ManicTime/Documents
+472|http://localhost:8080/admProyectos/LoginServlet?usuario=sdnsd&password=jsdhnjsd|2016-07-20T09:49:40.0000000|2016-07-20T09:49:46.0000000|localhost|ManicTime/Documents
+473|NetBeans IDE 8.1|2016-07-20T09:50:00.0000000|2016-07-20T09:50:29.0000000|NetBeans IDE 8.1|ManicTime/Applications
+474|New Servlet|2016-07-20T09:50:29.0000000|2016-07-20T09:50:46.0000000|NetBeans IDE 8.1|ManicTime/Applications
+476|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:50:46.0000000|2016-07-20T09:50:55.0000000|Google Chrome|ManicTime/Applications
+477|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:50:55.0000000|2016-07-20T09:51:00.0000000|Google Chrome|ManicTime/Applications
+478|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:51:00.0000000|2016-07-20T09:51:18.0000000|NetBeans IDE 8.1|ManicTime/Applications
+479|Administrador de Proyectos - Google Chrome|2016-07-20T09:51:18.0000000|2016-07-20T09:51:24.0000000|Google Chrome|ManicTime/Applications
+480|Administrador de Proyectos - Google Chrome|2016-07-20T09:51:24.0000000|2016-07-20T09:51:29.0000000|Google Chrome|ManicTime/Applications
+481|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:51:29.0000000|2016-07-20T09:51:36.0000000|Google Chrome|ManicTime/Applications
+482|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:51:36.0000000|2016-07-20T09:51:57.0000000|NetBeans IDE 8.1|ManicTime/Applications
+483|http://localhost:8080/admProyectos/LoginServlet?usuario=sdnsd&password=jsdhnjsd|2016-07-20T09:50:46.0000000|2016-07-20T09:50:55.0000000|localhost|ManicTime/Documents
+484|http://localhost:8080/admProyectos/TestSe|2016-07-20T09:50:55.0000000|2016-07-20T09:51:00.0000000|localhost|ManicTime/Documents
+485|http://localhost:8080/admProyectos/|2016-07-20T09:51:18.0000000|2016-07-20T09:51:24.0000000|localhost|ManicTime/Documents
+486|http://localhost:8080/admProyectos/test|2016-07-20T09:51:24.0000000|2016-07-20T09:51:29.0000000|localhost|ManicTime/Documents
+487|http://localhost:8080/admProyectos/TestServlet|2016-07-20T09:51:29.0000000|2016-07-20T09:51:36.0000000|localhost|ManicTime/Documents
+488|New Servlet|2016-07-20T09:51:57.0000000|2016-07-20T09:52:06.0000000|NetBeans IDE 8.1|ManicTime/Applications
+489|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:52:06.0000000|2016-07-20T09:52:15.0000000|Google Chrome|ManicTime/Applications
+490|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:52:15.0000000|2016-07-20T09:52:42.0000000|NetBeans IDE 8.1|ManicTime/Applications
+491|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:52:42.0000000|2016-07-20T09:52:56.0000000|Google Chrome|ManicTime/Applications
+492|http://localhost:8080/admProyectos/TestServlet|2016-07-20T09:52:06.0000000|2016-07-20T09:52:15.0000000|localhost|ManicTime/Documents
+493|http://localhost:8080/admProyectos/NewServlet|2016-07-20T09:52:42.0000000|2016-07-20T09:52:56.0000000|localhost|ManicTime/Documents
+494|New Project|2016-07-20T09:52:56.0000000|2016-07-20T09:53:03.0000000|NetBeans IDE 8.1|ManicTime/Applications
+495|New Web Application|2016-07-20T09:53:03.0000000|2016-07-20T09:53:09.0000000|NetBeans IDE 8.1|ManicTime/Applications
+496|WebApplication1 - NetBeans IDE 8.1|2016-07-20T09:53:09.0000000|2016-07-20T09:53:28.0000000|NetBeans IDE 8.1|ManicTime/Applications
+497|Internet Explorer 11|2016-07-20T09:53:28.0000000|2016-07-20T09:53:35.0000000|Internet Explorer|ManicTime/Applications
+498|Internet Explorer|2016-07-20T09:53:35.0000000|2016-07-20T09:53:40.0000000|Internet Explorer|ManicTime/Applications
+499|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:53:40.0000000|2016-07-20T09:53:49.0000000|Google Chrome|ManicTime/Applications
+500|http://localhost:8080/admProyectos/NewServlet|2016-07-20T09:53:40.0000000|2016-07-20T09:53:49.0000000|localhost|ManicTime/Documents
+501|WebApplication1 - NetBeans IDE 8.1|2016-07-20T09:53:49.0000000|2016-07-20T09:53:54.0000000|NetBeans IDE 8.1|ManicTime/Applications
+502|TODO supply a title - Internet Explorer|2016-07-20T09:53:54.0000000|2016-07-20T09:53:59.0000000|Internet Explorer|ManicTime/Applications
+503|Servlet NewServlet - Internet Explorer|2016-07-20T09:53:59.0000000|2016-07-20T09:54:10.0000000|Internet Explorer|ManicTime/Applications
+504|Servlet NewServlet - Google Chrome|2016-07-20T09:54:10.0000000|2016-07-20T09:54:18.0000000|Google Chrome|ManicTime/Applications
+505|WebApplication1 - NetBeans IDE 8.1|2016-07-20T09:54:18.0000000|2016-07-20T09:54:25.0000000|NetBeans IDE 8.1|ManicTime/Applications
+506|Rename Project|2016-07-20T09:54:25.0000000|2016-07-20T09:54:38.0000000|NetBeans IDE 8.1|ManicTime/Applications
+507|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:54:38.0000000|2016-07-20T09:55:04.0000000|NetBeans IDE 8.1|ManicTime/Applications
+508|http://localhost:8080/WebApplication1/|2016-07-20T09:53:54.0000000|2016-07-20T09:53:59.0000000|localhost|ManicTime/Documents
+509|http://localhost:8080/WebApplication1/NewServlet|2016-07-20T09:53:59.0000000|2016-07-20T09:54:10.0000000|localhost|ManicTime/Documents
+510|http://localhost:8080/WebApplication1/NewServlet|2016-07-20T09:54:10.0000000|2016-07-20T09:54:18.0000000|localhost|ManicTime/Documents
+511|Servlet NewServlet - Google Chrome|2016-07-20T09:55:04.0000000|2016-07-20T09:55:38.0000000|Google Chrome|ManicTime/Applications
+512|NetBeansProjects|2016-07-20T09:55:38.0000000|2016-07-20T09:55:44.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+513|Confirmar el reemplazo de carpetas|2016-07-20T09:55:44.0000000|2016-07-20T09:55:55.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+514|http://localhost:8080/WebApplication1/NewServlet|2016-07-20T09:55:04.0000000|2016-07-20T09:55:38.0000000|localhost|ManicTime/Documents
+515|NetBeansProjects|2016-07-20T09:55:55.0000000|2016-07-20T09:56:02.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+516|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:56:02.0000000|2016-07-20T09:56:12.0000000|NetBeans IDE 8.1|ManicTime/Applications
+517|Administrador de Proyectos - Google Chrome|2016-07-20T09:56:12.0000000|2016-07-20T09:56:23.0000000|Google Chrome|ManicTime/Applications
+518|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:56:23.0000000|2016-07-20T09:56:28.0000000|Google Chrome|ManicTime/Applications
+519|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:56:28.0000000|2016-07-20T09:56:45.0000000|NetBeans IDE 8.1|ManicTime/Applications
+520|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:56:45.0000000|2016-07-20T09:56:50.0000000|Google Chrome|ManicTime/Applications
+521|http://localhost:8080/admProyectos/|2016-07-20T09:56:12.0000000|2016-07-20T09:56:23.0000000|localhost|ManicTime/Documents
+522|http://localhost:8080/admProyectos/LoginServlet|2016-07-20T09:56:23.0000000|2016-07-20T09:56:28.0000000|localhost|ManicTime/Documents
+523|http://localhost:8080/admProyectos/LoginServlet|2016-07-20T09:56:45.0000000|2016-07-20T09:56:50.0000000|localhost|ManicTime/Documents
+524|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:56:50.0000000|2016-07-20T09:56:56.0000000|Google Chrome|ManicTime/Applications
+525|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:56:56.0000000|2016-07-20T09:57:27.0000000|Google Chrome|ManicTime/Applications
+526|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:57:27.0000000|2016-07-20T09:57:50.0000000|NetBeans IDE 8.1|ManicTime/Applications
+527|http://localhost:8080/admProyectos/New|2016-07-20T09:56:50.0000000|2016-07-20T09:56:56.0000000|localhost|ManicTime/Documents
+528|http://localhost:8080/admProyectos/NewServlet|2016-07-20T09:56:56.0000000|2016-07-20T09:57:27.0000000|localhost|ManicTime/Documents
+529|AdmProyectos|2016-07-20T09:57:50.0000000|2016-07-20T09:58:05.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+530|WebApplication1|2016-07-20T09:58:05.0000000|2016-07-20T09:58:12.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+531|Copiar 70 elementos (6,19 MB)|2016-07-20T09:58:12.0000000|2016-07-20T09:58:17.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+532|Eliminar elementos múltiples|2016-07-20T09:58:17.0000000|2016-07-20T09:58:22.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+533|WebApplication1|2016-07-20T09:58:22.0000000|2016-07-20T09:58:31.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+534|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:58:31.0000000|2016-07-20T09:58:51.0000000|NetBeans IDE 8.1|ManicTime/Applications
+535|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T09:58:51.0000000|2016-07-20T09:59:37.0000000|Google Chrome|ManicTime/Applications
+536|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:59:37.0000000|2016-07-20T09:59:46.0000000|NetBeans IDE 8.1|ManicTime/Applications
+537|Delete Project|2016-07-20T09:59:46.0000000|2016-07-20T09:59:52.0000000|NetBeans IDE 8.1|ManicTime/Applications
+538|http://localhost:8080/admProyectos/NewServlet|2016-07-20T09:58:51.0000000|2016-07-20T09:59:37.0000000|localhost|ManicTime/Documents
+539|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:59:52.0000000|2016-07-20T09:59:58.0000000|NetBeans IDE 8.1|ManicTime/Applications
+540|Delete Project|2016-07-20T09:59:58.0000000|2016-07-20T10:00:03.0000000|NetBeans IDE 8.1|ManicTime/Applications
+541|NetBeans IDE 8.1|2016-07-20T10:00:03.0000000|2016-07-20T10:00:08.0000000|NetBeans IDE 8.1|ManicTime/Applications
+542|ESPOL | Servicio de Autenticación - Google Chrome|2016-07-20T10:00:08.0000000|2016-07-20T10:00:29.0000000|Google Chrome|ManicTime/Applications
+543|Actividad reciente - Google Chrome|2016-07-20T10:00:29.0000000|2016-07-20T10:00:44.0000000|Google Chrome|ManicTime/Applications
+544|Conversaciones: Jorge Luis Cedeno Arteaga - Google Chrome|2016-07-20T10:00:44.0000000|2016-07-20T10:00:50.0000000|Google Chrome|ManicTime/Applications
+545|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-07-20T10:00:08.0000000|2016-07-20T10:00:29.0000000|auth.espol.edu.ec|ManicTime/Documents
+546|https://www.sidweb.espol.edu.ec/|2016-07-20T10:00:29.0000000|2016-07-20T10:00:44.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+547|https://www.sidweb.espol.edu.ec/conversations|2016-07-20T10:00:44.0000000|2016-07-20T10:00:50.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+548|Conversaciones: Jorge Luis Cedeno Arteaga - Google Chrome|2016-07-20T10:00:50.0000000|2016-07-20T10:01:02.0000000|Google Chrome|ManicTime/Applications
+549|Open Project|2016-07-20T10:01:02.0000000|2016-07-20T10:02:03.0000000|NetBeans IDE 8.1|ManicTime/Applications
+550|https://www.sidweb.espol.edu.ec/conversations#/conversations/364274|2016-07-20T10:00:50.0000000|2016-07-20T10:01:02.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+551|NetBeans IDE 8.1|2016-07-20T10:02:03.0000000|2016-07-20T10:02:11.0000000|NetBeans IDE 8.1|ManicTime/Applications
+552|Open Project|2016-07-20T10:02:11.0000000|2016-07-20T10:02:23.0000000|NetBeans IDE 8.1|ManicTime/Applications
+553|NetBeans IDE 8.1|2016-07-20T10:02:23.0000000|2016-07-20T10:02:35.0000000|NetBeans IDE 8.1|ManicTime/Applications
+554|Documentos|2016-07-20T10:02:35.0000000|2016-07-20T10:02:40.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+555|AdmProyectos|2016-07-20T10:02:40.0000000|2016-07-20T10:02:52.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+556|web|2016-07-20T10:02:52.0000000|2016-07-20T10:03:12.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+557|https://www.sidweb.espol.edu.ec/conversations#/conversations/364274 - Google Chrome|2016-07-20T10:03:12.0000000|2016-07-20T10:03:18.0000000|Google Chrome|ManicTime/Applications
+558|facebook - Buscar con Google - Google Chrome|2016-07-20T10:03:18.0000000|2016-07-20T10:03:31.0000000|Google Chrome|ManicTime/Applications
+559|Regístrate en Facebook | Facebook - Google Chrome|2016-07-20T10:03:31.0000000|2016-07-20T10:03:54.0000000|Google Chrome|ManicTime/Applications
+560|https://www.sidweb.espol.edu.ec/conversations#/conversations/364274|2016-07-20T10:03:12.0000000|2016-07-20T10:03:18.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+561|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=facebook|2016-07-20T10:03:18.0000000|2016-07-20T10:03:31.0000000|www.google.com.ec|ManicTime/Documents
+562|https://www.facebook.com/campaign/landing.php?&campaign_id=341681775989014&extra_1=sAYk3C25I|c|80863307351|e|facebook||8095nvz40968&placement=&creative=80863307351&keyword=facebook&partner_id=googlesem&extra_2=network%3Dg%26matchtype%3De%26target%3D%26source%3D%26adposition%3D1t1%26aceid%3D%26geo_id%3D20261&gclid=CJrmz4iogs4CFYcfhgodFgUHyg|2016-07-20T10:03:31.0000000|2016-07-20T10:03:54.0000000|www.facebook.com|ManicTime/Documents
+563|Conversaciones: Jorge Luis Cedeno Arteaga - Google Chrome|2016-07-20T10:03:54.0000000|2016-07-20T10:03:59.0000000|Google Chrome|ManicTime/Applications
+564|web|2016-07-20T10:03:59.0000000|2016-07-20T10:04:05.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+565|NetBeansProjects|2016-07-20T10:04:05.0000000|2016-07-20T10:04:12.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+566|Conversaciones: Jorge Luis Cedeno Arteaga - Google Chrome|2016-07-20T10:04:12.0000000|2016-07-20T10:04:35.0000000|Google Chrome|ManicTime/Applications
+567|AdmProyectos.rar - WinRAR (solo le quedan 6 días de prueba)|2016-07-20T10:04:35.0000000|2016-07-20T10:04:42.0000000|WinRAR|ManicTime/Applications
+568|Carpeta y opciones de extracción|2016-07-20T10:04:42.0000000|2016-07-20T10:04:57.0000000|WinRAR|ManicTime/Applications
+569|https://www.sidweb.espol.edu.ec/conversations#/conversations/364274|2016-07-20T10:03:54.0000000|2016-07-20T10:03:59.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+570|https://www.sidweb.espol.edu.ec/conversations#/conversations/418534|2016-07-20T10:04:12.0000000|2016-07-20T10:04:35.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+571|Conversaciones: Jorge Luis Cedeno Arteaga - Google Chrome|2016-07-20T10:04:57.0000000|2016-07-20T10:05:03.0000000|Google Chrome|ManicTime/Applications
+572|Sistema operativo Microsoft® Windows®|2016-07-20T10:05:03.0000000|2016-07-20T10:05:08.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+573|Starting NetBeans IDE|2016-07-20T10:05:08.0000000|2016-07-20T10:05:48.0000000|NetBeans IDE 8.1|ManicTime/Applications
+575|https://www.sidweb.espol.edu.ec/conversations#/conversations/418534|2016-07-20T10:04:57.0000000|2016-07-20T10:05:03.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+576|Usage Statistics|2016-07-20T10:05:48.0000000|2016-07-20T10:06:04.0000000|NetBeans IDE 8.1|ManicTime/Applications
+577|Open Project|2016-07-20T10:06:04.0000000|2016-07-20T10:06:11.0000000|NetBeans IDE 8.1|ManicTime/Applications
+578|NetBeans IDE 8.1|2016-07-20T10:06:11.0000000|2016-07-20T10:06:16.0000000|NetBeans IDE 8.1|ManicTime/Applications
+579|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:06:16.0000000|2016-07-20T10:10:38.0000000|NetBeans IDE 8.1|ManicTime/Applications
+580|Project Properties - AdmProyectos|2016-07-20T10:10:38.0000000|2016-07-20T10:11:02.0000000|NetBeans IDE 8.1|ManicTime/Applications
+581|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:11:02.0000000|2016-07-20T10:11:42.0000000|NetBeans IDE 8.1|ManicTime/Applications
+582|https://www.sidweb.espol.edu.ec/conversations#/conversations/418534 - Google Chrome|2016-07-20T10:11:42.0000000|2016-07-20T10:12:01.0000000|Google Chrome|ManicTime/Applications
+584|https://www.sidweb.espol.edu.ec/conversations#/conversations/418534|2016-07-20T10:11:42.0000000|2016-07-20T10:12:01.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+586|Conversaciones: Jorge Luis Cedeno Arteaga - Google Chrome|2016-07-20T10:12:01.0000000|2016-07-20T10:12:06.0000000|Google Chrome|ManicTime/Applications
+587|Conversaciones: Jorge Luis Cedeno Arteaga - Google Chrome|2016-07-20T10:12:06.0000000|2016-07-20T10:12:13.0000000|Google Chrome|ManicTime/Applications
+588|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:12:13.0000000|2016-07-20T10:14:12.0000000|NetBeans IDE 8.1|ManicTime/Applications
+589|https://www.sidweb.espol.edu.ec/conversations#/conversations/418534|2016-07-20T10:12:01.0000000|2016-07-20T10:12:06.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+590|https://www.sidweb.espol.edu.ec/conversations#/conversations/518534|2016-07-20T10:12:06.0000000|2016-07-20T10:12:13.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+591|New Servlet|2016-07-20T10:14:12.0000000|2016-07-20T10:14:57.0000000|NetBeans IDE 8.1|ManicTime/Applications
+592|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:14:57.0000000|2016-07-20T10:16:11.0000000|NetBeans IDE 8.1|ManicTime/Applications
+593|Import Classes|2016-07-20T10:16:11.0000000|2016-07-20T10:16:17.0000000|NetBeans IDE 8.1|ManicTime/Applications
+594|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:16:17.0000000|2016-07-20T10:17:06.0000000|NetBeans IDE 8.1|ManicTime/Applications
+595|blank8188169135314730095.html - Google Chrome|2016-07-20T10:17:06.0000000|2016-07-20T10:17:12.0000000|Google Chrome|ManicTime/Applications
+596|Administrador de Proyectos - Google Chrome|2016-07-20T10:17:12.0000000|2016-07-20T10:17:23.0000000|Google Chrome|ManicTime/Applications
+597|Administrador de Proyectos - Google Chrome|2016-07-20T10:17:23.0000000|2016-07-20T10:17:39.0000000|Google Chrome|ManicTime/Applications
+598|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:17:39.0000000|2016-07-20T10:17:50.0000000|NetBeans IDE 8.1|ManicTime/Applications
+599|http://file///C:/Users/ESTUDI~1.201/AppData/Local/Temp/blank8188169135314730095.html|2016-07-20T10:17:06.0000000|2016-07-20T10:17:12.0000000|file|ManicTime/Documents
+600|http://localhost:8080/AdmProyectos/|2016-07-20T10:17:12.0000000|2016-07-20T10:17:23.0000000|localhost|ManicTime/Documents
+601|http://localhost:8080/AdmProyectos/?usuario=jlc&password=jasdq|2016-07-20T10:17:23.0000000|2016-07-20T10:17:39.0000000|localhost|ManicTime/Documents
+602|Rename Class LoginServlet1|2016-07-20T10:17:50.0000000|2016-07-20T10:17:56.0000000|NetBeans IDE 8.1|ManicTime/Applications
+603|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:17:56.0000000|2016-07-20T10:18:14.0000000|NetBeans IDE 8.1|ManicTime/Applications
+604|Administrador de Proyectos - Google Chrome|2016-07-20T10:18:14.0000000|2016-07-20T10:18:29.0000000|Google Chrome|ManicTime/Applications
+605|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:18:29.0000000|2016-07-20T10:19:03.0000000|NetBeans IDE 8.1|ManicTime/Applications
+606|http://localhost:8080/AdmProyectos/?usuario=admin&password=1234|2016-07-20T10:18:14.0000000|2016-07-20T10:18:29.0000000|localhost|ManicTime/Documents
+607|Administrador de Proyectos - Google Chrome|2016-07-20T10:19:03.0000000|2016-07-20T10:19:08.0000000|Google Chrome|ManicTime/Applications
+608|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:19:08.0000000|2016-07-20T10:19:29.0000000|NetBeans IDE 8.1|ManicTime/Applications
+609|Administrador de Proyectos - Google Chrome|2016-07-20T10:19:29.0000000|2016-07-20T10:19:34.0000000|Google Chrome|ManicTime/Applications
+610|Administrador de Proyectos - Google Chrome|2016-07-20T10:19:34.0000000|2016-07-20T10:19:39.0000000|Google Chrome|ManicTime/Applications
+611|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:19:39.0000000|2016-07-20T10:20:52.0000000|NetBeans IDE 8.1|ManicTime/Applications
+612|http://localhost:8080/AdmProyectos/?usuario=&password=|2016-07-20T10:19:03.0000000|2016-07-20T10:19:08.0000000|localhost|ManicTime/Documents
+613|http://localhost:8080/AdmProyectos/?usuario=qwe&password=asdf|2016-07-20T10:19:29.0000000|2016-07-20T10:19:34.0000000|localhost|ManicTime/Documents
+614|http://localhost:8080/AdmProyectos/Log?usuario=qwe&password=asdf|2016-07-20T10:19:34.0000000|2016-07-20T10:19:39.0000000|localhost|ManicTime/Documents
+615|Error|2016-07-20T10:20:52.0000000|2016-07-20T10:20:58.0000000|NetBeans IDE 8.1|ManicTime/Applications
+616|Administrador de Proyectos - Google Chrome|2016-07-20T10:20:58.0000000|2016-07-20T10:21:06.0000000|Google Chrome|ManicTime/Applications
+617|Administrador de Proyectos - Google Chrome|2016-07-20T10:21:06.0000000|2016-07-20T10:21:11.0000000|Google Chrome|ManicTime/Applications
+618|Administrador de Proyectos - Google Chrome|2016-07-20T10:21:11.0000000|2016-07-20T10:21:16.0000000|Google Chrome|ManicTime/Applications
+619|Administrador de Proyectos - Google Chrome|2016-07-20T10:21:16.0000000|2016-07-20T10:21:21.0000000|Google Chrome|ManicTime/Applications
+620|Administrador de Proyectos - Google Chrome|2016-07-20T10:21:21.0000000|2016-07-20T10:21:27.0000000|Google Chrome|ManicTime/Applications
+621|Administrador de Proyectos - Google Chrome|2016-07-20T10:21:27.0000000|2016-07-20T10:21:35.0000000|Google Chrome|ManicTime/Applications
+622|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:21:35.0000000|2016-07-20T10:24:11.0000000|NetBeans IDE 8.1|ManicTime/Applications
+623|http://localhost:8080/AdmProyectos/|2016-07-20T10:20:58.0000000|2016-07-20T10:21:06.0000000|localhost|ManicTime/Documents
+624|http://localhost:8080/AdmProyectos/?usuario=&password=|2016-07-20T10:21:06.0000000|2016-07-20T10:21:11.0000000|localhost|ManicTime/Documents
+625|http://localhost:8080/AdmProyectos/?usuario=asdf&password=|2016-07-20T10:21:11.0000000|2016-07-20T10:21:16.0000000|localhost|ManicTime/Documents
+626|http://localhost:8080/AdmProyectos/?usuario=&password=asdf|2016-07-20T10:21:16.0000000|2016-07-20T10:21:21.0000000|localhost|ManicTime/Documents
+627|http://localhost:8080/AdmProyectos/?usuario=asdf&password=asdf|2016-07-20T10:21:21.0000000|2016-07-20T10:21:27.0000000|localhost|ManicTime/Documents
+628|http://localhost:8080/AdmProyectos/?usuario=asdf&password=asdfassdf|2016-07-20T10:21:27.0000000|2016-07-20T10:21:35.0000000|localhost|ManicTime/Documents
+629|Administrador de Proyectos - Google Chrome|2016-07-20T10:24:11.0000000|2016-07-20T10:24:22.0000000|Google Chrome|ManicTime/Applications
+630|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T10:24:22.0000000|2016-07-20T10:24:33.0000000|Google Chrome|ManicTime/Applications
+631|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:24:33.0000000|2016-07-20T10:26:30.0000000|NetBeans IDE 8.1|ManicTime/Applications
+632|http://localhost:8080/AdmProyectos/?usuario=asdf&password=asdfassdf|2016-07-20T10:24:11.0000000|2016-07-20T10:24:22.0000000|localhost|ManicTime/Documents
+633|http://localhost:8080/AdmProyectos/?usuario=asdf&password=asdfasdf|2016-07-20T10:24:22.0000000|2016-07-20T10:24:33.0000000|localhost|ManicTime/Documents
+634|Move Class|2016-07-20T10:26:30.0000000|2016-07-20T10:26:35.0000000|NetBeans IDE 8.1|ManicTime/Applications
+635|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:26:35.0000000|2016-07-20T10:26:41.0000000|NetBeans IDE 8.1|ManicTime/Applications
+636|Move Class|2016-07-20T10:26:41.0000000|2016-07-20T10:26:47.0000000|NetBeans IDE 8.1|ManicTime/Applications
+638|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:26:47.0000000|2016-07-20T10:27:07.0000000|NetBeans IDE 8.1|ManicTime/Applications
+639|Move Class|2016-07-20T10:27:07.0000000|2016-07-20T10:27:22.0000000|NetBeans IDE 8.1|ManicTime/Applications
+640|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:27:22.0000000|2016-07-20T10:27:37.0000000|NetBeans IDE 8.1|ManicTime/Applications
+641|Administrador de Proyectos - Google Chrome|2016-07-20T10:27:37.0000000|2016-07-20T10:27:54.0000000|Google Chrome|ManicTime/Applications
+642|http://localhost:8080/AdmProyectos/?usuario=asdf&password=asdfassdf|2016-07-20T10:27:37.0000000|2016-07-20T10:27:54.0000000|localhost|ManicTime/Documents
+643|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T10:27:54.0000000|2016-07-20T10:28:17.0000000|Google Chrome|ManicTime/Applications
+644|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:28:17.0000000|2016-07-20T10:30:43.0000000|NetBeans IDE 8.1|ManicTime/Applications
+645|http://localhost:8080/AdmProyectos/?usuario=admin&password=1234|2016-07-20T10:27:54.0000000|2016-07-20T10:28:17.0000000|localhost|ManicTime/Documents
+646|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T10:30:43.0000000|2016-07-20T10:30:49.0000000|Google Chrome|ManicTime/Applications
+647|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T10:30:49.0000000|2016-07-20T10:30:54.0000000|Google Chrome|ManicTime/Applications
+648|http://localhost:8080/AdmProyectos/?usuario=admin&password=1234|2016-07-20T10:30:43.0000000|2016-07-20T10:30:49.0000000|localhost|ManicTime/Documents
+649|http://localhost:8080/AdmProyectos/LoginS?usuario=admin&password=1234|2016-07-20T10:30:49.0000000|2016-07-20T10:30:54.0000000|localhost|ManicTime/Documents
+650|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T10:30:54.0000000|2016-07-20T10:31:13.0000000|Google Chrome|ManicTime/Applications
+651|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:31:13.0000000|2016-07-20T10:31:25.0000000|NetBeans IDE 8.1|ManicTime/Applications
+652|Set Servlet Execution URI|2016-07-20T10:31:25.0000000|2016-07-20T10:31:31.0000000|NetBeans IDE 8.1|ManicTime/Applications
+653|blank722885779386027393.html - Google Chrome|2016-07-20T10:31:31.0000000|2016-07-20T10:31:36.0000000|Google Chrome|ManicTime/Applications
+654|GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20T10:31:36.0000000|2016-07-20T10:31:47.0000000|Google Chrome|ManicTime/Applications
+655|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:31:47.0000000|2016-07-20T10:32:16.0000000|NetBeans IDE 8.1|ManicTime/Applications
+656|http://localhost:8080/AdmProyectos/LoginServlet?usuario=admin&password=1234|2016-07-20T10:30:54.0000000|2016-07-20T10:31:13.0000000|localhost|ManicTime/Documents
+657|http://file///C:/Users/ESTUDI~1.201/AppData/Local/Temp/blank722885779386027393.html|2016-07-20T10:31:31.0000000|2016-07-20T10:31:36.0000000|file|ManicTime/Documents
+658|http://localhost:8080/AdmProyectos/LoginServlet|2016-07-20T10:31:36.0000000|2016-07-20T10:31:47.0000000|localhost|ManicTime/Documents
+659|Sin título|2016-07-20T10:32:16.0000000|2016-07-20T10:32:21.0000000|Google Chrome|ManicTime/Applications
+660|NetBeans Connector|2016-07-20T10:32:21.0000000|2016-07-20T10:32:29.0000000|Google Chrome|ManicTime/Applications
+661|Administrador de Proyectos - Google Chrome|2016-07-20T10:32:29.0000000|2016-07-20T10:32:40.0000000|Google Chrome|ManicTime/Applications
+662|Administrador de Proyectos - Google Chrome|2016-07-20T10:32:40.0000000|2016-07-20T10:32:56.0000000|Google Chrome|ManicTime/Applications
+663|chrome-extension://hafdlehgocfcodbgjnpecfajgkeejnaa/html/warning.html#disconnectedDebugger|2016-07-20T10:32:16.0000000|2016-07-20T10:32:21.0000000|hafdlehgocfcodbgjnpecfajgkeejnaa|ManicTime/Documents
+664|chrome-extension://hafdlehgocfcodbgjnpecfajgkeejnaa/html/warning.html#disconnectedDebugger|2016-07-20T10:32:21.0000000|2016-07-20T10:32:29.0000000|hafdlehgocfcodbgjnpecfajgkeejnaa|ManicTime/Documents
+665|http://localhost:8080/AdmProyectos/|2016-07-20T10:32:29.0000000|2016-07-20T10:32:40.0000000|localhost|ManicTime/Documents
+666|http://localhost:8080/AdmProyectos/?usuario=qwe&password=qwer|2016-07-20T10:32:40.0000000|2016-07-20T10:32:56.0000000|localhost|ManicTime/Documents
+667|Administrador de Proyectos - Google Chrome|2016-07-20T10:32:56.0000000|2016-07-20T10:33:05.0000000|Google Chrome|ManicTime/Applications
+668|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:33:05.0000000|2016-07-20T10:34:06.0000000|NetBeans IDE 8.1|ManicTime/Applications
+669|http://localhost:8080/AdmProyectos/?usuario=admin&password=1234|2016-07-20T10:32:56.0000000|2016-07-20T10:33:05.0000000|localhost|ManicTime/Documents
+670|Conversaciones: Jorge Luis Cedeno Arteaga - Google Chrome|2016-07-20T10:34:06.0000000|2016-07-20T10:34:19.0000000|Google Chrome|ManicTime/Applications
+671|Practica Servlets: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20T10:34:19.0000000|2016-07-20T10:34:27.0000000|Google Chrome|ManicTime/Applications
+672|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T10:34:27.0000000|2016-07-20T10:35:08.0000000|Google Chrome|ManicTime/Applications
+673|https://www.sidweb.espol.edu.ec/conversations#/conversations/518534|2016-07-20T10:34:06.0000000|2016-07-20T10:34:19.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+674|https://www.sidweb.espol.edu.ec/courses/32682/assignments/115782|2016-07-20T10:34:19.0000000|2016-07-20T10:34:27.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+675|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T10:34:27.0000000|2016-07-20T10:35:08.0000000|file|ManicTime/Documents
+676|Sistema operativo Microsoft® Windows®|2016-07-20T10:35:08.0000000|2016-07-20T10:35:13.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+677|Stopping GlassFish Server 4.1.1|2016-07-20T10:35:13.0000000|2016-07-20T10:35:16.0000000|NetBeans IDE 8.1|ManicTime/Applications
+678|Program Manager|2016-07-20T10:39:49.0000000|2016-07-20T10:41:22.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+679||2016-07-20T10:39:49.0000000|2016-07-20T11:28:03.0000000||ManicTime/ComputerUsage
+680|NetBeansProjects|2016-07-20T10:41:22.0000000|2016-07-20T10:41:28.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+681|Documentos|2016-07-20T10:41:28.0000000|2016-07-20T10:42:08.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+682|Acerca de Adobe Reader 11.0|2016-07-20T10:42:08.0000000|2016-07-20T10:42:18.0000000|Adobe Reader|ManicTime/Applications
+683|Adobe Reader XI - Acuerdo de licencia de distribución para uso en ordenadores personales|2016-07-20T10:42:18.0000000|2016-07-20T10:42:25.0000000|EULA|ManicTime/Applications
+684|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T10:42:25.0000000|2016-07-20T10:44:43.0000000|Adobe Reader|ManicTime/Applications
+685|1469023255_706__PracticaServlets.pdf|2016-07-20T10:42:25.0000000|2016-07-20T10:44:43.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+686|Menú Inicio|2016-07-20T10:44:43.0000000|2016-07-20T10:45:41.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+687|Program Manager|2016-07-20T10:45:41.0000000|2016-07-20T10:46:54.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+688|github - Buscar con Google - Google Chrome|2016-07-20T10:46:54.0000000|2016-07-20T10:47:00.0000000|Google Chrome|ManicTime/Applications
+689|How people build software · GitHub - Google Chrome|2016-07-20T10:47:00.0000000|2016-07-20T10:47:24.0000000|Google Chrome|ManicTime/Applications
+690|Sign in to GitHub · GitHub - Google Chrome|2016-07-20T10:47:24.0000000|2016-07-20T10:47:41.0000000|Google Chrome|ManicTime/Applications
+691|GitHub - Google Chrome|2016-07-20T10:47:41.0000000|2016-07-20T10:47:58.0000000|Google Chrome|ManicTime/Applications
+692|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=github|2016-07-20T10:46:54.0000000|2016-07-20T10:47:00.0000000|www.google.com.ec|ManicTime/Documents
+693|https://github.com/|2016-07-20T10:47:00.0000000|2016-07-20T10:47:24.0000000|github.com|ManicTime/Documents
+694|https://github.com/login|2016-07-20T10:47:24.0000000|2016-07-20T10:47:41.0000000|github.com|ManicTime/Documents
+695|https://github.com/|2016-07-20T10:47:41.0000000|2016-07-20T10:47:58.0000000|github.com|ManicTime/Documents
+696|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T10:47:58.0000000|2016-07-20T10:50:44.0000000|Adobe Reader|ManicTime/Applications
+697|1469023255_706__PracticaServlets.pdf|2016-07-20T10:47:58.0000000|2016-07-20T10:50:44.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+698|GitHub - Google Chrome|2016-07-20T10:50:44.0000000|2016-07-20T10:52:30.0000000|Google Chrome|ManicTime/Applications
+699|https://github.com/|2016-07-20T10:50:44.0000000|2016-07-20T10:52:30.0000000|github.com|ManicTime/Documents
+700|Notifications - Google Chrome|2016-07-20T10:52:30.0000000|2016-07-20T10:52:41.0000000|Google Chrome|ManicTime/Applications
+701|jguilindro/PracticaServlet - Google Chrome|2016-07-20T10:52:41.0000000|2016-07-20T10:53:07.0000000|Google Chrome|ManicTime/Applications
+702|https://github.com/notifications|2016-07-20T10:52:30.0000000|2016-07-20T10:52:41.0000000|github.com|ManicTime/Documents
+703|https://github.com/jguilindro/PracticaServlet|2016-07-20T10:52:41.0000000|2016-07-20T10:53:07.0000000|github.com|ManicTime/Documents
+704|Nueva pestaña - Google Chrome|2016-07-20T10:53:07.0000000|2016-07-20T10:53:14.0000000|Google Chrome|ManicTime/Applications
+705|github download - Buscar con Google - Google Chrome|2016-07-20T10:53:14.0000000|2016-07-20T10:53:24.0000000|Google Chrome|ManicTime/Applications
+706|GitHub Desktop - Simple collaboration from your desktop - Google Chrome|2016-07-20T10:53:24.0000000|2016-07-20T10:53:51.0000000|Google Chrome|ManicTime/Applications
+707|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=github download|2016-07-20T10:53:14.0000000|2016-07-20T10:53:24.0000000|www.google.com.ec|ManicTime/Documents
+708|https://desktop.github.com/|2016-07-20T10:53:24.0000000|2016-07-20T10:53:51.0000000|desktop.github.com|ManicTime/Documents
+709|(7%) Instalando GitHub|2016-07-20T10:53:51.0000000|2016-07-20T10:53:56.0000000|Microsoft® .NET Framework|ManicTime/Applications
+710|(17%) Instalando GitHub|2016-07-20T10:53:56.0000000|2016-07-20T10:54:01.0000000|Microsoft® .NET Framework|ManicTime/Applications
+711|(22%) Instalando GitHub|2016-07-20T10:54:01.0000000|2016-07-20T10:54:06.0000000|Microsoft® .NET Framework|ManicTime/Applications
+712|(40%) Instalando GitHub|2016-07-20T10:54:06.0000000|2016-07-20T10:54:11.0000000|Microsoft® .NET Framework|ManicTime/Applications
+713|(51%) Instalando GitHub|2016-07-20T10:54:11.0000000|2016-07-20T10:54:16.0000000|Microsoft® .NET Framework|ManicTime/Applications
+714|(65%) Instalando GitHub|2016-07-20T10:54:16.0000000|2016-07-20T10:54:21.0000000|Microsoft® .NET Framework|ManicTime/Applications
+715|(81%) Instalando GitHub|2016-07-20T10:54:21.0000000|2016-07-20T10:54:27.0000000|Microsoft® .NET Framework|ManicTime/Applications
+716|(92%) Instalando GitHub|2016-07-20T10:54:27.0000000|2016-07-20T10:54:32.0000000|Microsoft® .NET Framework|ManicTime/Applications
+717|(94%) Instalando GitHub|2016-07-20T10:54:32.0000000|2016-07-20T10:54:38.0000000|Microsoft® .NET Framework|ManicTime/Applications
+718|(98%) Instalando GitHub|2016-07-20T10:54:38.0000000|2016-07-20T10:54:44.0000000|Microsoft® .NET Framework|ManicTime/Applications
+719|(100%) Instalando GitHub|2016-07-20T10:54:44.0000000|2016-07-20T10:54:51.0000000|Microsoft® .NET Framework|ManicTime/Applications
+720|GitHub Desktop - Simple collaboration from your desktop - Google Chrome|2016-07-20T10:54:51.0000000|2016-07-20T10:55:13.0000000|Google Chrome|ManicTime/Applications
+721|GitHub|2016-07-20T10:55:13.0000000|2016-07-20T10:58:03.0000000|GitHub Desktop|ManicTime/Applications
+722|https://desktop.github.com/|2016-07-20T10:54:51.0000000|2016-07-20T10:55:13.0000000|desktop.github.com|ManicTime/Documents
+723|jguilindro/PracticaServlet - Google Chrome|2016-07-20T10:58:03.0000000|2016-07-20T10:58:15.0000000|Google Chrome|ManicTime/Applications
+724|Buscar carpeta|2016-07-20T10:58:15.0000000|2016-07-20T10:58:21.0000000|GitHub Desktop|ManicTime/Applications
+725|GitHub|2016-07-20T10:58:21.0000000|2016-07-20T10:58:48.0000000|GitHub Desktop|ManicTime/Applications
+726|NetBeans IDE 8.1|2016-07-20T10:58:48.0000000|2016-07-20T10:58:54.0000000|NetBeans IDE 8.1|ManicTime/Applications
+727|https://github.com/jguilindro/PracticaServlet|2016-07-20T10:58:03.0000000|2016-07-20T10:58:15.0000000|github.com|ManicTime/Documents
+728|Delete Project|2016-07-20T10:58:54.0000000|2016-07-20T10:59:07.0000000|NetBeans IDE 8.1|ManicTime/Applications
+729|Open Project|2016-07-20T10:59:07.0000000|2016-07-20T10:59:18.0000000|NetBeans IDE 8.1|ManicTime/Applications
+730|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:59:18.0000000|2016-07-20T10:59:59.0000000|NetBeans IDE 8.1|ManicTime/Applications
+731|http://localhost:8080/AdmProyectos - Internet Explorer|2016-07-20T10:59:59.0000000|2016-07-20T11:00:07.0000000|Internet Explorer|ManicTime/Applications
+732|Administrador de Proyectos - Internet Explorer|2016-07-20T11:00:07.0000000|2016-07-20T11:01:34.0000000|Internet Explorer|ManicTime/Applications
+733|http://localhost:8080/AdmProyectos|2016-07-20T10:59:59.0000000|2016-07-20T11:00:07.0000000|localhost|ManicTime/Documents
+734|http://localhost:8080/AdmProyectos/|2016-07-20T11:00:07.0000000|2016-07-20T11:01:34.0000000|localhost|ManicTime/Documents
+735|Administrador de Proyectos - Internet Explorer|2016-07-20T11:01:34.0000000|2016-07-20T11:01:39.0000000|Internet Explorer|ManicTime/Applications
+736|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:01:39.0000000|2016-07-20T11:02:25.0000000|NetBeans IDE 8.1|ManicTime/Applications
+737|http://localhost:8080/AdmProyectos/home.jsp|2016-07-20T11:01:34.0000000|2016-07-20T11:01:39.0000000|localhost|ManicTime/Documents
+738|NetBeans IDE 8.1|2016-07-20T11:02:25.0000000|2016-07-20T11:04:09.0000000|NetBeans IDE 8.1|ManicTime/Applications
+739|jdbc:derby://localhost:1527/sample [app on APP] - Properties|2016-07-20T11:04:09.0000000|2016-07-20T11:04:40.0000000|NetBeans IDE 8.1|ManicTime/Applications
+740|NetBeans IDE 8.1|2016-07-20T11:04:40.0000000|2016-07-20T11:06:01.0000000|NetBeans IDE 8.1|ManicTime/Applications
+741|Sistema operativo Microsoft® Windows®|2016-07-20T11:06:01.0000000|2016-07-20T11:06:16.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+742|GitHub|2016-07-20T11:06:16.0000000|2016-07-20T11:07:59.0000000|GitHub Desktop|ManicTime/Applications
+743|NetBeans IDE 8.1|2016-07-20T11:07:59.0000000|2016-07-20T11:08:28.0000000|NetBeans IDE 8.1|ManicTime/Applications
+744|GitHub|2016-07-20T11:08:28.0000000|2016-07-20T11:09:43.0000000|GitHub Desktop|ManicTime/Applications
+745|Nueva pestaña - Google Chrome|2016-07-20T11:09:43.0000000|2016-07-20T11:09:55.0000000|Google Chrome|ManicTime/Applications
+746|conectar a base de datos java netbeans - Buscar con Google - Google Chrome|2016-07-20T11:09:55.0000000|2016-07-20T11:10:22.0000000|Google Chrome|ManicTime/Applications
+747|conectar a base de datos java - Buscar con Google - Google Chrome|2016-07-20T11:10:22.0000000|2016-07-20T11:10:27.0000000|Google Chrome|ManicTime/Applications
+748|conectar a base de datos java DB netbeans - Buscar con Google - Google Chrome|2016-07-20T11:10:27.0000000|2016-07-20T11:10:40.0000000|Google Chrome|ManicTime/Applications
+749|Solo Java: Conexion netbeans con base de datos javadb - Google Chrome|2016-07-20T11:10:40.0000000|2016-07-20T11:11:55.0000000|Google Chrome|ManicTime/Applications
+750|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=conectar a base de datos java netbeans|2016-07-20T11:09:55.0000000|2016-07-20T11:10:22.0000000|www.google.com.ec|ManicTime/Documents
+751|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=conectar a base de datos java netbeans|2016-07-20T11:10:22.0000000|2016-07-20T11:10:27.0000000|www.google.com.ec|ManicTime/Documents
+752|https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=conectar+a+base+de+datos+java+DB+netbeans|2016-07-20T11:10:27.0000000|2016-07-20T11:10:40.0000000|www.google.com.ec|ManicTime/Documents
+753|http://soloprogramacionjava.blogspot.com/2010/11/conexion-netbeans-con-base-de-datos.html|2016-07-20T11:10:40.0000000|2016-07-20T11:11:55.0000000|soloprogramacionjava.blogspot.com|ManicTime/Documents
+754|Solo Java: Conexión netbeans con base de datos javadb 2 - Google Chrome|2016-07-20T11:11:55.0000000|2016-07-20T11:12:09.0000000|Google Chrome|ManicTime/Applications
+755|GitHub|2016-07-20T11:12:09.0000000|2016-07-20T11:12:15.0000000|GitHub Desktop|ManicTime/Applications
+756|NetBeans IDE 8.1|2016-07-20T11:12:15.0000000|2016-07-20T11:12:20.0000000|NetBeans IDE 8.1|ManicTime/Applications
+757|Create Java DB Database|2016-07-20T11:12:20.0000000|2016-07-20T11:12:28.0000000|NetBeans IDE 8.1|ManicTime/Applications
+758|NetBeans IDE 8.1|2016-07-20T11:12:28.0000000|2016-07-20T11:13:18.0000000|NetBeans IDE 8.1|ManicTime/Applications
+759|http://soloprogramacionjava.blogspot.com/2010/11/conexion-netbeans-con-base-de-datos_20.html|2016-07-20T11:11:55.0000000|2016-07-20T11:12:09.0000000|soloprogramacionjava.blogspot.com|ManicTime/Documents
+760|Solo Java: Conexión netbeans con base de datos javadb 2 - Google Chrome|2016-07-20T11:13:18.0000000|2016-07-20T11:14:38.0000000|Google Chrome|ManicTime/Applications
+761|http://soloprogramacionjava.blogspot.com/2010/11/conexion-netbeans-con-base-de-datos_20.html|2016-07-20T11:13:18.0000000|2016-07-20T11:14:38.0000000|soloprogramacionjava.blogspot.com|ManicTime/Documents
+762|Solo Java: Conexion netbeans con base de datos javadb - Google Chrome|2016-07-20T11:14:38.0000000|2016-07-20T11:15:38.0000000|Google Chrome|ManicTime/Applications
+763|http://soloprogramacionjava.blogspot.com/2010/11/conexion-netbeans-con-base-de-datos.html|2016-07-20T11:14:38.0000000|2016-07-20T11:15:38.0000000|soloprogramacionjava.blogspot.com|ManicTime/Documents
+764|Solo Java: Conexión netbeans con base de datos javadb 2 - Google Chrome|2016-07-20T11:15:38.0000000|2016-07-20T11:17:21.0000000|Google Chrome|ManicTime/Applications
+765|http://soloprogramacionjava.blogspot.com/2010/11/conexion-netbeans-con-base-de-datos_20.html|2016-07-20T11:15:38.0000000|2016-07-20T11:17:21.0000000|soloprogramacionjava.blogspot.com|ManicTime/Documents
+766|GitHub|2016-07-20T11:17:21.0000000|2016-07-20T11:17:27.0000000|GitHub Desktop|ManicTime/Applications
+767|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:17:27.0000000|2016-07-20T11:17:39.0000000|NetBeans IDE 8.1|ManicTime/Applications
+768|New File|2016-07-20T11:17:39.0000000|2016-07-20T11:17:47.0000000|NetBeans IDE 8.1|ManicTime/Applications
+769|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T11:17:47.0000000|2016-07-20T11:17:55.0000000|Adobe Reader|ManicTime/Applications
+770|1469023255_706__PracticaServlets.pdf|2016-07-20T11:17:47.0000000|2016-07-20T11:17:55.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+771|New Servlet|2016-07-20T11:17:55.0000000|2016-07-20T11:18:34.0000000|NetBeans IDE 8.1|ManicTime/Applications
+772|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T11:18:34.0000000|2016-07-20T11:18:48.0000000|Adobe Reader|ManicTime/Applications
+773|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:18:48.0000000|2016-07-20T11:18:56.0000000|NetBeans IDE 8.1|ManicTime/Applications
+774|1469023255_706__PracticaServlets.pdf|2016-07-20T11:18:34.0000000|2016-07-20T11:18:48.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+775|New File|2016-07-20T11:18:56.0000000|2016-07-20T11:19:15.0000000|NetBeans IDE 8.1|ManicTime/Applications
+776|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T11:19:15.0000000|2016-07-20T11:20:05.0000000|Adobe Reader|ManicTime/Applications
+777|1469023255_706__PracticaServlets.pdf|2016-07-20T11:19:15.0000000|2016-07-20T11:20:05.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+778|New File|2016-07-20T11:20:05.0000000|2016-07-20T11:20:10.0000000|NetBeans IDE 8.1|ManicTime/Applications
+779|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T11:20:10.0000000|2016-07-20T11:20:25.0000000|Adobe Reader|ManicTime/Applications
+780|New File|2016-07-20T11:20:25.0000000|2016-07-20T11:21:20.0000000|NetBeans IDE 8.1|ManicTime/Applications
+781|1469023255_706__PracticaServlets.pdf|2016-07-20T11:20:10.0000000|2016-07-20T11:20:25.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+782|New Java Class|2016-07-20T11:21:20.0000000|2016-07-20T11:21:26.0000000|NetBeans IDE 8.1|ManicTime/Applications
+783|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:21:26.0000000|2016-07-20T11:21:40.0000000|NetBeans IDE 8.1|ManicTime/Applications
+784|Move Class|2016-07-20T11:21:40.0000000|2016-07-20T11:22:11.0000000|NetBeans IDE 8.1|ManicTime/Applications
+785|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:22:11.0000000|2016-07-20T11:22:19.0000000|NetBeans IDE 8.1|ManicTime/Applications
+786|Stopping GlassFish Server 4.1.1|2016-07-20T11:22:19.0000000|2016-07-20T11:22:24.0000000|NetBeans IDE 8.1|ManicTime/Applications
+787|GitHub|2016-07-20T11:22:24.0000000|2016-07-20T11:23:28.0000000|GitHub Desktop|ManicTime/Applications
+788|Sistema operativo Microsoft® Windows®|2016-07-20T11:23:28.0000000|2016-07-20T11:23:34.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+789|Starting NetBeans IDE|2016-07-20T11:23:34.0000000|2016-07-20T11:23:43.0000000|NetBeans IDE 8.1|ManicTime/Applications
+790|NetBeans IDE 8.1|2016-07-20T11:23:43.0000000|2016-07-20T11:24:23.0000000|NetBeans IDE 8.1|ManicTime/Applications
+791|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T11:24:23.0000000|2016-07-20T11:24:30.0000000|Adobe Reader|ManicTime/Applications
+792|NetBeans IDE 8.1|2016-07-20T11:24:30.0000000|2016-07-20T11:24:39.0000000|NetBeans IDE 8.1|ManicTime/Applications
+793|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:24:39.0000000|2016-07-20T11:24:57.0000000|NetBeans IDE 8.1|ManicTime/Applications
+794|1469023255_706__PracticaServlets.pdf|2016-07-20T11:24:23.0000000|2016-07-20T11:24:30.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+795|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T11:24:57.0000000|2016-07-20T11:25:21.0000000|Adobe Reader|ManicTime/Applications
+796|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:25:21.0000000|2016-07-20T11:26:25.0000000|NetBeans IDE 8.1|ManicTime/Applications
+797|1469023255_706__PracticaServlets.pdf|2016-07-20T11:24:57.0000000|2016-07-20T11:25:21.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+798|1469023255_706__PracticaServlets.pdf - Adobe Reader|2016-07-20T11:26:25.0000000|2016-07-20T11:26:48.0000000|Adobe Reader|ManicTime/Applications
+799|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:26:48.0000000|2016-07-20T11:27:12.0000000|NetBeans IDE 8.1|ManicTime/Applications
+800|1469023255_706__PracticaServlets.pdf|2016-07-20T11:26:25.0000000|2016-07-20T11:26:48.0000000|1469023255_706__PracticaServlets.pdf|ManicTime/Documents
+801|GitHub|2016-07-20T11:27:12.0000000|2016-07-20T11:27:23.0000000|GitHub Desktop|ManicTime/Applications
+802|Descargas|2016-07-20T11:27:23.0000000|2016-07-20T11:28:00.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+803|Sistema operativo Microsoft® Windows®|2016-07-20T11:28:00.0000000|2016-07-20T11:28:03.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+804|Inicio|2016-08-04T10:41:11.0000000|2016-08-04T10:41:26.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+805|Blast|2016-08-04T10:41:26.0000000|2016-08-04T10:41:28.0000000|Blast|ManicTime/Applications
+806||2016-08-04T10:41:11.0000000|2016-08-04T10:41:28.0000000||ManicTime/ComputerUsage
+811||2016-09-08T14:44:34.0000000|2016-09-08T14:45:02.0000000||ManicTime/ComputerUsage
+820|*C:\Users\estudiante.2016\Desktop\Scripts\script.cmd - Notepad++|2016-09-08T14:44:34.0000000|2016-09-08T14:44:45.0000000|Notepad++|ManicTime/Applications
+821|ManicTime - STANDARD|2016-09-08T14:44:45.0000000|2016-09-08T14:45:01.0000000|ManicTime|ManicTime/Applications
+822|C:\Users\estudiante.2016\Desktop\Scripts\script.cmd|2016-09-08T14:44:34.0000000|2016-09-08T14:44:45.0000000|C:\Users\estudiante.2016\Desktop\Scripts\script.cmd|ManicTime/Documents
+823|Borrar|2016-09-08T14:45:01.0000000|2016-09-08T14:45:02.0000000|ManicTime|ManicTime/Applications
+
+(797 rows affected)
