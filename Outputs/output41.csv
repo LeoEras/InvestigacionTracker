@@ -1,0 +1,346 @@
+1|Espere mientras se abre la aplicación|2016-05-24T09:52:27.0000000|2016-05-24T09:52:38.0000000|ManicTime|ManicTime/Applications
+2|ManicTime|2016-05-24T09:52:38.0000000|2016-05-24T09:52:43.0000000|ManicTime|ManicTime/Applications
+3||2016-05-24T09:52:27.0000000|2016-05-24T09:52:58.0000000||ManicTime/ComputerUsage
+4|ManicTime|2016-05-24T09:52:43.0000000|2016-05-24T09:52:49.0000000|ManicTime|ManicTime/Applications
+5|Configuración|2016-05-24T09:52:49.0000000|2016-05-24T09:52:56.0000000|ManicTime|ManicTime/Applications
+6|Menú Inicio|2016-05-24T09:52:56.0000000|2016-05-24T09:52:58.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+7|Sistema operativo Microsoft® Windows®|2016-06-02T16:33:22.0000000|2016-06-02T16:33:32.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+8|Servicios|2016-06-02T16:33:32.0000000|2016-06-02T16:33:45.0000000|Servicios|ManicTime/Applications
+9|Propiedades de Web Deployment Agent Service (Equipo local)|2016-06-02T16:33:45.0000000|2016-06-02T16:33:57.0000000|Propiedades de Web Deployment Agent Service (Equipo local)|ManicTime/Applications
+10|Installers|2016-06-02T16:33:57.0000000|2016-06-02T16:34:03.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+11|Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02T16:34:03.0000000|2016-06-02T16:34:31.0000000|Microsoft® Visual Studio® 2008|ManicTime/Applications
+13||2016-06-02T16:33:22.0000000|2016-06-02T16:34:42.0000000||ManicTime/ComputerUsage
+14|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-02T16:34:31.0000000|2016-06-02T16:34:36.0000000|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|ManicTime/Applications
+15|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|2016-06-02T16:34:36.0000000|2016-06-02T16:34:42.0000000|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|ManicTime/Applications
+16||2016-06-02T16:34:42.0000000|2016-06-02T16:36:05.0000000||ManicTime/ComputerUsage
+17|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2016-06-02T16:36:05.0000000|2016-06-02T16:36:12.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
+18|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|2016-06-02T16:36:12.0000000|2016-06-02T16:38:46.0000000|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|ManicTime/Applications
+19||2016-06-02T16:36:05.0000000|2016-06-02T16:48:01.0000000||ManicTime/ComputerUsage
+20|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 Setup|2016-06-02T16:38:46.0000000|2016-06-02T16:38:51.0000000|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|ManicTime/Applications
+21|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|2016-06-02T16:38:51.0000000|2016-06-02T16:41:03.0000000|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|ManicTime/Applications
+22|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 Setup|2016-06-02T16:41:03.0000000|2016-06-02T16:41:09.0000000|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|ManicTime/Applications
+23|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|2016-06-02T16:41:09.0000000|2016-06-02T16:43:07.0000000|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|ManicTime/Applications
+24|Installers|2016-06-02T16:43:07.0000000|2016-06-02T16:43:20.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+25|Setup - Wampserver64|2016-06-02T16:43:20.0000000|2016-06-02T16:45:26.0000000|wampserver3.0.4_x64_apache2.4.18_mysql5.7.11_php5.6.19-7.0.4|ManicTime/Applications
+26|Setup|2016-06-02T16:45:26.0000000|2016-06-02T16:45:35.0000000|wampserver3.0.4_x64_apache2.4.18_mysql5.7.11_php5.6.19-7.0.4|ManicTime/Applications
+27|Eliminar |2016-06-02T16:45:35.0000000|2016-06-02T16:45:40.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+28|Python 3.5.1 (64-bit) Setup|2016-06-02T16:45:40.0000000|2016-06-02T16:45:47.0000000|Python 3.5.1 (64-bit)|ManicTime/Applications
+29|Python 3.5.1 (64-bit)|2016-06-02T16:45:47.0000000|2016-06-02T16:47:38.0000000|Python 3.5.1 (64-bit)|ManicTime/Applications
+30|Eliminar carpeta|2016-06-02T16:47:38.0000000|2016-06-02T16:47:43.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+31|Program Manager|2016-06-02T16:47:43.0000000|2016-06-02T16:47:59.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+32|Menú Inicio|2016-06-02T16:47:59.0000000|2016-06-02T16:48:01.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+33|Sistema operativo Microsoft® Windows®|2016-06-03T23:12:13.0000000|2016-06-03T23:12:22.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+34||2016-06-03T23:12:13.0000000|2016-06-03T23:12:22.0000000||ManicTime/ComputerUsage
+35|Actividad reciente - Google Chrome|2016-07-20T09:22:23.0000000|2016-07-20T09:22:34.0000000|Google Chrome|ManicTime/Applications
+36|DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20T09:22:34.0000000|2016-07-20T09:22:40.0000000|Google Chrome|ManicTime/Applications
+37|Trabajos: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20T09:22:40.0000000|2016-07-20T09:22:47.0000000|Google Chrome|ManicTime/Applications
+38|Practica Servlets: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20T09:22:47.0000000|2016-07-20T09:23:07.0000000|Google Chrome|ManicTime/Applications
+39|Descargas|2016-07-20T09:23:07.0000000|2016-07-20T09:23:21.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+40|NetBeans IDE 8.1|2016-07-20T09:23:21.0000000|2016-07-20T09:23:32.0000000|NetBeans IDE 8.1|ManicTime/Applications
+41||2016-07-20T09:22:23.0000000|2016-07-20T11:06:03.0000000||ManicTime/ComputerUsage
+42|https://www.sidweb.espol.edu.ec/|2016-07-20T09:22:23.0000000|2016-07-20T09:22:34.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+43|https://www.sidweb.espol.edu.ec/courses/32682|2016-07-20T09:22:34.0000000|2016-07-20T09:22:40.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+44|https://www.sidweb.espol.edu.ec/courses/32682/assignments|2016-07-20T09:22:40.0000000|2016-07-20T09:22:47.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+45|https://www.sidweb.espol.edu.ec/courses/32682/assignments/115782|2016-07-20T09:22:47.0000000|2016-07-20T09:23:07.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+46|Program Manager|2016-07-20T09:23:32.0000000|2016-07-20T09:23:37.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+47|AdmProyectos|2016-07-20T09:23:37.0000000|2016-07-20T09:23:43.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+48|Open Project|2016-07-20T09:23:43.0000000|2016-07-20T09:23:52.0000000|NetBeans IDE 8.1|ManicTime/Applications
+49|NetBeans IDE 8.1|2016-07-20T09:23:52.0000000|2016-07-20T09:23:57.0000000|NetBeans IDE 8.1|ManicTime/Applications
+50|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:23:57.0000000|2016-07-20T09:24:50.0000000|NetBeans IDE 8.1|ManicTime/Applications
+51|New Servlet|2016-07-20T09:24:50.0000000|2016-07-20T09:25:13.0000000|NetBeans IDE 8.1|ManicTime/Applications
+52|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:25:13.0000000|2016-07-20T09:30:18.0000000|NetBeans IDE 8.1|ManicTime/Applications
+53|Practica Servlets: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20T09:30:18.0000000|2016-07-20T09:30:24.0000000|Google Chrome|ManicTime/Applications
+54|https://www.sidweb.espol.edu.ec/courses/32682/assignments/115782|2016-07-20T09:30:18.0000000|2016-07-20T09:30:24.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+55|Nueva pestaña - Google Chrome|2016-07-20T09:30:24.0000000|2016-07-20T09:30:32.0000000|Google Chrome|ManicTime/Applications
+56|Nueva pestaña - Google Chrome|2016-07-20T09:30:32.0000000|2016-07-20T09:30:38.0000000|Google Chrome|ManicTime/Applications
+57|Nueva pestaña - Google Chrome|2016-07-20T09:30:38.0000000|2016-07-20T09:30:43.0000000|Google Chrome|ManicTime/Applications
+58|GitHub - google/gson: A Java serialization/deserialization library that can convert Java Objects into JSON and back. - Google Chrome|2016-07-20T09:30:43.0000000|2016-07-20T09:31:01.0000000|Google Chrome|ManicTime/Applications
+59|Page not found · GitHub - Google Chrome|2016-07-20T09:31:01.0000000|2016-07-20T09:31:32.0000000|Google Chrome|ManicTime/Applications
+60|http://github./|2016-07-20T09:30:32.0000000|2016-07-20T09:30:38.0000000|github.|ManicTime/Documents
+61|http://github.com/google.|2016-07-20T09:30:38.0000000|2016-07-20T09:30:43.0000000|github.com|ManicTime/Documents
+62|https://github.com/google/gson|2016-07-20T09:30:43.0000000|2016-07-20T09:31:01.0000000|github.com|ManicTime/Documents
+63|https://github.com/google/gson/blob/master|2016-07-20T09:31:01.0000000|2016-07-20T09:31:32.0000000|github.com|ManicTime/Documents
+64|Page not found · GitHub - Google Chrome|2016-07-20T09:31:32.0000000|2016-07-20T09:32:14.0000000|Google Chrome|ManicTime/Applications
+65|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:32:14.0000000|2016-07-20T09:42:56.0000000|NetBeans IDE 8.1|ManicTime/Applications
+66|https://github.com/google/gson/blob/master/|2016-07-20T09:31:32.0000000|2016-07-20T09:32:14.0000000|github.com|ManicTime/Documents
+67|Administrador de Proyectos - Google Chrome|2016-07-20T09:42:56.0000000|2016-07-20T09:43:22.0000000|Google Chrome|ManicTime/Applications
+68|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:22.0000000|2016-07-20T09:43:27.0000000|Google Chrome|ManicTime/Applications
+69|http://localhost:8080/AdmProyectos/|2016-07-20T09:42:56.0000000|2016-07-20T09:43:22.0000000|localhost|ManicTime/Documents
+70|http://localhost:8080/AdmProyectos/LoginSer|2016-07-20T09:43:22.0000000|2016-07-20T09:43:27.0000000|localhost|ManicTime/Documents
+71|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:27.0000000|2016-07-20T09:43:34.0000000|Google Chrome|ManicTime/Applications
+72|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:34.0000000|2016-07-20T09:43:39.0000000|Google Chrome|ManicTime/Applications
+73|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:39.0000000|2016-07-20T09:43:44.0000000|Google Chrome|ManicTime/Applications
+74|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:44.0000000|2016-07-20T09:43:49.0000000|Google Chrome|ManicTime/Applications
+75|Administrador de Proyectos - Google Chrome|2016-07-20T09:43:49.0000000|2016-07-20T09:43:54.0000000|Google Chrome|ManicTime/Applications
+76|localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678 - Google Chrome|2016-07-20T09:43:54.0000000|2016-07-20T09:44:12.0000000|Google Chrome|ManicTime/Applications
+77|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:44:12.0000000|2016-07-20T09:44:20.0000000|NetBeans IDE 8.1|ManicTime/Applications
+78|localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678 - Google Chrome|2016-07-20T09:44:20.0000000|2016-07-20T09:44:25.0000000|Google Chrome|ManicTime/Applications
+79|http://localhost:8080/AdmProyectos/LoginServlet|2016-07-20T09:43:27.0000000|2016-07-20T09:43:34.0000000|localhost|ManicTime/Documents
+80|http://localhost:8080/AdmProyectos/LoginServlet?|2016-07-20T09:43:34.0000000|2016-07-20T09:43:39.0000000|localhost|ManicTime/Documents
+81|http://localhost:8080/AdmProyectos/LoginServlet?us|2016-07-20T09:43:39.0000000|2016-07-20T09:43:44.0000000|localhost|ManicTime/Documents
+82|http://localhost:8080/AdmProyectos/LoginServlet?usuario=pepito|2016-07-20T09:43:44.0000000|2016-07-20T09:43:49.0000000|localhost|ManicTime/Documents
+83|http://localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&pass|2016-07-20T09:43:49.0000000|2016-07-20T09:43:54.0000000|localhost|ManicTime/Documents
+84|http://localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678|2016-07-20T09:43:54.0000000|2016-07-20T09:44:12.0000000|localhost|ManicTime/Documents
+85|http://localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678|2016-07-20T09:44:20.0000000|2016-07-20T09:44:25.0000000|localhost|ManicTime/Documents
+86|localhost:8080/AdmProyectos/LoginServlet?usuario=admin&password=1234 - Google Chrome|2016-07-20T09:44:25.0000000|2016-07-20T09:44:38.0000000|Google Chrome|ManicTime/Applications
+87|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:44:38.0000000|2016-07-20T09:47:28.0000000|NetBeans IDE 8.1|ManicTime/Applications
+88|http://localhost:8080/AdmProyectos/LoginServlet?usuario=admin&password=1234|2016-07-20T09:44:25.0000000|2016-07-20T09:44:38.0000000|localhost|ManicTime/Documents
+89|localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678 - Google Chrome|2016-07-20T09:47:28.0000000|2016-07-20T09:47:37.0000000|Google Chrome|ManicTime/Applications
+90|Administrador de Proyectos - Google Chrome|2016-07-20T09:47:37.0000000|2016-07-20T09:47:48.0000000|Google Chrome|ManicTime/Applications
+91|Administrador de Proyectos - Google Chrome|2016-07-20T09:47:48.0000000|2016-07-20T09:48:54.0000000|Google Chrome|ManicTime/Applications
+92|http://localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678|2016-07-20T09:47:28.0000000|2016-07-20T09:47:37.0000000|localhost|ManicTime/Documents
+93|http://localhost:8080/AdmProyectos/|2016-07-20T09:47:37.0000000|2016-07-20T09:47:48.0000000|localhost|ManicTime/Documents
+94|http://localhost:8080/AdmProyectos/?usuario=admin&password=1234|2016-07-20T09:47:48.0000000|2016-07-20T09:48:54.0000000|localhost|ManicTime/Documents
+95|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:48:54.0000000|2016-07-20T09:49:02.0000000|NetBeans IDE 8.1|ManicTime/Applications
+96|Administrador de Proyectos - Google Chrome|2016-07-20T09:49:02.0000000|2016-07-20T09:49:17.0000000|Google Chrome|ManicTime/Applications
+97|Administrador de Proyectos - Google Chrome|2016-07-20T09:49:17.0000000|2016-07-20T09:49:38.0000000|Google Chrome|ManicTime/Applications
+98|http://localhost:8080/AdmProyectos/?usuario=admin&password=1234|2016-07-20T09:49:02.0000000|2016-07-20T09:49:17.0000000|localhost|ManicTime/Documents
+99|http://localhost:8080/AdmProyectos/?usuario=admin&password=1234LoginServlet?usuario=pepito&password=5678|2016-07-20T09:49:17.0000000|2016-07-20T09:49:38.0000000|localhost|ManicTime/Documents
+100|localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678 - Google Chrome|2016-07-20T09:49:38.0000000|2016-07-20T09:49:58.0000000|Google Chrome|ManicTime/Applications
+101|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:49:58.0000000|2016-07-20T09:52:27.0000000|NetBeans IDE 8.1|ManicTime/Applications
+102|http://localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678|2016-07-20T09:49:38.0000000|2016-07-20T09:49:58.0000000|localhost|ManicTime/Documents
+103|Administrador de Proyectos - Google Chrome|2016-07-20T09:52:27.0000000|2016-07-20T09:52:35.0000000|Google Chrome|ManicTime/Applications
+104|AdmProyectos - NetBeans IDE 8.1|2016-07-20T09:52:35.0000000|2016-07-20T10:02:07.0000000|NetBeans IDE 8.1|ManicTime/Applications
+105|http://localhost:8080/AdmProyectos/?usuario=admin&password=1234LoginServlet?usuario=pepito&password=5678|2016-07-20T09:52:27.0000000|2016-07-20T09:52:35.0000000|localhost|ManicTime/Documents
+108|Administrador de Proyectos - Google Chrome|2016-07-20T10:02:07.0000000|2016-07-20T10:02:20.0000000|Google Chrome|ManicTime/Applications
+109|Administrador de Proyectos - Google Chrome|2016-07-20T10:02:20.0000000|2016-07-20T10:02:25.0000000|Google Chrome|ManicTime/Applications
+110|Administrador de Proyectos - Google Chrome|2016-07-20T10:02:25.0000000|2016-07-20T10:02:32.0000000|Google Chrome|ManicTime/Applications
+111|http://localhost:8080/AdmProyectos/?usuario=&password=|2016-07-20T10:02:07.0000000|2016-07-20T10:02:20.0000000|localhost|ManicTime/Documents
+112|http://localhost:8080/AdmProyectos/|2016-07-20T10:02:20.0000000|2016-07-20T10:02:25.0000000|localhost|ManicTime/Documents
+113|http://localhost:8080/AdmProyectos/?usuario=&password=|2016-07-20T10:02:25.0000000|2016-07-20T10:02:32.0000000|localhost|ManicTime/Documents
+114|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:02:32.0000000|2016-07-20T10:02:45.0000000|NetBeans IDE 8.1|ManicTime/Applications
+115|Administrador de Proyectos - Google Chrome|2016-07-20T10:02:45.0000000|2016-07-20T10:02:52.0000000|Google Chrome|ManicTime/Applications
+116|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:02:52.0000000|2016-07-20T10:07:06.0000000|NetBeans IDE 8.1|ManicTime/Applications
+117|http://localhost:8080/AdmProyectos/|2016-07-20T10:02:45.0000000|2016-07-20T10:02:52.0000000|localhost|ManicTime/Documents
+118|Administrador de Proyectos - Google Chrome|2016-07-20T10:07:06.0000000|2016-07-20T10:07:13.0000000|Google Chrome|ManicTime/Applications
+119|Administrador de Proyectos - Google Chrome|2016-07-20T10:07:13.0000000|2016-07-20T10:07:18.0000000|Google Chrome|ManicTime/Applications
+120|Administrador de Proyectos - Google Chrome|2016-07-20T10:07:18.0000000|2016-07-20T10:07:41.0000000|Google Chrome|ManicTime/Applications
+121|http://localhost:8080/AdmProyectos/?usuario=&password=|2016-07-20T10:07:06.0000000|2016-07-20T10:07:13.0000000|localhost|ManicTime/Documents
+122|http://localhost:8080/AdmProyectos/?|2016-07-20T10:07:13.0000000|2016-07-20T10:07:18.0000000|localhost|ManicTime/Documents
+123|http://localhost:8080/AdmProyectos/?usuario=&password=|2016-07-20T10:07:18.0000000|2016-07-20T10:07:41.0000000|localhost|ManicTime/Documents
+124|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:07:41.0000000|2016-07-20T10:07:57.0000000|NetBeans IDE 8.1|ManicTime/Applications
+125|Administrador de Proyectos - Google Chrome|2016-07-20T10:07:57.0000000|2016-07-20T10:08:07.0000000|Google Chrome|ManicTime/Applications
+126|Administrador de Proyectos - Google Chrome|2016-07-20T10:08:07.0000000|2016-07-20T10:08:12.0000000|Google Chrome|ManicTime/Applications
+127|Administrador de Proyectos - Google Chrome|2016-07-20T10:08:12.0000000|2016-07-20T10:08:22.0000000|Google Chrome|ManicTime/Applications
+128|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:08:22.0000000|2016-07-20T10:08:50.0000000|NetBeans IDE 8.1|ManicTime/Applications
+129|http://localhost:8080/AdmProyectos/?usuario=&password=|2016-07-20T10:07:57.0000000|2016-07-20T10:08:07.0000000|localhost|ManicTime/Documents
+130|http://localhost:8080/AdmProyectos/|2016-07-20T10:08:07.0000000|2016-07-20T10:08:12.0000000|localhost|ManicTime/Documents
+131|http://localhost:8080/AdmProyectos/?usuario=sd&password=dsdd|2016-07-20T10:08:12.0000000|2016-07-20T10:08:22.0000000|localhost|ManicTime/Documents
+132|Administrador de Proyectos - Google Chrome|2016-07-20T10:08:50.0000000|2016-07-20T10:09:02.0000000|Google Chrome|ManicTime/Applications
+133|Administrador de Proyectos - Google Chrome|2016-07-20T10:09:02.0000000|2016-07-20T10:09:11.0000000|Google Chrome|ManicTime/Applications
+134|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:09:11.0000000|2016-07-20T10:13:16.0000000|NetBeans IDE 8.1|ManicTime/Applications
+135|http://localhost:8080/AdmProyectos/?usuario=ss&password=ss|2016-07-20T10:08:50.0000000|2016-07-20T10:09:02.0000000|localhost|ManicTime/Documents
+136|http://localhost:8080/AdmProyectos/|2016-07-20T10:09:02.0000000|2016-07-20T10:09:11.0000000|localhost|ManicTime/Documents
+137|Administrador de Proyectos - Google Chrome|2016-07-20T10:13:16.0000000|2016-07-20T10:13:27.0000000|Google Chrome|ManicTime/Applications
+138|http://localhost:8080/AdmProyectos/|2016-07-20T10:13:16.0000000|2016-07-20T10:13:27.0000000|localhost|ManicTime/Documents
+139|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:13:27.0000000|2016-07-20T10:21:17.0000000|NetBeans IDE 8.1|ManicTime/Applications
+140|Administrador de Proyectos - Google Chrome|2016-07-20T10:21:17.0000000|2016-07-20T10:21:27.0000000|Google Chrome|ManicTime/Applications
+141|http://localhost:8080/AdmProyectos/|2016-07-20T10:21:17.0000000|2016-07-20T10:21:27.0000000|localhost|ManicTime/Documents
+142|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:21:27.0000000|2016-07-20T10:23:59.0000000|NetBeans IDE 8.1|ManicTime/Applications
+143|Administrador de Proyectos - Google Chrome|2016-07-20T10:23:59.0000000|2016-07-20T10:24:26.0000000|Google Chrome|ManicTime/Applications
+144|Administrador de Proyectos - Google Chrome|2016-07-20T10:24:26.0000000|2016-07-20T10:24:35.0000000|Google Chrome|ManicTime/Applications
+145|http://localhost:8080/AdmProyectos/|2016-07-20T10:23:59.0000000|2016-07-20T10:24:26.0000000|localhost|ManicTime/Documents
+146|http://localhost:8080/AdmProyectos/home.jsp|2016-07-20T10:24:26.0000000|2016-07-20T10:24:35.0000000|localhost|ManicTime/Documents
+147|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:24:35.0000000|2016-07-20T10:26:56.0000000|NetBeans IDE 8.1|ManicTime/Applications
+148|Administrador de Proyectos - Google Chrome|2016-07-20T10:26:56.0000000|2016-07-20T10:27:10.0000000|Google Chrome|ManicTime/Applications
+149|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T10:27:10.0000000|2016-07-20T10:27:43.0000000|Google Chrome|ManicTime/Applications
+150|http://localhost:8080/AdmProyectos/home.jsp|2016-07-20T10:26:56.0000000|2016-07-20T10:27:10.0000000|localhost|ManicTime/Documents
+151|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T10:27:10.0000000|2016-07-20T10:27:43.0000000|file|ManicTime/Documents
+152|Administrador de Proyectos - Google Chrome|2016-07-20T10:27:43.0000000|2016-07-20T10:28:37.0000000|Google Chrome|ManicTime/Applications
+153|http://localhost:8080/AdmProyectos/home.jsp|2016-07-20T10:27:43.0000000|2016-07-20T10:28:37.0000000|localhost|ManicTime/Documents
+154|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:28:37.0000000|2016-07-20T10:28:58.0000000|NetBeans IDE 8.1|ManicTime/Applications
+155|Page not found · GitHub - Google Chrome|2016-07-20T10:28:58.0000000|2016-07-20T10:29:07.0000000|Google Chrome|ManicTime/Applications
+156|DataTables | Table plug-in for jQuery - Google Chrome|2016-07-20T10:29:07.0000000|2016-07-20T10:29:41.0000000|Google Chrome|ManicTime/Applications
+157|https://github.com/google/gson/blob/master/|2016-07-20T10:28:58.0000000|2016-07-20T10:29:07.0000000|github.com|ManicTime/Documents
+158|https://datatables.net/|2016-07-20T10:29:07.0000000|2016-07-20T10:29:41.0000000|datatables.net|ManicTime/Documents
+159|DataTables | Table plug-in for jQuery - Google Chrome|2016-07-20T10:29:41.0000000|2016-07-20T10:29:46.0000000|Google Chrome|ManicTime/Applications
+160|DataTables | Table plug-in for jQuery - Google Chrome|2016-07-20T10:29:46.0000000|2016-07-20T10:29:51.0000000|Google Chrome|ManicTime/Applications
+161|404 - Page not found - Google Chrome|2016-07-20T10:29:51.0000000|2016-07-20T10:30:22.0000000|Google Chrome|ManicTime/Applications
+162|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:30:22.0000000|2016-07-20T10:31:29.0000000|NetBeans IDE 8.1|ManicTime/Applications
+163|https://datatables.net/basic_ini|2016-07-20T10:29:41.0000000|2016-07-20T10:29:46.0000000|datatables.net|ManicTime/Documents
+164|https://datatables.net/basic_init/zero_co|2016-07-20T10:29:46.0000000|2016-07-20T10:29:51.0000000|datatables.net|ManicTime/Documents
+165|https://datatables.net/basic_init/zero_configuration.html|2016-07-20T10:29:51.0000000|2016-07-20T10:30:22.0000000|datatables.net|ManicTime/Documents
+166|404 - Page not found - Google Chrome|2016-07-20T10:31:29.0000000|2016-07-20T10:31:44.0000000|Google Chrome|ManicTime/Applications
+167|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:31:44.0000000|2016-07-20T10:32:46.0000000|NetBeans IDE 8.1|ManicTime/Applications
+168|https://datatables.net/basic_init/zero_configuration.html|2016-07-20T10:31:29.0000000|2016-07-20T10:31:44.0000000|datatables.net|ManicTime/Documents
+169|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T10:32:46.0000000|2016-07-20T10:35:08.0000000|Google Chrome|ManicTime/Applications
+170|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T10:32:46.0000000|2016-07-20T10:35:08.0000000|file|ManicTime/Documents
+171|404 - Page not found - Google Chrome|2016-07-20T10:35:08.0000000|2016-07-20T10:35:28.0000000|Google Chrome|ManicTime/Applications
+172|https://datatables.net/basic_init/zero_configuration.html|2016-07-20T10:35:08.0000000|2016-07-20T10:35:28.0000000|datatables.net|ManicTime/Documents
+173|Administrador de Proyectos - Google Chrome|2016-07-20T10:35:28.0000000|2016-07-20T10:35:38.0000000|Google Chrome|ManicTime/Applications
+174|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T10:35:38.0000000|2016-07-20T10:35:47.0000000|Google Chrome|ManicTime/Applications
+175|Administrador de Proyectos - Google Chrome|2016-07-20T10:35:47.0000000|2016-07-20T10:35:52.0000000|Google Chrome|ManicTime/Applications
+176|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T10:35:52.0000000|2016-07-20T10:36:02.0000000|Google Chrome|ManicTime/Applications
+177|Practica Servlets: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20T10:36:02.0000000|2016-07-20T10:36:10.0000000|Google Chrome|ManicTime/Applications
+178|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T10:36:10.0000000|2016-07-20T10:36:15.0000000|Google Chrome|ManicTime/Applications
+179|Administrador de Proyectos - Google Chrome|2016-07-20T10:36:15.0000000|2016-07-20T10:36:31.0000000|Google Chrome|ManicTime/Applications
+180|http://localhost:8080/AdmProyectos/home.jsp|2016-07-20T10:35:28.0000000|2016-07-20T10:35:38.0000000|localhost|ManicTime/Documents
+181|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T10:35:38.0000000|2016-07-20T10:35:47.0000000|file|ManicTime/Documents
+182|http://localhost:8080/AdmProyectos/|2016-07-20T10:35:47.0000000|2016-07-20T10:35:52.0000000|localhost|ManicTime/Documents
+183|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T10:35:52.0000000|2016-07-20T10:36:02.0000000|file|ManicTime/Documents
+184|https://www.sidweb.espol.edu.ec/courses/32682/assignments/115782|2016-07-20T10:36:02.0000000|2016-07-20T10:36:10.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+185|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T10:36:10.0000000|2016-07-20T10:36:15.0000000|file|ManicTime/Documents
+186|http://localhost:8080/AdmProyectos/|2016-07-20T10:36:15.0000000|2016-07-20T10:36:31.0000000|localhost|ManicTime/Documents
+187|DataTables | Table plug-in for jQuery - Google Chrome|2016-07-20T10:36:31.0000000|2016-07-20T10:36:48.0000000|Google Chrome|ManicTime/Applications
+188|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T10:36:48.0000000|2016-07-20T10:37:00.0000000|Google Chrome|ManicTime/Applications
+189|Administrador de Proyectos - Google Chrome|2016-07-20T10:37:00.0000000|2016-07-20T10:37:05.0000000|Google Chrome|ManicTime/Applications
+190|DataTables | Table plug-in for jQuery - Google Chrome|2016-07-20T10:37:05.0000000|2016-07-20T10:37:11.0000000|Google Chrome|ManicTime/Applications
+191|Nueva pestaña - Google Chrome|2016-07-20T10:37:11.0000000|2016-07-20T10:37:18.0000000|Google Chrome|ManicTime/Applications
+192|Google - Google Chrome|2016-07-20T10:37:18.0000000|2016-07-20T10:37:31.0000000|Google Chrome|ManicTime/Applications
+193|https://datatables.net/|2016-07-20T10:36:31.0000000|2016-07-20T10:36:48.0000000|datatables.net|ManicTime/Documents
+194|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T10:36:48.0000000|2016-07-20T10:37:00.0000000|file|ManicTime/Documents
+195|http://localhost:8080/AdmProyectos/home.jsp|2016-07-20T10:37:00.0000000|2016-07-20T10:37:05.0000000|localhost|ManicTime/Documents
+196|https://datatables.net/|2016-07-20T10:37:05.0000000|2016-07-20T10:37:11.0000000|datatables.net|ManicTime/Documents
+197|http://github.com/|2016-07-20T10:37:11.0000000|2016-07-20T10:37:18.0000000|github.com|ManicTime/Documents
+198|https://www.google.co.uk/?gws_rd=ssl|2016-07-20T10:37:18.0000000|2016-07-20T10:37:31.0000000|www.google.co.uk|ManicTime/Documents
+199|how to create new user windows 10 - Buscar con Google - Google Chrome|2016-07-20T10:37:31.0000000|2016-07-20T10:37:41.0000000|Google Chrome|ManicTime/Applications
+200|how to create new users datatables - Buscar con Google - Google Chrome|2016-07-20T10:37:41.0000000|2016-07-20T10:37:48.0000000|Google Chrome|ManicTime/Applications
+201|create() - Google Chrome|2016-07-20T10:37:48.0000000|2016-07-20T10:37:57.0000000|Google Chrome|ManicTime/Applications
+202|Administrador de Proyectos - Google Chrome|2016-07-20T10:37:57.0000000|2016-07-20T10:38:41.0000000|Google Chrome|ManicTime/Applications
+203|https://www.google.co.uk/?gws_rd=ssl|2016-07-20T10:37:31.0000000|2016-07-20T10:37:41.0000000|www.google.co.uk|ManicTime/Documents
+204|https://www.google.co.uk/?gws_rd=ssl#q=how+to+create+new+users+datatables|2016-07-20T10:37:41.0000000|2016-07-20T10:37:48.0000000|www.google.co.uk|ManicTime/Documents
+205|https://editor.datatables.net/reference/api/create()|2016-07-20T10:37:48.0000000|2016-07-20T10:37:57.0000000|editor.datatables.net|ManicTime/Documents
+206|http://localhost:8080/AdmProyectos/home.jsp|2016-07-20T10:37:57.0000000|2016-07-20T10:38:41.0000000|localhost|ManicTime/Documents
+207|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T10:38:41.0000000|2016-07-20T10:39:03.0000000|Google Chrome|ManicTime/Applications
+208|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:39:03.0000000|2016-07-20T10:39:14.0000000|NetBeans IDE 8.1|ManicTime/Applications
+209|New Project|2016-07-20T10:39:14.0000000|2016-07-20T10:39:30.0000000|NetBeans IDE 8.1|ManicTime/Applications
+210|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T10:38:41.0000000|2016-07-20T10:39:03.0000000|file|ManicTime/Documents
+211|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:39:30.0000000|2016-07-20T10:39:37.0000000|NetBeans IDE 8.1|ManicTime/Applications
+212|New Java Class|2016-07-20T10:39:37.0000000|2016-07-20T10:40:09.0000000|NetBeans IDE 8.1|ManicTime/Applications
+213|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:40:09.0000000|2016-07-20T10:40:22.0000000|NetBeans IDE 8.1|ManicTime/Applications
+214|Menú Inicio|2016-07-20T10:40:22.0000000|2016-07-20T10:40:35.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+215|AdmProyectos - NetBeans IDE 8.1|2016-07-20T10:40:35.0000000|2016-07-20T10:40:50.0000000|NetBeans IDE 8.1|ManicTime/Applications
+216|Sistema operativo Microsoft® Windows®|2016-07-20T10:40:50.0000000|2016-07-20T10:41:06.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+217|wampmanager|2016-07-20T10:41:06.0000000|2016-07-20T10:41:17.0000000|wampmanager|ManicTime/Applications
+218|http://localhost/phpmyadmin/ - Internet Explorer|2016-07-20T10:41:17.0000000|2016-07-20T10:41:29.0000000|Internet Explorer|ManicTime/Applications
+219|http://localhost/phpmyadmin/|2016-07-20T10:41:17.0000000|2016-07-20T10:41:29.0000000|localhost|ManicTime/Documents
+220|http://go.microsoft.com/fwlink/?LinkId=299201 - Internet Explorer|2016-07-20T10:41:29.0000000|2016-07-20T10:41:34.0000000|Internet Explorer|ManicTime/Applications
+221|phpMyAdmin - Internet Explorer|2016-07-20T10:41:34.0000000|2016-07-20T10:41:52.0000000|Internet Explorer|ManicTime/Applications
+222|localhost / Local Databases | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:41:52.0000000|2016-07-20T10:42:10.0000000|Internet Explorer|ManicTime/Applications
+223|localhost / Local Databases | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:42:10.0000000|2016-07-20T10:42:28.0000000|Internet Explorer|ManicTime/Applications
+224|http://go.microsoft.com/fwlink/?LinkId=299201|2016-07-20T10:41:29.0000000|2016-07-20T10:41:34.0000000|go.microsoft.com|ManicTime/Documents
+225|http://localhost/phpmyadmin/|2016-07-20T10:41:34.0000000|2016-07-20T10:41:52.0000000|localhost|ManicTime/Documents
+226|http://localhost/phpmyadmin/index.php?token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:41:52.0000000|2016-07-20T10:42:10.0000000|localhost|ManicTime/Documents
+227|http://localhost/phpmyadmin/server_databases.php?server=1&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:42:10.0000000|2016-07-20T10:42:28.0000000|localhost|ManicTime/Documents
+228|localhost / Local Databases / servlet | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:42:28.0000000|2016-07-20T10:42:59.0000000|Internet Explorer|ManicTime/Applications
+229|localhost / Local Databases / servlet / Usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:42:59.0000000|2016-07-20T10:45:38.0000000|Internet Explorer|ManicTime/Applications
+230|http://localhost/phpmyadmin/server_databases.php?server=1&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:42:28.0000000|2016-07-20T10:42:59.0000000|localhost|ManicTime/Documents
+231|http://localhost/phpmyadmin/server_databases.php?server=1&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:42:59.0000000|2016-07-20T10:45:38.0000000|localhost|ManicTime/Documents
+232|localhost / Local Databases / servlet / Usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:45:38.0000000|2016-07-20T10:45:48.0000000|Internet Explorer|ManicTime/Applications
+233|localhost / Local Databases / servlet | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:45:48.0000000|2016-07-20T10:46:15.0000000|Internet Explorer|ManicTime/Applications
+234|Mensaje de página web|2016-07-20T10:46:15.0000000|2016-07-20T10:46:20.0000000|Internet Explorer|ManicTime/Applications
+235|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:46:20.0000000|2016-07-20T10:46:27.0000000|Internet Explorer|ManicTime/Applications
+236|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:46:27.0000000|2016-07-20T10:46:57.0000000|Internet Explorer|ManicTime/Applications
+237|http://localhost/phpmyadmin/db_structure.php?token=35028656eb81b8b8115994d26d917d39&server=1&db=servlet&table=Usuario|2016-07-20T10:45:38.0000000|2016-07-20T10:45:48.0000000|localhost|ManicTime/Documents
+238|http://localhost/phpmyadmin/tbl_create.php?server=1&db=servlet&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:45:48.0000000|2016-07-20T10:46:15.0000000|localhost|ManicTime/Documents
+239|http://localhost/phpmyadmin/tbl_create.php?server=1&db=servlet&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:46:15.0000000|2016-07-20T10:46:20.0000000|localhost|ManicTime/Documents
+240|http://localhost/phpmyadmin/sql.php?server=1&db=servlet&table=usuario&pos=0&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:46:20.0000000|2016-07-20T10:46:27.0000000|localhost|ManicTime/Documents
+241|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=usuario&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:46:27.0000000|2016-07-20T10:46:57.0000000|localhost|ManicTime/Documents
+242|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:46:57.0000000|2016-07-20T10:47:13.0000000|Internet Explorer|ManicTime/Applications
+243|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:47:13.0000000|2016-07-20T10:48:13.0000000|Internet Explorer|ManicTime/Applications
+244|http://localhost/phpmyadmin/normalization.php?db=servlet&table=usuario&token=35028656eb81b8b8115994d26d917d39&goto=tbl_structure.php&back=tbl_structure.php|2016-07-20T10:46:57.0000000|2016-07-20T10:47:13.0000000|localhost|ManicTime/Documents
+245|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=usuario&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:47:13.0000000|2016-07-20T10:48:13.0000000|localhost|ManicTime/Documents
+246|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:48:13.0000000|2016-07-20T10:48:18.0000000|Internet Explorer|ManicTime/Applications
+247|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:48:18.0000000|2016-07-20T10:49:09.0000000|Internet Explorer|ManicTime/Applications
+248|http://localhost/phpmyadmin/sql.php?server=1&db=servlet&table=usuario&pos=0&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:48:13.0000000|2016-07-20T10:48:18.0000000|localhost|ManicTime/Documents
+249|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=usuario&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:48:18.0000000|2016-07-20T10:49:09.0000000|localhost|ManicTime/Documents
+250|localhost / Local Databases / servlet | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:49:09.0000000|2016-07-20T10:52:12.0000000|Internet Explorer|ManicTime/Applications
+251|http://localhost/phpmyadmin/tbl_create.php?server=1&db=servlet&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:49:09.0000000|2016-07-20T10:52:12.0000000|localhost|ManicTime/Documents
+252|localhost / Local Databases / servlet / Proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:52:12.0000000|2016-07-20T10:52:20.0000000|Internet Explorer|ManicTime/Applications
+253|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:52:20.0000000|2016-07-20T10:52:25.0000000|Internet Explorer|ManicTime/Applications
+254|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:52:25.0000000|2016-07-20T10:53:05.0000000|Internet Explorer|ManicTime/Applications
+255|http://localhost/phpmyadmin/db_structure.php?token=35028656eb81b8b8115994d26d917d39&server=1&db=servlet&table=|2016-07-20T10:52:12.0000000|2016-07-20T10:52:20.0000000|localhost|ManicTime/Documents
+256|http://localhost/phpmyadmin/sql.php?server=1&db=servlet&table=proyecto&pos=0&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:52:20.0000000|2016-07-20T10:52:25.0000000|localhost|ManicTime/Documents
+257|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:52:25.0000000|2016-07-20T10:53:05.0000000|localhost|ManicTime/Documents
+258|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:53:05.0000000|2016-07-20T10:53:11.0000000|Internet Explorer|ManicTime/Applications
+259|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:53:11.0000000|2016-07-20T10:54:42.0000000|Internet Explorer|ManicTime/Applications
+260|http://localhost/phpmyadmin/sql.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39&goto=tbl_structure.php&back=tbl_structure.php&session_max_rows=all&sql_query=SELECT+*+FROM+`proyecto`+PROCEDURE+ANALYSE()|2016-07-20T10:53:05.0000000|2016-07-20T10:53:11.0000000|localhost|ManicTime/Documents
+261|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:53:11.0000000|2016-07-20T10:54:42.0000000|localhost|ManicTime/Documents
+262|localhost / Local Databases / servlet | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:54:42.0000000|2016-07-20T10:54:54.0000000|Internet Explorer|ManicTime/Applications
+263|localhost / Local Databases / servlet | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:54:54.0000000|2016-07-20T10:55:09.0000000|Internet Explorer|ManicTime/Applications
+264|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:55:09.0000000|2016-07-20T10:55:36.0000000|Internet Explorer|ManicTime/Applications
+265|http://localhost/phpmyadmin/db_structure.php?server=1&db=servlet&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:54:42.0000000|2016-07-20T10:54:54.0000000|localhost|ManicTime/Documents
+266|http://localhost/phpmyadmin/db_structure.php?db=servlet&pos=0&sort=type&sort_order=ASC&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:54:54.0000000|2016-07-20T10:55:09.0000000|localhost|ManicTime/Documents
+267|http://localhost/phpmyadmin/sql.php?db=servlet&token=35028656eb81b8b8115994d26d917d39&goto=db_structure.php&table=usuario&pos=0|2016-07-20T10:55:09.0000000|2016-07-20T10:55:36.0000000|localhost|ManicTime/Documents
+268|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:55:36.0000000|2016-07-20T10:56:10.0000000|Internet Explorer|ManicTime/Applications
+269|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:56:10.0000000|2016-07-20T10:56:15.0000000|Internet Explorer|ManicTime/Applications
+270|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:56:15.0000000|2016-07-20T10:56:35.0000000|Internet Explorer|ManicTime/Applications
+271|http://localhost/phpmyadmin/tbl_operations.php?db=servlet&table=usuario&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:55:36.0000000|2016-07-20T10:56:10.0000000|localhost|ManicTime/Documents
+272|http://localhost/phpmyadmin/sql.php?server=1&db=servlet&table=proyecto&pos=0&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:56:10.0000000|2016-07-20T10:56:15.0000000|localhost|ManicTime/Documents
+273|http://localhost/phpmyadmin/tbl_operations.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:56:15.0000000|2016-07-20T10:56:35.0000000|localhost|ManicTime/Documents
+274|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:56:35.0000000|2016-07-20T10:56:40.0000000|Internet Explorer|ManicTime/Applications
+275|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:56:40.0000000|2016-07-20T10:58:17.0000000|Internet Explorer|ManicTime/Applications
+276|http://localhost/phpmyadmin/sql.php?server=1&db=servlet&table=proyecto&pos=0&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:56:35.0000000|2016-07-20T10:56:40.0000000|localhost|ManicTime/Documents
+277|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:56:40.0000000|2016-07-20T10:58:17.0000000|localhost|ManicTime/Documents
+278|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:58:17.0000000|2016-07-20T10:59:13.0000000|Internet Explorer|ManicTime/Applications
+279|http://localhost/phpmyadmin/tbl_relation.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:58:17.0000000|2016-07-20T10:59:13.0000000|localhost|ManicTime/Documents
+280|localhost / Local Databases / servlet | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:59:13.0000000|2016-07-20T10:59:38.0000000|Internet Explorer|ManicTime/Applications
+281|http://localhost/phpmyadmin/db_structure.php?server=1&db=servlet&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:59:13.0000000|2016-07-20T10:59:38.0000000|localhost|ManicTime/Documents
+282|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:59:38.0000000|2016-07-20T10:59:43.0000000|Internet Explorer|ManicTime/Applications
+283|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T10:59:43.0000000|2016-07-20T11:01:16.0000000|Internet Explorer|ManicTime/Applications
+284|http://localhost/phpmyadmin/sql.php?db=servlet&token=35028656eb81b8b8115994d26d917d39&goto=db_structure.php&table=proyecto&pos=0|2016-07-20T10:59:38.0000000|2016-07-20T10:59:43.0000000|localhost|ManicTime/Documents
+285|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39|2016-07-20T10:59:43.0000000|2016-07-20T11:01:16.0000000|localhost|ManicTime/Documents
+286|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:01:16.0000000|2016-07-20T11:01:44.0000000|NetBeans IDE 8.1|ManicTime/Applications
+287|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T11:01:44.0000000|2016-07-20T11:02:20.0000000|Internet Explorer|ManicTime/Applications
+288|AdmProyectos - NetBeans IDE 8.1|2016-07-20T11:02:20.0000000|2016-07-20T11:03:26.0000000|NetBeans IDE 8.1|ManicTime/Applications
+289|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39|2016-07-20T11:01:44.0000000|2016-07-20T11:02:20.0000000|localhost|ManicTime/Documents
+290|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T11:03:26.0000000|2016-07-20T11:04:52.0000000|Internet Explorer|ManicTime/Applications
+291|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=proyecto&token=35028656eb81b8b8115994d26d917d39|2016-07-20T11:03:26.0000000|2016-07-20T11:04:52.0000000|localhost|ManicTime/Documents
+292|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T11:04:52.0000000|2016-07-20T11:04:57.0000000|Internet Explorer|ManicTime/Applications
+293|localhost / Local Databases / servlet / usuario | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T11:04:57.0000000|2016-07-20T11:05:58.0000000|Internet Explorer|ManicTime/Applications
+294|http://localhost/phpmyadmin/sql.php?server=1&db=servlet&table=usuario&pos=0&token=35028656eb81b8b8115994d26d917d39|2016-07-20T11:04:52.0000000|2016-07-20T11:04:57.0000000|localhost|ManicTime/Documents
+295|http://localhost/phpmyadmin/tbl_structure.php?db=servlet&table=usuario&token=35028656eb81b8b8115994d26d917d39|2016-07-20T11:04:57.0000000|2016-07-20T11:05:58.0000000|localhost|ManicTime/Documents
+296|localhost / Local Databases / servlet / proyecto | phpMyAdmin 4.5.5.1 - Internet Explorer|2016-07-20T11:05:58.0000000|2016-07-20T11:06:03.0000000|Internet Explorer|ManicTime/Applications
+298|http://localhost/phpmyadmin/sql.php?server=1&db=servlet&table=proyecto&pos=0&token=35028656eb81b8b8115994d26d917d39|2016-07-20T11:05:58.0000000|2016-07-20T11:06:03.0000000|localhost|ManicTime/Documents
+300||2016-07-20T11:06:03.0000000|2016-07-20T11:31:35.0000000||ManicTime/ComputerUsage
+301|1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20T11:31:35.0000000|2016-07-20T11:31:40.0000000|Google Chrome|ManicTime/Applications
+302|Descargas|2016-07-20T11:31:40.0000000|2016-07-20T11:31:47.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+303|Program Manager|2016-07-20T11:31:47.0000000|2016-07-20T11:32:09.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+304||2016-07-20T11:31:35.0000000|2016-07-20T11:32:09.0000000||ManicTime/ComputerUsage
+305||2016-07-20T11:32:09.0000000|2016-07-22T20:16:30.0000000||ManicTime/ComputerUsage
+306|http://file///C:/Users/estudiante.2016/Downloads/1469023255_706__PracticaServlets.pdf|2016-07-20T11:31:35.0000000|2016-07-20T11:31:40.0000000|file|ManicTime/Documents
+307|Program Manager|2016-08-04T10:45:34.0000000|2016-08-04T10:45:50.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+308|Sistema operativo Microsoft® Windows®|2016-08-04T10:45:50.0000000|2016-08-04T10:45:55.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+309||2016-08-04T10:45:34.0000000|2016-08-04T10:45:55.0000000||ManicTime/ComputerUsage
+310|Sistema operativo Microsoft® Windows®|2016-09-08T14:56:26.0000000|2016-09-08T14:56:42.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+311|Sin título - Google Chrome|2016-09-08T14:56:42.0000000|2016-09-08T14:56:48.0000000|Google Chrome|ManicTime/Applications
+312|Chrome - Google Chrome|2016-09-08T14:56:48.0000000|2016-09-08T14:56:57.0000000|Google Chrome|ManicTime/Applications
+313|Chrome - Google Chrome|2016-09-08T14:56:57.0000000|2016-09-08T14:57:04.0000000|Google Chrome|ManicTime/Applications
+314|Sistema operativo Microsoft® Windows®|2016-09-08T14:57:04.0000000|2016-09-08T14:57:19.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+315|github - Buscar con Google - Google Chrome|2016-09-08T14:57:19.0000000|2016-09-08T14:57:27.0000000|Google Chrome|ManicTime/Applications
+316||2016-09-08T14:56:26.0000000|2016-09-08T14:57:52.0000000||ManicTime/ComputerUsage
+317|chrome://chrome-signin/?access_point=0&reason=0|2016-09-08T14:56:48.0000000|2016-09-08T14:56:57.0000000|chrome-signin|ManicTime/Documents
+318|https://www.google.com.ec/search?q=github&oq=github&aqs=chrome..69i57j69i60l2j0l3.5149j0j4&sourceid=chrome&ie=UTF-8|2016-09-08T14:56:57.0000000|2016-09-08T14:57:04.0000000|www.google.com.ec|ManicTime/Documents
+319|https://www.google.com.ec/search?q=github&oq=github&aqs=chrome..69i57j69i60l2j0l3.5149j0j4&sourceid=chrome&ie=UTF-8|2016-09-08T14:57:19.0000000|2016-09-08T14:57:27.0000000|www.google.com.ec|ManicTime/Documents
+322|ManicTime - STANDARD|2016-09-08T14:57:27.0000000|2016-09-08T14:57:46.0000000|ManicTime|ManicTime/Applications
+323|Program Manager|2016-09-08T14:57:46.0000000|2016-09-08T14:57:52.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+324||2016-09-08T14:57:52.0000000|2016-09-08T20:22:02.0000000||ManicTime/ComputerUsage
+325|Program Manager|2016-09-08T20:22:02.0000000|2016-09-08T20:22:11.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+326||2016-09-08T20:22:02.0000000|2016-09-08T20:26:24.0000000||ManicTime/ComputerUsage
+328|/usr/bin/bash --login -i|2016-09-08T20:22:11.0000000|2016-09-08T20:22:17.0000000|mintty|ManicTime/Applications
+329|MINGW64:/c/Users/estudiante.2016/Desktop/Scripts|2016-09-08T20:22:17.0000000|2016-09-08T20:23:58.0000000|mintty|ManicTime/Applications
+330|Chrome - Google Chrome|2016-09-08T20:23:58.0000000|2016-09-08T20:24:03.0000000|Google Chrome|ManicTime/Applications
+332|chrome://chrome-signin/?access_point=0&reason=0|2016-09-08T20:23:58.0000000|2016-09-08T20:24:03.0000000|chrome-signin|ManicTime/Documents
+334|Nueva pestaña - Google Chrome|2016-09-08T20:24:03.0000000|2016-09-08T20:24:08.0000000|Google Chrome|ManicTime/Applications
+335|ESPOL | Servicio de Autenticación - Google Chrome|2016-09-08T20:24:08.0000000|2016-09-08T20:24:14.0000000|Google Chrome|ManicTime/Applications
+336|http://sidweb.espol.edu.ec/|2016-09-08T20:24:03.0000000|2016-09-08T20:24:08.0000000|sidweb.espol.edu.ec|ManicTime/Documents
+337|https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-09-08T20:24:08.0000000|2016-09-08T20:24:14.0000000|auth.espol.edu.ec|ManicTime/Documents
+338|Sign in to GitHub · GitHub - Google Chrome|2016-09-08T20:24:14.0000000|2016-09-08T20:24:27.0000000|Google Chrome|ManicTime/Applications
+339|https://github.com/login|2016-09-08T20:24:14.0000000|2016-09-08T20:24:27.0000000|github.com|ManicTime/Documents
+340|Upload files · LeoEras/InvestigacionTracker - Google Chrome|2016-09-08T20:24:27.0000000|2016-09-08T20:24:33.0000000|Google Chrome|ManicTime/Applications
+341|Actividad reciente - Google Chrome|2016-09-08T20:24:33.0000000|2016-09-08T20:24:45.0000000|Google Chrome|ManicTime/Applications
+342|https://github.com/LeoEras/InvestigacionTracker/upload/master|2016-09-08T20:24:27.0000000|2016-09-08T20:24:33.0000000|github.com|ManicTime/Documents
+343|https://www.sidweb.espol.edu.ec/|2016-09-08T20:24:33.0000000|2016-09-08T20:24:45.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+344|Conversaciones: Leonardo David Eras Delgado - Google Chrome|2016-09-08T20:24:45.0000000|2016-09-08T20:24:50.0000000|Google Chrome|ManicTime/Applications
+345|Conversaciones: Leonardo David Eras Delgado - Google Chrome|2016-09-08T20:24:50.0000000|2016-09-08T20:24:55.0000000|Google Chrome|ManicTime/Applications
+346|https://www.sidweb.espol.edu.ec/conversations|2016-09-08T20:24:45.0000000|2016-09-08T20:24:50.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+347|https://www.sidweb.espol.edu.ec/conversations#/conversations/478025|2016-09-08T20:24:50.0000000|2016-09-08T20:24:55.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+348|Conversaciones: Leonardo David Eras Delgado - Google Chrome|2016-09-08T20:24:55.0000000|2016-09-08T20:25:57.0000000|Google Chrome|ManicTime/Applications
+349|https://www.sidweb.espol.edu.ec/conversations#/conversations/379161|2016-09-08T20:24:55.0000000|2016-09-08T20:25:57.0000000|www.sidweb.espol.edu.ec|ManicTime/Documents
+350|Scripts|2016-09-08T20:25:57.0000000|2016-09-08T20:26:09.0000000|Sistema operativo Microsoft® Windows®|ManicTime/Applications
+351|C:\Users\estudiante.2016\Desktop\Scripts\script.cmd - Notepad++|2016-09-08T20:26:09.0000000|2016-09-08T20:26:16.0000000|Notepad++|ManicTime/Applications
+352|C:\Users\estudiante.2016\Desktop\Scripts\script.cmd|2016-09-08T20:26:09.0000000|2016-09-08T20:26:16.0000000|C:\Users\estudiante.2016\Desktop\Scripts\script.cmd|ManicTime/Documents
+353|*C:\Users\estudiante.2016\Desktop\Scripts\script.cmd - Notepad++|2016-09-08T20:26:16.0000000|2016-09-08T20:26:24.0000000|Notepad++|ManicTime/Applications
+354|C:\Users\estudiante.2016\Desktop\Scripts\script.cmd|2016-09-08T20:26:16.0000000|2016-09-08T20:26:24.0000000|C:\Users\estudiante.2016\Desktop\Scripts\script.cmd|ManicTime/Documents
+
+(344 rows affected)
