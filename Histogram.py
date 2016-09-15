@@ -124,7 +124,7 @@ filters = []
 reload(sys)  
 sys.setdefaultencoding('utf8')
 
-if len(sys.argv) > 1 and len(sys.argv) == 5:
+if len(sys.argv) > 1 and len(sys.argv) == 6:
     item_type = str(sys.argv[1])
     input_start_date = str(sys.argv[2])
     input_end_date = str(sys.argv[3])
@@ -143,7 +143,7 @@ file_object.close()
 
 objects = []
 dictionary_items = {}
-objects = getList("output.csv")
+objects = getList(str(sys.argv[5]))
 
 
 items = findItems("", item_type, input_start_date, input_end_date)
