@@ -25,16 +25,6 @@ def correctAll(item):
     else:
         return False
 
-def depurate(item):
-    if "c:" in item or "C:" in item:
-        word = re.findall(r'\w+\.\w+', item)
-        if len(word) > 0:
-            return word[0]
-        else:
-            return ""
-    else:
-        return item
-
 def findItems(name, item_type, date_start, date_end):
     result = []
     for item in objects:
@@ -59,15 +49,13 @@ def graph(name, item_type, input_scale, date_start, date_end):
     dictionary = {}
     item_list = findItems(name, item_type, date_start, date_end)
     if date_start == date_end:
-        for item in item_list:
-            item[0] = depurate(item[0])    
+        for item in item_list: 
             if str(item[0]) not in dictionary:
                 dictionary[str(item[0])] = item[5]
             else:
                 dictionary[str(item[0])] += item[5]
     else:
         for item in item_list:
-            item[1] = depurate(item[1])
             if str(item[1]) not in dictionary:
                 dictionary[str(item[1])] = item[5]
             else:
@@ -148,7 +136,6 @@ objects = getList(str(sys.argv[5]))
 
 items = findItems("", item_type, input_start_date, input_end_date)
 for item in items:
-    item[6] = depurate(item[6])
     if str(item[6]) not in dictionary_items:
         dictionary_items[str(item[6])] = item[5]
     else:

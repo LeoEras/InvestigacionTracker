@@ -6,7 +6,7 @@ def depurate(item):
     if "c:" in item or "C:" in item:
         word = re.findall(r'\w+\.\w+', item)
         if len(word) > 0:
-            return word[0]
+            return word[-1]
         else:
             return ""
     else:
