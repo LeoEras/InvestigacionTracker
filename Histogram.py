@@ -27,10 +27,10 @@ def correctAll(item):
 
 def findItems(name, item_type, date_start, date_end):
     result = []
+    d_start = strToDate(date_start)
+    d_end = strToDate(date_end)
     for item in objects:
-        d_start = strToDate(date_start)
         item_date_start = strToDate(item[1])
-        d_end = strToDate(date_end)
         item_date_end = strToDate(item[3])           
         if d_start <= item_date_start and item_date_end <= d_end:
             if name == "":
@@ -131,8 +131,8 @@ file_object.close()
 
 objects = []
 dictionary_items = {}
+#description\date_start\time_start\date_end\time_end\elapsed_time\process\process_type\importance
 objects = getList(str(sys.argv[5]))
-
 
 items = findItems("", item_type, input_start_date, input_end_date)
 for item in items:
