@@ -2,6 +2,14 @@ from datetime import datetime, timedelta
 import sys
 import re
 
+filtros = ['stackoverflow', 'Stackoverflow', 'Komodo', 'komodo',
+          'Notepad', 'notepad', 'cmd', 'localhost', 'python',
+          'Python', 'Mongo', 'mongo', 'Sublime', 'sublime',
+          'dllhost', 'wampmanager', 'Wampanager', 'NetBeans',
+          'netbeans', 'github', 'GitHub', 'mintty', 'Mintty',
+          'node', 'Node', 'server', 'Server', 'Atom', 'atom',
+           'phpstorm', 'PhpStorm', 'devenv', 'Devenv']
+
 def depurate(item):
     item = item.replace('"', '').strip()
     item = item[0:300]
@@ -15,24 +23,13 @@ def depurate(item):
         return item
 
 def setImportance(filters, description, process):
-    importance = 0
     for item in filters:
         if item in description or item in process:
-            importance = 1
-            continue
-    return importance
+            return 1
+
+    return 0
 
 def getList(filename, user):
-    filters = []
-    
-    #Getting importance from filters.txt
-    file_object = open("filters.txt", 'r')
-    for line in file_object:
-        line = re.sub(r'\n', "", str(line))
-        filters.append(line)
-
-    file_object.close()
-
     file_object = open(filename + user + ".csv", 'r')
     file_object_writter = open("Outputs\depurado" + user + ".csv", 'w')
     objects = []
@@ -56,7 +53,7 @@ def getList(filename, user):
             elapsed_time = time_object_2 - time_object_1
             process = depurate(collection[4])
             process_type = collection[5].split("/", len(collection))[1].splitlines()[0]
-            importance = setImportance(filters, description, process)
+            importance = setImportance(filtros, description, process)
             collection = [description, date_start, time_start, date_end, time_end, elapsed_time, process, process_type, importance]
             file_object_writter.write(str(description) + "|" +
                                       str(date_start) + "|" +

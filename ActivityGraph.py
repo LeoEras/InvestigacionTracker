@@ -143,6 +143,7 @@ x2, y2 = axisUsefulUseless(0)
 dictionary = {}
 items = findItems("", item_type, input_start_date, input_end_date)
 for item in items:
+    print(type(item[5]))
     if str(item[1]) not in dictionary:
         dictionary[str(item[1])] = item[5]
     else:
@@ -160,3 +161,8 @@ plt.plot(x1, y1, 'b')
 plt.plot(x2, y2, 'r')
 plt.plot(x_axis, y_axis, 'g')
 plt.show()
+
+##objects = getList("output.csv")
+##for items in objects:
+##    print(type(items[5]))
+##    break
