@@ -9,7 +9,7 @@ Menú Inicio|2016-05-24|08:28:44|2016-05-24|08:28:49|0:00:05|Sistema operativo M
 5 segundos restantes|2016-06-02|11:53:02|2016-06-02|11:53:08|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|24
 Program Manager|2016-06-02|11:53:08|2016-06-02|11:55:30|0:02:22|Sistema operativo Microsoft® Windows®|Applications|0|24
 Installers|2016-06-02|11:55:30|2016-06-02|11:55:35|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|24
-Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|11:55:35|2016-06-02|11:55:52|0:00:17|Microsoft® Visual Studio® 2008|Applications|0|24
+Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|11:55:35|2016-06-02|11:55:52|0:00:17|Microsoft® Visual Studio® 2008|Applications|1|24
 Menú Inicio|2016-06-02|11:55:52|2016-06-02|11:56:06|0:00:14|Sistema operativo Microsoft® Windows®|Applications|0|24
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-02|11:56:06|2016-06-02|11:56:14|0:00:08|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|24
 Servicios|2016-06-02|11:56:14|2016-06-02|11:56:36|0:00:22|Servicios|Applications|0|24
@@ -22,7 +22,7 @@ Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|2016-06-02|11:57:47
 Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005|2016-06-02|11:58:35|2016-06-02|11:59:30|0:00:55|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005|Applications|0|24
 Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005|2016-06-02|11:59:30|2016-06-02|12:00:33|0:01:03|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005|Applications|0|24
 Installers|2016-06-02|12:00:33|2016-06-02|12:00:39|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|24
-Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|12:00:39|2016-06-02|12:00:54|0:00:15|Microsoft® Visual Studio® 2008|Applications|0|24
+Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|12:00:39|2016-06-02|12:00:54|0:00:15|Microsoft® Visual Studio® 2008|Applications|1|24
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 Setup|2016-06-02|12:00:54|2016-06-02|12:01:00|0:00:06|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|Applications|0|24
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|2016-06-02|12:01:00|2016-06-02|12:01:39|0:00:39|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|Applications|0|24
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610|2016-06-02|12:01:39|2016-06-02|12:02:30|0:00:51|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610|Applications|0|24
@@ -61,7 +61,7 @@ DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20|09:14:27|2016-07-20|09
 Trabajos: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20|09:14:34|2016-07-20|09:14:39|0:00:05|Google Chrome|Applications|0|24
 Practica Servlets: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-07-20|09:14:39|2016-07-20|09:15:07|0:00:28|Google Chrome|Applications|0|24
 https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-07-20|09:14:02|2016-07-20|09:14:15|0:00:13|auth.espol.edu.ec|Documents|0|24
-https://auth.espol.edu.ec/login;jsessionid=ED8A3E801A5190AFC0DE60C8060D1C4C?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-07-20|09:14:15|2016-07-20|09:14:20|0:00:05|auth.espol.edu.ec|Documents|0|24
+https://auth.espol.edu.ec/login;jsessionid=ED8A3E801A5190AFC0DE60C8060D1C4C?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-07-20|09:14:15|2016-07-20|09:14:20|0:00:05|auth.espol.edu.ec|Documents|1|24
 https://www.sidweb.espol.edu.ec/|2016-07-20|09:14:20|2016-07-20|09:14:27|0:00:07|www.sidweb.espol.edu.ec|Documents|0|24
 https://www.sidweb.espol.edu.ec/courses/32682|2016-07-20|09:14:27|2016-07-20|09:14:34|0:00:07|www.sidweb.espol.edu.ec|Documents|0|24
 https://www.sidweb.espol.edu.ec/courses/32682/assignments|2016-07-20|09:14:34|2016-07-20|09:14:39|0:00:05|www.sidweb.espol.edu.ec|Documents|0|24
@@ -186,7 +186,7 @@ AdmProyectos - NetBeans IDE 8.1|2016-07-20|09:46:31|2016-07-20|09:46:42|0:00:11|
 GlassFish Server Open Source Edition 4.1.1 - Error report - Internet Explorer|2016-07-20|09:46:42|2016-07-20|09:46:53|0:00:11|Internet Explorer|Applications|1|24
 http://localhost:8080/AdmProyectos/LoginServelt?usuario=pepitp&password=234|2016-07-20|09:46:07|2016-07-20|09:46:31|0:00:24|localhost|Documents|1|24
 http://localhost:8080/AdmProyectos/LoginServelt?usuario=pepitp&password=234|2016-07-20|09:46:42|2016-07-20|09:46:53|0:00:11|localhost|Documents|1|24
-Microsoft Visual Studio|2016-07-20|09:46:53|2016-07-20|09:47:00|0:00:07|Microsoft® Visual Studio® 2015|Applications|0|24
+Microsoft Visual Studio|2016-07-20|09:46:53|2016-07-20|09:47:00|0:00:07|Microsoft® Visual Studio® 2015|Applications|1|24
 GlassFish Server Open Source Edition 4.1.1 - Error report - Internet Explorer|2016-07-20|09:47:00|2016-07-20|09:47:06|0:00:06|Internet Explorer|Applications|1|24
 GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20|09:47:06|2016-07-20|09:47:15|0:00:09|Google Chrome|Applications|1|24
 GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20|09:47:15|2016-07-20|09:47:25|0:00:10|Google Chrome|Applications|1|24
@@ -248,9 +248,9 @@ http://localhost:8080/AdmProyectos/|2016-07-20|10:02:09|2016-07-20|10:02:19|0:00
 http://localhost:8080/AdmProyectos/?usuario=&password=|2016-07-20|10:02:19|2016-07-20|10:02:34|0:00:15|localhost|Documents|1|24
 Nueva pestaña - Google Chrome|2016-07-20|10:03:21|2016-07-20|10:03:29|0:00:08|Google Chrome|Applications|0|24
 Google - Google Chrome|2016-07-20|10:03:29|2016-07-20|10:03:34|0:00:05|Google Chrome|Applications|0|24
-jQuery - Google Chrome|2016-07-20|10:03:34|2016-07-20|10:04:03|0:00:29|Google Chrome|Applications|0|24
+jQuery - Google Chrome|2016-07-20|10:03:34|2016-07-20|10:04:03|0:00:29|Google Chrome|Applications|1|24
 https://www.google.co.uk/?gws_rd=ssl|2016-07-20|10:03:29|2016-07-20|10:03:34|0:00:05|www.google.co.uk|Documents|0|24
-https://jquery.com/|2016-07-20|10:03:34|2016-07-20|10:04:03|0:00:29|jquery.com|Documents|0|24
+https://jquery.com/|2016-07-20|10:03:34|2016-07-20|10:04:03|0:00:29|jquery.com|Documents|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:04:03|2016-07-20|10:07:00|0:02:57|NetBeans IDE 8.1|Applications|1|24
 Administrador de Proyectos - Google Chrome|2016-07-20|10:07:00|2016-07-20|10:07:14|0:00:14|Google Chrome|Applications|0|24
 Administrador de Proyectos - Google Chrome|2016-07-20|10:07:14|2016-07-20|10:07:20|0:00:06|Google Chrome|Applications|0|24
@@ -301,22 +301,22 @@ Administrador de Proyectos - Google Chrome|2016-07-20|10:12:34|2016-07-20|10:13:
 http://localhost:8080/AdmProyectos/|2016-07-20|10:12:03|2016-07-20|10:12:28|0:00:25|localhost|Documents|1|24
 http://localhost:8080/AdmProyectos/|2016-07-20|10:12:34|2016-07-20|10:13:20|0:00:46|localhost|Documents|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:13:20|2016-07-20|10:14:31|0:01:11|NetBeans IDE 8.1|Applications|1|24
-jQuery - Google Chrome|2016-07-20|10:14:31|2016-07-20|10:14:36|0:00:05|Google Chrome|Applications|0|24
-jQuery API Documentation - Google Chrome|2016-07-20|10:14:36|2016-07-20|10:14:42|0:00:06|Google Chrome|Applications|0|24
-https://jquery.com/|2016-07-20|10:14:31|2016-07-20|10:14:36|0:00:05|jquery.com|Documents|0|24
-http://api.jquery.com/|2016-07-20|10:14:36|2016-07-20|10:14:42|0:00:06|api.jquery.com|Documents|0|24
-http://api.jquery.com/category/ajax/global-ajax-event-handlers/|2016-07-20|10:14:42|2016-07-20|10:14:50|0:00:08|api.jquery.com|Documents|0|24
-http://api.jquery.com/category/ajax/low-level-interface/|2016-07-20|10:14:50|2016-07-20|10:15:11|0:00:21|api.jquery.com|Documents|0|24
-http://api.jquery.com/jQuery.ajax/|2016-07-20|10:15:11|2016-07-20|10:17:02|0:01:51|api.jquery.com|Documents|0|24
+jQuery - Google Chrome|2016-07-20|10:14:31|2016-07-20|10:14:36|0:00:05|Google Chrome|Applications|1|24
+jQuery API Documentation - Google Chrome|2016-07-20|10:14:36|2016-07-20|10:14:42|0:00:06|Google Chrome|Applications|1|24
+https://jquery.com/|2016-07-20|10:14:31|2016-07-20|10:14:36|0:00:05|jquery.com|Documents|1|24
+http://api.jquery.com/|2016-07-20|10:14:36|2016-07-20|10:14:42|0:00:06|api.jquery.com|Documents|1|24
+http://api.jquery.com/category/ajax/global-ajax-event-handlers/|2016-07-20|10:14:42|2016-07-20|10:14:50|0:00:08|api.jquery.com|Documents|1|24
+http://api.jquery.com/category/ajax/low-level-interface/|2016-07-20|10:14:50|2016-07-20|10:15:11|0:00:21|api.jquery.com|Documents|1|24
+http://api.jquery.com/jQuery.ajax/|2016-07-20|10:15:11|2016-07-20|10:17:02|0:01:51|api.jquery.com|Documents|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:17:02|2016-07-20|10:17:16|0:00:14|NetBeans IDE 8.1|Applications|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:17:32|2016-07-20|10:18:42|0:01:10|NetBeans IDE 8.1|Applications|1|24
-http://api.jquery.com/jQuery.ajax/|2016-07-20|10:17:16|2016-07-20|10:17:32|0:00:16|api.jquery.com|Documents|0|24
+http://api.jquery.com/jQuery.ajax/|2016-07-20|10:17:16|2016-07-20|10:17:32|0:00:16|api.jquery.com|Documents|1|24
 Google - Google Chrome|2016-07-20|10:18:42|2016-07-20|10:18:53|0:00:11|Google Chrome|Applications|0|24
 https://www.google.co.uk/?gws_rd=ssl|2016-07-20|10:18:42|2016-07-20|10:18:53|0:00:11|www.google.co.uk|Documents|0|24
-javascript - How can I make a page redirect using jQuery? - Stack Overflow - Google Chrome|2016-07-20|10:18:53|2016-07-20|10:19:25|0:00:32|Google Chrome|Applications|0|24
+javascript - How can I make a page redirect using jQuery? - Stack Overflow - Google Chrome|2016-07-20|10:18:53|2016-07-20|10:19:25|0:00:32|Google Chrome|Applications|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:19:25|2016-07-20|10:20:08|0:00:43|NetBeans IDE 8.1|Applications|1|24
 http://stackoverflow.com/questions/503093/how-can-i-make-a-page-redirect-using-jquery|2016-07-20|10:18:53|2016-07-20|10:19:25|0:00:32|stackoverflow.com|Documents|1|24
-javascript - How can I make a page redirect using jQuery? - Stack Overflow - Google Chrome|2016-07-20|10:20:08|2016-07-20|10:20:19|0:00:11|Google Chrome|Applications|0|24
+javascript - How can I make a page redirect using jQuery? - Stack Overflow - Google Chrome|2016-07-20|10:20:08|2016-07-20|10:20:19|0:00:11|Google Chrome|Applications|1|24
 Administrador de Proyectos - Google Chrome|2016-07-20|10:20:19|2016-07-20|10:20:31|0:00:12|Google Chrome|Applications|0|24
 GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-07-20|10:20:31|2016-07-20|10:20:38|0:00:07|Google Chrome|Applications|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:20:38|2016-07-20|10:20:48|0:00:10|NetBeans IDE 8.1|Applications|1|24
@@ -329,7 +329,7 @@ Administrador de Proyectos - Google Chrome|2016-07-20|10:20:53|2016-07-20|10:21:
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:21:05|2016-07-20|10:21:15|0:00:10|NetBeans IDE 8.1|Applications|1|24
 Administrador de Proyectos - Google Chrome|2016-07-20|10:21:15|2016-07-20|10:21:21|0:00:06|Google Chrome|Applications|0|24
 shortcuts-80.pdf - Google Chrome|2016-07-20|10:21:21|2016-07-20|10:21:28|0:00:07|Google Chrome|Applications|0|24
-javascript - How can I make a page redirect using jQuery? - Stack Overflow - Google Chrome|2016-07-20|10:21:28|2016-07-20|10:22:00|0:00:32|Google Chrome|Applications|0|24
+javascript - How can I make a page redirect using jQuery? - Stack Overflow - Google Chrome|2016-07-20|10:21:28|2016-07-20|10:22:00|0:00:32|Google Chrome|Applications|1|24
 http://localhost:8080/AdmProyectos/home.jsp|2016-07-20|10:20:53|2016-07-20|10:21:05|0:00:12|localhost|Documents|1|24
 http://localhost:8080/AdmProyectos/home.jsp|2016-07-20|10:21:15|2016-07-20|10:21:21|0:00:06|localhost|Documents|1|24
 https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf|2016-07-20|10:21:21|2016-07-20|10:21:28|0:00:07|netbeans.org|Documents|1|24
@@ -371,14 +371,14 @@ https://www.sidweb.espol.edu.ec/conversations#/conversations/222412|2016-07-20|1
 https://www.google.co.uk/?gws_rd=ssl|2016-07-20|10:29:04|2016-07-20|10:29:17|0:00:13|www.google.co.uk|Documents|0|24
 http://www.datawatchtech.com/|2016-07-20|10:29:17|2016-07-20|10:29:26|0:00:09|www.datawatchtech.com|Documents|0|24
 http://datawatchtech.com/|2016-07-20|10:29:26|2016-07-20|10:29:33|0:00:07|datawatchtech.com|Documents|0|24
-https://datatables.net/examples/index|2016-07-20|10:29:33|2016-07-20|10:29:40|0:00:07|datatables.net|Documents|0|24
-https://datatables.net/|2016-07-20|10:29:40|2016-07-20|10:31:43|0:02:03|datatables.net|Documents|0|24
+https://datatables.net/examples/index|2016-07-20|10:29:33|2016-07-20|10:29:40|0:00:07|datatables.net|Documents|1|24
+https://datatables.net/|2016-07-20|10:29:40|2016-07-20|10:31:43|0:02:03|datatables.net|Documents|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:31:43|2016-07-20|10:33:51|0:02:08|NetBeans IDE 8.1|Applications|1|24
-https://datatables.net/|2016-07-20|10:33:51|2016-07-20|10:34:54|0:01:03|datatables.net|Documents|0|24
+https://datatables.net/|2016-07-20|10:33:51|2016-07-20|10:34:54|0:01:03|datatables.net|Documents|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:34:54|2016-07-20|10:35:01|0:00:07|NetBeans IDE 8.1|Applications|1|24
 MINGW64:/c/Users/estudiante.2016/Downloads/AdmProyectos|2016-07-20|10:35:01|2016-07-20|10:37:18|0:02:17|mintty|Applications|1|24
 Administrador de Proyectos - Google Chrome|2016-07-20|10:37:23|2016-07-20|10:38:31|0:01:08|Google Chrome|Applications|0|24
-https://datatables.net/|2016-07-20|10:37:18|2016-07-20|10:37:23|0:00:05|datatables.net|Documents|0|24
+https://datatables.net/|2016-07-20|10:37:18|2016-07-20|10:37:23|0:00:05|datatables.net|Documents|1|24
 http://localhost:8080/AdmProyectos/home.jsp|2016-07-20|10:37:23|2016-07-20|10:38:31|0:01:08|localhost|Documents|1|24
 Notifications - Google Chrome|2016-07-20|10:38:31|2016-07-20|10:42:00|0:03:29|Google Chrome|Applications|0|24
 https://github.com/notifications|2016-07-20|10:38:31|2016-07-20|10:42:00|0:03:29|github.com|Documents|1|24
@@ -402,22 +402,22 @@ New Servlet|2016-07-20|11:00:50|2016-07-20|11:01:13|0:00:23|NetBeans IDE 8.1|App
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:01:13|2016-07-20|11:02:01|0:00:48|NetBeans IDE 8.1|Applications|1|24
 Conversaciones: Branny Jamil Chito Chalan - Google Chrome|2016-07-20|11:02:01|2016-07-20|11:02:24|0:00:23|Google Chrome|Applications|0|24
 https://www.sidweb.espol.edu.ec/conversations#/conversations/222412|2016-07-20|11:02:01|2016-07-20|11:02:24|0:00:23|www.sidweb.espol.edu.ec|Documents|0|24
-http://api.jquery.com/jQuery.ajax/|2016-07-20|11:02:24|2016-07-20|11:02:29|0:00:05|api.jquery.com|Documents|0|24
-https://datatables.net/|2016-07-20|11:02:29|2016-07-20|11:02:55|0:00:26|datatables.net|Documents|0|24
+http://api.jquery.com/jQuery.ajax/|2016-07-20|11:02:24|2016-07-20|11:02:29|0:00:05|api.jquery.com|Documents|1|24
+https://datatables.net/|2016-07-20|11:02:29|2016-07-20|11:02:55|0:00:26|datatables.net|Documents|1|24
 shortcuts-80.pdf - Google Chrome|2016-07-20|11:02:55|2016-07-20|11:03:02|0:00:07|Google Chrome|Applications|0|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:03:17|2016-07-20|11:03:25|0:00:08|NetBeans IDE 8.1|Applications|1|24
 Conmutación de tareas|2016-07-20|11:03:45|2016-07-20|11:03:50|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:03:50|2016-07-20|11:04:08|0:00:18|NetBeans IDE 8.1|Applications|1|24
 https://netbeans.org/project_downloads/usersguide/shortcuts-80.pdf|2016-07-20|11:02:55|2016-07-20|11:03:02|0:00:07|netbeans.org|Documents|1|24
-https://datatables.net/|2016-07-20|11:03:02|2016-07-20|11:03:17|0:00:15|datatables.net|Documents|0|24
-https://datatables.net/|2016-07-20|11:03:25|2016-07-20|11:03:45|0:00:20|datatables.net|Documents|0|24
+https://datatables.net/|2016-07-20|11:03:02|2016-07-20|11:03:17|0:00:15|datatables.net|Documents|1|24
+https://datatables.net/|2016-07-20|11:03:25|2016-07-20|11:03:45|0:00:20|datatables.net|Documents|1|24
 MINGW64:/c/Users/estudiante.2016/Downloads/AdmProyectos|2016-07-20|11:04:08|2016-07-20|11:04:27|0:00:19|mintty|Applications|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:04:27|2016-07-20|11:07:55|0:03:28|NetBeans IDE 8.1|Applications|1|24
 MINGW64:/c/Users/estudiante.2016/Downloads/AdmProyectos|2016-07-20|11:07:55|2016-07-20|11:08:40|0:00:45|mintty|Applications|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:08:40|2016-07-20|11:11:17|0:02:37|NetBeans IDE 8.1|Applications|1|24
 Conmutación de tareas|2016-07-20|11:11:17|2016-07-20|11:11:27|0:00:10|Sistema operativo Microsoft® Windows®|Applications|0|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:11:27|2016-07-20|11:25:50|0:14:23|NetBeans IDE 8.1|Applications|1|24
-https://datatables.net/|2016-07-20|11:25:50|2016-07-20|11:26:14|0:00:24|datatables.net|Documents|0|24
+https://datatables.net/|2016-07-20|11:25:50|2016-07-20|11:26:14|0:00:24|datatables.net|Documents|1|24
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:26:14|2016-07-20|11:28:36|0:02:22|NetBeans IDE 8.1|Applications|1|24
 MINGW64:/c/Users/estudiante.2016/Downloads/AdmProyectos|2016-07-20|11:44:12|2016-07-20|11:44:42|0:00:30|mintty|Applications|1|24
 OpenSSH|2016-07-20|11:44:42|2016-07-20|11:44:49|0:00:07|Tk 8.6 for Windows|Applications|0|24

@@ -7,7 +7,7 @@ Sistema operativo Microsoft® Windows®|2016-06-02|16:33:22|2016-06-02|16:33:32|
 Servicios|2016-06-02|16:33:32|2016-06-02|16:33:45|0:00:13|Servicios|Applications|0|41
 Propiedades de Web Deployment Agent Service (Equipo local)|2016-06-02|16:33:45|2016-06-02|16:33:57|0:00:12|Propiedades de Web Deployment Agent Service (Equipo local)|Applications|0|41
 Installers|2016-06-02|16:33:57|2016-06-02|16:34:03|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|41
-Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|16:34:03|2016-06-02|16:34:31|0:00:28|Microsoft® Visual Studio® 2008|Applications|0|41
+Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|16:34:03|2016-06-02|16:34:31|0:00:28|Microsoft® Visual Studio® 2008|Applications|1|41
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-02|16:34:31|2016-06-02|16:34:36|0:00:05|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|41
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|2016-06-02|16:34:36|2016-06-02|16:34:42|0:00:06|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|41
 Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2016-06-02|16:36:05|2016-06-02|16:36:12|0:00:07|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|Applications|0|41
@@ -145,19 +145,19 @@ http://localhost:8080/AdmProyectos/home.jsp|2016-07-20|10:27:43|2016-07-20|10:28
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:28:37|2016-07-20|10:28:58|0:00:21|NetBeans IDE 8.1|Applications|1|41
 Page not found · GitHub - Google Chrome|2016-07-20|10:28:58|2016-07-20|10:29:07|0:00:09|Google Chrome|Applications|1|41
 https://github.com/google/gson/blob/master/|2016-07-20|10:28:58|2016-07-20|10:29:07|0:00:09|github.com|Documents|1|41
-https://datatables.net/|2016-07-20|10:29:07|2016-07-20|10:29:41|0:00:34|datatables.net|Documents|0|41
+https://datatables.net/|2016-07-20|10:29:07|2016-07-20|10:29:41|0:00:34|datatables.net|Documents|1|41
 404 - Page not found - Google Chrome|2016-07-20|10:29:51|2016-07-20|10:30:22|0:00:31|Google Chrome|Applications|0|41
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:30:22|2016-07-20|10:31:29|0:01:07|NetBeans IDE 8.1|Applications|1|41
-https://datatables.net/basic_ini|2016-07-20|10:29:41|2016-07-20|10:29:46|0:00:05|datatables.net|Documents|0|41
-https://datatables.net/basic_init/zero_co|2016-07-20|10:29:46|2016-07-20|10:29:51|0:00:05|datatables.net|Documents|0|41
-https://datatables.net/basic_init/zero_configuration.html|2016-07-20|10:29:51|2016-07-20|10:30:22|0:00:31|datatables.net|Documents|0|41
+https://datatables.net/basic_ini|2016-07-20|10:29:41|2016-07-20|10:29:46|0:00:05|datatables.net|Documents|1|41
+https://datatables.net/basic_init/zero_co|2016-07-20|10:29:46|2016-07-20|10:29:51|0:00:05|datatables.net|Documents|1|41
+https://datatables.net/basic_init/zero_configuration.html|2016-07-20|10:29:51|2016-07-20|10:30:22|0:00:31|datatables.net|Documents|1|41
 404 - Page not found - Google Chrome|2016-07-20|10:31:29|2016-07-20|10:31:44|0:00:15|Google Chrome|Applications|0|41
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:31:44|2016-07-20|10:32:46|0:01:02|NetBeans IDE 8.1|Applications|1|41
-https://datatables.net/basic_init/zero_configuration.html|2016-07-20|10:31:29|2016-07-20|10:31:44|0:00:15|datatables.net|Documents|0|41
+https://datatables.net/basic_init/zero_configuration.html|2016-07-20|10:31:29|2016-07-20|10:31:44|0:00:15|datatables.net|Documents|1|41
 1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20|10:32:46|2016-07-20|10:35:08|0:02:22|Google Chrome|Applications|0|41
 1469023255_706__PracticaServlets.pdf|2016-07-20|10:32:46|2016-07-20|10:35:08|0:02:22|file|Documents|0|41
 404 - Page not found - Google Chrome|2016-07-20|10:35:08|2016-07-20|10:35:28|0:00:20|Google Chrome|Applications|0|41
-https://datatables.net/basic_init/zero_configuration.html|2016-07-20|10:35:08|2016-07-20|10:35:28|0:00:20|datatables.net|Documents|0|41
+https://datatables.net/basic_init/zero_configuration.html|2016-07-20|10:35:08|2016-07-20|10:35:28|0:00:20|datatables.net|Documents|1|41
 Administrador de Proyectos - Google Chrome|2016-07-20|10:35:28|2016-07-20|10:35:38|0:00:10|Google Chrome|Applications|0|41
 1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20|10:35:38|2016-07-20|10:35:47|0:00:09|Google Chrome|Applications|0|41
 Administrador de Proyectos - Google Chrome|2016-07-20|10:35:47|2016-07-20|10:35:52|0:00:05|Google Chrome|Applications|0|41
@@ -176,19 +176,19 @@ http://localhost:8080/AdmProyectos/|2016-07-20|10:36:15|2016-07-20|10:36:31|0:00
 Administrador de Proyectos - Google Chrome|2016-07-20|10:37:00|2016-07-20|10:37:05|0:00:05|Google Chrome|Applications|0|41
 Nueva pestaña - Google Chrome|2016-07-20|10:37:11|2016-07-20|10:37:18|0:00:07|Google Chrome|Applications|0|41
 Google - Google Chrome|2016-07-20|10:37:18|2016-07-20|10:37:31|0:00:13|Google Chrome|Applications|0|41
-https://datatables.net/|2016-07-20|10:36:31|2016-07-20|10:36:48|0:00:17|datatables.net|Documents|0|41
+https://datatables.net/|2016-07-20|10:36:31|2016-07-20|10:36:48|0:00:17|datatables.net|Documents|1|41
 1469023255_706__PracticaServlets.pdf|2016-07-20|10:36:48|2016-07-20|10:37:00|0:00:12|file|Documents|0|41
 http://localhost:8080/AdmProyectos/home.jsp|2016-07-20|10:37:00|2016-07-20|10:37:05|0:00:05|localhost|Documents|1|41
-https://datatables.net/|2016-07-20|10:37:05|2016-07-20|10:37:11|0:00:06|datatables.net|Documents|0|41
+https://datatables.net/|2016-07-20|10:37:05|2016-07-20|10:37:11|0:00:06|datatables.net|Documents|1|41
 http://github.com/|2016-07-20|10:37:11|2016-07-20|10:37:18|0:00:07|github.com|Documents|1|41
 https://www.google.co.uk/?gws_rd=ssl|2016-07-20|10:37:18|2016-07-20|10:37:31|0:00:13|www.google.co.uk|Documents|0|41
 how to create new user windows 10 - Buscar con Google - Google Chrome|2016-07-20|10:37:31|2016-07-20|10:37:41|0:00:10|Google Chrome|Applications|0|41
-how to create new users datatables - Buscar con Google - Google Chrome|2016-07-20|10:37:41|2016-07-20|10:37:48|0:00:07|Google Chrome|Applications|0|41
+how to create new users datatables - Buscar con Google - Google Chrome|2016-07-20|10:37:41|2016-07-20|10:37:48|0:00:07|Google Chrome|Applications|1|41
 create() - Google Chrome|2016-07-20|10:37:48|2016-07-20|10:37:57|0:00:09|Google Chrome|Applications|0|41
 Administrador de Proyectos - Google Chrome|2016-07-20|10:37:57|2016-07-20|10:38:41|0:00:44|Google Chrome|Applications|0|41
 https://www.google.co.uk/?gws_rd=ssl|2016-07-20|10:37:31|2016-07-20|10:37:41|0:00:10|www.google.co.uk|Documents|0|41
-https://www.google.co.uk/?gws_rd=ssl#q=how+to+create+new+users+datatables|2016-07-20|10:37:41|2016-07-20|10:37:48|0:00:07|www.google.co.uk|Documents|0|41
-https://editor.datatables.net/reference/api/create()|2016-07-20|10:37:48|2016-07-20|10:37:57|0:00:09|editor.datatables.net|Documents|0|41
+https://www.google.co.uk/?gws_rd=ssl#q=how+to+create+new+users+datatables|2016-07-20|10:37:41|2016-07-20|10:37:48|0:00:07|www.google.co.uk|Documents|1|41
+https://editor.datatables.net/reference/api/create()|2016-07-20|10:37:48|2016-07-20|10:37:57|0:00:09|editor.datatables.net|Documents|1|41
 http://localhost:8080/AdmProyectos/home.jsp|2016-07-20|10:37:57|2016-07-20|10:38:41|0:00:44|localhost|Documents|1|41
 1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20|10:38:41|2016-07-20|10:39:03|0:00:22|Google Chrome|Applications|0|41
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:39:03|2016-07-20|10:39:14|0:00:11|NetBeans IDE 8.1|Applications|1|41

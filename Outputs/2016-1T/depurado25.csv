@@ -11,8 +11,8 @@ Menú Inicio|2016-05-24|10:05:29|2016-05-24|10:05:34|0:00:05|Sistema operativo M
 5 segundos restantes|2016-06-02|12:12:03|2016-06-02|12:12:12|0:00:09|Sistema operativo Microsoft® Windows®|Applications|0|25
 Program Manager|2016-06-02|12:12:12|2016-06-02|12:12:24|0:00:12|Sistema operativo Microsoft® Windows®|Applications|0|25
 Installers|2016-06-02|12:12:24|2016-06-02|12:12:31|0:00:07|Sistema operativo Microsoft® Windows®|Applications|0|25
-Setup|2016-06-02|12:12:31|2016-06-02|12:12:39|0:00:08|Microsoft® Visual Studio® 2008|Applications|0|25
-Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|12:12:39|2016-06-02|12:12:45|0:00:06|Microsoft® Visual Studio® 2008|Applications|0|25
+Setup|2016-06-02|12:12:31|2016-06-02|12:12:39|0:00:08|Microsoft® Visual Studio® 2008|Applications|1|25
+Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|12:12:39|2016-06-02|12:12:45|0:00:06|Microsoft® Visual Studio® 2008|Applications|1|25
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-02|12:12:45|2016-06-02|12:12:50|0:00:05|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|25
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|2016-06-02|12:12:50|2016-06-02|12:13:24|0:00:34|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|25
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|2016-06-02|12:13:24|2016-06-02|12:14:05|0:00:41|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|Applications|0|25
@@ -23,7 +23,7 @@ Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.21005|2016-06-02|12:14:59
 Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005|2016-06-02|12:15:52|2016-06-02|12:16:09|0:00:17|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005|Applications|0|25
 Installers|2016-06-02|12:16:09|2016-06-02|12:16:15|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|25
 Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2016-06-02|13:07:52|2016-06-02|13:07:58|0:00:06|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|Applications|0|25
-Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|13:07:58|2016-06-02|13:08:16|0:00:18|Microsoft® Visual Studio® 2008|Applications|0|25
+Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|13:07:58|2016-06-02|13:08:16|0:00:18|Microsoft® Visual Studio® 2008|Applications|1|25
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 Setup|2016-06-02|13:08:16|2016-06-02|13:08:24|0:00:08|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|Applications|0|25
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|2016-06-02|13:08:24|2016-06-02|13:08:45|0:00:21|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|Applications|0|25
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610|2016-06-02|13:08:45|2016-06-02|13:08:54|0:00:09|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610|Applications|0|25
@@ -57,7 +57,7 @@ Actividad reciente - Google Chrome|2016-06-15|09:02:48|2016-06-15|09:02:58|0:00:
 Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|09:02:58|2016-06-15|09:03:08|0:00:10|Google Chrome|Applications|0|25
 Carpeta y opciones de extracción|2016-06-15|09:03:08|2016-06-15|09:03:13|0:00:05|WinRAR|Applications|0|25
 Explorador de Windows|2016-06-15|09:03:13|2016-06-15|09:03:18|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
-bootstrap|2016-06-15|09:03:18|2016-06-15|09:03:31|0:00:13|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:03:18|2016-06-15|09:03:31|0:00:13|Sistema operativo Microsoft® Windows®|Applications|1|25
 chrome://chrome-signin/?access_point=0&reason=0|2016-06-15|09:02:19|2016-06-15|09:02:26|0:00:07|chrome-signin|Documents|0|25
 http://sidweb.espol.e/|2016-06-15|09:02:26|2016-06-15|09:02:31|0:00:05|sidweb.espol.e|Documents|0|25
 https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-06-15|09:02:31|2016-06-15|09:02:48|0:00:17|auth.espol.edu.ec|Documents|0|25
@@ -67,7 +67,7 @@ portada3 - Visualizador de fotos de Windows|2016-06-15|09:03:31|2016-06-15|09:03
 principal1 - Visualizador de fotos de Windows|2016-06-15|09:03:36|2016-06-15|09:03:41|0:00:05|COM Surrogate|Applications|0|25
 nosotros - Visualizador de fotos de Windows|2016-06-15|09:03:41|2016-06-15|09:03:50|0:00:09|COM Surrogate|Applications|0|25
 principal1 - Visualizador de fotos de Windows|2016-06-15|09:03:50|2016-06-15|09:04:19|0:00:29|COM Surrogate|Applications|0|25
-bootstrap|2016-06-15|09:04:19|2016-06-15|09:04:24|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:04:19|2016-06-15|09:04:24|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|25
 Abriendo - Microsoft Word|2016-06-15|09:04:24|2016-06-15|09:04:31|0:00:07|Microsoft Word|Applications|0|25
 Lo primero es lo primero.|2016-06-15|09:04:31|2016-06-15|09:04:42|0:00:11|Microsoft Word|Applications|0|25
 Asistente para la activación de Microsoft Office|2016-06-15|09:04:42|2016-06-15|09:04:50|0:00:08|Microsoft Word|Applications|0|25
@@ -85,16 +85,16 @@ practica.docx|2016-06-15|09:06:42|2016-06-15|09:08:45|0:02:03|practica.docx|Docu
 Nueva pestaña - Google Chrome|2016-06-15|09:08:45|2016-06-15|09:08:55|0:00:10|Google Chrome|Applications|0|25
 practica - Word (Error de activación de productos)|2016-06-15|09:08:55|2016-06-15|09:09:37|0:00:42|Microsoft Word|Applications|0|25
 practica.docx|2016-06-15|09:08:55|2016-06-15|09:09:37|0:00:42|practica.docx|Documents|0|25
-http://getbootstrap.com/getting-started/ - Internet Explorer|2016-06-15|09:09:37|2016-06-15|09:09:44|0:00:07|Internet Explorer|Applications|0|25
+http://getbootstrap.com/getting-started/ - Internet Explorer|2016-06-15|09:09:37|2016-06-15|09:09:44|0:00:07|Internet Explorer|Applications|1|25
 Nueva pestaña - Google Chrome|2016-06-15|09:09:44|2016-06-15|09:09:49|0:00:05|Google Chrome|Applications|0|25
 untitled - Sublime Text 2 (UNREGISTERED)|2016-06-15|09:09:49|2016-06-15|09:09:55|0:00:06|Sublime Text 2|Applications|1|25
 Guardar como|2016-06-15|09:09:55|2016-06-15|09:10:00|0:00:05|Sublime Text 2|Applications|1|25
 Getting started · Bootstrap - Google Chrome|2016-06-15|09:10:00|2016-06-15|09:10:14|0:00:14|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:10:14|2016-06-15|09:11:16|0:01:02|Sublime Text 2|Applications|1|25
-http://getbootstrap.com/getting-started/|2016-06-15|09:09:37|2016-06-15|09:09:44|0:00:07|getbootstrap.com|Documents|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|09:09:44|2016-06-15|09:09:49|0:00:05|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/getting-started/|2016-06-15|09:09:37|2016-06-15|09:09:44|0:00:07|getbootstrap.com|Documents|1|25
+http://getbootstrap.com/getting-started/|2016-06-15|09:09:44|2016-06-15|09:09:49|0:00:05|getbootstrap.com|Documents|1|25
 untitled|2016-06-15|09:09:49|2016-06-15|09:09:55|0:00:06|untitled|Documents|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|09:10:00|2016-06-15|09:10:14|0:00:14|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/getting-started/|2016-06-15|09:10:00|2016-06-15|09:10:14|0:00:14|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:10:14|2016-06-15|09:11:16|0:01:02|index.html|Documents|0|25
 practica - Word (Error de activación de productos)|2016-06-15|09:11:16|2016-06-15|09:11:33|0:00:17|Microsoft Word|Applications|0|25
 practica.docx|2016-06-15|09:11:16|2016-06-15|09:11:33|0:00:17|practica.docx|Documents|0|25
@@ -105,13 +105,13 @@ practica - Word (Error de activación de productos)|2016-06-15|09:12:09|2016-06-
 Nueva pestaña - Google Chrome|2016-06-15|09:12:15|2016-06-15|09:12:20|0:00:05|Google Chrome|Applications|0|25
 doctype html - Buscar con Google - Google Chrome|2016-06-15|09:12:20|2016-06-15|09:13:05|0:00:45|Google Chrome|Applications|0|25
 practica.docx|2016-06-15|09:11:40|2016-06-15|09:11:50|0:00:10|practica.docx|Documents|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|09:11:50|2016-06-15|09:12:09|0:00:19|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/getting-started/|2016-06-15|09:11:50|2016-06-15|09:12:09|0:00:19|getbootstrap.com|Documents|1|25
 practica.docx|2016-06-15|09:12:09|2016-06-15|09:12:15|0:00:06|practica.docx|Documents|0|25
 https://www.google.com.ec/search?q=doctype+html&oq=doctype+html&aqs=chrome..69i57.2693j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:12:15|2016-06-15|09:12:20|0:00:05|www.google.com.ec|Documents|0|25
 https://www.google.com.ec/search?q=doctype+html&oq=doctype+html&aqs=chrome..69i57.2693j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:12:20|2016-06-15|09:13:05|0:00:45|www.google.com.ec|Documents|0|25
 HTML doctype declaration - Google Chrome|2016-06-15|09:13:05|2016-06-15|09:13:12|0:00:07|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:13:12|2016-06-15|09:13:28|0:00:16|Sublime Text 2|Applications|1|25
-http://www.w3schools.com/tags/tag_doctype.asp|2016-06-15|09:13:05|2016-06-15|09:13:12|0:00:07|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/tags/tag_doctype.asp|2016-06-15|09:13:05|2016-06-15|09:13:12|0:00:07|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|09:13:12|2016-06-15|09:13:28|0:00:16|index.html|Documents|0|25
 index.html|2016-06-15|09:13:28|2016-06-15|09:13:36|0:00:08|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:13:36|2016-06-15|09:13:43|0:00:07|Google Chrome|Applications|0|25
@@ -120,7 +120,7 @@ index.html|2016-06-15|09:13:56|2016-06-15|09:14:01|0:00:05|Sublime Text 2|Applic
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:14:01|2016-06-15|09:15:04|0:01:03|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:13:28|2016-06-15|09:13:36|0:00:08|index.html|Documents|0|25
 index.html|2016-06-15|09:13:36|2016-06-15|09:13:43|0:00:07|file|Documents|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|09:13:43|2016-06-15|09:13:56|0:00:13|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/getting-started/|2016-06-15|09:13:43|2016-06-15|09:13:56|0:00:13|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:13:56|2016-06-15|09:14:01|0:00:05|index.html|Documents|0|25
 index.html|2016-06-15|09:14:01|2016-06-15|09:15:04|0:01:03|file|Documents|0|25
 index.html|2016-06-15|09:15:04|2016-06-15|09:15:40|0:00:36|Sublime Text 2|Applications|1|25
@@ -160,7 +160,7 @@ index.html|2016-06-15|09:23:15|2016-06-15|09:23:28|0:00:13|Sublime Text 2|Applic
 index.html|2016-06-15|09:22:32|2016-06-15|09:22:39|0:00:07|index.html|Documents|0|25
 index.html|2016-06-15|09:22:39|2016-06-15|09:22:44|0:00:05|index.html|Documents|0|25
 index.html|2016-06-15|09:22:44|2016-06-15|09:22:53|0:00:09|file|Documents|0|25
-https://www.utexas.edu/learn/html/spchar.html|2016-06-15|09:22:53|2016-06-15|09:23:00|0:00:07|www.utexas.edu|Documents|0|25
+https://www.utexas.edu/learn/html/spchar.html|2016-06-15|09:22:53|2016-06-15|09:23:00|0:00:07|www.utexas.edu|Documents|1|25
 practica.docx|2016-06-15|09:23:00|2016-06-15|09:23:15|0:00:15|practica.docx|Documents|0|25
 index.html|2016-06-15|09:23:15|2016-06-15|09:23:28|0:00:13|index.html|Documents|0|25
 practica - Word (Error de activación de productos)|2016-06-15|09:23:28|2016-06-15|09:23:41|0:00:13|Microsoft Word|Applications|0|25
@@ -171,22 +171,22 @@ Page not found · GitHub Pages - Google Chrome|2016-06-15|09:24:02|2016-06-15|09
 practica.docx|2016-06-15|09:23:28|2016-06-15|09:23:41|0:00:13|practica.docx|Documents|0|25
 http://www.microsoft.com/es-xl/ie-firstrun/win-7/ie-11/vie/v2.html|2016-06-15|09:23:41|2016-06-15|09:23:47|0:00:06|www.microsoft.com|Documents|0|25
 practica.docx|2016-06-15|09:23:47|2016-06-15|09:23:56|0:00:09|practica.docx|Documents|0|25
-http://www.w3schools.com/tags/tag_doctype.asp|2016-06-15|09:23:56|2016-06-15|09:24:02|0:00:06|www.w3schools.com|Documents|0|25
-http://getbootstrap.com/components/ - nav-pills|2016-06-15|09:24:02|2016-06-15|09:25:55|0:01:53|getbootstrap.com|Documents|0|25
+http://www.w3schools.com/tags/tag_doctype.asp|2016-06-15|09:23:56|2016-06-15|09:24:02|0:00:06|www.w3schools.com|Documents|1|25
+http://getbootstrap.com/components/ - nav-pills|2016-06-15|09:24:02|2016-06-15|09:25:55|0:01:53|getbootstrap.com|Documents|1|25
 Getting started · Bootstrap - Google Chrome|2016-06-15|09:25:55|2016-06-15|09:26:09|0:00:14|Google Chrome|Applications|0|25
 practica - Word (Error de activación de productos)|2016-06-15|09:26:09|2016-06-15|09:26:16|0:00:07|Microsoft Word|Applications|0|25
 glaceado - Buscar con Google - Google Chrome|2016-06-15|09:26:16|2016-06-15|09:26:23|0:00:07|Google Chrome|Applications|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|09:25:55|2016-06-15|09:26:09|0:00:14|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/getting-started/|2016-06-15|09:25:55|2016-06-15|09:26:09|0:00:14|getbootstrap.com|Documents|1|25
 practica.docx|2016-06-15|09:26:09|2016-06-15|09:26:16|0:00:07|practica.docx|Documents|0|25
 https://www.google.com.ec/search?q=glaceado&oq=glaceado&aqs=chrome..69i57.1139j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:26:16|2016-06-15|09:26:23|0:00:07|www.google.com.ec|Documents|0|25
 utf 8 - Spanish Characters in HTML Page Title - Stack Overflow - Google Chrome|2016-06-15|09:26:23|2016-06-15|09:28:05|0:01:42|Google Chrome|Applications|0|25
 http://stackoverflow.com/questions/14936291/spanish-characters-in-html-page-title|2016-06-15|09:26:23|2016-06-15|09:28:05|0:01:42|stackoverflow.com|Documents|1|25
 Page not found · GitHub Pages - Google Chrome|2016-06-15|09:28:05|2016-06-15|09:28:14|0:00:09|Google Chrome|Applications|1|25
-nav pills bootstrap - Buscar con Google - Google Chrome|2016-06-15|09:28:14|2016-06-15|09:28:19|0:00:05|Google Chrome|Applications|0|25
+nav pills bootstrap - Buscar con Google - Google Chrome|2016-06-15|09:28:14|2016-06-15|09:28:19|0:00:05|Google Chrome|Applications|1|25
 Bootstrap Tabs and Pills - Google Chrome|2016-06-15|09:28:19|2016-06-15|09:28:30|0:00:11|Google Chrome|Applications|0|25
-http://getbootstrap.com/components/ - nav-pills|2016-06-15|09:28:05|2016-06-15|09:28:14|0:00:09|getbootstrap.com|Documents|0|25
-https://www.google.com.ec/search?q=nav+pills+bootstrap&oq=nav+pills+bootstrap&aqs=chrome..69i57.5031j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|09:28:14|2016-06-15|09:28:19|0:00:05|www.google.com.ec|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp|2016-06-15|09:28:19|2016-06-15|09:28:30|0:00:11|www.w3schools.com|Documents|0|25
+http://getbootstrap.com/components/ - nav-pills|2016-06-15|09:28:05|2016-06-15|09:28:14|0:00:09|getbootstrap.com|Documents|1|25
+https://www.google.com.ec/search?q=nav+pills+bootstrap&oq=nav+pills+bootstrap&aqs=chrome..69i57.5031j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|09:28:14|2016-06-15|09:28:19|0:00:05|www.google.com.ec|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp|2016-06-15|09:28:19|2016-06-15|09:28:30|0:00:11|www.w3schools.com|Documents|1|25
 Tryit Editor v3.0 - Google Chrome|2016-06-15|09:28:30|2016-06-15|09:28:40|0:00:10|Google Chrome|Applications|0|25
 Bootstrap Tabs and Pills - Google Chrome|2016-06-15|09:28:40|2016-06-15|09:28:46|0:00:06|Google Chrome|Applications|0|25
 Getting started · Bootstrap - Google Chrome|2016-06-15|09:28:46|2016-06-15|09:28:52|0:00:06|Google Chrome|Applications|0|25
@@ -194,10 +194,10 @@ Bootstrap Tabs and Pills - Google Chrome|2016-06-15|09:28:52|2016-06-15|09:29:05
 practica - Word (Error de activación de productos)|2016-06-15|09:29:05|2016-06-15|09:29:11|0:00:06|Microsoft Word|Applications|0|25
 index.html|2016-06-15|09:29:11|2016-06-15|09:29:18|0:00:07|Sublime Text 2|Applications|1|25
 Nueva pestaña - Google Chrome|2016-06-15|09:29:18|2016-06-15|09:29:23|0:00:05|Google Chrome|Applications|0|25
-http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_menu_list-inline&stacked=h|2016-06-15|09:28:30|2016-06-15|09:28:40|0:00:10|www.w3schools.com|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp|2016-06-15|09:28:40|2016-06-15|09:28:46|0:00:06|www.w3schools.com|Documents|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|09:28:46|2016-06-15|09:28:52|0:00:06|getbootstrap.com|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp|2016-06-15|09:28:52|2016-06-15|09:29:05|0:00:13|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_menu_list-inline&stacked=h|2016-06-15|09:28:30|2016-06-15|09:28:40|0:00:10|www.w3schools.com|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp|2016-06-15|09:28:40|2016-06-15|09:28:46|0:00:06|www.w3schools.com|Documents|1|25
+http://getbootstrap.com/getting-started/|2016-06-15|09:28:46|2016-06-15|09:28:52|0:00:06|getbootstrap.com|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp|2016-06-15|09:28:52|2016-06-15|09:29:05|0:00:13|www.w3schools.com|Documents|1|25
 practica.docx|2016-06-15|09:29:05|2016-06-15|09:29:11|0:00:06|practica.docx|Documents|0|25
 index.html|2016-06-15|09:29:11|2016-06-15|09:29:18|0:00:07|index.html|Documents|0|25
 HTML img tag - Google Chrome|2016-06-15|09:29:23|2016-06-15|09:29:33|0:00:10|Google Chrome|Applications|0|25
@@ -207,7 +207,7 @@ principal1 - Visualizador de fotos de Windows|2016-06-15|09:29:57|2016-06-15|09:
 Nueva pestaña - Google Chrome|2016-06-15|09:30:10|2016-06-15|09:30:15|0:00:05|Google Chrome|Applications|0|25
 sans icon - Buscar con Google - Google Chrome|2016-06-15|09:30:15|2016-06-15|09:30:20|0:00:05|Google Chrome|Applications|0|25
 sans_chat_icon_by_lesleyplz-d9d0d2k.png (50×50) - Google Chrome|2016-06-15|09:30:20|2016-06-15|09:30:26|0:00:06|Google Chrome|Applications|0|25
-http://www.w3schools.com/tags/tag_img.asp|2016-06-15|09:29:23|2016-06-15|09:29:33|0:00:10|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/tags/tag_img.asp|2016-06-15|09:29:23|2016-06-15|09:29:33|0:00:10|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|09:29:33|2016-06-15|09:29:50|0:00:17|index.html|Documents|0|25
 https://www.google.com.ec/search?q=sans+icon&oq=sans+icon&aqs=chrome..69i57.2323j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:30:10|2016-06-15|09:30:15|0:00:05|www.google.com.ec|Documents|0|25
 https://www.google.com.ec/search?q=sans+icon&oq=sans+icon&aqs=chrome..69i57.2323j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:30:15|2016-06-15|09:30:20|0:00:05|www.google.com.ec|Documents|0|25
@@ -216,7 +216,7 @@ Guardar como|2016-06-15|09:30:26|2016-06-15|09:30:32|0:00:06|Google Chrome|Appli
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:30:32|2016-06-15|09:30:38|0:00:06|Google Chrome|Applications|0|25
 fotos|2016-06-15|09:30:38|2016-06-15|09:30:49|0:00:11|Sistema operativo Microsoft® Windows®|Applications|0|25
 index.html|2016-06-15|09:30:49|2016-06-15|09:30:55|0:00:06|Sublime Text 2|Applications|1|25
-bootstrap|2016-06-15|09:30:55|2016-06-15|09:31:01|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:30:55|2016-06-15|09:31:01|0:00:06|Sistema operativo Microsoft® Windows®|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:31:01|2016-06-15|09:31:06|0:00:05|Google Chrome|Applications|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:31:06|2016-06-15|09:31:11|0:00:05|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:31:11|2016-06-15|09:31:22|0:00:11|Sublime Text 2|Applications|1|25
@@ -227,25 +227,25 @@ index.html|2016-06-15|09:31:01|2016-06-15|09:31:06|0:00:05|file|Documents|0|25
 bootstrindex.html|2016-06-15|09:31:06|2016-06-15|09:31:11|0:00:05|file|Documents|0|25
 index.html|2016-06-15|09:31:11|2016-06-15|09:31:22|0:00:11|index.html|Documents|0|25
 index.html|2016-06-15|09:31:22|2016-06-15|09:31:27|0:00:05|file|Documents|0|25
-bootstrap|2016-06-15|09:31:27|2016-06-15|09:31:32|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:31:27|2016-06-15|09:31:32|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|25
 Propiedades: sans|2016-06-15|09:31:32|2016-06-15|09:31:43|0:00:11|Sistema operativo Microsoft® Windows®|Applications|0|25
 fotos|2016-06-15|09:31:43|2016-06-15|09:31:51|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|25
 index.html|2016-06-15|09:31:51|2016-06-15|09:32:03|0:00:12|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:32:03|2016-06-15|09:32:15|0:00:12|Google Chrome|Applications|0|25
-bootstrap|2016-06-15|09:32:15|2016-06-15|09:32:25|0:00:10|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:32:15|2016-06-15|09:32:25|0:00:10|Sistema operativo Microsoft® Windows®|Applications|1|25
 index.html|2016-06-15|09:31:51|2016-06-15|09:32:03|0:00:12|index.html|Documents|0|25
 index.html|2016-06-15|09:32:03|2016-06-15|09:32:15|0:00:12|file|Documents|0|25
 index.html|2016-06-15|09:32:25|2016-06-15|09:32:30|0:00:05|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:32:30|2016-06-15|09:32:38|0:00:08|Google Chrome|Applications|0|25
 Tryit Editor v3.0 - Google Chrome|2016-06-15|09:32:38|2016-06-15|09:32:45|0:00:07|Google Chrome|Applications|0|25
 Sistema operativo Microsoft® Windows®|2016-06-15|09:32:45|2016-06-15|09:32:50|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
-bootstrap|2016-06-15|09:32:50|2016-06-15|09:32:55|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:32:50|2016-06-15|09:32:55|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|25
 index.html|2016-06-15|09:32:55|2016-06-15|09:33:05|0:00:10|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|09:33:05|2016-06-15|09:33:11|0:00:06|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|09:33:11|2016-06-15|09:33:32|0:00:21|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|09:32:25|2016-06-15|09:32:30|0:00:05|index.html|Documents|0|25
 index.html|2016-06-15|09:32:30|2016-06-15|09:32:38|0:00:08|file|Documents|0|25
-http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_image_test|2016-06-15|09:32:38|2016-06-15|09:32:45|0:00:07|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/tags/tryit.asp?filename=tryhtml_image_test|2016-06-15|09:32:38|2016-06-15|09:32:45|0:00:07|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|09:32:55|2016-06-15|09:33:05|0:00:10|index.html|Documents|0|25
 index.html|2016-06-15|09:33:05|2016-06-15|09:33:11|0:00:06|index.html|Documents|0|25
 index.html|2016-06-15|09:33:11|2016-06-15|09:33:32|0:00:21|index.html|Documents|0|25
@@ -264,10 +264,10 @@ practica - Word (Error de activación de productos)|2016-06-15|09:34:34|2016-06-
 index.html|2016-06-15|09:34:21|2016-06-15|09:34:27|0:00:06|index.html|Documents|0|25
 practica.docx|2016-06-15|09:34:34|2016-06-15|09:35:56|0:01:22|practica.docx|Documents|0|25
 Nueva pestaña - Google Chrome|2016-06-15|09:35:56|2016-06-15|09:36:04|0:00:08|Google Chrome|Applications|0|25
-nav-pills bootstrap - Buscar con Google - Google Chrome|2016-06-15|09:36:04|2016-06-15|09:36:09|0:00:05|Google Chrome|Applications|0|25
+nav-pills bootstrap - Buscar con Google - Google Chrome|2016-06-15|09:36:04|2016-06-15|09:36:09|0:00:05|Google Chrome|Applications|1|25
 Components · Bootstrap - Google Chrome|2016-06-15|09:36:09|2016-06-15|09:36:27|0:00:18|Google Chrome|Applications|0|25
-https://www.google.com.ec/search?q=nav-pills+bootstrap&oq=nav-pills+bootstrap&aqs=chrome..69i57.4489j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:36:04|2016-06-15|09:36:09|0:00:05|www.google.com.ec|Documents|0|25
-http://getbootstrap.com/components/|2016-06-15|09:36:09|2016-06-15|09:36:27|0:00:18|getbootstrap.com|Documents|0|25
+https://www.google.com.ec/search?q=nav-pills+bootstrap&oq=nav-pills+bootstrap&aqs=chrome..69i57.4489j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:36:04|2016-06-15|09:36:09|0:00:05|www.google.com.ec|Documents|1|25
+http://getbootstrap.com/components/|2016-06-15|09:36:09|2016-06-15|09:36:27|0:00:18|getbootstrap.com|Documents|1|25
 practica - Word (Error de activación de productos)|2016-06-15|09:36:27|2016-06-15|09:36:32|0:00:05|Microsoft Word|Applications|0|25
 index.html|2016-06-15|09:36:32|2016-06-15|09:36:43|0:00:11|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:36:43|2016-06-15|09:37:26|0:00:43|Google Chrome|Applications|0|25
@@ -277,7 +277,7 @@ index.html|2016-06-15|09:36:43|2016-06-15|09:37:26|0:00:43|file|Documents|0|25
 index.html|2016-06-15|09:37:26|2016-06-15|09:37:32|0:00:06|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:37:32|2016-06-15|09:37:38|0:00:06|Google Chrome|Applications|0|25
 practica - Word (Error de activación de productos)|2016-06-15|09:37:38|2016-06-15|09:37:58|0:00:20|Microsoft Word|Applications|0|25
-bootstrap|2016-06-15|09:37:58|2016-06-15|09:38:05|0:00:07|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:37:58|2016-06-15|09:38:05|0:00:07|Sistema operativo Microsoft® Windows®|Applications|1|25
 principal1 - Visualizador de fotos de Windows|2016-06-15|09:38:05|2016-06-15|09:38:10|0:00:05|COM Surrogate|Applications|0|25
 index.html|2016-06-15|09:38:10|2016-06-15|09:38:29|0:00:19|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|09:37:26|2016-06-15|09:37:32|0:00:06|index.html|Documents|0|25
@@ -289,18 +289,18 @@ index.html|2016-06-15|09:38:29|2016-06-15|09:39:52|0:01:23|file|Documents|0|25
 practica - Word (Error de activación de productos)|2016-06-15|09:39:52|2016-06-15|09:40:18|0:00:26|Microsoft Word|Applications|0|25
 Getting started · Bootstrap - Google Chrome|2016-06-15|09:40:18|2016-06-15|09:40:31|0:00:13|Google Chrome|Applications|0|25
 practica.docx|2016-06-15|09:39:52|2016-06-15|09:40:18|0:00:26|practica.docx|Documents|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|09:40:18|2016-06-15|09:40:31|0:00:13|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/getting-started/|2016-06-15|09:40:18|2016-06-15|09:40:31|0:00:13|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:40:31|2016-06-15|09:40:41|0:00:10|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:40:41|2016-06-15|09:40:47|0:00:06|Google Chrome|Applications|0|25
-jquery - Buscar con Google - Google Chrome|2016-06-15|09:40:47|2016-06-15|09:40:52|0:00:05|Google Chrome|Applications|0|25
-jQuery - Google Chrome|2016-06-15|09:40:52|2016-06-15|09:41:04|0:00:12|Google Chrome|Applications|0|25
-jQuery Get Started - Google Chrome|2016-06-15|09:41:15|2016-06-15|09:41:24|0:00:09|Google Chrome|Applications|0|25
+jquery - Buscar con Google - Google Chrome|2016-06-15|09:40:47|2016-06-15|09:40:52|0:00:05|Google Chrome|Applications|1|25
+jQuery - Google Chrome|2016-06-15|09:40:52|2016-06-15|09:41:04|0:00:12|Google Chrome|Applications|1|25
+jQuery Get Started - Google Chrome|2016-06-15|09:41:15|2016-06-15|09:41:24|0:00:09|Google Chrome|Applications|1|25
 index.html|2016-06-15|09:40:31|2016-06-15|09:40:41|0:00:10|index.html|Documents|0|25
 index.html|2016-06-15|09:40:41|2016-06-15|09:40:47|0:00:06|file|Documents|0|25
-https://www.google.com.ec/search?q=jquery&oq=jquery&aqs=chrome..69i57.1175j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:40:47|2016-06-15|09:40:52|0:00:05|www.google.com.ec|Documents|0|25
-https://jquery.com/|2016-06-15|09:40:52|2016-06-15|09:41:04|0:00:12|jquery.com|Documents|0|25
-http://jquery.com/download/|2016-06-15|09:41:04|2016-06-15|09:41:15|0:00:11|jquery.com|Documents|0|25
-http://www.w3schools.com/jquery/jquery_get_started.asp|2016-06-15|09:41:15|2016-06-15|09:41:24|0:00:09|www.w3schools.com|Documents|0|25
+https://www.google.com.ec/search?q=jquery&oq=jquery&aqs=chrome..69i57.1175j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:40:47|2016-06-15|09:40:52|0:00:05|www.google.com.ec|Documents|1|25
+https://jquery.com/|2016-06-15|09:40:52|2016-06-15|09:41:04|0:00:12|jquery.com|Documents|1|25
+http://jquery.com/download/|2016-06-15|09:41:04|2016-06-15|09:41:15|0:00:11|jquery.com|Documents|1|25
+http://www.w3schools.com/jquery/jquery_get_started.asp|2016-06-15|09:41:15|2016-06-15|09:41:24|0:00:09|www.w3schools.com|Documents|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:41:24|2016-06-15|09:41:43|0:00:19|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:41:43|2016-06-15|09:41:54|0:00:11|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:41:54|2016-06-15|09:42:23|0:00:29|Google Chrome|Applications|0|25
@@ -308,42 +308,42 @@ Tryit Editor v3.0 - Google Chrome|2016-06-15|09:42:23|2016-06-15|09:42:28|0:00:0
 index.html|2016-06-15|09:41:24|2016-06-15|09:41:43|0:00:19|file|Documents|0|25
 index.html|2016-06-15|09:41:43|2016-06-15|09:41:54|0:00:11|index.html|Documents|0|25
 index.html|2016-06-15|09:41:54|2016-06-15|09:42:23|0:00:29|file|Documents|0|25
-http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_menu_list-inline&stacked=h|2016-06-15|09:42:23|2016-06-15|09:42:28|0:00:05|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_menu_list-inline&stacked=h|2016-06-15|09:42:23|2016-06-15|09:42:28|0:00:05|www.w3schools.com|Documents|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:42:28|2016-06-15|09:42:46|0:00:18|Google Chrome|Applications|0|25
-jquery-1.12.2.min.js - Buscar con Google - Google Chrome|2016-06-15|09:42:46|2016-06-15|09:42:52|0:00:06|Google Chrome|Applications|0|25
-https://code.jquery.com/jquery-1.12.2.min.js - Google Chrome|2016-06-15|09:43:12|2016-06-15|09:43:17|0:00:05|Google Chrome|Applications|0|25
+jquery-1.12.2.min.js - Buscar con Google - Google Chrome|2016-06-15|09:42:46|2016-06-15|09:42:52|0:00:06|Google Chrome|Applications|1|25
+https://code.jquery.com/jquery-1.12.2.min.js - Google Chrome|2016-06-15|09:43:12|2016-06-15|09:43:17|0:00:05|Google Chrome|Applications|1|25
 index.html|2016-06-15|09:42:28|2016-06-15|09:42:46|0:00:18|file|Documents|0|25
-https://www.google.com.ec/search?q=jquery-1.12.2.min.js&oq=jquery-1.12.2.min.js&aqs=chrome..69i57.503j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:42:46|2016-06-15|09:42:52|0:00:06|www.google.com.ec|Documents|0|25
-https://blog.jquery.com/2016/03/17/jquery-1-12-2-and-2-2-2-released/|2016-06-15|09:42:52|2016-06-15|09:43:12|0:00:20|blog.jquery.com|Documents|0|25
-https://code.jquery.com/jquery-1.12.2.min.js|2016-06-15|09:43:12|2016-06-15|09:43:17|0:00:05|code.jquery.com|Documents|0|25
-https://blog.jquery.com/2016/03/17/jquery-1-12-2-and-2-2-2-released/|2016-06-15|09:43:17|2016-06-15|09:43:36|0:00:19|blog.jquery.com|Documents|0|25
+https://www.google.com.ec/search?q=jquery-1.12.2.min.js&oq=jquery-1.12.2.min.js&aqs=chrome..69i57.503j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|09:42:46|2016-06-15|09:42:52|0:00:06|www.google.com.ec|Documents|1|25
+https://blog.jquery.com/2016/03/17/jquery-1-12-2-and-2-2-2-released/|2016-06-15|09:42:52|2016-06-15|09:43:12|0:00:20|blog.jquery.com|Documents|1|25
+https://code.jquery.com/jquery-1.12.2.min.js|2016-06-15|09:43:12|2016-06-15|09:43:17|0:00:05|code.jquery.com|Documents|1|25
+https://blog.jquery.com/2016/03/17/jquery-1-12-2-and-2-2-2-released/|2016-06-15|09:43:17|2016-06-15|09:43:36|0:00:19|blog.jquery.com|Documents|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:43:36|2016-06-15|09:44:07|0:00:31|Google Chrome|Applications|0|25
 practica - Word (Error de activación de productos)|2016-06-15|09:44:07|2016-06-15|09:45:16|0:01:09|Microsoft Word|Applications|0|25
 index.html|2016-06-15|09:43:36|2016-06-15|09:44:07|0:00:31|file|Documents|0|25
 practica.docx|2016-06-15|09:44:07|2016-06-15|09:45:16|0:01:09|practica.docx|Documents|0|25
 Components · Bootstrap - Google Chrome|2016-06-15|09:45:16|2016-06-15|09:45:21|0:00:05|Google Chrome|Applications|0|25
-bootstrap carousel - Buscar con Google - Google Chrome|2016-06-15|09:45:21|2016-06-15|09:45:28|0:00:07|Google Chrome|Applications|0|25
-http://getbootstrap.com/components/|2016-06-15|09:45:16|2016-06-15|09:45:21|0:00:05|getbootstrap.com|Documents|0|25
-https://www.google.com.ec/search?q=bootstrap+carrousel&oq=bootstrap+carrousel&aqs=chrome..69i57.3079j0j4&sourceid=chrome&ie=UTF-8#q=bootstrap+carousel|2016-06-15|09:45:21|2016-06-15|09:45:28|0:00:07|www.google.com.ec|Documents|0|25
+bootstrap carousel - Buscar con Google - Google Chrome|2016-06-15|09:45:21|2016-06-15|09:45:28|0:00:07|Google Chrome|Applications|1|25
+http://getbootstrap.com/components/|2016-06-15|09:45:16|2016-06-15|09:45:21|0:00:05|getbootstrap.com|Documents|1|25
+https://www.google.com.ec/search?q=bootstrap+carrousel&oq=bootstrap+carrousel&aqs=chrome..69i57.3079j0j4&sourceid=chrome&ie=UTF-8#q=bootstrap+carousel|2016-06-15|09:45:21|2016-06-15|09:45:28|0:00:07|www.google.com.ec|Documents|1|25
 Carousel Template for Bootstrap - Google Chrome|2016-06-15|09:45:28|2016-06-15|09:45:41|0:00:13|Google Chrome|Applications|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:45:41|2016-06-15|09:45:46|0:00:05|Google Chrome|Applications|0|25
-bootstrap|2016-06-15|09:45:46|2016-06-15|09:45:51|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:45:46|2016-06-15|09:45:51|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|25
 practica - Word (Error de activación de productos)|2016-06-15|09:45:51|2016-06-15|09:46:00|0:00:09|Microsoft Word|Applications|0|25
 principal1 - Visualizador de fotos de Windows|2016-06-15|09:46:00|2016-06-15|09:46:08|0:00:08|COM Surrogate|Applications|0|25
 Bootstrap Carousel - Google Chrome|2016-06-15|09:46:08|2016-06-15|09:46:18|0:00:10|Google Chrome|Applications|0|25
 Tryit Editor v3.0 - Google Chrome|2016-06-15|09:46:18|2016-06-15|09:46:35|0:00:17|Google Chrome|Applications|0|25
-https://getbootstrap.com/examples/carousel/|2016-06-15|09:45:28|2016-06-15|09:45:41|0:00:13|getbootstrap.com|Documents|0|25
+https://getbootstrap.com/examples/carousel/|2016-06-15|09:45:28|2016-06-15|09:45:41|0:00:13|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:45:41|2016-06-15|09:45:46|0:00:05|file|Documents|0|25
 practica.docx|2016-06-15|09:45:51|2016-06-15|09:46:00|0:00:09|practica.docx|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_carousel.asp|2016-06-15|09:46:08|2016-06-15|09:46:18|0:00:10|www.w3schools.com|Documents|0|25
-http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h|2016-06-15|09:46:18|2016-06-15|09:46:35|0:00:17|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_carousel.asp|2016-06-15|09:46:08|2016-06-15|09:46:18|0:00:10|www.w3schools.com|Documents|1|25
+http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h|2016-06-15|09:46:18|2016-06-15|09:46:35|0:00:17|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|09:46:35|2016-06-15|09:46:57|0:00:22|Sublime Text 2|Applications|1|25
 Tryit Editor v3.0 - Google Chrome|2016-06-15|09:46:57|2016-06-15|09:47:21|0:00:24|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:47:21|2016-06-15|09:48:13|0:00:52|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|09:46:35|2016-06-15|09:46:57|0:00:22|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h|2016-06-15|09:46:57|2016-06-15|09:47:21|0:00:24|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h|2016-06-15|09:46:57|2016-06-15|09:47:21|0:00:24|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|09:47:21|2016-06-15|09:48:13|0:00:52|index.html|Documents|0|25
-bootstrap|2016-06-15|09:48:13|2016-06-15|09:48:18|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:48:13|2016-06-15|09:48:18|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|25
 index.html|2016-06-15|09:48:18|2016-06-15|09:48:25|0:00:07|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|09:48:18|2016-06-15|09:48:25|0:00:07|index.html|Documents|0|25
 Propiedades: portada1|2016-06-15|09:48:25|2016-06-15|09:48:31|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|25
@@ -359,11 +359,11 @@ Tryit Editor v3.0 - Google Chrome|2016-06-15|09:49:42|2016-06-15|09:50:03|0:00:2
 index.html|2016-06-15|09:50:03|2016-06-15|09:50:13|0:00:10|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:50:13|2016-06-15|09:50:22|0:00:09|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:50:22|2016-06-15|09:50:28|0:00:06|Sublime Text 2|Applications|1|25
-http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h|2016-06-15|09:49:42|2016-06-15|09:50:03|0:00:21|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h|2016-06-15|09:49:42|2016-06-15|09:50:03|0:00:21|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|09:50:03|2016-06-15|09:50:13|0:00:10|index.html|Documents|0|25
 index.html|2016-06-15|09:50:13|2016-06-15|09:50:22|0:00:09|file|Documents|0|25
 index.html|2016-06-15|09:50:22|2016-06-15|09:50:28|0:00:06|index.html|Documents|0|25
-bootstrap|2016-06-15|09:50:28|2016-06-15|09:50:33|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|09:50:28|2016-06-15|09:50:33|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|25
 index.html|2016-06-15|09:50:33|2016-06-15|09:50:47|0:00:14|Sublime Text 2|Applications|1|25
 fotos|2016-06-15|09:50:47|2016-06-15|09:50:56|0:00:09|Sistema operativo Microsoft® Windows®|Applications|0|25
 index.html|2016-06-15|09:50:56|2016-06-15|09:51:02|0:00:06|Sublime Text 2|Applications|1|25
@@ -373,13 +373,13 @@ index.html|2016-06-15|09:50:56|2016-06-15|09:51:02|0:00:06|index.html|Documents|
 index.html|2016-06-15|09:51:02|2016-06-15|09:52:55|0:01:53|file|Documents|0|25
 Tryit Editor v3.0 - Google Chrome|2016-06-15|09:52:55|2016-06-15|09:53:00|0:00:05|Google Chrome|Applications|0|25
 Bootstrap Carousel - Google Chrome|2016-06-15|09:53:00|2016-06-15|09:53:53|0:00:53|Google Chrome|Applications|0|25
-http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h|2016-06-15|09:52:55|2016-06-15|09:53:00|0:00:05|www.w3schools.com|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_carousel.asp|2016-06-15|09:53:00|2016-06-15|09:53:53|0:00:53|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_carousel&stacked=h|2016-06-15|09:52:55|2016-06-15|09:53:00|0:00:05|www.w3schools.com|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_carousel.asp|2016-06-15|09:53:00|2016-06-15|09:53:53|0:00:53|www.w3schools.com|Documents|1|25
 Carousel Template for Bootstrap - Google Chrome|2016-06-15|09:53:53|2016-06-15|09:54:01|0:00:08|Google Chrome|Applications|0|25
 Carousel · Bootstrap - Google Chrome|2016-06-15|09:54:01|2016-06-15|09:54:16|0:00:15|Google Chrome|Applications|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:54:16|2016-06-15|09:54:26|0:00:10|Google Chrome|Applications|0|25
-https://getbootstrap.com/examples/carousel/|2016-06-15|09:53:53|2016-06-15|09:54:01|0:00:08|getbootstrap.com|Documents|0|25
-http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:54:01|2016-06-15|09:54:16|0:00:15|v4-alpha.getbootstrap.com|Documents|0|25
+https://getbootstrap.com/examples/carousel/|2016-06-15|09:53:53|2016-06-15|09:54:01|0:00:08|getbootstrap.com|Documents|1|25
+http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:54:01|2016-06-15|09:54:16|0:00:15|v4-alpha.getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:54:16|2016-06-15|09:54:26|0:00:10|file|Documents|0|25
 Carousel · Bootstrap - Google Chrome|2016-06-15|09:54:26|2016-06-15|09:54:46|0:00:20|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:54:46|2016-06-15|09:55:06|0:00:20|Sublime Text 2|Applications|1|25
@@ -387,9 +387,9 @@ Carousel · Bootstrap - Google Chrome|2016-06-15|09:55:06|2016-06-15|09:55:11|0:
 index.html|2016-06-15|09:55:11|2016-06-15|09:55:18|0:00:07|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|09:55:18|2016-06-15|09:55:23|0:00:05|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:55:23|2016-06-15|09:55:32|0:00:09|Google Chrome|Applications|0|25
-http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:54:26|2016-06-15|09:54:46|0:00:20|v4-alpha.getbootstrap.com|Documents|0|25
+http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:54:26|2016-06-15|09:54:46|0:00:20|v4-alpha.getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:54:46|2016-06-15|09:55:06|0:00:20|index.html|Documents|0|25
-http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:55:06|2016-06-15|09:55:11|0:00:05|v4-alpha.getbootstrap.com|Documents|0|25
+http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:55:06|2016-06-15|09:55:11|0:00:05|v4-alpha.getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:55:11|2016-06-15|09:55:18|0:00:07|index.html|Documents|0|25
 index.html|2016-06-15|09:55:18|2016-06-15|09:55:23|0:00:05|index.html|Documents|0|25
 index.html|2016-06-15|09:55:23|2016-06-15|09:55:32|0:00:09|file|Documents|0|25
@@ -398,10 +398,10 @@ EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:55:43|2016-06-15|09:55:51|0:00
 Carousel Template for Bootstrap - Google Chrome|2016-06-15|09:55:51|2016-06-15|09:56:01|0:00:10|Google Chrome|Applications|0|25
 Carousel · Bootstrap - Google Chrome|2016-06-15|09:56:01|2016-06-15|09:56:13|0:00:12|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:56:13|2016-06-15|09:56:25|0:00:12|Sublime Text 2|Applications|1|25
-http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:55:32|2016-06-15|09:55:43|0:00:11|v4-alpha.getbootstrap.com|Documents|0|25
+http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:55:32|2016-06-15|09:55:43|0:00:11|v4-alpha.getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:55:43|2016-06-15|09:55:51|0:00:08|file|Documents|0|25
-https://getbootstrap.com/examples/carousel/|2016-06-15|09:55:51|2016-06-15|09:56:01|0:00:10|getbootstrap.com|Documents|0|25
-http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:56:01|2016-06-15|09:56:13|0:00:12|v4-alpha.getbootstrap.com|Documents|0|25
+https://getbootstrap.com/examples/carousel/|2016-06-15|09:55:51|2016-06-15|09:56:01|0:00:10|getbootstrap.com|Documents|1|25
+http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:56:01|2016-06-15|09:56:13|0:00:12|v4-alpha.getbootstrap.com|Documents|1|25
 index.html|2016-06-15|09:56:13|2016-06-15|09:56:25|0:00:12|index.html|Documents|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:56:25|2016-06-15|09:56:30|0:00:05|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:56:30|2016-06-15|09:56:41|0:00:11|Sublime Text 2|Applications|1|25
@@ -428,46 +428,46 @@ index.html|2016-06-15|09:59:26|2016-06-15|09:59:37|0:00:11|Sublime Text 2|Applic
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|09:59:37|2016-06-15|09:59:46|0:00:09|Google Chrome|Applications|0|25
 practica - Word (Error de activación de productos)|2016-06-15|09:59:46|2016-06-15|09:59:54|0:00:08|Microsoft Word|Applications|0|25
 Carousel · Bootstrap - Google Chrome|2016-06-15|09:59:54|2016-06-15|10:00:04|0:00:10|Google Chrome|Applications|0|25
-panels bootstrap - Buscar con Google - Google Chrome|2016-06-15|10:00:04|2016-06-15|10:00:11|0:00:07|Google Chrome|Applications|0|25
+panels bootstrap - Buscar con Google - Google Chrome|2016-06-15|10:00:04|2016-06-15|10:00:11|0:00:07|Google Chrome|Applications|1|25
 Components · Bootstrap - Google Chrome|2016-06-15|10:00:11|2016-06-15|10:00:30|0:00:19|Google Chrome|Applications|0|25
 index.html|2016-06-15|09:59:26|2016-06-15|09:59:37|0:00:11|index.html|Documents|0|25
 index.html|2016-06-15|09:59:37|2016-06-15|09:59:46|0:00:09|file|Documents|0|25
 practica.docx|2016-06-15|09:59:46|2016-06-15|09:59:54|0:00:08|practica.docx|Documents|0|25
-http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:59:54|2016-06-15|10:00:04|0:00:10|v4-alpha.getbootstrap.com|Documents|0|25
-https://www.google.com.ec/search?q=panels+bootstrap&oq=panels+bootstrap&aqs=chrome..69i57.3947j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|10:00:04|2016-06-15|10:00:11|0:00:07|www.google.com.ec|Documents|0|25
-http://getbootstrap.com/components/|2016-06-15|10:00:11|2016-06-15|10:00:30|0:00:19|getbootstrap.com|Documents|0|25
+http://v4-alpha.getbootstrap.com/components/carousel/|2016-06-15|09:59:54|2016-06-15|10:00:04|0:00:10|v4-alpha.getbootstrap.com|Documents|1|25
+https://www.google.com.ec/search?q=panels+bootstrap&oq=panels+bootstrap&aqs=chrome..69i57.3947j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|10:00:04|2016-06-15|10:00:11|0:00:07|www.google.com.ec|Documents|1|25
+http://getbootstrap.com/components/|2016-06-15|10:00:11|2016-06-15|10:00:30|0:00:19|getbootstrap.com|Documents|1|25
 practica - Word (Error de activación de productos)|2016-06-15|10:00:30|2016-06-15|10:00:52|0:00:22|Microsoft Word|Applications|0|25
 Getting started · Bootstrap - Google Chrome|2016-06-15|10:00:52|2016-06-15|10:00:57|0:00:05|Google Chrome|Applications|0|25
 Components · Bootstrap - Google Chrome|2016-06-15|10:00:57|2016-06-15|10:01:02|0:00:05|Google Chrome|Applications|0|25
 Components · Bootstrap - Google Chrome|2016-06-15|10:01:02|2016-06-15|10:01:25|0:00:23|Google Chrome|Applications|0|25
 practica.docx|2016-06-15|10:00:30|2016-06-15|10:00:52|0:00:22|practica.docx|Documents|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|10:00:52|2016-06-15|10:00:57|0:00:05|getbootstrap.com|Documents|0|25
-http://getbootstrap.com/components/|2016-06-15|10:00:57|2016-06-15|10:01:02|0:00:05|getbootstrap.com|Documents|0|25
-http://getbootstrap.com/components/#grid|2016-06-15|10:01:02|2016-06-15|10:01:25|0:00:23|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/getting-started/|2016-06-15|10:00:52|2016-06-15|10:00:57|0:00:05|getbootstrap.com|Documents|1|25
+http://getbootstrap.com/components/|2016-06-15|10:00:57|2016-06-15|10:01:02|0:00:05|getbootstrap.com|Documents|1|25
+http://getbootstrap.com/components/#grid|2016-06-15|10:01:02|2016-06-15|10:01:25|0:00:23|getbootstrap.com|Documents|1|25
 CSS · Bootstrap - Google Chrome|2016-06-15|10:01:25|2016-06-15|10:03:17|0:01:52|Google Chrome|Applications|0|25
-http://getbootstrap.com/css/#grid|2016-06-15|10:01:25|2016-06-15|10:03:17|0:01:52|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/css/#grid|2016-06-15|10:01:25|2016-06-15|10:03:17|0:01:52|getbootstrap.com|Documents|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:03:17|2016-06-15|10:03:25|0:00:08|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:03:17|2016-06-15|10:03:25|0:00:08|file|Documents|0|25
 practica - Word (Error de activación de productos)|2016-06-15|10:03:25|2016-06-15|10:04:06|0:00:41|Microsoft Word|Applications|0|25
 CSS · Bootstrap - Google Chrome|2016-06-15|10:04:06|2016-06-15|10:04:22|0:00:16|Google Chrome|Applications|0|25
 Bootstrap Panels - Google Chrome|2016-06-15|10:04:22|2016-06-15|10:04:31|0:00:09|Google Chrome|Applications|0|25
 practica.docx|2016-06-15|10:03:25|2016-06-15|10:04:06|0:00:41|practica.docx|Documents|0|25
-http://getbootstrap.com/css/#grid|2016-06-15|10:04:06|2016-06-15|10:04:22|0:00:16|getbootstrap.com|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_panels.asp|2016-06-15|10:04:22|2016-06-15|10:04:31|0:00:09|www.w3schools.com|Documents|0|25
+http://getbootstrap.com/css/#grid|2016-06-15|10:04:06|2016-06-15|10:04:22|0:00:16|getbootstrap.com|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_panels.asp|2016-06-15|10:04:22|2016-06-15|10:04:31|0:00:09|www.w3schools.com|Documents|1|25
 Getting started · Bootstrap - Google Chrome|2016-06-15|10:04:31|2016-06-15|10:04:37|0:00:06|Google Chrome|Applications|0|25
-bootstrap grid system - Buscar con Google - Google Chrome|2016-06-15|10:04:37|2016-06-15|10:04:44|0:00:07|Google Chrome|Applications|0|25
+bootstrap grid system - Buscar con Google - Google Chrome|2016-06-15|10:04:37|2016-06-15|10:04:44|0:00:07|Google Chrome|Applications|1|25
 Bootstrap Grid System - Google Chrome|2016-06-15|10:04:44|2016-06-15|10:05:26|0:00:42|Google Chrome|Applications|0|25
-http://getbootstrap.com/getting-started/|2016-06-15|10:04:31|2016-06-15|10:04:37|0:00:06|getbootstrap.com|Documents|0|25
-https://www.google.com.ec/search?q=bootstrap+grid+system&oq=bootstrap+grid+system&aqs=chrome..69i57.4844j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|10:04:37|2016-06-15|10:04:44|0:00:07|www.google.com.ec|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:04:44|2016-06-15|10:05:26|0:00:42|www.w3schools.com|Documents|0|25
+http://getbootstrap.com/getting-started/|2016-06-15|10:04:31|2016-06-15|10:04:37|0:00:06|getbootstrap.com|Documents|1|25
+https://www.google.com.ec/search?q=bootstrap+grid+system&oq=bootstrap+grid+system&aqs=chrome..69i57.4844j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|10:04:37|2016-06-15|10:04:44|0:00:07|www.google.com.ec|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:04:44|2016-06-15|10:05:26|0:00:42|www.w3schools.com|Documents|1|25
 CSS · Bootstrap - Google Chrome|2016-06-15|10:05:26|2016-06-15|10:05:55|0:00:29|Google Chrome|Applications|0|25
 Bootstrap Grid System - Google Chrome|2016-06-15|10:05:55|2016-06-15|10:06:09|0:00:14|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:06:09|2016-06-15|10:06:14|0:00:05|Sublime Text 2|Applications|1|25
 practica - Word (Error de activación de productos)|2016-06-15|10:06:14|2016-06-15|10:06:19|0:00:05|Microsoft Word|Applications|0|25
 index.html|2016-06-15|10:06:19|2016-06-15|10:06:24|0:00:05|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|10:06:24|2016-06-15|10:06:55|0:00:31|Sublime Text 2|Applications|1|25
-http://getbootstrap.com/css/#grid|2016-06-15|10:05:26|2016-06-15|10:05:55|0:00:29|getbootstrap.com|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:05:55|2016-06-15|10:06:09|0:00:14|www.w3schools.com|Documents|0|25
+http://getbootstrap.com/css/#grid|2016-06-15|10:05:26|2016-06-15|10:05:55|0:00:29|getbootstrap.com|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:05:55|2016-06-15|10:06:09|0:00:14|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:06:09|2016-06-15|10:06:14|0:00:05|index.html|Documents|0|25
 practica.docx|2016-06-15|10:06:14|2016-06-15|10:06:19|0:00:05|practica.docx|Documents|0|25
 index.html|2016-06-15|10:06:19|2016-06-15|10:06:24|0:00:05|index.html|Documents|0|25
@@ -475,7 +475,7 @@ index.html|2016-06-15|10:06:24|2016-06-15|10:06:55|0:00:31|index.html|Documents|
 CSS · Bootstrap - Google Chrome|2016-06-15|10:06:55|2016-06-15|10:07:02|0:00:07|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:07:02|2016-06-15|10:07:17|0:00:15|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:07:17|2016-06-15|10:07:36|0:00:19|Google Chrome|Applications|0|25
-http://getbootstrap.com/css/#grid|2016-06-15|10:06:55|2016-06-15|10:07:02|0:00:07|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/css/#grid|2016-06-15|10:06:55|2016-06-15|10:07:02|0:00:07|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|10:07:02|2016-06-15|10:07:17|0:00:15|index.html|Documents|0|25
 index.html|2016-06-15|10:07:17|2016-06-15|10:07:36|0:00:19|file|Documents|0|25
 index.html|2016-06-15|10:07:36|2016-06-15|10:07:42|0:00:06|Sublime Text 2|Applications|1|25
@@ -486,7 +486,7 @@ index.html|2016-06-15|10:08:14|2016-06-15|10:08:20|0:00:06|Sublime Text 2|Applic
 index.html|2016-06-15|10:08:20|2016-06-15|10:08:28|0:00:08|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|10:07:36|2016-06-15|10:07:42|0:00:06|index.html|Documents|0|25
 index.html|2016-06-15|10:07:42|2016-06-15|10:07:52|0:00:10|file|Documents|0|25
-http://getbootstrap.com/css/#grid|2016-06-15|10:07:52|2016-06-15|10:08:09|0:00:17|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/css/#grid|2016-06-15|10:07:52|2016-06-15|10:08:09|0:00:17|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|10:08:09|2016-06-15|10:08:14|0:00:05|index.html|Documents|0|25
 index.html|2016-06-15|10:08:14|2016-06-15|10:08:20|0:00:06|index.html|Documents|0|25
 index.html|2016-06-15|10:08:20|2016-06-15|10:08:28|0:00:08|index.html|Documents|0|25
@@ -495,10 +495,10 @@ index.html|2016-06-15|10:08:39|2016-06-15|10:08:50|0:00:11|Sublime Text 2|Applic
 Bootstrap Grid System - Google Chrome|2016-06-15|10:08:50|2016-06-15|10:08:55|0:00:05|Google Chrome|Applications|0|25
 CSS · Bootstrap - Google Chrome|2016-06-15|10:08:55|2016-06-15|10:09:12|0:00:17|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:09:12|2016-06-15|10:09:44|0:00:32|Sublime Text 2|Applications|1|25
-http://getbootstrap.com/css/#grid|2016-06-15|10:08:28|2016-06-15|10:08:39|0:00:11|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/css/#grid|2016-06-15|10:08:28|2016-06-15|10:08:39|0:00:11|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|10:08:39|2016-06-15|10:08:50|0:00:11|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:08:50|2016-06-15|10:08:55|0:00:05|www.w3schools.com|Documents|0|25
-http://getbootstrap.com/css/#grid|2016-06-15|10:08:55|2016-06-15|10:09:12|0:00:17|getbootstrap.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:08:50|2016-06-15|10:08:55|0:00:05|www.w3schools.com|Documents|1|25
+http://getbootstrap.com/css/#grid|2016-06-15|10:08:55|2016-06-15|10:09:12|0:00:17|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|10:09:12|2016-06-15|10:09:44|0:00:32|index.html|Documents|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:09:44|2016-06-15|10:09:52|0:00:08|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:09:52|2016-06-15|10:10:09|0:00:17|Sublime Text 2|Applications|1|25
@@ -508,10 +508,10 @@ CSS · Bootstrap - Google Chrome|2016-06-15|10:10:21|2016-06-15|10:10:37|0:00:16
 index.html|2016-06-15|10:09:44|2016-06-15|10:09:52|0:00:08|file|Documents|0|25
 index.html|2016-06-15|10:09:52|2016-06-15|10:10:09|0:00:17|index.html|Documents|0|25
 index.html|2016-06-15|10:10:09|2016-06-15|10:10:14|0:00:05|file|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:10:14|2016-06-15|10:10:21|0:00:07|www.w3schools.com|Documents|0|25
-http://getbootstrap.com/css/#grid|2016-06-15|10:10:21|2016-06-15|10:10:37|0:00:16|getbootstrap.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:10:14|2016-06-15|10:10:21|0:00:07|www.w3schools.com|Documents|1|25
+http://getbootstrap.com/css/#grid|2016-06-15|10:10:21|2016-06-15|10:10:37|0:00:16|getbootstrap.com|Documents|1|25
 Bootstrap Grid System - Google Chrome|2016-06-15|10:10:37|2016-06-15|10:15:09|0:04:32|Google Chrome|Applications|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:10:37|2016-06-15|10:15:09|0:04:32|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:10:37|2016-06-15|10:15:09|0:04:32|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:15:09|2016-06-15|10:15:18|0:00:09|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:15:18|2016-06-15|10:15:23|0:00:05|Google Chrome|Applications|0|25
 practica - Word (Error de activación de productos)|2016-06-15|10:15:23|2016-06-15|10:15:28|0:00:05|Microsoft Word|Applications|0|25
@@ -521,8 +521,8 @@ practica.docx|2016-06-15|10:15:23|2016-06-15|10:15:28|0:00:05|practica.docx|Docu
 Components · Bootstrap - Google Chrome|2016-06-15|10:15:28|2016-06-15|10:15:44|0:00:16|Google Chrome|Applications|0|25
 imagenes del sitio|2016-06-15|10:15:44|2016-06-15|10:15:50|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|25
 Components · Bootstrap - Google Chrome|2016-06-15|10:15:50|2016-06-15|10:17:11|0:01:21|Google Chrome|Applications|0|25
-http://getbootstrap.com/components/|2016-06-15|10:15:28|2016-06-15|10:15:44|0:00:16|getbootstrap.com|Documents|0|25
-http://getbootstrap.com/components/|2016-06-15|10:15:50|2016-06-15|10:17:11|0:01:21|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/components/|2016-06-15|10:15:28|2016-06-15|10:15:44|0:00:16|getbootstrap.com|Documents|1|25
+http://getbootstrap.com/components/|2016-06-15|10:15:50|2016-06-15|10:17:11|0:01:21|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|10:17:11|2016-06-15|10:17:16|0:00:05|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|10:17:16|2016-06-15|10:17:36|0:00:20|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|10:17:11|2016-06-15|10:17:16|0:00:05|index.html|Documents|0|25
@@ -534,17 +534,17 @@ Bootstrap Grid System - Google Chrome|2016-06-15|10:18:01|2016-06-15|10:18:26|0:
 index.html|2016-06-15|10:18:26|2016-06-15|10:19:57|0:01:31|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|10:17:36|2016-06-15|10:17:41|0:00:05|file|Documents|0|25
 index.html|2016-06-15|10:17:41|2016-06-15|10:17:56|0:00:15|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_panels.asp|2016-06-15|10:17:56|2016-06-15|10:18:01|0:00:05|www.w3schools.com|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:18:01|2016-06-15|10:18:26|0:00:25|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_panels.asp|2016-06-15|10:17:56|2016-06-15|10:18:01|0:00:05|www.w3schools.com|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:18:01|2016-06-15|10:18:26|0:00:25|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:18:26|2016-06-15|10:19:57|0:01:31|index.html|Documents|0|25
 index.html|2016-06-15|10:19:57|2016-06-15|10:20:02|0:00:05|Sublime Text 2|Applications|1|25
 Bootstrap Grid System - Google Chrome|2016-06-15|10:20:02|2016-06-15|10:20:14|0:00:12|Google Chrome|Applications|0|25
-bootstrap grips - Buscar con Google - Google Chrome|2016-06-15|10:20:14|2016-06-15|10:20:23|0:00:09|Google Chrome|Applications|0|25
+bootstrap grips - Buscar con Google - Google Chrome|2016-06-15|10:20:14|2016-06-15|10:20:23|0:00:09|Google Chrome|Applications|1|25
 Tryit Editor v3.0 - Google Chrome|2016-06-15|10:20:23|2016-06-15|10:20:37|0:00:14|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:19:57|2016-06-15|10:20:02|0:00:05|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:20:02|2016-06-15|10:20:14|0:00:12|www.w3schools.com|Documents|0|25
-https://www.google.com.ec/search?q=bootstrap+grips&oq=bootstrap+grips&aqs=chrome..69i57.5466j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|10:20:14|2016-06-15|10:20:23|0:00:09|www.google.com.ec|Documents|0|25
-http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_grid_ex2&stacked=h|2016-06-15|10:20:23|2016-06-15|10:20:37|0:00:14|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:20:02|2016-06-15|10:20:14|0:00:12|www.w3schools.com|Documents|1|25
+https://www.google.com.ec/search?q=bootstrap+grips&oq=bootstrap+grips&aqs=chrome..69i57.5466j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|10:20:14|2016-06-15|10:20:23|0:00:09|www.google.com.ec|Documents|1|25
+http://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_grid_ex2&stacked=h|2016-06-15|10:20:23|2016-06-15|10:20:37|0:00:14|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:20:37|2016-06-15|10:20:50|0:00:13|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|10:20:50|2016-06-15|10:21:08|0:00:18|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:21:08|2016-06-15|10:21:14|0:00:06|Google Chrome|Applications|0|25
@@ -581,14 +581,14 @@ index.html|2016-06-15|10:23:36|2016-06-15|10:23:42|0:00:06|index.html|Documents|
 index.html|2016-06-15|10:23:42|2016-06-15|10:23:50|0:00:08|index.html|Documents|0|25
 index.html|2016-06-15|10:23:50|2016-06-15|10:23:56|0:00:06|index.html|Documents|0|25
 index.html|2016-06-15|10:23:56|2016-06-15|10:24:23|0:00:27|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_panels.asp|2016-06-15|10:24:23|2016-06-15|10:24:30|0:00:07|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_panels.asp|2016-06-15|10:24:23|2016-06-15|10:24:30|0:00:07|www.w3schools.com|Documents|1|25
 Components · Bootstrap - Google Chrome|2016-06-15|10:24:30|2016-06-15|10:24:46|0:00:16|Google Chrome|Applications|0|25
-image in a panel bootstrap - Buscar con Google - Google Chrome|2016-06-15|10:24:46|2016-06-15|10:24:57|0:00:11|Google Chrome|Applications|0|25
+image in a panel bootstrap - Buscar con Google - Google Chrome|2016-06-15|10:24:46|2016-06-15|10:24:57|0:00:11|Google Chrome|Applications|1|25
 css - Bootstrap 3 Panels with images - Stack Overflow - Google Chrome|2016-06-15|10:24:57|2016-06-15|10:25:12|0:00:15|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:25:12|2016-06-15|10:25:20|0:00:08|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|10:25:20|2016-06-15|10:25:32|0:00:12|Sublime Text 2|Applications|1|25
-http://getbootstrap.com/components/|2016-06-15|10:24:30|2016-06-15|10:24:46|0:00:16|getbootstrap.com|Documents|0|25
-https://www.google.com.ec/search?q=image+in+a+panel+bootstrap&oq=image+in+a+panel+bootstrap&aqs=chrome..69i57.4713j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|10:24:46|2016-06-15|10:24:57|0:00:11|www.google.com.ec|Documents|0|25
+http://getbootstrap.com/components/|2016-06-15|10:24:30|2016-06-15|10:24:46|0:00:16|getbootstrap.com|Documents|1|25
+https://www.google.com.ec/search?q=image+in+a+panel+bootstrap&oq=image+in+a+panel+bootstrap&aqs=chrome..69i57.4713j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|10:24:46|2016-06-15|10:24:57|0:00:11|www.google.com.ec|Documents|1|25
 http://stackoverflow.com/questions/32648613/bootstrap-3-panels-with-images|2016-06-15|10:24:57|2016-06-15|10:25:12|0:00:15|stackoverflow.com|Documents|1|25
 index.html|2016-06-15|10:25:12|2016-06-15|10:25:20|0:00:08|index.html|Documents|0|25
 index.html|2016-06-15|10:25:20|2016-06-15|10:25:32|0:00:12|index.html|Documents|0|25
@@ -614,7 +614,7 @@ EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:28:19|2016-06-15|10:28:26|0:00
 Bootstrap Grid Examples - Google Chrome|2016-06-15|10:28:26|2016-06-15|10:28:32|0:00:06|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:27:46|2016-06-15|10:28:19|0:00:33|index.html|Documents|0|25
 index.html|2016-06-15|10:28:19|2016-06-15|10:28:26|0:00:07|file|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp|2016-06-15|10:28:26|2016-06-15|10:28:32|0:00:06|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_examples.asp|2016-06-15|10:28:26|2016-06-15|10:28:32|0:00:06|www.w3schools.com|Documents|1|25
 Lorem Ipsum - All the facts - Lipsum generator - Google Chrome|2016-06-15|10:28:32|2016-06-15|10:28:46|0:00:14|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:28:46|2016-06-15|10:29:00|0:00:14|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|10:29:00|2016-06-15|10:29:37|0:00:37|Sublime Text 2|Applications|1|25
@@ -639,7 +639,7 @@ CSS max-width property - Google Chrome|2016-06-15|10:32:21|2016-06-15|10:32:31|0
 index.html|2016-06-15|10:31:55|2016-06-15|10:32:05|0:00:10|index.html|Documents|0|25
 practica.docx|2016-06-15|10:32:05|2016-06-15|10:32:16|0:00:11|practica.docx|Documents|0|25
 https://www.google.com.ec/search?q=max+width&oq=max+width&aqs=chrome..69i57.2351j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|10:32:16|2016-06-15|10:32:21|0:00:05|www.google.com.ec|Documents|0|25
-http://www.w3schools.com/cssref/pr_dim_max-width.asp|2016-06-15|10:32:21|2016-06-15|10:32:31|0:00:10|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/cssref/pr_dim_max-width.asp|2016-06-15|10:32:21|2016-06-15|10:32:31|0:00:10|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:32:31|2016-06-15|10:32:36|0:00:05|Sublime Text 2|Applications|1|25
 practica - Word (Error de activación de productos)|2016-06-15|10:32:36|2016-06-15|10:32:41|0:00:05|Microsoft Word|Applications|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:32:41|2016-06-15|10:32:49|0:00:08|Google Chrome|Applications|0|25
@@ -668,10 +668,10 @@ Bootstrap Grid System - Google Chrome|2016-06-15|10:35:14|2016-06-15|10:35:21|0:
 index.html|2016-06-15|10:35:21|2016-06-15|10:35:27|0:00:06|Sublime Text 2|Applications|1|25
 practica - Word (Error de activación de productos)|2016-06-15|10:35:27|2016-06-15|10:36:33|0:01:06|Microsoft Word|Applications|0|25
 index.html|2016-06-15|10:34:36|2016-06-15|10:34:42|0:00:06|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:34:42|2016-06-15|10:34:49|0:00:07|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:34:42|2016-06-15|10:34:49|0:00:07|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:34:49|2016-06-15|10:34:58|0:00:09|index.html|Documents|0|25
 index.html|2016-06-15|10:34:58|2016-06-15|10:35:14|0:00:16|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:35:14|2016-06-15|10:35:21|0:00:07|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:35:14|2016-06-15|10:35:21|0:00:07|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:35:21|2016-06-15|10:35:27|0:00:06|index.html|Documents|0|25
 practica.docx|2016-06-15|10:35:27|2016-06-15|10:36:33|0:01:06|practica.docx|Documents|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:36:33|2016-06-15|10:36:38|0:00:05|Google Chrome|Applications|0|25
@@ -686,16 +686,16 @@ index.html|2016-06-15|10:36:43|2016-06-15|10:36:54|0:00:11|index.html|Documents|
 index.html|2016-06-15|10:36:54|2016-06-15|10:37:05|0:00:11|index.html|Documents|0|25
 http://es.lipsum.com/|2016-06-15|10:37:05|2016-06-15|10:37:14|0:00:09|es.lipsum.com|Documents|0|25
 practica.docx|2016-06-15|10:37:14|2016-06-15|10:37:21|0:00:07|practica.docx|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:37:21|2016-06-15|10:37:37|0:00:16|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|10:37:21|2016-06-15|10:37:37|0:00:16|www.w3schools.com|Documents|1|25
 Nueva pestaña - Google Chrome|2016-06-15|10:37:37|2016-06-15|10:37:46|0:00:09|Google Chrome|Applications|0|25
 Nueva pestaña - Google Chrome|2016-06-15|10:37:46|2016-06-15|10:37:51|0:00:05|Google Chrome|Applications|0|25
-buttons bootstrap - Buscar con Google - Google Chrome|2016-06-15|10:37:51|2016-06-15|10:37:58|0:00:07|Google Chrome|Applications|0|25
+buttons bootstrap - Buscar con Google - Google Chrome|2016-06-15|10:37:51|2016-06-15|10:37:58|0:00:07|Google Chrome|Applications|1|25
 Components · Bootstrap - Google Chrome|2016-06-15|10:37:58|2016-06-15|10:38:28|0:00:30|Google Chrome|Applications|0|25
 Bootstrap Buttons - Google Chrome|2016-06-15|10:38:28|2016-06-15|10:38:38|0:00:10|Google Chrome|Applications|0|25
-https://www.google.com.ec/search?q=panels+bootstrap&oq=panels+bootstrap&aqs=chrome..69i57.7261j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|10:37:46|2016-06-15|10:37:51|0:00:05|www.google.com.ec|Documents|0|25
-https://www.google.com.ec/search?q=buttons+bootstrap&oq=buttons+bootstrap&aqs=chrome..69i57.3067j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|10:37:51|2016-06-15|10:37:58|0:00:07|www.google.com.ec|Documents|0|25
-http://getbootstrap.com/components/|2016-06-15|10:37:58|2016-06-15|10:38:28|0:00:30|getbootstrap.com|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_buttons.asp|2016-06-15|10:38:28|2016-06-15|10:38:38|0:00:10|www.w3schools.com|Documents|0|25
+https://www.google.com.ec/search?q=panels+bootstrap&oq=panels+bootstrap&aqs=chrome..69i57.7261j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|10:37:46|2016-06-15|10:37:51|0:00:05|www.google.com.ec|Documents|1|25
+https://www.google.com.ec/search?q=buttons+bootstrap&oq=buttons+bootstrap&aqs=chrome..69i57.3067j0j1&sourceid=chrome&ie=UTF-8|2016-06-15|10:37:51|2016-06-15|10:37:58|0:00:07|www.google.com.ec|Documents|1|25
+http://getbootstrap.com/components/|2016-06-15|10:37:58|2016-06-15|10:38:28|0:00:30|getbootstrap.com|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_buttons.asp|2016-06-15|10:38:28|2016-06-15|10:38:38|0:00:10|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:38:38|2016-06-15|10:38:56|0:00:18|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:38:56|2016-06-15|10:39:05|0:00:09|Google Chrome|Applications|0|25
 principal2 - Visualizador de fotos de Windows|2016-06-15|10:39:05|2016-06-15|10:39:10|0:00:05|COM Surrogate|Applications|0|25
@@ -704,7 +704,7 @@ Components · Bootstrap - Google Chrome|2016-06-15|10:39:17|2016-06-15|10:39:50|
 index.html|2016-06-15|10:38:38|2016-06-15|10:38:56|0:00:18|index.html|Documents|0|25
 index.html|2016-06-15|10:38:56|2016-06-15|10:39:05|0:00:09|file|Documents|0|25
 http://es.lipsum.com/|2016-06-15|10:39:10|2016-06-15|10:39:17|0:00:07|es.lipsum.com|Documents|0|25
-http://getbootstrap.com/components/|2016-06-15|10:39:17|2016-06-15|10:39:50|0:00:33|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/components/|2016-06-15|10:39:17|2016-06-15|10:39:50|0:00:33|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|10:39:50|2016-06-15|10:40:10|0:00:20|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:40:10|2016-06-15|10:40:15|0:00:05|Google Chrome|Applications|0|25
 index.html|2016-06-15|10:40:15|2016-06-15|10:40:21|0:00:06|Sublime Text 2|Applications|1|25
@@ -725,10 +725,10 @@ Bootstrap CSS Basic Text Reference - Google Chrome|2016-06-15|10:41:47|2016-06-1
 index.html|2016-06-15|10:41:59|2016-06-15|10:42:05|0:00:06|Sublime Text 2|Applications|1|25
 principal2 - Visualizador de fotos de Windows|2016-06-15|10:42:05|2016-06-15|10:42:12|0:00:07|COM Surrogate|Applications|0|25
 Bootstrap CSS Basic Text Reference - Google Chrome|2016-06-15|10:42:12|2016-06-15|10:42:35|0:00:23|Google Chrome|Applications|0|25
-http://getbootstrap.com/components/|2016-06-15|10:41:37|2016-06-15|10:41:47|0:00:10|getbootstrap.com|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp|2016-06-15|10:41:47|2016-06-15|10:41:59|0:00:12|www.w3schools.com|Documents|0|25
+http://getbootstrap.com/components/|2016-06-15|10:41:37|2016-06-15|10:41:47|0:00:10|getbootstrap.com|Documents|1|25
+http://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp|2016-06-15|10:41:47|2016-06-15|10:41:59|0:00:12|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|10:41:59|2016-06-15|10:42:05|0:00:06|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp|2016-06-15|10:42:12|2016-06-15|10:42:35|0:00:23|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_ref_css_text.asp|2016-06-15|10:42:12|2016-06-15|10:42:35|0:00:23|www.w3schools.com|Documents|1|25
 practica - Word (Error de activación de productos)|2016-06-15|10:42:35|2016-06-15|10:42:47|0:00:12|Microsoft Word|Applications|0|25
 index.html|2016-06-15|10:42:47|2016-06-15|10:43:12|0:00:25|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|10:43:12|2016-06-15|10:43:32|0:00:20|Google Chrome|Applications|0|25
@@ -822,7 +822,7 @@ Bootstrap Grid System - Google Chrome|2016-06-15|11:00:28|2016-06-15|11:00:36|0:
 index.html|2016-06-15|10:59:34|2016-06-15|10:59:46|0:00:12|index.html|Documents|0|25
 index.html|2016-06-15|10:59:46|2016-06-15|11:00:19|0:00:33|index.html|Documents|0|25
 index.html|2016-06-15|11:00:19|2016-06-15|11:00:28|0:00:09|index.html|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|11:00:28|2016-06-15|11:00:36|0:00:08|www.w3schools.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_grid_system.asp|2016-06-15|11:00:28|2016-06-15|11:00:36|0:00:08|www.w3schools.com|Documents|1|25
 index.html|2016-06-15|11:00:36|2016-06-15|11:00:45|0:00:09|Sublime Text 2|Applications|1|25
 practica - Word (Error de activación de productos)|2016-06-15|11:00:45|2016-06-15|11:00:55|0:00:10|Microsoft Word|Applications|0|25
 Bootstrap Grid System - Google Chrome|2016-06-15|11:00:55|2016-06-15|11:01:01|0:00:06|Google Chrome|Applications|0|25
@@ -830,39 +830,39 @@ Bootstrap Tabs and Pills - Google Chrome|2016-06-15|11:01:01|2016-06-15|11:01:15
 Components · Bootstrap - Google Chrome|2016-06-15|11:01:15|2016-06-15|11:01:58|0:00:43|Google Chrome|Applications|0|25
 index.html|2016-06-15|11:00:36|2016-06-15|11:00:45|0:00:09|index.html|Documents|0|25
 practica.docx|2016-06-15|11:00:45|2016-06-15|11:00:55|0:00:10|practica.docx|Documents|0|25
-http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp|2016-06-15|11:01:01|2016-06-15|11:01:15|0:00:14|www.w3schools.com|Documents|0|25
-http://getbootstrap.com/components/|2016-06-15|11:01:15|2016-06-15|11:01:58|0:00:43|getbootstrap.com|Documents|0|25
+http://www.w3schools.com/bootstrap/bootstrap_tabs_pills.asp|2016-06-15|11:01:01|2016-06-15|11:01:15|0:00:14|www.w3schools.com|Documents|1|25
+http://getbootstrap.com/components/|2016-06-15|11:01:15|2016-06-15|11:01:58|0:00:43|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|11:01:58|2016-06-15|11:02:12|0:00:14|Sublime Text 2|Applications|1|25
 Components · Bootstrap - Google Chrome|2016-06-15|11:02:12|2016-06-15|11:02:20|0:00:08|Google Chrome|Applications|0|25
 index.html|2016-06-15|11:02:20|2016-06-15|11:02:27|0:00:07|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|11:02:27|2016-06-15|11:02:32|0:00:05|Google Chrome|Applications|0|25
 index.html|2016-06-15|11:01:58|2016-06-15|11:02:12|0:00:14|index.html|Documents|0|25
-http://getbootstrap.com/components/|2016-06-15|11:02:12|2016-06-15|11:02:20|0:00:08|getbootstrap.com|Documents|0|25
+http://getbootstrap.com/components/|2016-06-15|11:02:12|2016-06-15|11:02:20|0:00:08|getbootstrap.com|Documents|1|25
 index.html|2016-06-15|11:02:20|2016-06-15|11:02:27|0:00:07|index.html|Documents|0|25
 index.html|2016-06-15|11:02:27|2016-06-15|11:02:32|0:00:05|file|Documents|0|25
 principal2 - Visualizador de fotos de Windows|2016-06-15|11:02:32|2016-06-15|11:02:39|0:00:07|COM Surrogate|Applications|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|11:02:39|2016-06-15|11:02:44|0:00:05|Google Chrome|Applications|0|25
-nav-pills bootstrap - Buscar con Google - Google Chrome|2016-06-15|11:02:44|2016-06-15|11:02:49|0:00:05|Google Chrome|Applications|0|25
+nav-pills bootstrap - Buscar con Google - Google Chrome|2016-06-15|11:02:44|2016-06-15|11:02:49|0:00:05|Google Chrome|Applications|1|25
 index.html|2016-06-15|11:02:49|2016-06-15|11:02:55|0:00:06|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|11:02:55|2016-06-15|11:03:24|0:00:29|Sublime Text 2|Applications|1|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|11:03:24|2016-06-15|11:03:29|0:00:05|Google Chrome|Applications|0|25
 index.html|2016-06-15|11:03:29|2016-06-15|11:03:35|0:00:06|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|11:02:39|2016-06-15|11:02:44|0:00:05|file|Documents|0|25
-https://www.google.com.ec/search?q=nav-pills+bootstrap&oq=nav-pills+bootstrap&aqs=chrome..69i57.4623j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|11:02:44|2016-06-15|11:02:49|0:00:05|www.google.com.ec|Documents|0|25
+https://www.google.com.ec/search?q=nav-pills+bootstrap&oq=nav-pills+bootstrap&aqs=chrome..69i57.4623j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|11:02:44|2016-06-15|11:02:49|0:00:05|www.google.com.ec|Documents|1|25
 index.html|2016-06-15|11:02:49|2016-06-15|11:02:55|0:00:06|index.html|Documents|0|25
 index.html|2016-06-15|11:02:55|2016-06-15|11:03:24|0:00:29|index.html|Documents|0|25
 index.html|2016-06-15|11:03:24|2016-06-15|11:03:29|0:00:05|file|Documents|0|25
 index.html|2016-06-15|11:03:29|2016-06-15|11:03:35|0:00:06|index.html|Documents|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|11:03:35|2016-06-15|11:03:45|0:00:10|Google Chrome|Applications|0|25
 index.html|2016-06-15|11:03:45|2016-06-15|11:03:52|0:00:07|Sublime Text 2|Applications|1|25
-nav-pills bootstrap - Buscar con Google - Google Chrome|2016-06-15|11:03:52|2016-06-15|11:04:02|0:00:10|Google Chrome|Applications|0|25
+nav-pills bootstrap - Buscar con Google - Google Chrome|2016-06-15|11:03:52|2016-06-15|11:04:02|0:00:10|Google Chrome|Applications|1|25
 Avance 1: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|11:04:02|2016-06-15|11:04:11|0:00:09|Google Chrome|Applications|0|25
 Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|11:04:11|2016-06-15|11:04:20|0:00:09|Google Chrome|Applications|0|25
 faq - Visualizador de fotos de Windows|2016-06-15|11:04:20|2016-06-15|11:04:30|0:00:10|COM Surrogate|Applications|0|25
 Nueva pestaña - Google Chrome|2016-06-15|11:04:30|2016-06-15|11:04:36|0:00:06|Google Chrome|Applications|0|25
 index.html|2016-06-15|11:03:35|2016-06-15|11:03:45|0:00:10|file|Documents|0|25
 index.html|2016-06-15|11:03:45|2016-06-15|11:03:52|0:00:07|index.html|Documents|0|25
-https://www.google.com.ec/search?q=nav-pills+bootstrap&oq=nav-pills+bootstrap&aqs=chrome..69i57.4623j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|11:03:52|2016-06-15|11:04:02|0:00:10|www.google.com.ec|Documents|0|25
+https://www.google.com.ec/search?q=nav-pills+bootstrap&oq=nav-pills+bootstrap&aqs=chrome..69i57.4623j0j4&sourceid=chrome&ie=UTF-8|2016-06-15|11:03:52|2016-06-15|11:04:02|0:00:10|www.google.com.ec|Documents|1|25
 https://www.sidweb.espol.edu.ec/courses/32682/assignments/110820|2016-06-15|11:04:02|2016-06-15|11:04:11|0:00:09|www.sidweb.espol.edu.ec|Documents|0|25
 https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15|11:04:11|2016-06-15|11:04:20|0:00:09|www.sidweb.espol.edu.ec|Documents|0|25
 acordeon translate - Google Search - Google Chrome|2016-06-15|11:04:36|2016-06-15|11:04:42|0:00:06|Google Chrome|Applications|0|25
@@ -876,7 +876,7 @@ index.html|2016-06-15|11:05:16|2016-06-15|11:07:27|0:02:11|index.html|Documents|
 New Mockup 1 - GuidoDuchi - FernandoCarvajal - [...\Desktop\GuidoDuchi - FernandoCarvajal.bmpr]|2016-06-15|11:07:27|2016-06-15|11:08:24|0:00:57|Balsamiq Mockups 3|Applications|0|25
 EcuadorPrimero S.A. - Google Chrome|2016-06-15|11:08:24|2016-06-15|11:10:59|0:02:35|Google Chrome|Applications|0|25
 index.html|2016-06-15|11:08:24|2016-06-15|11:10:59|0:02:35|file|Documents|0|25
-bootstrap|2016-06-15|11:10:59|2016-06-15|11:11:04|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|25
+bootstrap|2016-06-15|11:10:59|2016-06-15|11:11:04|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|25
 fotos|2016-06-15|11:11:04|2016-06-15|11:11:12|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|25
 index.html|2016-06-15|11:11:12|2016-06-15|11:11:37|0:00:25|Sublime Text 2|Applications|1|25
 index.html|2016-06-15|11:11:12|2016-06-15|11:11:37|0:00:25|index.html|Documents|0|25
@@ -1004,12 +1004,12 @@ http://localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=|2016-07
 http://localhost:8080/AdmProyectos/|2016-07-20|09:42:50|2016-07-20|09:43:18|0:00:28|localhost|Documents|1|25
 Elegir complementos|2016-07-20|09:43:18|2016-07-20|09:43:23|0:00:05|Internet Explorer|Applications|0|25
 Administrador de Proyectos - Internet Explorer|2016-07-20|09:43:23|2016-07-20|09:43:35|0:00:12|Internet Explorer|Applications|0|25
-Microsoft Visual Studio|2016-07-20|09:43:35|2016-07-20|09:43:40|0:00:05|Microsoft® Visual Studio® 2015|Applications|0|25
+Microsoft Visual Studio|2016-07-20|09:43:35|2016-07-20|09:43:40|0:00:05|Microsoft® Visual Studio® 2015|Applications|1|25
 Administrador de Proyectos - Internet Explorer|2016-07-20|09:43:40|2016-07-20|09:44:16|0:00:36|Internet Explorer|Applications|0|25
 http://localhost:8080/AdmProyectos/|2016-07-20|09:43:23|2016-07-20|09:43:35|0:00:12|localhost|Documents|1|25
 http://localhost:8080/AdmProyectos/|2016-07-20|09:43:40|2016-07-20|09:44:16|0:00:36|localhost|Documents|1|25
 GlassFish Server Open Source Edition 4.1.1 - Error report - Internet Explorer|2016-07-20|09:44:16|2016-07-20|09:44:42|0:00:26|Internet Explorer|Applications|1|25
-Microsoft Visual Studio|2016-07-20|09:44:42|2016-07-20|09:44:53|0:00:11|Microsoft® Visual Studio® 2015|Applications|0|25
+Microsoft Visual Studio|2016-07-20|09:44:42|2016-07-20|09:44:53|0:00:11|Microsoft® Visual Studio® 2015|Applications|1|25
 GlassFish Server Open Source Edition 4.1.1 - Error report - Internet Explorer|2016-07-20|09:44:53|2016-07-20|09:45:03|0:00:10|Internet Explorer|Applications|1|25
 http://localhost:8080/AdmProyectos/loginServlet?usuario=pepito&password=5678|2016-07-20|09:44:16|2016-07-20|09:44:42|0:00:26|localhost|Documents|1|25
 http://localhost:8080/AdmProyectos/LoginServlet?usuario=pepito&password=5678|2016-07-20|09:44:53|2016-07-20|09:45:03|0:00:10|localhost|Documents|1|25
@@ -1018,7 +1018,7 @@ Ver descargas: Internet Explorer|2016-07-20|09:45:09|2016-07-20|09:45:15|0:00:06
 Administrador de Proyectos - Internet Explorer|2016-07-20|09:45:15|2016-07-20|09:46:12|0:00:57|Internet Explorer|Applications|0|25
 http://localhost:8080/AdmProyectos/|2016-07-20|09:45:15|2016-07-20|09:46:12|0:00:57|localhost|Documents|1|25
 Administrador de Proyectos - Internet Explorer|2016-07-20|09:46:12|2016-07-20|09:46:17|0:00:05|Internet Explorer|Applications|0|25
-Microsoft Visual Studio|2016-07-20|09:46:17|2016-07-20|09:46:23|0:00:06|Microsoft® Visual Studio® 2015|Applications|0|25
+Microsoft Visual Studio|2016-07-20|09:46:17|2016-07-20|09:46:23|0:00:06|Microsoft® Visual Studio® 2015|Applications|1|25
 Administrador de Proyectos - Internet Explorer|2016-07-20|09:46:23|2016-07-20|09:46:28|0:00:05|Internet Explorer|Applications|0|25
 Administrador de Proyectos - Internet Explorer|2016-07-20|09:46:28|2016-07-20|09:46:34|0:00:06|Internet Explorer|Applications|0|25
 Descargas|2016-07-20|09:46:34|2016-07-20|09:46:40|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|25
@@ -1132,7 +1132,7 @@ Pokémon GO - Google Chrome|2016-07-20|10:31:32|2016-07-20|10:31:42|0:00:10|Goog
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=niantic pokemon go update|2016-07-20|10:31:20|2016-07-20|10:31:27|0:00:07|www.google.com.ec|Documents|0|25
 http://pokemongo.nianticlabs.com/en/|2016-07-20|10:31:27|2016-07-20|10:31:32|0:00:05|pokemongo.nianticlabs.com|Documents|1|25
 http://pokemongo.nianticlabs.com/en/post/|2016-07-20|10:31:32|2016-07-20|10:31:42|0:00:10|pokemongo.nianticlabs.com|Documents|1|25
-http://www.idigitaltimes.com/pokemon-go-still-not-available-japan-niantic-ceo-explains-why-update-its-coming-546154|2016-07-20|10:31:42|2016-07-20|10:33:21|0:01:39|www.idigitaltimes.com|Documents|0|25
+http://www.idigitaltimes.com/pokemon-go-still-not-available-japan-niantic-ceo-explains-why-update-its-coming-546154|2016-07-20|10:31:42|2016-07-20|10:33:21|0:01:39|www.idigitaltimes.com|Documents|1|25
 Pokémon GO - Google Chrome|2016-07-20|10:33:21|2016-07-20|10:33:31|0:00:10|Google Chrome|Applications|0|25
 Pokémon GO - Google Chrome|2016-07-20|10:33:41|2016-07-20|10:35:55|0:02:14|Google Chrome|Applications|0|25
 http://pokemongo.nianticlabs.com/en/post/|2016-07-20|10:33:21|2016-07-20|10:33:31|0:00:10|pokemongo.nianticlabs.com|Documents|1|25
@@ -1297,7 +1297,7 @@ Abrir|2016-07-20|11:17:12|2016-07-20|11:18:28|0:01:16|NetBeans IDE 8.1|Applicati
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=phpmyadmin administration app|2016-07-20|11:17:05|2016-07-20|11:17:12|0:00:07|www.google.com.ec|Documents|0|25
 Connecting to a MySQL Database - NetBeans IDE Tutorial - Google Chrome|2016-07-20|11:18:33|2016-07-20|11:18:43|0:00:10|Google Chrome|Applications|1|25
 MySQL Administration application - Google Search - Google Chrome|2016-07-20|11:18:43|2016-07-20|11:18:57|0:00:14|Google Chrome|Applications|0|25
-https://www.digitalocean.com/community/tutorials/how-to-use-the-phpmyadmin-one-click-application-image|2016-07-20|11:18:28|2016-07-20|11:18:33|0:00:05|www.digitalocean.com|Documents|0|25
+https://www.digitalocean.com/community/tutorials/how-to-use-the-phpmyadmin-one-click-application-image|2016-07-20|11:18:28|2016-07-20|11:18:33|0:00:05|www.digitalocean.com|Documents|1|25
 https://netbeans.org/kb/docs/ide/mysql.html|2016-07-20|11:18:33|2016-07-20|11:18:43|0:00:10|netbeans.org|Documents|1|25
 https://www.google.com.ec/search?q=MySQL+Administration+application&oq=MySQL+Administration+application&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8|2016-07-20|11:18:43|2016-07-20|11:18:57|0:00:14|www.google.com.ec|Documents|0|25
 phpMyAdmin - Google Chrome|2016-07-20|11:18:57|2016-07-20|11:19:08|0:00:11|Google Chrome|Applications|0|25

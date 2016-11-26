@@ -27,3 +27,12 @@ server
 Server
 Atom
 atom
+jquery
+jQuery
+hbs
+Visual Studio
+visual studio
+mlab
+dev.
+emmet
+Emmet

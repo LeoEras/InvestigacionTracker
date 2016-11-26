@@ -10,13 +10,13 @@ Propiedades de Web Deployment Agent Service (Equipo local)|2016-06-02|16:19:22|2
 45 segundos restantes|2016-06-02|16:19:27|2016-06-02|16:19:38|0:00:11|Sistema operativo Microsoft® Windows®|Applications|0|40
 Inicio|2016-06-02|16:19:38|2016-06-02|16:20:09|0:00:31|Sistema operativo Microsoft® Windows®|Applications|0|40
 Extracting Files|2016-06-02|16:20:09|2016-06-02|16:20:14|0:00:05|Microsoft Visual C++ 2008 Redistributable|Applications|0|40
-Setup|2016-06-02|16:20:14|2016-06-02|16:20:21|0:00:07|Microsoft® Visual Studio® 2008|Applications|0|40
+Setup|2016-06-02|16:20:14|2016-06-02|16:20:21|0:00:07|Microsoft® Visual Studio® 2008|Applications|1|40
 Installers|2016-06-02|16:20:21|2016-06-02|16:20:26|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|40
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|2016-06-02|16:20:26|2016-06-02|16:22:40|0:02:14|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|40
 Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|2016-06-02|16:22:40|2016-06-02|16:23:58|0:01:18|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|Applications|0|40
 Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2016-06-02|16:23:58|2016-06-02|16:24:34|0:00:36|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|Applications|0|40
 Extracting Files|2016-06-02|16:24:34|2016-06-02|16:24:39|0:00:05|Microsoft Visual C++ 2008 Redistributable|Applications|0|40
-Setup|2016-06-02|16:24:39|2016-06-02|16:24:46|0:00:07|Microsoft® Visual Studio® 2008|Applications|0|40
+Setup|2016-06-02|16:24:39|2016-06-02|16:24:46|0:00:07|Microsoft® Visual Studio® 2008|Applications|1|40
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 Setup|2016-06-02|16:24:46|2016-06-02|16:24:52|0:00:06|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|Applications|0|40
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|2016-06-02|16:24:52|2016-06-02|16:24:59|0:00:07|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|Applications|0|40
 Installers|2016-06-02|16:27:17|2016-06-02|16:27:22|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|40
@@ -36,7 +36,7 @@ Gmail - Google Chrome|2016-06-15|09:27:16|2016-06-15|09:27:24|0:00:08|Google Chr
 Gmail - Google Chrome|2016-06-15|09:27:24|2016-06-15|09:27:29|0:00:05|Google Chrome|Applications|0|40
 Recibidos (17.168) - aaguerra11@gmail.com - Gmail - Google Chrome|2016-06-15|09:27:29|2016-06-15|09:27:34|0:00:05|Google Chrome|Applications|0|40
 Nueva pestaña - Google Chrome|2016-06-15|09:27:34|2016-06-15|09:27:41|0:00:07|Google Chrome|Applications|0|40
-Curso Profesional de React.js - Google Chrome|2016-06-15|09:27:41|2016-06-15|09:27:47|0:00:06|Google Chrome|Applications|0|40
+Curso Profesional de React.js - Google Chrome|2016-06-15|09:27:41|2016-06-15|09:27:47|0:00:06|Google Chrome|Applications|1|40
 Recibidos (17.168) - aaguerra11@gmail.com - Gmail - Google Chrome|2016-06-15|09:27:47|2016-06-15|09:28:13|0:00:26|Google Chrome|Applications|0|40
 chrome://chrome-signin/?access_point=0&reason=0|2016-06-15|09:26:53|2016-06-15|09:27:00|0:00:07|chrome-signin|Documents|0|40
 https://www.google.com/intl/es/mail/help/about.html|2016-06-15|09:27:00|2016-06-15|09:27:06|0:00:06|www.google.com|Documents|0|40
@@ -44,7 +44,7 @@ https://accounts.google.com/ServiceLogin?service=mail&continue=https://mail.goog
 https://accounts.google.com/ServiceLogin?service=mail&continue=https://mail.google.com/mail/&hl=es#password|2016-06-15|09:27:16|2016-06-15|09:27:24|0:00:08|accounts.google.com|Documents|0|40
 https://mail.google.com/mail/u/0/|2016-06-15|09:27:24|2016-06-15|09:27:29|0:00:05|mail.google.com|Documents|0|40
 https://mail.google.com/mail/u/0/#inbox|2016-06-15|09:27:29|2016-06-15|09:27:34|0:00:05|mail.google.com|Documents|0|40
-https://platzi.com/cursos/reactjs/|2016-06-15|09:27:41|2016-06-15|09:27:47|0:00:06|platzi.com|Documents|0|40
+https://platzi.com/cursos/reactjs/|2016-06-15|09:27:41|2016-06-15|09:27:47|0:00:06|platzi.com|Documents|1|40
 https://mail.google.com/mail/u/0/#inbox?compose=new|2016-06-15|09:27:47|2016-06-15|09:28:13|0:00:26|mail.google.com|Documents|0|40
 Recibidos (17.169) - aaguerra11@gmail.com - Gmail - Google Chrome|2016-06-15|09:28:13|2016-06-15|09:28:33|0:00:20|Google Chrome|Applications|0|40
 Recibidos (17.169) - aaguerra11@gmail.com - Gmail - Google Chrome|2016-06-15|09:28:33|2016-06-15|09:28:38|0:00:05|Google Chrome|Applications|0|40
@@ -54,15 +54,15 @@ https://mail.google.com/mail/u/0/#inbox?compose=155547660e272dca|2016-06-15|09:2
 https://mail.google.com/mail/u/0/#inbox?compose=1555476ab42abd7f|2016-06-15|09:28:33|2016-06-15|09:28:38|0:00:05|mail.google.com|Documents|0|40
 https://mail.google.com/mail/u/0/#inbox?compose=1555476c853249c8|2016-06-15|09:28:38|2016-06-15|09:28:48|0:00:10|mail.google.com|Documents|0|40
 https://mail.google.com/mail/u/0/#inbox?compose=1555476ea8462a7f|2016-06-15|09:28:48|2016-06-15|09:29:08|0:00:20|mail.google.com|Documents|0|40
-Curso Profesional de React.js - Google Chrome|2016-06-15|09:29:08|2016-06-15|09:29:14|0:00:06|Google Chrome|Applications|0|40
+Curso Profesional de React.js - Google Chrome|2016-06-15|09:29:08|2016-06-15|09:29:14|0:00:06|Google Chrome|Applications|1|40
 Recibidos (17.169) - aaguerra11@gmail.com - Gmail - Google Chrome|2016-06-15|09:29:14|2016-06-15|09:29:19|0:00:05|Google Chrome|Applications|0|40
-Curso Profesional de React.js - Google Chrome|2016-06-15|09:29:19|2016-06-15|09:29:24|0:00:05|Google Chrome|Applications|0|40
+Curso Profesional de React.js - Google Chrome|2016-06-15|09:29:19|2016-06-15|09:29:24|0:00:05|Google Chrome|Applications|1|40
 Nueva pestaña - Google Chrome|2016-06-15|09:29:24|2016-06-15|09:29:31|0:00:07|Google Chrome|Applications|0|40
 one piece anime flv - Buscar con Google - Google Chrome|2016-06-15|09:29:31|2016-06-15|09:29:36|0:00:05|Google Chrome|Applications|0|40
 Ver One Piece online - AnimeFLV - Google Chrome|2016-06-15|09:29:36|2016-06-15|09:29:56|0:00:20|Google Chrome|Applications|0|40
-https://platzi.com/cursos/reactjs/|2016-06-15|09:29:08|2016-06-15|09:29:14|0:00:06|platzi.com|Documents|0|40
+https://platzi.com/cursos/reactjs/|2016-06-15|09:29:08|2016-06-15|09:29:14|0:00:06|platzi.com|Documents|1|40
 https://mail.google.com/mail/u/0/#inbox?compose=15554774e9a4f0b0|2016-06-15|09:29:14|2016-06-15|09:29:19|0:00:05|mail.google.com|Documents|0|40
-https://platzi.com/cursos/reactjs/|2016-06-15|09:29:19|2016-06-15|09:29:24|0:00:05|platzi.com|Documents|0|40
+https://platzi.com/cursos/reactjs/|2016-06-15|09:29:19|2016-06-15|09:29:24|0:00:05|platzi.com|Documents|1|40
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=one piece anime flv|2016-06-15|09:29:31|2016-06-15|09:29:36|0:00:05|www.google.com.ec|Documents|0|40
 http://animeflv.me/Anime/1569/one-piece/|2016-06-15|09:29:36|2016-06-15|09:29:56|0:00:20|animeflv.me|Documents|0|40
 one piece anime flv - Buscar con Google - Google Chrome|2016-06-15|09:29:56|2016-06-15|09:30:02|0:00:06|Google Chrome|Applications|0|40
@@ -76,13 +76,13 @@ http://www.onepiecemangayanime.com/Inicio.html#inicio|2016-06-15|09:30:09|2016-0
 https://mail.google.com/mail/u/0/#inbox|2016-06-15|09:30:34|2016-06-15|09:30:48|0:00:14|mail.google.com|Documents|0|40
 http://animeflv.me/Ver/49671/one-piece/episodio-745/|2016-06-15|09:30:48|2016-06-15|09:30:54|0:00:06|animeflv.me|Documents|0|40
 *- One Piece - Manga y Anime -* - Google Chrome|2016-06-15|09:30:54|2016-06-15|09:31:21|0:00:27|Google Chrome|Applications|0|40
-Curso Profesional de React.js - Google Chrome|2016-06-15|09:31:21|2016-06-15|09:31:35|0:00:14|Google Chrome|Applications|0|40
+Curso Profesional de React.js - Google Chrome|2016-06-15|09:31:21|2016-06-15|09:31:35|0:00:14|Google Chrome|Applications|1|40
 *- One Piece - Manga y Anime -* - Google Chrome|2016-06-15|09:31:35|2016-06-15|09:31:41|0:00:06|Google Chrome|Applications|0|40
-Curso Profesional de React.js - Google Chrome|2016-06-15|09:31:41|2016-06-15|09:31:58|0:00:17|Google Chrome|Applications|0|40
+Curso Profesional de React.js - Google Chrome|2016-06-15|09:31:41|2016-06-15|09:31:58|0:00:17|Google Chrome|Applications|1|40
 http://www.onepiecemangayanime.com/Inicio.html#inicio|2016-06-15|09:30:54|2016-06-15|09:31:21|0:00:27|www.onepiecemangayanime.com|Documents|0|40
-https://platzi.com/cursos/reactjs/|2016-06-15|09:31:21|2016-06-15|09:31:35|0:00:14|platzi.com|Documents|0|40
+https://platzi.com/cursos/reactjs/|2016-06-15|09:31:21|2016-06-15|09:31:35|0:00:14|platzi.com|Documents|1|40
 http://www.onepiecemangayanime.com/Inicio.html#inicio|2016-06-15|09:31:35|2016-06-15|09:31:41|0:00:06|www.onepiecemangayanime.com|Documents|0|40
-https://platzi.com/cursos/reactjs/|2016-06-15|09:31:41|2016-06-15|09:31:58|0:00:17|platzi.com|Documents|0|40
+https://platzi.com/cursos/reactjs/|2016-06-15|09:31:41|2016-06-15|09:31:58|0:00:17|platzi.com|Documents|1|40
 Ver One Piece Episodio 745 HD - AnimeFLV - Google Chrome|2016-06-15|09:31:58|2016-06-15|09:32:10|0:00:12|Google Chrome|Applications|0|40
 *- One Piece - Manga y Anime -* - Google Chrome|2016-06-15|09:32:10|2016-06-15|09:32:31|0:00:21|Google Chrome|Applications|0|40
 one piece manga - Buscar con Google - Google Chrome|2016-06-15|09:32:31|2016-06-15|09:32:47|0:00:16|Google Chrome|Applications|0|40
@@ -208,7 +208,7 @@ Actividad reciente - Google Chrome|2016-06-15|09:59:03|2016-06-15|09:59:21|0:00:
 DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|09:59:21|2016-06-15|09:59:30|0:00:09|Google Chrome|Applications|0|40
 Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|09:59:30|2016-06-15|09:59:41|0:00:11|Google Chrome|Applications|0|40
 Descargas|2016-06-15|09:59:41|2016-06-15|09:59:53|0:00:12|Sistema operativo Microsoft® Windows®|Applications|0|40
-bootstrap|2016-06-15|09:59:53|2016-06-15|09:59:59|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|40
+bootstrap|2016-06-15|09:59:53|2016-06-15|09:59:59|0:00:06|Sistema operativo Microsoft® Windows®|Applications|1|40
 https://www.sidweb.espol.edu.ec/?login_success=1|2016-06-15|09:59:03|2016-06-15|09:59:21|0:00:18|www.sidweb.espol.edu.ec|Documents|0|40
 https://www.sidweb.espol.edu.ec/courses/32682|2016-06-15|09:59:21|2016-06-15|09:59:30|0:00:09|www.sidweb.espol.edu.ec|Documents|0|40
 https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15|09:59:30|2016-06-15|09:59:41|0:00:11|www.sidweb.espol.edu.ec|Documents|0|40
@@ -217,19 +217,19 @@ imagenes del sitio|2016-06-15|10:00:06|2016-06-15|10:00:24|0:00:18|Sistema opera
 Lo primero es lo primero.|2016-06-15|10:00:24|2016-06-15|10:00:29|0:00:05|Microsoft Word|Applications|0|40
 Asistente para la activación de Microsoft Office|2016-06-15|10:00:29|2016-06-15|10:00:34|0:00:05|Microsoft Word|Applications|0|40
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:00:34|2016-06-15|10:00:48|0:00:14|Microsoft Word|Applications|0|40
-http://getbootstrap.com/getting-started/ - Internet Explorer|2016-06-15|10:00:48|2016-06-15|10:00:53|0:00:05|Internet Explorer|Applications|0|40
+http://getbootstrap.com/getting-started/ - Internet Explorer|2016-06-15|10:00:48|2016-06-15|10:00:53|0:00:05|Internet Explorer|Applications|1|40
 Getting started · Bootstrap - Internet Explorer|2016-06-15|10:00:53|2016-06-15|10:01:00|0:00:07|Internet Explorer|Applications|0|40
 practica.docx|2016-06-15|10:00:34|2016-06-15|10:00:48|0:00:14|practica.docx|Documents|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:00:48|2016-06-15|10:00:53|0:00:05|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:00:53|2016-06-15|10:01:00|0:00:07|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:00:48|2016-06-15|10:00:53|0:00:05|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:00:53|2016-06-15|10:01:00|0:00:07|getbootstrap.com|Documents|1|40
 Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|10:01:00|2016-06-15|10:01:06|0:00:06|Google Chrome|Applications|0|40
 Getting started · Bootstrap - Google Chrome|2016-06-15|10:01:06|2016-06-15|10:01:28|0:00:22|Google Chrome|Applications|0|40
 Descargas|2016-06-15|10:01:28|2016-06-15|10:01:36|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|40
-bootstrap-3.3.6-dist|2016-06-15|10:01:36|2016-06-15|10:01:43|0:00:07|Sistema operativo Microsoft® Windows®|Applications|0|40
-1465999059_998__bootstrap|2016-06-15|10:01:43|2016-06-15|10:01:48|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|40
-bootstrap|2016-06-15|10:01:48|2016-06-15|10:01:56|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|40
+bootstrap-3.3.6-dist|2016-06-15|10:01:36|2016-06-15|10:01:43|0:00:07|Sistema operativo Microsoft® Windows®|Applications|1|40
+1465999059_998__bootstrap|2016-06-15|10:01:43|2016-06-15|10:01:48|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|40
+bootstrap|2016-06-15|10:01:48|2016-06-15|10:01:56|0:00:08|Sistema operativo Microsoft® Windows®|Applications|1|40
 https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15|10:01:00|2016-06-15|10:01:06|0:00:06|www.sidweb.espol.edu.ec|Documents|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:01:06|2016-06-15|10:01:28|0:00:22|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:01:06|2016-06-15|10:01:28|0:00:22|getbootstrap.com|Documents|1|40
 Primeros pasos · Bootstrap - Google Chrome|2016-06-15|10:01:56|2016-06-15|10:02:01|0:00:05|Google Chrome|Applications|0|40
 Nueva pestaña - Google Chrome|2016-06-15|10:02:01|2016-06-15|10:02:08|0:00:07|Google Chrome|Applications|0|40
 html5 examples - Buscar con Google - Google Chrome|2016-06-15|10:02:08|2016-06-15|10:02:13|0:00:05|Google Chrome|Applications|0|40
@@ -238,9 +238,9 @@ Guardar como|2016-06-15|10:02:19|2016-06-15|10:02:33|0:00:14|Sublime Text 2|Appl
 index.html|2016-06-15|10:02:33|2016-06-15|10:02:38|0:00:05|Sublime Text 2|Applications|1|40
 html5 examples - Buscar con Google - Google Chrome|2016-06-15|10:02:38|2016-06-15|10:02:46|0:00:08|Google Chrome|Applications|0|40
 Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|10:02:46|2016-06-15|10:02:53|0:00:07|Google Chrome|Applications|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:01:56|2016-06-15|10:02:01|0:00:05|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:01:56|2016-06-15|10:02:01|0:00:05|getbootstrap.com|Documents|1|40
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=html5 examples|2016-06-15|10:02:08|2016-06-15|10:02:13|0:00:05|www.google.com.ec|Documents|0|40
-http://www.w3schools.com/html/html5_intro.asp|2016-06-15|10:02:13|2016-06-15|10:02:19|0:00:06|www.w3schools.com|Documents|0|40
+http://www.w3schools.com/html/html5_intro.asp|2016-06-15|10:02:13|2016-06-15|10:02:19|0:00:06|www.w3schools.com|Documents|1|40
 index.html|2016-06-15|10:02:33|2016-06-15|10:02:38|0:00:05|index.html|Documents|0|40
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=html5 examples|2016-06-15|10:02:38|2016-06-15|10:02:46|0:00:08|www.google.com.ec|Documents|0|40
 https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15|10:02:46|2016-06-15|10:02:53|0:00:07|www.sidweb.espol.edu.ec|Documents|0|40
@@ -258,7 +258,7 @@ html5 examples - Buscar con Google - Google Chrome|2016-06-15|10:04:02|2016-06-1
 Getting started · Bootstrap - Google Chrome|2016-06-15|10:04:10|2016-06-15|10:04:32|0:00:22|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:04:32|2016-06-15|10:05:25|0:00:53|Sublime Text 2|Applications|1|40
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=html5 examples|2016-06-15|10:04:02|2016-06-15|10:04:10|0:00:08|www.google.com.ec|Documents|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:04:10|2016-06-15|10:04:32|0:00:22|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:04:10|2016-06-15|10:04:32|0:00:22|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:04:32|2016-06-15|10:05:25|0:00:53|index.html|Documents|0|40
 index.html|2016-06-15|10:05:25|2016-06-15|10:05:39|0:00:14|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|10:05:39|2016-06-15|10:06:25|0:00:46|Google Chrome|Applications|0|40
@@ -286,23 +286,23 @@ HTML img tag - Google Chrome|2016-06-15|10:09:09|2016-06-15|10:09:20|0:00:11|Goo
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:09:20|2016-06-15|10:09:35|0:00:15|Microsoft Word|Applications|0|40
 index.html|2016-06-15|10:09:35|2016-06-15|10:09:52|0:00:17|Sublime Text 2|Applications|1|40
 index.html|2016-06-15|10:08:56|2016-06-15|10:09:04|0:00:08|index.html|Documents|0|40
-http://www.w3schools.com/tags/tag_img.asp|2016-06-15|10:09:09|2016-06-15|10:09:20|0:00:11|www.w3schools.com|Documents|0|40
+http://www.w3schools.com/tags/tag_img.asp|2016-06-15|10:09:09|2016-06-15|10:09:20|0:00:11|www.w3schools.com|Documents|1|40
 practica.docx|2016-06-15|10:09:20|2016-06-15|10:09:35|0:00:15|practica.docx|Documents|0|40
 index.html|2016-06-15|10:09:35|2016-06-15|10:09:52|0:00:17|index.html|Documents|0|40
 imagenes del sitio|2016-06-15|10:09:52|2016-06-15|10:10:01|0:00:09|Sistema operativo Microsoft® Windows®|Applications|0|40
-bootstrap|2016-06-15|10:10:01|2016-06-15|10:10:09|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|40
+bootstrap|2016-06-15|10:10:01|2016-06-15|10:10:09|0:00:08|Sistema operativo Microsoft® Windows®|Applications|1|40
 principal1 - Visualizador de fotos de Windows|2016-06-15|10:10:09|2016-06-15|10:10:21|0:00:12|COM Surrogate|Applications|0|40
-bootstrap|2016-06-15|10:10:21|2016-06-15|10:10:42|0:00:21|Sistema operativo Microsoft® Windows®|Applications|0|40
+bootstrap|2016-06-15|10:10:21|2016-06-15|10:10:42|0:00:21|Sistema operativo Microsoft® Windows®|Applications|1|40
 Sin título - Paint|2016-06-15|10:10:42|2016-06-15|10:10:49|0:00:07|Sistema operativo Microsoft® Windows®|Applications|0|40
 Abrir|2016-06-15|10:10:49|2016-06-15|10:11:03|0:00:14|Sistema operativo Microsoft® Windows®|Applications|0|40
 principal1 - Paint|2016-06-15|10:11:03|2016-06-15|10:11:18|0:00:15|Sistema operativo Microsoft® Windows®|Applications|0|40
 Sin título - Paint|2016-06-15|10:11:18|2016-06-15|10:11:29|0:00:11|Sistema operativo Microsoft® Windows®|Applications|0|40
 Guardar como|2016-06-15|10:11:29|2016-06-15|10:11:37|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|40
-bootstrap|2016-06-15|10:11:37|2016-06-15|10:11:45|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|40
+bootstrap|2016-06-15|10:11:37|2016-06-15|10:11:45|0:00:08|Sistema operativo Microsoft® Windows®|Applications|1|40
 fotos|2016-06-15|10:11:45|2016-06-15|10:11:51|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|40
 logo - Paint|2016-06-15|10:11:51|2016-06-15|10:12:01|0:00:10|Sistema operativo Microsoft® Windows®|Applications|0|40
 index.html|2016-06-15|10:12:01|2016-06-15|10:12:06|0:00:05|Sublime Text 2|Applications|1|40
-bootstrap|2016-06-15|10:12:06|2016-06-15|10:12:11|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|40
+bootstrap|2016-06-15|10:12:06|2016-06-15|10:12:11|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|40
 index.html|2016-06-15|10:12:11|2016-06-15|10:12:28|0:00:17|Sublime Text 2|Applications|1|40
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:12:28|2016-06-15|10:12:36|0:00:08|Microsoft Word|Applications|0|40
 Conoce el nuevo navegador - Microsoft Windows - Internet Explorer|2016-06-15|10:12:36|2016-06-15|10:12:45|0:00:09|Internet Explorer|Applications|0|40
@@ -312,8 +312,8 @@ index.html|2016-06-15|10:12:01|2016-06-15|10:12:06|0:00:05|index.html|Documents|
 index.html|2016-06-15|10:12:11|2016-06-15|10:12:28|0:00:17|index.html|Documents|0|40
 practica.docx|2016-06-15|10:12:28|2016-06-15|10:12:36|0:00:08|practica.docx|Documents|0|40
 http://www.microsoft.com/es-xl/ie-firstrun/win-7/ie-11/vie/v2.html|2016-06-15|10:12:36|2016-06-15|10:12:45|0:00:09|www.microsoft.com|Documents|0|40
-http://getbootstrap.com/components/#nav-pills).|2016-06-15|10:12:45|2016-06-15|10:12:52|0:00:07|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/components/#nav-pills|2016-06-15|10:12:52|2016-06-15|10:13:11|0:00:19|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/components/#nav-pills).|2016-06-15|10:12:45|2016-06-15|10:12:52|0:00:07|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/components/#nav-pills|2016-06-15|10:12:52|2016-06-15|10:13:11|0:00:19|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:13:11|2016-06-15|10:13:22|0:00:11|Sublime Text 2|Applications|1|40
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:13:22|2016-06-15|10:13:35|0:00:13|Microsoft Word|Applications|0|40
 principal1 - Visualizador de fotos de Windows|2016-06-15|10:13:35|2016-06-15|10:13:42|0:00:07|COM Surrogate|Applications|0|40
@@ -326,15 +326,15 @@ Customize and download · Bootstrap - Google Chrome|2016-06-15|10:14:08|2016-06-
 Getting started · Bootstrap - Google Chrome|2016-06-15|10:14:13|2016-06-15|10:14:28|0:00:15|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:14:28|2016-06-15|10:14:33|0:00:05|Sublime Text 2|Applications|1|40
 Getting started · Bootstrap - Google Chrome|2016-06-15|10:14:33|2016-06-15|10:14:50|0:00:17|Google Chrome|Applications|0|40
-view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:14:50|2016-06-15|10:15:05|0:00:15|Google Chrome|Applications|0|40
-http://getbootstrap.com/components/#nav-pills|2016-06-15|10:13:59|2016-06-15|10:14:08|0:00:09|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/customize/|2016-06-15|10:14:08|2016-06-15|10:14:13|0:00:05|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:14:13|2016-06-15|10:14:28|0:00:15|getbootstrap.com|Documents|0|40
+view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:14:50|2016-06-15|10:15:05|0:00:15|Google Chrome|Applications|1|40
+http://getbootstrap.com/components/#nav-pills|2016-06-15|10:13:59|2016-06-15|10:14:08|0:00:09|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/customize/|2016-06-15|10:14:08|2016-06-15|10:14:13|0:00:05|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:14:13|2016-06-15|10:14:28|0:00:15|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:14:28|2016-06-15|10:14:33|0:00:05|index.html|Documents|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:14:33|2016-06-15|10:14:50|0:00:17|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:14:33|2016-06-15|10:14:50|0:00:17|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:15:05|2016-06-15|10:15:10|0:00:05|Sublime Text 2|Applications|1|40
 index.html|2016-06-15|10:15:10|2016-06-15|10:15:25|0:00:15|Sublime Text 2|Applications|1|40
-view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:15:25|2016-06-15|10:15:31|0:00:06|Google Chrome|Applications|0|40
+view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:15:25|2016-06-15|10:15:31|0:00:06|Google Chrome|Applications|1|40
 index.html|2016-06-15|10:15:31|2016-06-15|10:16:30|0:00:59|Sublime Text 2|Applications|1|40
 index.html|2016-06-15|10:15:05|2016-06-15|10:15:10|0:00:05|index.html|Documents|0|40
 index.html|2016-06-15|10:15:10|2016-06-15|10:15:25|0:00:15|index.html|Documents|0|40
@@ -343,15 +343,15 @@ Title of the document - Google Chrome|2016-06-15|10:16:30|2016-06-15|10:16:46|0:
 Narrow Jumbotron Template for Bootstrap - Google Chrome|2016-06-15|10:16:46|2016-06-15|10:16:52|0:00:06|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:16:52|2016-06-15|10:16:58|0:00:06|Sublime Text 2|Applications|1|40
 index.html|2016-06-15|10:16:30|2016-06-15|10:16:46|0:00:16|file|Documents|0|40
-http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:16:46|2016-06-15|10:16:52|0:00:06|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:16:46|2016-06-15|10:16:52|0:00:06|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:16:52|2016-06-15|10:16:58|0:00:06|index.html|Documents|0|40
 index.html|2016-06-15|10:16:58|2016-06-15|10:17:06|0:00:08|Sublime Text 2|Applications|1|40
 Narrow Jumbotron Template for Bootstrap - Google Chrome|2016-06-15|10:17:06|2016-06-15|10:17:12|0:00:06|Google Chrome|Applications|0|40
-view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:17:12|2016-06-15|10:17:28|0:00:16|Google Chrome|Applications|0|40
+view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:17:12|2016-06-15|10:17:28|0:00:16|Google Chrome|Applications|1|40
 index.html|2016-06-15|10:17:28|2016-06-15|10:17:46|0:00:18|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|10:17:46|2016-06-15|10:18:23|0:00:37|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:16:58|2016-06-15|10:17:06|0:00:08|index.html|Documents|0|40
-http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:17:06|2016-06-15|10:17:12|0:00:06|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:17:06|2016-06-15|10:17:12|0:00:06|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:17:28|2016-06-15|10:17:46|0:00:18|index.html|Documents|0|40
 index.html|2016-06-15|10:17:46|2016-06-15|10:18:23|0:00:37|file|Documents|0|40
 index.html|2016-06-15|10:18:23|2016-06-15|10:18:31|0:00:08|Sublime Text 2|Applications|1|40
@@ -365,20 +365,20 @@ index.html|2016-06-15|10:19:01|2016-06-15|10:19:07|0:00:06|Sublime Text 2|Applic
 Title of the document - Google Chrome|2016-06-15|10:19:07|2016-06-15|10:19:18|0:00:11|Google Chrome|Applications|0|40
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:19:18|2016-06-15|10:19:25|0:00:07|Microsoft Word|Applications|0|40
 Narrow Jumbotron Template for Bootstrap - Google Chrome|2016-06-15|10:19:25|2016-06-15|10:19:31|0:00:06|Google Chrome|Applications|0|40
-view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:19:31|2016-06-15|10:19:56|0:00:25|Google Chrome|Applications|0|40
+view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:19:31|2016-06-15|10:19:56|0:00:25|Google Chrome|Applications|1|40
 index.html|2016-06-15|10:18:56|2016-06-15|10:19:01|0:00:05|file|Documents|0|40
 index.html|2016-06-15|10:19:01|2016-06-15|10:19:07|0:00:06|index.html|Documents|0|40
 index.html|2016-06-15|10:19:07|2016-06-15|10:19:18|0:00:11|file|Documents|0|40
 practica.docx|2016-06-15|10:19:18|2016-06-15|10:19:25|0:00:07|practica.docx|Documents|0|40
-http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:19:25|2016-06-15|10:19:31|0:00:06|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:19:25|2016-06-15|10:19:31|0:00:06|getbootstrap.com|Documents|1|40
 Title of the document - Google Chrome|2016-06-15|10:19:56|2016-06-15|10:20:43|0:00:47|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:20:43|2016-06-15|10:20:54|0:00:11|Sublime Text 2|Applications|1|40
-view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:20:54|2016-06-15|10:21:16|0:00:22|Google Chrome|Applications|0|40
+view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:20:54|2016-06-15|10:21:16|0:00:22|Google Chrome|Applications|1|40
 index.html|2016-06-15|10:19:56|2016-06-15|10:20:43|0:00:47|file|Documents|0|40
 index.html|2016-06-15|10:20:43|2016-06-15|10:20:54|0:00:11|index.html|Documents|0|40
 index.html|2016-06-15|10:21:16|2016-06-15|10:21:26|0:00:10|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|10:21:26|2016-06-15|10:21:46|0:00:20|Google Chrome|Applications|0|40
-view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:21:46|2016-06-15|10:22:17|0:00:31|Google Chrome|Applications|0|40
+view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:21:46|2016-06-15|10:22:17|0:00:31|Google Chrome|Applications|1|40
 index.html|2016-06-15|10:21:16|2016-06-15|10:21:26|0:00:10|index.html|Documents|0|40
 index.html|2016-06-15|10:21:26|2016-06-15|10:21:46|0:00:20|file|Documents|0|40
 Title of the document - Google Chrome|2016-06-15|10:22:17|2016-06-15|10:22:53|0:00:36|Google Chrome|Applications|0|40
@@ -403,13 +403,13 @@ practica.docx|2016-06-15|10:25:38|2016-06-15|10:25:55|0:00:17|practica.docx|Docu
 Nueva pestaña - Google Chrome|2016-06-15|10:25:55|2016-06-15|10:26:02|0:00:07|Google Chrome|Applications|0|40
 JavaScript · Bootstrap - Google Chrome|2016-06-15|10:26:02|2016-06-15|10:26:22|0:00:20|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:26:22|2016-06-15|10:27:01|0:00:39|Sublime Text 2|Applications|1|40
-http://getbootstrap.com/javascript/#carousel).|2016-06-15|10:25:55|2016-06-15|10:26:02|0:00:07|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/javascript/#carousel|2016-06-15|10:26:02|2016-06-15|10:26:22|0:00:20|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/javascript/#carousel).|2016-06-15|10:25:55|2016-06-15|10:26:02|0:00:07|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/javascript/#carousel|2016-06-15|10:26:02|2016-06-15|10:26:22|0:00:20|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:26:22|2016-06-15|10:27:01|0:00:39|index.html|Documents|0|40
 JavaScript · Bootstrap - Google Chrome|2016-06-15|10:27:01|2016-06-15|10:27:07|0:00:06|Google Chrome|Applications|0|40
 Title of the document - Google Chrome|2016-06-15|10:27:07|2016-06-15|10:27:12|0:00:05|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:27:12|2016-06-15|10:27:58|0:00:46|Sublime Text 2|Applications|1|40
-http://getbootstrap.com/javascript/#carousel|2016-06-15|10:27:01|2016-06-15|10:27:07|0:00:06|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/javascript/#carousel|2016-06-15|10:27:01|2016-06-15|10:27:07|0:00:06|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:27:07|2016-06-15|10:27:12|0:00:05|file|Documents|0|40
 index.html|2016-06-15|10:27:12|2016-06-15|10:27:58|0:00:46|index.html|Documents|0|40
 fotos|2016-06-15|10:27:58|2016-06-15|10:28:12|0:00:14|Sistema operativo Microsoft® Windows®|Applications|0|40
@@ -432,25 +432,25 @@ index.html|2016-06-15|10:30:07|2016-06-15|10:30:12|0:00:05|file|Documents|0|40
 index.html|2016-06-15|10:30:12|2016-06-15|10:30:21|0:00:09|index.html|Documents|0|40
 index.html|2016-06-15|10:30:21|2016-06-15|10:30:31|0:00:10|file|Documents|0|40
 practica.docx|2016-06-15|10:30:37|2016-06-15|10:31:02|0:00:25|practica.docx|Documents|0|40
-view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:31:02|2016-06-15|10:31:07|0:00:05|Google Chrome|Applications|0|40
+view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:31:02|2016-06-15|10:31:07|0:00:05|Google Chrome|Applications|1|40
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:31:07|2016-06-15|10:31:14|0:00:07|Microsoft Word|Applications|0|40
 Components · Bootstrap - Google Chrome|2016-06-15|10:31:14|2016-06-15|10:31:19|0:00:05|Google Chrome|Applications|0|40
 CSS · Bootstrap - Google Chrome|2016-06-15|10:31:19|2016-06-15|10:31:35|0:00:16|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:31:35|2016-06-15|10:31:50|0:00:15|Sublime Text 2|Applications|1|40
 CSS · Bootstrap - Google Chrome|2016-06-15|10:31:50|2016-06-15|10:32:04|0:00:14|Google Chrome|Applications|0|40
 practica.docx|2016-06-15|10:31:07|2016-06-15|10:31:14|0:00:07|practica.docx|Documents|0|40
-http://getbootstrap.com/components/#panels|2016-06-15|10:31:14|2016-06-15|10:31:19|0:00:05|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/css/#grid|2016-06-15|10:31:19|2016-06-15|10:31:35|0:00:16|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/components/#panels|2016-06-15|10:31:14|2016-06-15|10:31:19|0:00:05|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/css/#grid|2016-06-15|10:31:19|2016-06-15|10:31:35|0:00:16|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:31:35|2016-06-15|10:31:50|0:00:15|index.html|Documents|0|40
-http://getbootstrap.com/css/#grid|2016-06-15|10:31:50|2016-06-15|10:32:04|0:00:14|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/css/#grid|2016-06-15|10:31:50|2016-06-15|10:32:04|0:00:14|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:32:04|2016-06-15|10:32:16|0:00:12|Sublime Text 2|Applications|1|40
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:32:16|2016-06-15|10:32:30|0:00:14|Microsoft Word|Applications|0|40
 CSS · Bootstrap - Google Chrome|2016-06-15|10:32:30|2016-06-15|10:33:36|0:01:06|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:32:04|2016-06-15|10:32:16|0:00:12|index.html|Documents|0|40
 practica.docx|2016-06-15|10:32:16|2016-06-15|10:32:30|0:00:14|practica.docx|Documents|0|40
-http://getbootstrap.com/css/#grid|2016-06-15|10:32:30|2016-06-15|10:33:36|0:01:06|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/css/#grid|2016-06-15|10:32:30|2016-06-15|10:33:36|0:01:06|getbootstrap.com|Documents|1|40
 Components · Bootstrap - Google Chrome|2016-06-15|10:33:36|2016-06-15|10:34:11|0:00:35|Google Chrome|Applications|0|40
-http://getbootstrap.com/components/#panels|2016-06-15|10:33:36|2016-06-15|10:34:11|0:00:35|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/components/#panels|2016-06-15|10:33:36|2016-06-15|10:34:11|0:00:35|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:34:11|2016-06-15|10:34:50|0:00:39|Sublime Text 2|Applications|1|40
 Recibidos (17.170) - aaguerra11@gmail.com - Gmail - Google Chrome|2016-06-15|10:34:50|2016-06-15|10:34:56|0:00:06|Google Chrome|Applications|0|40
 ayuda - aaguerra11@gmail.com - Gmail - Google Chrome|2016-06-15|10:34:56|2016-06-15|10:35:09|0:00:13|Google Chrome|Applications|0|40
@@ -462,7 +462,7 @@ Title of the document - Google Chrome|2016-06-15|10:35:14|2016-06-15|10:35:20|0:
 index.html|2016-06-15|10:35:20|2016-06-15|10:35:29|0:00:09|Sublime Text 2|Applications|1|40
 index.html|2016-06-15|10:35:29|2016-06-15|10:35:49|0:00:20|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|10:35:49|2016-06-15|10:35:54|0:00:05|Google Chrome|Applications|0|40
-http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:35:09|2016-06-15|10:35:14|0:00:05|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:35:09|2016-06-15|10:35:14|0:00:05|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:35:14|2016-06-15|10:35:20|0:00:06|file|Documents|0|40
 index.html|2016-06-15|10:35:20|2016-06-15|10:35:29|0:00:09|index.html|Documents|0|40
 index.html|2016-06-15|10:35:29|2016-06-15|10:35:49|0:00:20|index.html|Documents|0|40
@@ -475,15 +475,15 @@ practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15
 Components · Bootstrap - Google Chrome|2016-06-15|10:37:31|2016-06-15|10:37:55|0:00:24|Google Chrome|Applications|0|40
 principal1 - Visualizador de fotos de Windows|2016-06-15|10:37:55|2016-06-15|10:38:05|0:00:10|COM Surrogate|Applications|0|40
 practica.docx|2016-06-15|10:37:24|2016-06-15|10:37:31|0:00:07|practica.docx|Documents|0|40
-http://getbootstrap.com/components/#panels|2016-06-15|10:37:31|2016-06-15|10:37:55|0:00:24|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/components/#panels|2016-06-15|10:37:31|2016-06-15|10:37:55|0:00:24|getbootstrap.com|Documents|1|40
 principal2 - Visualizador de fotos de Windows|2016-06-15|10:38:05|2016-06-15|10:38:23|0:00:18|COM Surrogate|Applications|0|40
 Narrow Jumbotron Template for Bootstrap - Google Chrome|2016-06-15|10:38:23|2016-06-15|10:38:29|0:00:06|Google Chrome|Applications|0|40
 Getting started · Bootstrap - Google Chrome|2016-06-15|10:38:29|2016-06-15|10:38:51|0:00:22|Google Chrome|Applications|0|40
 Jumbotron Template for Bootstrap - Google Chrome|2016-06-15|10:38:51|2016-06-15|10:38:56|0:00:05|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:38:56|2016-06-15|10:39:01|0:00:05|Sublime Text 2|Applications|1|40
-http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:38:23|2016-06-15|10:38:29|0:00:06|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:38:29|2016-06-15|10:38:51|0:00:22|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/examples/jumbotron/|2016-06-15|10:38:51|2016-06-15|10:38:56|0:00:05|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/examples/jumbotron-narrow/|2016-06-15|10:38:23|2016-06-15|10:38:29|0:00:06|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:38:29|2016-06-15|10:38:51|0:00:22|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/examples/jumbotron/|2016-06-15|10:38:51|2016-06-15|10:38:56|0:00:05|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:38:56|2016-06-15|10:39:01|0:00:05|index.html|Documents|0|40
 index.html|2016-06-15|10:39:01|2016-06-15|10:39:27|0:00:26|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|10:39:27|2016-06-15|10:40:11|0:00:44|Google Chrome|Applications|0|40
@@ -509,23 +509,23 @@ index.html|2016-06-15|10:42:00|2016-06-15|10:42:07|0:00:07|index.html|Documents|
 practica.docx|2016-06-15|10:42:07|2016-06-15|10:43:02|0:00:55|practica.docx|Documents|0|40
 index.html|2016-06-15|10:43:02|2016-06-15|10:43:25|0:00:23|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|10:43:25|2016-06-15|10:43:30|0:00:05|Google Chrome|Applications|0|40
-view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:43:30|2016-06-15|10:43:35|0:00:05|Google Chrome|Applications|0|40
+view-source:getbootstrap.com/examples/jumbotron-narrow/ - Google Chrome|2016-06-15|10:43:30|2016-06-15|10:43:35|0:00:05|Google Chrome|Applications|1|40
 CSS · Bootstrap - Google Chrome|2016-06-15|10:43:35|2016-06-15|10:43:45|0:00:10|Google Chrome|Applications|0|40
 Getting started · Bootstrap - Google Chrome|2016-06-15|10:43:45|2016-06-15|10:44:07|0:00:22|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:43:02|2016-06-15|10:43:25|0:00:23|index.html|Documents|0|40
 index.html|2016-06-15|10:43:25|2016-06-15|10:43:30|0:00:05|file|Documents|0|40
-http://getbootstrap.com/css/#buttons|2016-06-15|10:43:35|2016-06-15|10:43:45|0:00:10|getbootstrap.com|Documents|0|40
-http://getbootstrap.com/getting-started/|2016-06-15|10:43:45|2016-06-15|10:44:07|0:00:22|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/css/#buttons|2016-06-15|10:43:35|2016-06-15|10:43:45|0:00:10|getbootstrap.com|Documents|1|40
+http://getbootstrap.com/getting-started/|2016-06-15|10:43:45|2016-06-15|10:44:07|0:00:22|getbootstrap.com|Documents|1|40
 Jumbotron Template for Bootstrap - Google Chrome|2016-06-15|10:44:07|2016-06-15|10:44:12|0:00:05|Google Chrome|Applications|0|40
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:44:12|2016-06-15|10:44:23|0:00:11|Microsoft Word|Applications|0|40
 principal2 - Visualizador de fotos de Windows|2016-06-15|10:44:23|2016-06-15|10:44:36|0:00:13|COM Surrogate|Applications|0|40
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|10:44:36|2016-06-15|10:44:47|0:00:11|Microsoft Word|Applications|0|40
 Jumbotron Template for Bootstrap - Google Chrome|2016-06-15|10:44:47|2016-06-15|10:45:01|0:00:14|Google Chrome|Applications|0|40
-http://getbootstrap.com/examples/jumbotron/|2016-06-15|10:44:07|2016-06-15|10:44:12|0:00:05|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/examples/jumbotron/|2016-06-15|10:44:07|2016-06-15|10:44:12|0:00:05|getbootstrap.com|Documents|1|40
 practica.docx|2016-06-15|10:44:12|2016-06-15|10:44:23|0:00:11|practica.docx|Documents|0|40
 practica.docx|2016-06-15|10:44:36|2016-06-15|10:44:47|0:00:11|practica.docx|Documents|0|40
-http://getbootstrap.com/examples/jumbotron/|2016-06-15|10:44:47|2016-06-15|10:45:01|0:00:14|getbootstrap.com|Documents|0|40
-view-source:getbootstrap.com/examples/jumbotron/ - Google Chrome|2016-06-15|10:45:01|2016-06-15|10:45:17|0:00:16|Google Chrome|Applications|0|40
+http://getbootstrap.com/examples/jumbotron/|2016-06-15|10:44:47|2016-06-15|10:45:01|0:00:14|getbootstrap.com|Documents|1|40
+view-source:getbootstrap.com/examples/jumbotron/ - Google Chrome|2016-06-15|10:45:01|2016-06-15|10:45:17|0:00:16|Google Chrome|Applications|1|40
 index.html|2016-06-15|10:45:17|2016-06-15|10:45:42|0:00:25|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|10:45:42|2016-06-15|10:45:55|0:00:13|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:45:17|2016-06-15|10:45:42|0:00:25|index.html|Documents|0|40
@@ -553,12 +553,12 @@ CSS · Bootstrap - Google Chrome|2016-06-15|10:48:24|2016-06-15|10:48:47|0:00:23
 index.html|2016-06-15|10:48:47|2016-06-15|10:48:57|0:00:10|Sublime Text 2|Applications|1|40
 index.html|2016-06-15|10:48:57|2016-06-15|10:49:24|0:00:27|Sublime Text 2|Applications|1|40
 index.html|2016-06-15|10:48:19|2016-06-15|10:48:24|0:00:05|file|Documents|0|40
-http://getbootstrap.com/css/#buttons|2016-06-15|10:48:24|2016-06-15|10:48:47|0:00:23|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/css/#buttons|2016-06-15|10:48:24|2016-06-15|10:48:47|0:00:23|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:48:47|2016-06-15|10:48:57|0:00:10|index.html|Documents|0|40
 index.html|2016-06-15|10:48:57|2016-06-15|10:49:24|0:00:27|index.html|Documents|0|40
 CSS · Bootstrap - Google Chrome|2016-06-15|10:49:24|2016-06-15|10:49:30|0:00:06|Google Chrome|Applications|0|40
 Title of the document - Google Chrome|2016-06-15|10:49:30|2016-06-15|10:50:30|0:01:00|Google Chrome|Applications|0|40
-http://getbootstrap.com/css/#buttons|2016-06-15|10:49:24|2016-06-15|10:49:30|0:00:06|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/css/#buttons|2016-06-15|10:49:24|2016-06-15|10:49:30|0:00:06|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:49:30|2016-06-15|10:50:30|0:01:00|file|Documents|0|40
 index.html|2016-06-15|10:50:30|2016-06-15|10:50:47|0:00:17|Sublime Text 2|Applications|1|40
 Sistema operativo Microsoft® Windows®|2016-06-15|10:50:47|2016-06-15|10:50:55|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|40
@@ -571,14 +571,14 @@ Nueva pestaña - Google Chrome|2016-06-15|10:51:55|2016-06-15|10:52:05|0:00:10|G
 index.html|2016-06-15|10:51:15|2016-06-15|10:51:29|0:00:14|index.html|Documents|0|40
 index.html|2016-06-15|10:51:29|2016-06-15|10:51:43|0:00:14|index.html|Documents|0|40
 index.html|2016-06-15|10:51:43|2016-06-15|10:51:55|0:00:12|file|Documents|0|40
-bootstrap contact form - Buscar con Google - Google Chrome|2016-06-15|10:52:05|2016-06-15|10:52:11|0:00:06|Google Chrome|Applications|0|40
+bootstrap contact form - Buscar con Google - Google Chrome|2016-06-15|10:52:05|2016-06-15|10:52:11|0:00:06|Google Chrome|Applications|1|40
 How to Create a Working Bootstrap Contact Form with PHP - BootstrapBay - Google Chrome|2016-06-15|10:52:11|2016-06-15|10:52:21|0:00:10|Google Chrome|Applications|0|40
 How to build a Working Bootstrap Contact Form - Step-by-Step Tutorial - Google Chrome|2016-06-15|10:52:21|2016-06-15|10:52:29|0:00:08|Google Chrome|Applications|0|40
 Bootstrap 3 Contact form with Validation - Google Chrome|2016-06-15|10:52:29|2016-06-15|10:52:56|0:00:27|Google Chrome|Applications|0|40
 index.html|2016-06-15|10:52:56|2016-06-15|10:53:22|0:00:26|Sublime Text 2|Applications|1|40
-https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bootstrap contact form|2016-06-15|10:52:05|2016-06-15|10:52:11|0:00:06|www.google.com.ec|Documents|0|40
-https://bootstrapbay.com/blog/working-bootstrap-contact-form/|2016-06-15|10:52:11|2016-06-15|10:52:21|0:00:10|bootstrapbay.com|Documents|0|40
-http://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form|2016-06-15|10:52:21|2016-06-15|10:52:29|0:00:08|bootstrapious.com|Documents|0|40
+https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=bootstrap contact form|2016-06-15|10:52:05|2016-06-15|10:52:11|0:00:06|www.google.com.ec|Documents|1|40
+https://bootstrapbay.com/blog/working-bootstrap-contact-form/|2016-06-15|10:52:11|2016-06-15|10:52:21|0:00:10|bootstrapbay.com|Documents|1|40
+http://bootstrapious.com/p/how-to-build-a-working-bootstrap-contact-form|2016-06-15|10:52:21|2016-06-15|10:52:29|0:00:08|bootstrapious.com|Documents|1|40
 https://codepen.io/jaycbrf/pen/iBszr|2016-06-15|10:52:29|2016-06-15|10:52:56|0:00:27|codepen.io|Documents|0|40
 index.html|2016-06-15|10:52:56|2016-06-15|10:53:22|0:00:26|index.html|Documents|0|40
 Bootstrap 3 Contact form with Validation - Google Chrome|2016-06-15|10:53:22|2016-06-15|10:53:38|0:00:16|Google Chrome|Applications|0|40
@@ -593,7 +593,7 @@ index.html|2016-06-15|10:54:23|2016-06-15|10:54:36|0:00:13|index.html|Documents|
 index.html|2016-06-15|10:54:36|2016-06-15|10:55:37|0:01:01|index.html|Documents|0|40
 Jumbotron Template for Bootstrap - Google Chrome|2016-06-15|10:55:37|2016-06-15|10:55:46|0:00:09|Google Chrome|Applications|0|40
 Title of the document - Google Chrome|2016-06-15|10:55:46|2016-06-15|10:57:07|0:01:21|Google Chrome|Applications|0|40
-http://getbootstrap.com/examples/jumbotron/|2016-06-15|10:55:37|2016-06-15|10:55:46|0:00:09|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/examples/jumbotron/|2016-06-15|10:55:37|2016-06-15|10:55:46|0:00:09|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|10:55:46|2016-06-15|10:57:07|0:01:21|file|Documents|0|40
 index.html|2016-06-15|10:57:07|2016-06-15|10:57:18|0:00:11|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|10:57:18|2016-06-15|10:58:08|0:00:50|Google Chrome|Applications|0|40
@@ -648,7 +648,7 @@ index.html|2016-06-15|11:21:24|2016-06-15|11:21:31|0:00:07|Sublime Text 2|Applic
 index.html|2016-06-15|11:21:31|2016-06-15|11:21:46|0:00:15|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|11:21:46|2016-06-15|11:21:54|0:00:08|Google Chrome|Applications|0|40
 principal2 - Visualizador de fotos de Windows|2016-06-15|11:21:54|2016-06-15|11:21:59|0:00:05|COM Surrogate|Applications|0|40
-http://getbootstrap.com/css/#buttons|2016-06-15|11:21:02|2016-06-15|11:21:24|0:00:22|getbootstrap.com|Documents|0|40
+http://getbootstrap.com/css/#buttons|2016-06-15|11:21:02|2016-06-15|11:21:24|0:00:22|getbootstrap.com|Documents|1|40
 index.html|2016-06-15|11:21:24|2016-06-15|11:21:31|0:00:07|index.html|Documents|0|40
 index.html|2016-06-15|11:21:31|2016-06-15|11:21:46|0:00:15|index.html|Documents|0|40
 index.html|2016-06-15|11:21:46|2016-06-15|11:21:54|0:00:08|file|Documents|0|40
@@ -672,7 +672,7 @@ paquetes.html|2016-06-15|11:24:32|2016-06-15|11:24:58|0:00:26|Sublime Text 2|App
 paquetes.html|2016-06-15|11:24:58|2016-06-15|11:25:23|0:00:25|Sublime Text 2|Applications|1|40
 paquetes.html|2016-06-15|11:24:32|2016-06-15|11:24:58|0:00:26|paquetes.html|Documents|0|40
 paquetes.html|2016-06-15|11:24:58|2016-06-15|11:25:23|0:00:25|paquetes.html|Documents|0|40
-bootstrap|2016-06-15|11:25:23|2016-06-15|11:25:31|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|40
+bootstrap|2016-06-15|11:25:23|2016-06-15|11:25:31|0:00:08|Sistema operativo Microsoft® Windows®|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|11:25:31|2016-06-15|11:25:44|0:00:13|Google Chrome|Applications|0|40
 paquetes.html|2016-06-15|11:25:44|2016-06-15|11:25:51|0:00:07|Sublime Text 2|Applications|1|40
 Title of the document - Google Chrome|2016-06-15|11:25:51|2016-06-15|11:25:56|0:00:05|Google Chrome|Applications|0|40
@@ -704,21 +704,21 @@ index.html|2016-06-15|11:28:20|2016-06-15|11:28:26|0:00:06|index.html|Documents|
 index.html|2016-06-15|11:28:26|2016-06-15|11:28:48|0:00:22|index.html|Documents|0|40
 paquetes.html|2016-06-15|11:28:48|2016-06-15|11:29:11|0:00:23|paquetes.html|Documents|0|40
 Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|11:29:11|2016-06-15|11:29:28|0:00:17|Google Chrome|Applications|0|40
-bootstrap|2016-06-15|11:29:28|2016-06-15|11:29:34|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|40
-Creando el archivo bootstrap.rar|2016-06-15|11:29:34|2016-06-15|11:29:39|0:00:05|WinRAR|Applications|0|40
+bootstrap|2016-06-15|11:29:28|2016-06-15|11:29:34|0:00:06|Sistema operativo Microsoft® Windows®|Applications|1|40
+Creando el archivo bootstrap.rar|2016-06-15|11:29:34|2016-06-15|11:29:39|0:00:05|WinRAR|Applications|1|40
 paquetes.html|2016-06-15|11:29:39|2016-06-15|11:29:45|0:00:06|Sublime Text 2|Applications|1|40
-1465999059_998__bootstrap|2016-06-15|11:29:45|2016-06-15|11:29:54|0:00:09|Sistema operativo Microsoft® Windows®|Applications|0|40
+1465999059_998__bootstrap|2016-06-15|11:29:45|2016-06-15|11:29:54|0:00:09|Sistema operativo Microsoft® Windows®|Applications|1|40
 WinRAR: mensajes de diagnóstico|2016-06-15|11:29:54|2016-06-15|11:30:02|0:00:08|WinRAR|Applications|0|40
 https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15|11:29:11|2016-06-15|11:29:28|0:00:17|www.sidweb.espol.edu.ec|Documents|0|40
 paquetes.html|2016-06-15|11:29:39|2016-06-15|11:29:45|0:00:06|paquetes.html|Documents|0|40
-1465999059_998__bootstrap|2016-06-15|11:30:02|2016-06-15|11:30:22|0:00:20|Sistema operativo Microsoft® Windows®|Applications|0|40
+1465999059_998__bootstrap|2016-06-15|11:30:02|2016-06-15|11:30:22|0:00:20|Sistema operativo Microsoft® Windows®|Applications|1|40
 Abrir|2016-06-15|11:30:22|2016-06-15|11:30:30|0:00:08|Google Chrome|Applications|0|40
 Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|11:30:30|2016-06-15|11:30:46|0:00:16|Google Chrome|Applications|0|40
-1465999059_998__bootstrap|2016-06-15|11:30:46|2016-06-15|11:30:52|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|40
-bootstrap|2016-06-15|11:30:52|2016-06-15|11:31:00|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|40
+1465999059_998__bootstrap|2016-06-15|11:30:46|2016-06-15|11:30:52|0:00:06|Sistema operativo Microsoft® Windows®|Applications|1|40
+bootstrap|2016-06-15|11:30:52|2016-06-15|11:31:00|0:00:08|Sistema operativo Microsoft® Windows®|Applications|1|40
 https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15|11:30:30|2016-06-15|11:30:46|0:00:16|www.sidweb.espol.edu.ec|Documents|0|40
 Title of the document - Google Chrome|2016-06-15|11:31:00|2016-06-15|11:31:05|0:00:05|Google Chrome|Applications|0|40
-bootstrap|2016-06-15|11:31:05|2016-06-15|11:31:18|0:00:13|Sistema operativo Microsoft® Windows®|Applications|0|40
+bootstrap|2016-06-15|11:31:05|2016-06-15|11:31:18|0:00:13|Sistema operativo Microsoft® Windows®|Applications|1|40
 Abrir con|2016-06-15|11:31:18|2016-06-15|11:31:25|0:00:07|Sistema operativo Microsoft® Windows®|Applications|0|40
 Sistema operativo Microsoft® Windows®|2016-06-15|11:31:25|2016-06-15|11:31:31|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|40
 paquetes.html|2016-06-15|11:31:31|2016-06-15|11:31:44|0:00:13|Sublime Text 2|Applications|1|40
@@ -1037,16 +1037,16 @@ Time tracking software - ManicTime - Google Chrome|2016-07-20|10:27:31|2016-07-2
 http://localhost:8080/AdmProyectos/home.jsp|2016-07-20|10:27:10|2016-07-20|10:27:26|0:00:16|localhost|Documents|1|40
 http://www.manictime.com/|2016-07-20|10:27:31|2016-07-20|10:29:09|0:01:38|www.manictime.com|Documents|0|40
 Time tracking software - ManicTime - Google Chrome|2016-07-20|10:29:09|2016-07-20|10:29:14|0:00:05|Google Chrome|Applications|0|40
-http://datatables.ne/|2016-07-20|10:29:09|2016-07-20|10:29:14|0:00:05|datatables.ne|Documents|0|40
+http://datatables.ne/|2016-07-20|10:29:09|2016-07-20|10:29:14|0:00:05|datatables.ne|Documents|1|40
 ManicTime - STANDARD|2016-07-20|10:29:14|2016-07-20|10:30:02|0:00:48|ManicTime|Applications|0|40
 Actividad reciente - Google Chrome|2016-07-20|10:30:02|2016-07-20|10:30:23|0:00:21|Google Chrome|Applications|0|40
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|10:30:36|2016-07-20|10:31:06|0:00:30|NetBeans IDE 8.1|Applications|1|40
 https://www.sidweb.espol.edu.ec/|2016-07-20|10:30:02|2016-07-20|10:30:23|0:00:21|www.sidweb.espol.edu.ec|Documents|0|40
-https://datatables.net/|2016-07-20|10:30:23|2016-07-20|10:30:36|0:00:13|datatables.net|Documents|0|40
+https://datatables.net/|2016-07-20|10:30:23|2016-07-20|10:30:36|0:00:13|datatables.net|Documents|1|40
 Administrador de Proyectos - Google Chrome|2016-07-20|10:31:06|2016-07-20|10:31:12|0:00:06|Google Chrome|Applications|0|40
 Actividad reciente - Google Chrome|2016-07-20|10:31:25|2016-07-20|10:34:55|0:03:30|Google Chrome|Applications|0|40
 http://localhost:8080/AdmProyectos/home.jsp#|2016-07-20|10:31:06|2016-07-20|10:31:12|0:00:06|localhost|Documents|1|40
-https://datatables.net/|2016-07-20|10:31:12|2016-07-20|10:31:25|0:00:13|datatables.net|Documents|0|40
+https://datatables.net/|2016-07-20|10:31:12|2016-07-20|10:31:25|0:00:13|datatables.net|Documents|1|40
 https://www.sidweb.espol.edu.ec/|2016-07-20|10:31:25|2016-07-20|10:34:55|0:03:30|www.sidweb.espol.edu.ec|Documents|0|40
 1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20|10:34:55|2016-07-20|10:35:30|0:00:35|Google Chrome|Applications|0|40
 1469023255_706__PracticaServlets.pdf|2016-07-20|10:34:55|2016-07-20|10:35:30|0:00:35|file|Documents|0|40
@@ -1127,7 +1127,7 @@ GitHub|2016-07-20|10:47:17|2016-07-20|10:48:07|0:00:50|GitHub Desktop|Applicatio
 GitHub|2016-07-20|10:48:46|2016-07-20|10:48:52|0:00:06|GitHub Desktop|Applications|1|40
 jguilindro/PracticaServlet - Google Chrome|2016-07-20|10:48:52|2016-07-20|10:48:57|0:00:05|Google Chrome|Applications|0|40
 Collaborators - Google Chrome|2016-07-20|10:48:57|2016-07-20|10:49:40|0:00:43|Google Chrome|Applications|0|40
-https://datatables.net/|2016-07-20|10:48:07|2016-07-20|10:48:12|0:00:05|datatables.net|Documents|0|40
+https://datatables.net/|2016-07-20|10:48:07|2016-07-20|10:48:12|0:00:05|datatables.net|Documents|1|40
 http://www.speedtest.net/result/5490764135.png|2016-07-20|10:48:12|2016-07-20|10:48:46|0:00:34|www.speedtest.net|Documents|0|40
 https://github.com/jguilindro/PracticaServlet|2016-07-20|10:48:52|2016-07-20|10:48:57|0:00:05|github.com|Documents|1|40
 https://github.com/jguilindro/PracticaServlet/settings/collaboration|2016-07-20|10:48:57|2016-07-20|10:49:40|0:00:43|github.com|Documents|1|40
@@ -1206,7 +1206,7 @@ Nueva pestaña - Google Chrome|2016-07-20|11:01:13|2016-07-20|11:01:20|0:00:07|G
 MySQL :: MySQL 5.7 Reference Manual :: 4.3.1 Creating and Selecting a Database - Google Chrome|2016-07-20|11:01:20|2016-07-20|11:01:32|0:00:12|Google Chrome|Applications|0|40
 NetBeans IDE 8.1|2016-07-20|11:01:32|2016-07-20|11:02:01|0:00:29|NetBeans IDE 8.1|Applications|1|40
 create database mysql - Buscar con Google - Google Chrome|2016-07-20|11:02:01|2016-07-20|11:02:10|0:00:09|Google Chrome|Applications|0|40
-http://dev.mysql.com/doc/refman/5.7/en/creating-database.html|2016-07-20|11:01:20|2016-07-20|11:01:32|0:00:12|dev.mysql.com|Documents|0|40
+http://dev.mysql.com/doc/refman/5.7/en/creating-database.html|2016-07-20|11:01:20|2016-07-20|11:01:32|0:00:12|dev.mysql.com|Documents|1|40
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=create database mysql|2016-07-20|11:02:01|2016-07-20|11:02:10|0:00:09|www.google.com.ec|Documents|0|40
 create database sql - Buscar con Google - Google Chrome|2016-07-20|11:02:10|2016-07-20|11:02:16|0:00:06|Google Chrome|Applications|0|40
 Creating the database and running SQL - Google Chrome|2016-07-20|11:02:16|2016-07-20|11:02:49|0:00:33|Google Chrome|Applications|0|40
@@ -1232,17 +1232,17 @@ https://db.apache.org/derby/docs/10.5/getstart/twwdactivity1.html|2016-07-20|11:
 NetBeans IDE 8.1|2016-07-20|11:05:13|2016-07-20|11:05:35|0:00:22|NetBeans IDE 8.1|Applications|1|40
 Sistema operativo Microsoft® Windows®|2016-07-20|11:05:35|2016-07-20|11:05:40|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|40
 Creating a Derby database and running SQL statements - Google Chrome|2016-07-20|11:05:40|2016-07-20|11:05:45|0:00:05|Google Chrome|Applications|0|40
-gitignore - Buscar con Google - Google Chrome|2016-07-20|11:05:45|2016-07-20|11:05:50|0:00:05|Google Chrome|Applications|0|40
-Git - gitignore Documentation - Google Chrome|2016-07-20|11:05:50|2016-07-20|11:06:15|0:00:25|Google Chrome|Applications|0|40
+gitignore - Buscar con Google - Google Chrome|2016-07-20|11:05:45|2016-07-20|11:05:50|0:00:05|Google Chrome|Applications|1|40
+Git - gitignore Documentation - Google Chrome|2016-07-20|11:05:50|2016-07-20|11:06:15|0:00:25|Google Chrome|Applications|1|40
 https://db.apache.org/derby/docs/10.5/getstart/twwdactivity1.html|2016-07-20|11:05:40|2016-07-20|11:05:45|0:00:05|db.apache.org|Documents|0|40
-https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=gitignore|2016-07-20|11:05:45|2016-07-20|11:05:50|0:00:05|www.google.com.ec|Documents|0|40
-https://git-scm.com/docs/gitignore|2016-07-20|11:05:50|2016-07-20|11:06:15|0:00:25|git-scm.com|Documents|0|40
-Git - gitignore Documentation - Google Chrome|2016-07-20|11:06:15|2016-07-20|11:06:23|0:00:08|Google Chrome|Applications|0|40
-gitignore - How to ignore certain files in git? - Stack Overflow - Google Chrome|2016-07-20|11:06:23|2016-07-20|11:06:43|0:00:20|Google Chrome|Applications|0|40
-gitignore class files - Buscar con Google - Google Chrome|2016-07-20|11:06:43|2016-07-20|11:06:48|0:00:05|Google Chrome|Applications|0|40
+https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=gitignore|2016-07-20|11:05:45|2016-07-20|11:05:50|0:00:05|www.google.com.ec|Documents|1|40
+https://git-scm.com/docs/gitignore|2016-07-20|11:05:50|2016-07-20|11:06:15|0:00:25|git-scm.com|Documents|1|40
+Git - gitignore Documentation - Google Chrome|2016-07-20|11:06:15|2016-07-20|11:06:23|0:00:08|Google Chrome|Applications|1|40
+gitignore - How to ignore certain files in git? - Stack Overflow - Google Chrome|2016-07-20|11:06:23|2016-07-20|11:06:43|0:00:20|Google Chrome|Applications|1|40
+gitignore class files - Buscar con Google - Google Chrome|2016-07-20|11:06:43|2016-07-20|11:06:48|0:00:05|Google Chrome|Applications|1|40
 Administrador de Proyectos - Google Chrome|2016-07-20|11:06:48|2016-07-20|11:11:12|0:04:24|Google Chrome|Applications|0|40
 http://stackoverflow.com/questions/4308610/how-to-ignore-certain-files-in-git|2016-07-20|11:06:23|2016-07-20|11:06:43|0:00:20|stackoverflow.com|Documents|1|40
-https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=gitignore class files|2016-07-20|11:06:43|2016-07-20|11:06:48|0:00:05|www.google.com.ec|Documents|0|40
+https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=gitignore class files|2016-07-20|11:06:43|2016-07-20|11:06:48|0:00:05|www.google.com.ec|Documents|1|40
 http://localhost:8080/AdmProyectos/home.jsp|2016-07-20|11:06:48|2016-07-20|11:11:12|0:04:24|localhost|Documents|1|40
 Nueva pestaña - Google Chrome|2016-07-20|11:11:12|2016-07-20|11:11:21|0:00:09|Google Chrome|Applications|0|40
 Establishing a Connection (The Java™ Tutorials > JDBC(TM) Database Access > JDBC Basics) - Google Chrome|2016-07-20|11:11:21|2016-07-20|11:11:37|0:00:16|Google Chrome|Applications|0|40
@@ -1268,7 +1268,7 @@ NetBeans IDE 8.1|2016-07-20|11:14:09|2016-07-20|11:15:17|0:01:08|NetBeans IDE 8.
 NetBeans IDE 8.1|2016-07-20|11:15:34|2016-07-20|11:15:54|0:00:20|NetBeans IDE 8.1|Applications|1|40
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:15:54|2016-07-20|11:17:04|0:01:10|NetBeans IDE 8.1|Applications|1|40
 1469023255_706__PracticaServlets.pdf|2016-07-20|11:15:17|2016-07-20|11:15:34|0:00:17|file|Documents|0|40
-https://datatables.net/|2016-07-20|11:17:04|2016-07-20|11:17:10|0:00:06|datatables.net|Documents|0|40
+https://datatables.net/|2016-07-20|11:17:04|2016-07-20|11:17:10|0:00:06|datatables.net|Documents|1|40
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:17:10|2016-07-20|11:17:21|0:00:11|NetBeans IDE 8.1|Applications|1|40
 1469023255_706__PracticaServlets.pdf - Google Chrome|2016-07-20|11:17:21|2016-07-20|11:21:25|0:04:04|Google Chrome|Applications|0|40
 1469023255_706__PracticaServlets.pdf|2016-07-20|11:17:21|2016-07-20|11:21:25|0:04:04|file|Documents|0|40
@@ -1277,7 +1277,7 @@ Menú Inicio|2016-07-20|11:22:07|2016-07-20|11:22:15|0:00:08|Sistema operativo M
 Starting NetBeans IDE|2016-07-20|11:22:24|2016-07-20|11:22:34|0:00:10|NetBeans IDE 8.1|Applications|1|40
 Mail - Julio Cesar Guilindro Ordonez - Outlook - Google Chrome|2016-07-20|11:22:34|2016-07-20|11:23:01|0:00:27|Google Chrome|Applications|0|40
 NetBeans IDE 8.1|2016-07-20|11:23:01|2016-07-20|11:23:13|0:00:12|NetBeans IDE 8.1|Applications|1|40
-https://datatables.net/|2016-07-20|11:22:15|2016-07-20|11:22:24|0:00:09|datatables.net|Documents|0|40
+https://datatables.net/|2016-07-20|11:22:15|2016-07-20|11:22:24|0:00:09|datatables.net|Documents|1|40
 https://outlook.office365.com/owa/?realm=espol.edu.ec&exsvurl=1&ll-cc=3082&modurl=0&path=/mail/inbox|2016-07-20|11:22:34|2016-07-20|11:23:01|0:00:27|outlook.office365.com|Documents|0|40
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:23:13|2016-07-20|11:23:18|0:00:05|NetBeans IDE 8.1|Applications|1|40
 Delete Project|2016-07-20|11:23:18|2016-07-20|11:23:28|0:00:10|NetBeans IDE 8.1|Applications|1|40
@@ -1297,6 +1297,6 @@ https://outlook.office365.com/owa/?realm=espol.edu.ec&exsvurl=1&ll-cc=3082&modur
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|11:26:29|2016-07-20|11:27:19|0:00:50|NetBeans IDE 8.1|Applications|1|40
 GitHub|2016-07-20|11:27:19|2016-07-20|11:28:11|0:00:52|GitHub Desktop|Applications|1|40
 Sistema operativo Microsoft® Windows®|2016-07-20|11:28:11|2016-07-20|11:28:22|0:00:11|Sistema operativo Microsoft® Windows®|Applications|0|40
-https://datatables.net/|2016-07-20|11:28:22|2016-07-20|11:28:30|0:00:08|datatables.net|Documents|0|40
+https://datatables.net/|2016-07-20|11:28:22|2016-07-20|11:28:30|0:00:08|datatables.net|Documents|1|40
 Sistema operativo Microsoft® Windows®|2016-08-04|10:44:41|2016-08-04|10:44:46|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|40
 Borrar|2016-09-08|14:53:28|2016-09-08|14:53:29|0:00:01|ManicTime|Applications|0|40

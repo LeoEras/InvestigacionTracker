@@ -18,7 +18,7 @@ Inicio|2016-06-04|16:45:11|2016-06-04|16:50:45|0:05:34|Sistema operativo Microso
 Installers|2016-06-04|16:50:45|2016-06-04|16:53:22|0:02:37|Sistema operativo Microsoft® Windows®|Applications|0|43
 Sistema operativo Microsoft® Windows®|2016-06-04|16:53:22|2016-06-04|17:00:28|0:07:06|Sistema operativo Microsoft® Windows®|Applications|0|43
 Installers|2016-06-04|17:00:28|2016-06-04|17:09:37|0:09:09|Sistema operativo Microsoft® Windows®|Applications|0|43
-Microsoft Visual C++ 2008 Redistributable Setup|2016-06-04|17:09:37|2016-06-04|17:09:56|0:00:19|Microsoft® Visual Studio® 2008|Applications|0|43
+Microsoft Visual C++ 2008 Redistributable Setup|2016-06-04|17:09:37|2016-06-04|17:09:56|0:00:19|Microsoft® Visual Studio® 2008|Applications|1|43
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-04|17:09:56|2016-06-04|17:10:01|0:00:05|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|43
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|2016-06-04|17:10:01|2016-06-04|17:10:22|0:00:21|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|43
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|2016-06-04|17:10:22|2016-06-04|17:10:59|0:00:37|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610|Applications|0|43
@@ -29,7 +29,7 @@ Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005|2016-06-04|17:12:32
 Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2016-06-04|17:13:18|2016-06-04|17:14:00|0:00:42|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|Applications|0|43
 Extracting Files|2016-06-04|17:14:00|2016-06-04|17:14:05|0:00:05|Microsoft Visual C++ 2008 Redistributable|Applications|0|43
 Menú Inicio|2016-06-04|17:14:05|2016-06-04|17:14:10|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|43
-Microsoft Visual C++ 2008 Redistributable Setup|2016-06-04|17:14:10|2016-06-04|17:14:22|0:00:12|Microsoft® Visual Studio® 2008|Applications|0|43
+Microsoft Visual C++ 2008 Redistributable Setup|2016-06-04|17:14:10|2016-06-04|17:14:22|0:00:12|Microsoft® Visual Studio® 2008|Applications|1|43
 Servicios|2016-06-04|17:14:22|2016-06-04|17:14:29|0:00:07|Servicios|Applications|0|43
 Control de servicio|2016-06-04|17:14:29|2016-06-04|17:14:34|0:00:05|Control de servicio|Applications|0|43
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030 Setup|2016-06-04|17:14:34|2016-06-04|17:14:40|0:00:06|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|Applications|0|43
@@ -57,7 +57,7 @@ Nueva pestaña - Google Chrome|2016-07-20|09:11:11|2016-07-20|09:11:16|0:00:05|G
 chrome://chrome-signin/?access_point=0&reason=0|2016-07-20|09:10:55|2016-07-20|09:11:00|0:00:05|chrome-signin|Documents|0|43
 http://sidweb.e/|2016-07-20|09:11:11|2016-07-20|09:11:16|0:00:05|sidweb.e|Documents|0|43
 https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-07-20|09:11:16|2016-07-20|09:11:42|0:00:26|auth.espol.edu.ec|Documents|0|43
-https://auth.espol.edu.ec/login;jsessionid=D5C8CB5D7F7D773A25EE548E42E57249?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-07-20|09:11:42|2016-07-20|09:11:47|0:00:05|auth.espol.edu.ec|Documents|0|43
+https://auth.espol.edu.ec/login;jsessionid=D5C8CB5D7F7D773A25EE548E42E57249?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-07-20|09:11:42|2016-07-20|09:11:47|0:00:05|auth.espol.edu.ec|Documents|1|43
 https://auth.espol.edu.ec/login?service=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-07-20|09:11:47|2016-07-20|09:12:03|0:00:16|auth.espol.edu.ec|Documents|0|43
 Actividad reciente - Google Chrome|2016-07-20|09:12:03|2016-07-20|09:12:25|0:00:22|Google Chrome|Applications|0|43
 Program Manager|2016-07-20|09:12:25|2016-07-20|09:12:35|0:00:10|Sistema operativo Microsoft® Windows®|Applications|0|43
@@ -93,9 +93,9 @@ https://github.com/login?return_to=%2Fjoin%3Fsource%3Dheader-home|2016-07-20|09:
 AdmProyectos|2016-07-20|09:18:30|2016-07-20|09:18:46|0:00:16|Sistema operativo Microsoft® Windows®|Applications|0|43
 MINGW64:/c/Users/estudiante.2016/Desktop/AdmProyectos|2016-07-20|09:18:46|2016-07-20|09:19:04|0:00:18|mintty|Applications|1|43
 Nueva pestaña - Google Chrome|2016-07-20|09:19:04|2016-07-20|09:19:13|0:00:09|Google Chrome|Applications|0|43
-config email in git - Buscar con Google - Google Chrome|2016-07-20|09:19:13|2016-07-20|09:19:22|0:00:09|Google Chrome|Applications|0|43
+config email in git - Buscar con Google - Google Chrome|2016-07-20|09:19:13|2016-07-20|09:19:22|0:00:09|Google Chrome|Applications|1|43
 MINGW64:/c/Users/estudiante.2016/Desktop/AdmProyectos|2016-07-20|09:19:22|2016-07-20|09:20:43|0:01:21|mintty|Applications|1|43
-https://www.google.com.ec/search?q=config+email+in+git&oq=config+email+in+git&aqs=chrome..69i57.7475j0j1&sourceid=chrome&ie=UTF-8|2016-07-20|09:19:13|2016-07-20|09:19:22|0:00:09|www.google.com.ec|Documents|0|43
+https://www.google.com.ec/search?q=config+email+in+git&oq=config+email+in+git&aqs=chrome..69i57.7475j0j1&sourceid=chrome&ie=UTF-8|2016-07-20|09:19:13|2016-07-20|09:19:22|0:00:09|www.google.com.ec|Documents|1|43
 GitHub - Google Chrome|2016-07-20|09:20:43|2016-07-20|09:20:52|0:00:09|Google Chrome|Applications|1|43
 AdmProyectos|2016-07-20|09:20:52|2016-07-20|09:20:57|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|43
 https://github.com/|2016-07-20|09:20:43|2016-07-20|09:20:52|0:00:09|github.com|Documents|1|43
@@ -189,7 +189,7 @@ GlassFish Server Open Source Edition 4.1.1 - Error report - Google Chrome|2016-0
 localhost:8080/AdmProyectos/loginSerlet?usuario=asda&password=asda - Google Chrome|2016-07-20|09:47:21|2016-07-20|09:47:26|0:00:05|Google Chrome|Applications|1|43
 AdmProyectos - NetBeans IDE 8.1|2016-07-20|09:47:26|2016-07-20|09:47:33|0:00:07|NetBeans IDE 8.1|Applications|1|43
 fercarvo/admproyectos - Google Chrome|2016-07-20|09:47:33|2016-07-20|09:47:38|0:00:05|Google Chrome|Applications|0|43
-Setting your email in Git - User Documentation - Google Chrome|2016-07-20|09:47:38|2016-07-20|09:47:43|0:00:05|Google Chrome|Applications|0|43
+Setting your email in Git - User Documentation - Google Chrome|2016-07-20|09:47:38|2016-07-20|09:47:43|0:00:05|Google Chrome|Applications|1|43
 fercarvo/admproyectos - Google Chrome|2016-07-20|09:47:43|2016-07-20|09:47:53|0:00:10|Google Chrome|Applications|0|43
 localhost:8080/AdmProyectos/loginSerlet?usuario=asda&password=asda - Google Chrome|2016-07-20|09:47:53|2016-07-20|09:49:33|0:01:40|Google Chrome|Applications|1|43
 http://localhost:8080/AdmProyectos/LoginServlet?usuario=asda&password=asda|2016-07-20|09:47:14|2016-07-20|09:47:21|0:00:07|localhost|Documents|1|43
@@ -200,11 +200,11 @@ https://github.com/fercarvo/admproyectos|2016-07-20|09:47:43|2016-07-20|09:47:53
 http://localhost:8080/AdmProyectos/loginSerlet?usuario=asda&password=asda|2016-07-20|09:47:53|2016-07-20|09:49:33|0:01:40|localhost|Documents|1|43
 MINGW64:/c/Users/estudiante.2016/Desktop/AdmProyectos|2016-07-20|09:49:33|2016-07-20|09:52:18|0:02:45|mintty|Applications|1|43
 Nueva pestaña - Google Chrome|2016-07-20|09:52:18|2016-07-20|09:52:33|0:00:15|Google Chrome|Applications|0|43
-git gub - Buscar con Google - Google Chrome|2016-07-20|09:52:33|2016-07-20|09:52:38|0:00:05|Google Chrome|Applications|0|43
+git gub - Buscar con Google - Google Chrome|2016-07-20|09:52:33|2016-07-20|09:52:38|0:00:05|Google Chrome|Applications|1|43
 How people build software · GitHub - Google Chrome|2016-07-20|09:52:38|2016-07-20|09:52:45|0:00:07|Google Chrome|Applications|1|43
 Sign in to GitHub · GitHub - Google Chrome|2016-07-20|09:52:45|2016-07-20|09:52:51|0:00:06|Google Chrome|Applications|1|43
 fercarvo/admproyectos - Google Chrome|2016-07-20|09:52:51|2016-07-20|09:53:00|0:00:09|Google Chrome|Applications|0|43
-https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=git gub|2016-07-20|09:52:33|2016-07-20|09:52:38|0:00:05|www.google.com.ec|Documents|0|43
+https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=git gub|2016-07-20|09:52:33|2016-07-20|09:52:38|0:00:05|www.google.com.ec|Documents|1|43
 https://github.com/|2016-07-20|09:52:38|2016-07-20|09:52:45|0:00:07|github.com|Documents|1|43
 https://github.com/login|2016-07-20|09:52:45|2016-07-20|09:52:51|0:00:06|github.com|Documents|1|43
 https://github.com/fercarvo/admproyectos|2016-07-20|09:52:51|2016-07-20|09:53:00|0:00:09|github.com|Documents|1|43
@@ -217,11 +217,11 @@ https://github.com/fercarvo/admproyectos/commits/master|2016-07-20|09:53:00|2016
 https://github.com/fercarvo/admproyectos/commit/1ae8d497f7a15fe2594d1596dfbb0d88a70eea1b|2016-07-20|09:53:06|2016-07-20|09:53:18|0:00:12|github.com|Documents|1|43
 https://github.com/settings/emails|2016-07-20|09:53:18|2016-07-20|09:53:29|0:00:11|github.com|Documents|1|43
 https://github.com/fercarvo/admproyectos/commit/1ae8d497f7a15fe2594d1596dfbb0d88a70eea1b|2016-07-20|09:53:29|2016-07-20|09:53:36|0:00:07|github.com|Documents|1|43
-git global config - Buscar con Google - Google Chrome|2016-07-20|09:55:18|2016-07-20|09:55:28|0:00:10|Google Chrome|Applications|0|43
-Git - Configurando Git por primera vez - Google Chrome|2016-07-20|09:55:28|2016-07-20|09:55:39|0:00:11|Google Chrome|Applications|0|43
+git global config - Buscar con Google - Google Chrome|2016-07-20|09:55:18|2016-07-20|09:55:28|0:00:10|Google Chrome|Applications|1|43
+Git - Configurando Git por primera vez - Google Chrome|2016-07-20|09:55:28|2016-07-20|09:55:39|0:00:11|Google Chrome|Applications|1|43
 MINGW64:/c/Users/estudiante.2016/Desktop/AdmProyectos|2016-07-20|09:55:39|2016-07-20|09:56:39|0:01:00|mintty|Applications|1|43
-https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=git global config|2016-07-20|09:55:18|2016-07-20|09:55:28|0:00:10|www.google.com.ec|Documents|0|43
-https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez|2016-07-20|09:55:28|2016-07-20|09:55:39|0:00:11|git-scm.com|Documents|0|43
+https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=git global config|2016-07-20|09:55:18|2016-07-20|09:55:28|0:00:10|www.google.com.ec|Documents|1|43
+https://git-scm.com/book/es/v1/Empezando-Configurando-Git-por-primera-vez|2016-07-20|09:55:28|2016-07-20|09:55:39|0:00:11|git-scm.com|Documents|1|43
 OpenSSH|2016-07-20|09:56:39|2016-07-20|09:56:44|0:00:05|Tk 8.6 for Windows|Applications|0|43
 MINGW64:/c/Users/estudiante.2016/Desktop/AdmProyectos|2016-07-20|09:56:44|2016-07-20|09:56:49|0:00:05|mintty|Applications|1|43
 fercarvo/admproyectos - Google Chrome|2016-07-20|09:56:49|2016-07-20|09:56:55|0:00:06|Google Chrome|Applications|0|43

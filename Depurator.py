@@ -6,9 +6,12 @@ filtros = ['stackoverflow', 'Stackoverflow', 'Komodo', 'komodo',
           'Notepad', 'notepad', 'cmd', 'localhost', 'python',
           'Python', 'Mongo', 'mongo', 'Sublime', 'sublime',
           'dllhost', 'wampmanager', 'Wampanager', 'NetBeans',
-          'netbeans', 'github', 'GitHub', 'mintty', 'Mintty',
+          'netbeans', 'git', 'Git', 'mintty', 'Mintty',
           'node', 'Node', 'server', 'Server', 'Atom', 'atom',
-           'phpstorm', 'PhpStorm', 'devenv', 'Devenv']
+           'phpstorm', 'PhpStorm', 'devenv', 'Devenv', 'jquery',
+           'jQuery', 'Jquery', 'JQuery', 'hbs', 'Visual Studio',
+           'mlab', 'jade', 'dev.', 'emmet', 'Emmet', 'w3', 'learn',
+           'js', 'datatables', 'bootstrap', 'webtools', 'programacion']
 
 def depurate(item):
     item = item.replace('"', '').strip()
@@ -31,7 +34,8 @@ def setImportance(filters, description, process):
 
 def getList(filename, user):
     file_object = open(filename + user + ".csv", 'r')
-    file_object_writter = open("Outputs\depurado" + user + ".csv", 'w')
+    new_dir = filename.split('\\')
+    file_object_writter = open(new_dir[0] + "\\" + new_dir[1] + "\\depurado" + user + ".csv", 'w')
     objects = []
     collection = []
     #    	    \date_time_start      \date_time_end    \

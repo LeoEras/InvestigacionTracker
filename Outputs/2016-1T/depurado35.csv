@@ -4,7 +4,7 @@ Licencia|2016-05-24|09:30:42|2016-05-24|09:30:48|0:00:06|ManicTime|Applications|
 Configuración|2016-05-24|09:30:48|2016-05-24|09:30:55|0:00:07|ManicTime|Applications|0|35
 Menú Inicio|2016-05-24|09:30:55|2016-05-24|09:30:59|0:00:04|Sistema operativo Microsoft® Windows®|Applications|0|35
 Extracting Files|2016-06-02|15:08:32|2016-06-02|15:08:37|0:00:05|Microsoft Visual C++ 2008 Redistributable|Applications|0|35
-Setup|2016-06-02|15:08:37|2016-06-02|15:08:43|0:00:06|Microsoft® Visual Studio® 2008|Applications|0|35
+Setup|2016-06-02|15:08:37|2016-06-02|15:08:43|0:00:06|Microsoft® Visual Studio® 2008|Applications|1|35
 Sistema operativo Microsoft® Windows®|2016-06-02|15:08:43|2016-06-02|15:08:52|0:00:09|Sistema operativo Microsoft® Windows®|Applications|0|35
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-02|15:08:52|2016-06-02|15:08:57|0:00:05|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|35
 Servicios|2016-06-02|15:08:57|2016-06-02|15:09:03|0:00:06|Servicios|Applications|0|35
@@ -12,7 +12,7 @@ Propiedades de Web Deployment Agent Service (Equipo local)|2016-06-02|15:09:03|2
 Installers|2016-06-02|15:09:08|2016-06-02|15:09:13|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|35
 Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030 Setup|2016-06-02|15:09:13|2016-06-02|15:10:13|0:01:00|Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.61030|Applications|0|35
 Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501 Setup|2016-06-02|15:10:13|2016-06-02|15:12:18|0:02:05|Microsoft Visual C++ 2013 Redistributable (x64) - 12.0.30501|Applications|0|35
-Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|15:12:18|2016-06-02|15:12:31|0:00:13|Microsoft® Visual Studio® 2008|Applications|0|35
+Microsoft Visual C++ 2008 Redistributable Setup|2016-06-02|15:12:18|2016-06-02|15:12:31|0:00:13|Microsoft® Visual Studio® 2008|Applications|1|35
 Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|2016-06-02|15:12:31|2016-06-02|15:13:43|0:01:12|Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.61030|Applications|0|35
 Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501 Setup|2016-06-02|15:13:43|2016-06-02|15:13:48|0:00:05|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|Applications|0|35
 Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|2016-06-02|15:13:48|2016-06-02|15:15:04|0:01:16|Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.30501|Applications|0|35
@@ -43,7 +43,7 @@ https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15|09:1
 Descargas|2016-06-15|09:10:27|2016-06-15|09:10:33|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|35
 Carpeta y opciones de extracción|2016-06-15|09:10:33|2016-06-15|09:10:41|0:00:08|WinRAR|Applications|0|35
 Practica Bootstrap: DESARROLLO DE APLICACIONES WEB - Google Chrome|2016-06-15|09:10:41|2016-06-15|09:10:46|0:00:05|Google Chrome|Applications|0|35
-bootstrap|2016-06-15|09:10:46|2016-06-15|09:10:54|0:00:08|Sistema operativo Microsoft® Windows®|Applications|0|35
+bootstrap|2016-06-15|09:10:46|2016-06-15|09:10:54|0:00:08|Sistema operativo Microsoft® Windows®|Applications|1|35
 Abriendo - Microsoft Word|2016-06-15|09:10:54|2016-06-15|09:11:00|0:00:06|Microsoft Word|Applications|0|35
 Lo primero es lo primero.|2016-06-15|09:11:00|2016-06-15|09:11:13|0:00:13|Microsoft Word|Applications|0|35
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|09:11:13|2016-06-15|09:11:18|0:00:05|Microsoft Word|Applications|0|35
@@ -53,11 +53,11 @@ https://www.sidweb.espol.edu.ec/courses/32682/assignments/111740|2016-06-15|09:1
 practica.docx|2016-06-15|09:11:13|2016-06-15|09:11:18|0:00:05|practica.docx|Documents|0|35
 practica.docx|2016-06-15|09:11:23|2016-06-15|09:12:24|0:01:01|practica.docx|Documents|0|35
 Getting started · Bootstrap - Google Chrome|2016-06-15|09:12:24|2016-06-15|09:12:33|0:00:09|Google Chrome|Applications|0|35
-http://getbootstrap.com/getting-started/|2016-06-15|09:12:24|2016-06-15|09:12:33|0:00:09|getbootstrap.com|Documents|0|35
+http://getbootstrap.com/getting-started/|2016-06-15|09:12:24|2016-06-15|09:12:33|0:00:09|getbootstrap.com|Documents|1|35
 Conversaciones: Lenin Hochimin Tenecela Calderon - Google Chrome|2016-06-15|09:12:33|2016-06-15|09:12:39|0:00:06|Google Chrome|Applications|0|35
 Conversaciones: Lenin Hochimin Tenecela Calderon - Google Chrome|2016-06-15|09:12:39|2016-06-15|09:12:58|0:00:19|Google Chrome|Applications|0|35
 Descargas|2016-06-15|09:12:58|2016-06-15|09:13:08|0:00:10|Sistema operativo Microsoft® Windows®|Applications|0|35
-bootstrap-3.3.6-dist|2016-06-15|09:13:08|2016-06-15|09:13:23|0:00:15|Sistema operativo Microsoft® Windows®|Applications|0|35
+bootstrap-3.3.6-dist|2016-06-15|09:13:08|2016-06-15|09:13:23|0:00:15|Sistema operativo Microsoft® Windows®|Applications|1|35
 https://www.sidweb.espol.edu.ec/conversations|2016-06-15|09:12:33|2016-06-15|09:12:39|0:00:06|www.sidweb.espol.edu.ec|Documents|0|35
 https://www.sidweb.espol.edu.ec/conversations#/conversations/470459|2016-06-15|09:12:39|2016-06-15|09:12:58|0:00:19|www.sidweb.espol.edu.ec|Documents|0|35
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|09:13:23|2016-06-15|09:14:04|0:00:41|Microsoft Word|Applications|0|35
@@ -67,15 +67,15 @@ practica.docx|2016-06-15|10:57:52|2016-06-15|11:01:36|0:03:44|practica.docx|Docu
 practica (Vista protegida) - Word (Error de activación de productos)|2016-06-15|11:15:56|2016-06-15|11:33:23|0:17:27|Microsoft Word|Applications|0|35
 practica.docx|2016-06-15|11:15:56|2016-06-15|11:33:23|0:17:27|practica.docx|Documents|0|35
 https://auth.espol.edu.ec/logout?destination=https:%2F%2Fwww.sidweb.espol.edu.ec%2Flogin|2016-06-15|11:33:23|2016-06-15|11:33:35|0:00:12|auth.espol.edu.ec|Documents|0|35
-bootstrap-3.3.6-dist|2016-06-15|11:33:35|2016-06-15|11:33:38|0:00:03|Sistema operativo Microsoft® Windows®|Applications|0|35
+bootstrap-3.3.6-dist|2016-06-15|11:33:35|2016-06-15|11:33:38|0:00:03|Sistema operativo Microsoft® Windows®|Applications|1|35
 Conmutación de tareas|2016-07-20|09:16:13|2016-07-20|09:16:47|0:00:34|Sistema operativo Microsoft® Windows®|Applications|0|35
 Program Manager|2016-07-20|09:16:47|2016-07-20|09:17:50|0:01:03|Sistema operativo Microsoft® Windows®|Applications|0|35
 chrome://chrome-signin/?access_point=0&reason=0 - Google Chrome|2016-07-20|09:17:50|2016-07-20|09:17:55|0:00:05|Google Chrome|Applications|0|35
-git - Buscar con Google - Google Chrome|2016-07-20|09:17:55|2016-07-20|09:18:08|0:00:13|Google Chrome|Applications|0|35
+git - Buscar con Google - Google Chrome|2016-07-20|09:17:55|2016-07-20|09:18:08|0:00:13|Google Chrome|Applications|1|35
 How people build software · GitHub - Google Chrome|2016-07-20|09:18:08|2016-07-20|09:18:13|0:00:05|Google Chrome|Applications|1|35
 NetBeans IDE 8.1|2016-07-20|09:18:13|2016-07-20|09:18:23|0:00:10|NetBeans IDE 8.1|Applications|1|35
 chrome://chrome-signin/?access_point=0&reason=0|2016-07-20|09:17:50|2016-07-20|09:17:55|0:00:05|chrome-signin|Documents|0|35
-https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=git|2016-07-20|09:17:55|2016-07-20|09:18:08|0:00:13|www.google.com.ec|Documents|0|35
+https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=git|2016-07-20|09:17:55|2016-07-20|09:18:08|0:00:13|www.google.com.ec|Documents|1|35
 https://github.com/|2016-07-20|09:18:08|2016-07-20|09:18:13|0:00:05|github.com|Documents|1|35
 Open Project|2016-07-20|09:18:23|2016-07-20|09:18:31|0:00:08|NetBeans IDE 8.1|Applications|1|35
 NetBeans IDE 8.1|2016-07-20|09:18:31|2016-07-20|09:18:54|0:00:23|NetBeans IDE 8.1|Applications|1|35
@@ -391,11 +391,11 @@ Windows Installer|2016-08-17|14:44:59|2016-08-17|14:45:04|0:00:05|Windows Instal
 Node.js Setup|2016-08-17|14:45:04|2016-08-17|14:45:14|0:00:10|Windows Installer - Unicode|Applications|1|35
 Nueva pestaña - Google Chrome|2016-08-17|14:45:14|2016-08-17|14:45:21|0:00:07|Google Chrome|Applications|0|35
 instal nodemailer - Buscar con Google - Google Chrome|2016-08-17|14:45:21|2016-08-17|14:45:36|0:00:15|Google Chrome|Applications|1|35
-pdfmaker js - Buscar con Google - Google Chrome|2016-08-17|14:45:36|2016-08-17|14:45:41|0:00:05|Google Chrome|Applications|0|35
+pdfmaker js - Buscar con Google - Google Chrome|2016-08-17|14:45:36|2016-08-17|14:45:41|0:00:05|Google Chrome|Applications|1|35
 Inicio|2016-08-17|14:45:41|2016-08-17|14:45:46|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|35
 Nodemailer – Send e-mails with Node.JS - Google Chrome|2016-08-17|14:45:46|2016-08-17|14:46:00|0:00:14|Google Chrome|Applications|1|35
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=instal nodemailer|2016-08-17|14:45:21|2016-08-17|14:45:36|0:00:15|www.google.com.ec|Documents|1|35
-https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pdfmaker+js|2016-08-17|14:45:36|2016-08-17|14:45:41|0:00:05|www.google.com.ec|Documents|0|35
+https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pdfmaker+js|2016-08-17|14:45:36|2016-08-17|14:45:41|0:00:05|www.google.com.ec|Documents|1|35
 https://nodemailer.com/|2016-08-17|14:45:46|2016-08-17|14:46:00|0:00:14|nodemailer.com|Documents|1|35
 Node.js Setup|2016-08-17|14:46:00|2016-08-17|14:46:15|0:00:15|Windows Installer - Unicode|Applications|1|35
 nodemailer - Google Chrome|2016-08-17|14:46:15|2016-08-17|14:46:24|0:00:09|Google Chrome|Applications|1|35
@@ -410,17 +410,17 @@ https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=
 cmd.exe|2016-08-17|14:46:49|2016-08-17|14:47:01|0:00:12|Sistema operativo Microsoft® Windows®|Applications|1|35
 npm|2016-08-17|14:47:01|2016-08-17|14:47:12|0:00:11|Sistema operativo Microsoft® Windows®|Applications|0|35
 cmd.exe|2016-08-17|14:47:12|2016-08-17|14:47:17|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|35
-D3.js - Data-Driven Documents - Google Chrome|2016-08-17|14:47:17|2016-08-17|14:47:26|0:00:09|Google Chrome|Applications|0|35
+D3.js - Data-Driven Documents - Google Chrome|2016-08-17|14:47:17|2016-08-17|14:47:26|0:00:09|Google Chrome|Applications|1|35
 Home · d3/d3 Wiki · GitHub - Google Chrome|2016-08-17|14:47:26|2016-08-17|14:47:36|0:00:10|Google Chrome|Applications|1|35
 cmd.exe|2016-08-17|14:47:36|2016-08-17|14:47:42|0:00:06|Sistema operativo Microsoft® Windows®|Applications|1|35
 Inicio|2016-08-17|14:47:42|2016-08-17|14:47:44|0:00:02|Sistema operativo Microsoft® Windows®|Applications|0|35
-https://d3js.org/|2016-08-17|14:47:17|2016-08-17|14:47:26|0:00:09|d3js.org|Documents|0|35
+https://d3js.org/|2016-08-17|14:47:17|2016-08-17|14:47:26|0:00:09|d3js.org|Documents|1|35
 https://github.com/d3/d3/wiki|2016-08-17|14:47:26|2016-08-17|14:47:36|0:00:10|github.com|Documents|1|35
 Home · d3/d3 Wiki · GitHub - Google Chrome|2016-09-08|11:48:15|2016-09-08|11:48:38|0:00:23|Google Chrome|Applications|1|35
-D3.js - Data-Driven Documents - Google Chrome|2016-09-08|11:48:38|2016-09-08|11:48:44|0:00:06|Google Chrome|Applications|0|35
+D3.js - Data-Driven Documents - Google Chrome|2016-09-08|11:48:38|2016-09-08|11:48:44|0:00:06|Google Chrome|Applications|1|35
 Nueva pestaña - Google Chrome|2016-09-08|11:48:44|2016-09-08|11:50:06|0:01:22|Google Chrome|Applications|0|35
 https://github.com/d3/d3/wiki|2016-09-08|11:48:15|2016-09-08|11:48:38|0:00:23|github.com|Documents|1|35
-https://d3js.org/|2016-09-08|11:48:38|2016-09-08|11:48:44|0:00:06|d3js.org|Documents|0|35
+https://d3js.org/|2016-09-08|11:48:38|2016-09-08|11:48:44|0:00:06|d3js.org|Documents|1|35
 Conmutación de tareas|2016-09-08|11:50:06|2016-09-08|11:50:11|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|35
 Nueva pestaña - Google Chrome|2016-09-08|14:33:43|2016-09-08|14:33:48|0:00:05|Google Chrome|Applications|0|35
 GitHub Desktop - Simple collaboration from your desktop - Google Chrome|2016-09-08|14:33:48|2016-09-08|14:33:58|0:00:10|Google Chrome|Applications|1|35
