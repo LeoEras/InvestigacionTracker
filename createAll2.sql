@@ -52,6 +52,12 @@ LINES TERMINATED BY '\r\n'
 (actividad, dia_inicio, hora_inicio, dia_final, hora_final, tiempo, responsable, clase, importancia, usuario)
 set id = null;
 
+LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 5.7/Uploads/2016-2T/depurado6.csv' INTO TABLE datos
+FIELDS TERMINATED BY '|' ENCLOSED BY '"'
+LINES TERMINATED BY '\r\n'
+(actividad, dia_inicio, hora_inicio, dia_final, hora_final, tiempo, responsable, clase, importancia, usuario)
+set id = null;
+
 LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 5.7/Uploads/2016-2T/depurado7.csv' INTO TABLE datos
 FIELDS TERMINATED BY '|' ENCLOSED BY '"'
 LINES TERMINATED BY '\r\n'
