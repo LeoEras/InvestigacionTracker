@@ -4,7 +4,7 @@ import re
 
 filtros = ['stackoverflow', 'Stackoverflow', 'Komodo', 'komodo',
           'Notepad', 'notepad', 'cmd', 'localhost', 'python',
-          'Python', 'Mongo', 'mongo', 'Sublime', 'sublime',
+          'Python', '.py', 'Mongo', 'mongo', 'Sublime', 'sublime',
           'dllhost', 'wampmanager', 'Wampanager', 'NetBeans',
           'netbeans', 'git', 'Git', 'mintty', 'Mintty',
           'node', 'Node', 'server', 'Server', 'Atom', 'atom',
