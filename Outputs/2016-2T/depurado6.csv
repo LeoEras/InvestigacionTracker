@@ -8629,16 +8629,16 @@ Símbolo del sistema|2017-03-02|11:37:13|2017-03-02|11:38:06|0:00:53|Sistema ope
 Símbolo del sistema - python|2017-03-02|11:38:06|2017-03-02|11:38:35|0:00:29|Sistema operativo Microsoft® Windows®|Applications|1|6
 Nueva pestaña - Google Chrome|2017-03-02|11:38:35|2017-03-02|11:38:41|0:00:06|Google Chrome|Applications|0|6
 Símbolo del sistema - python|2017-03-02|11:39:04|2017-03-02|11:39:25|0:00:21|Sistema operativo Microsoft® Windows®|Applications|1|6
-https://docs.djangoproject.com/es/1.10/intro/install/|2017-03-02|11:38:41|2017-03-02|11:39:04|0:00:23|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/es/1.10/intro/install/|2017-03-02|11:38:41|2017-03-02|11:39:04|0:00:23|docs.djangoproject.com|Documents|1|6
 Símbolo del sistema - python|2017-03-02|11:39:31|2017-03-02|11:39:50|0:00:19|Sistema operativo Microsoft® Windows®|Applications|1|6
 Símbolo del sistema|2017-03-02|11:39:50|2017-03-02|11:40:09|0:00:19|Sistema operativo Microsoft® Windows®|Applications|0|6
 Símbolo del sistema - python  -m pip install django --upgrade|2017-03-02|11:40:09|2017-03-02|11:40:57|0:00:48|Sistema operativo Microsoft® Windows®|Applications|1|6
-https://docs.djangoproject.com/es/1.10/intro/install/|2017-03-02|11:39:25|2017-03-02|11:39:31|0:00:06|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/es/1.10/intro/install/|2017-03-02|11:39:25|2017-03-02|11:39:31|0:00:06|docs.djangoproject.com|Documents|1|6
 Símbolo del sistema|2017-03-02|11:40:57|2017-03-02|11:41:25|0:00:28|Sistema operativo Microsoft® Windows®|Applications|0|6
 Nueva pestaña - Google Chrome|2017-03-02|11:41:30|2017-03-02|11:41:37|0:00:07|Google Chrome|Applications|0|6
 localhost - Google Chrome|2017-03-02|11:41:37|2017-03-02|11:41:48|0:00:11|Google Chrome|Applications|1|6
 TypeError at / - Google Chrome|2017-03-02|11:41:48|2017-03-02|11:42:49|0:01:01|Google Chrome|Applications|0|6
-https://docs.djangoproject.com/es/1.10/intro/install/|2017-03-02|11:41:25|2017-03-02|11:41:30|0:00:05|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/es/1.10/intro/install/|2017-03-02|11:41:25|2017-03-02|11:41:30|0:00:05|docs.djangoproject.com|Documents|1|6
 http://localhost:3000/|2017-03-02|11:41:30|2017-03-02|11:41:37|0:00:07|localhost|Documents|1|6
 http://localhost:3000/|2017-03-02|11:41:37|2017-03-02|11:41:48|0:00:11|localhost|Documents|1|6
 http://localhost:8000/|2017-03-02|11:41:48|2017-03-02|11:42:49|0:01:01|localhost|Documents|1|6
@@ -8657,30 +8657,30 @@ Símbolo del sistema - python  manage.py runserver|2017-03-02|11:45:16|2017-03-0
 https://www.google.com.ec/search?q=__init__()+got+an+unexpected+keyword+argument+'current_app'&oq=__init__()+got+an+unexpected+keyword+argument+'current_app'&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8|2017-03-02|11:44:40|2017-03-02|11:44:55|0:00:15|www.google.com.ec|Documents|0|6
 http://stackoverflow.com/questions/40135106/typeerror-init-got-an-unexpected-keyword-argument-current-app-django|2017-03-02|11:44:55|2017-03-02|11:45:16|0:00:21|stackoverflow.com|Documents|1|6
 Nueva pestaña - Google Chrome|2017-03-02|11:45:51|2017-03-02|11:45:56|0:00:05|Google Chrome|Applications|0|6
-https://docs.djangoproject.com/es/1.10/intro/install/|2017-03-02|11:45:56|2017-03-02|11:46:06|0:00:10|docs.djangoproject.com|Documents|0|6
-https://docs.djangoproject.com/es/1.10/intro/install/#id3|2017-03-02|11:46:06|2017-03-02|11:46:22|0:00:16|docs.djangoproject.com|Documents|0|6
-https://docs.djangoproject.com/en/1.10/intro/install/|2017-03-02|11:46:22|2017-03-02|11:46:30|0:00:08|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/es/1.10/intro/install/|2017-03-02|11:45:56|2017-03-02|11:46:06|0:00:10|docs.djangoproject.com|Documents|1|6
+https://docs.djangoproject.com/es/1.10/intro/install/#id3|2017-03-02|11:46:06|2017-03-02|11:46:22|0:00:16|docs.djangoproject.com|Documents|1|6
+https://docs.djangoproject.com/en/1.10/intro/install/|2017-03-02|11:46:22|2017-03-02|11:46:30|0:00:08|docs.djangoproject.com|Documents|1|6
 json|2017-03-02|11:46:55|2017-03-02|11:47:00|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|6
 Equipo|2017-03-02|11:47:00|2017-03-02|11:47:13|0:00:13|Sistema operativo Microsoft® Windows®|Applications|0|6
 Python27|2017-03-02|11:47:13|2017-03-02|11:47:23|0:00:10|Sistema operativo Microsoft® Windows®|Applications|1|6
 Lib|2017-03-02|11:47:23|2017-03-02|11:47:40|0:00:17|Sistema operativo Microsoft® Windows®|Applications|0|6
-https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|11:46:30|2017-03-02|11:46:55|0:00:25|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|11:46:30|2017-03-02|11:46:55|0:00:25|docs.djangoproject.com|Documents|1|6
 Símbolo del sistema|2017-03-02|11:47:54|2017-03-02|11:48:21|0:00:27|Sistema operativo Microsoft® Windows®|Applications|0|6
-https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|11:47:40|2017-03-02|11:47:54|0:00:14|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|11:47:40|2017-03-02|11:47:54|0:00:14|docs.djangoproject.com|Documents|1|6
 Lib|2017-03-02|11:48:21|2017-03-02|11:48:28|0:00:07|Sistema operativo Microsoft® Windows®|Applications|0|6
 site-packages|2017-03-02|11:48:28|2017-03-02|11:48:49|0:00:21|Sistema operativo Microsoft® Windows®|Applications|0|6
-django|2017-03-02|11:48:49|2017-03-02|11:48:56|0:00:07|Sistema operativo Microsoft® Windows®|Applications|0|6
+django|2017-03-02|11:48:49|2017-03-02|11:48:56|0:00:07|Sistema operativo Microsoft® Windows®|Applications|1|6
 site-packages|2017-03-02|11:48:56|2017-03-02|11:49:10|0:00:14|Sistema operativo Microsoft® Windows®|Applications|0|6
-django|2017-03-02|11:49:10|2017-03-02|11:49:15|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|6
+django|2017-03-02|11:49:10|2017-03-02|11:49:15|0:00:05|Sistema operativo Microsoft® Windows®|Applications|1|6
 site-packages|2017-03-02|11:49:15|2017-03-02|11:49:33|0:00:18|Sistema operativo Microsoft® Windows®|Applications|0|6
 Nueva pestaña - Google Chrome|2017-03-02|11:49:54|2017-03-02|11:49:59|0:00:05|Google Chrome|Applications|0|6
 pip uninstall - Buscar con Google - Google Chrome|2017-03-02|11:49:59|2017-03-02|11:50:21|0:00:22|Google Chrome|Applications|0|6
 Símbolo del sistema|2017-03-02|11:50:21|2017-03-02|11:50:53|0:00:32|Sistema operativo Microsoft® Windows®|Applications|0|6
-https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|11:49:33|2017-03-02|11:49:54|0:00:21|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|11:49:33|2017-03-02|11:49:54|0:00:21|docs.djangoproject.com|Documents|1|6
 https://www.google.com.ec/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=pip+uninstall&*|2017-03-02|11:49:59|2017-03-02|11:50:21|0:00:22|www.google.com.ec|Documents|0|6
 Símbolo del sistema - python  -m pip uninstall django|2017-03-02|11:50:53|2017-03-02|11:52:01|0:01:08|Sistema operativo Microsoft® Windows®|Applications|1|6
 site-packages|2017-03-02|11:52:01|2017-03-02|11:52:07|0:00:06|Sistema operativo Microsoft® Windows®|Applications|0|6
-django|2017-03-02|11:52:07|2017-03-02|11:52:14|0:00:07|Sistema operativo Microsoft® Windows®|Applications|0|6
+django|2017-03-02|11:52:07|2017-03-02|11:52:14|0:00:07|Sistema operativo Microsoft® Windows®|Applications|1|6
 site-packages|2017-03-02|11:52:14|2017-03-02|11:52:31|0:00:17|Sistema operativo Microsoft® Windows®|Applications|0|6
 Símbolo del sistema|2017-03-02|11:52:31|2017-03-02|11:52:43|0:00:12|Sistema operativo Microsoft® Windows®|Applications|0|6
 Símbolo del sistema - python  -m pip install django|2017-03-02|11:52:43|2017-03-02|11:53:22|0:00:39|Sistema operativo Microsoft® Windows®|Applications|1|6
@@ -8783,7 +8783,7 @@ proyectoDAW2016|2017-03-02|13:11:40|2017-03-02|13:12:08|0:00:28|Sistema operativ
 Fundamentos de Programación - Google Chrome|2017-03-02|13:12:08|2017-03-02|13:12:19|0:00:11|Google Chrome|Applications|0|6
 Fundamentos de Programación - Google Chrome|2017-03-02|13:12:26|2017-03-02|13:12:36|0:00:10|Google Chrome|Applications|0|6
 sb_estd.html|2017-03-02|13:12:08|2017-03-02|13:12:19|0:00:11|file|Documents|0|6
-https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|13:12:19|2017-03-02|13:12:26|0:00:07|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|13:12:19|2017-03-02|13:12:26|0:00:07|docs.djangoproject.com|Documents|1|6
 http://localhost:8000/equipo2.html|2017-03-02|13:12:26|2017-03-02|13:12:36|0:00:10|localhost|Documents|1|6
 Fundamentos de Programación - Google Chrome|2017-03-02|13:12:36|2017-03-02|13:12:41|0:00:05|Google Chrome|Applications|0|6
 Sistema operativo Microsoft® Windows®|2017-03-02|13:12:41|2017-03-02|13:12:46|0:00:05|Sistema operativo Microsoft® Windows®|Applications|0|6
@@ -9021,7 +9021,7 @@ localhost - Google Chrome|2017-03-02|13:51:05|2017-03-02|13:51:10|0:00:05|Google
 Fundamentos de Programación - Google Chrome|2017-03-02|13:51:10|2017-03-02|13:51:21|0:00:11|Google Chrome|Applications|0|6
 Fundamentos de Programación - Google Chrome|2017-03-02|13:51:21|2017-03-02|13:51:46|0:00:25|Google Chrome|Applications|0|6
 https://github.com/jealvarado/proyectoDAWSitioInst|2017-03-02|13:50:53|2017-03-02|13:50:59|0:00:06|github.com|Documents|1|6
-https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|13:50:59|2017-03-02|13:51:05|0:00:06|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|13:50:59|2017-03-02|13:51:05|0:00:06|docs.djangoproject.com|Documents|1|6
 http://localhost:8000/equipo3.html|2017-03-02|13:51:05|2017-03-02|13:51:10|0:00:05|localhost|Documents|1|6
 sandbox_prof.ejs|2017-03-02|13:51:10|2017-03-02|13:51:21|0:00:11|file|Documents|1|6
 sandbox_prof.ejs|2017-03-02|13:51:21|2017-03-02|13:51:46|0:00:25|file|Documents|1|6
@@ -9048,7 +9048,7 @@ npm|2017-03-02|13:55:34|2017-03-02|13:55:43|0:00:09|Sistema operativo Microsoft�
 localhost - Google Chrome|2017-03-02|13:55:51|2017-03-02|13:56:02|0:00:11|Google Chrome|Applications|1|6
 npm|2017-03-02|13:56:02|2017-03-02|13:56:26|0:00:24|Sistema operativo Microsoft® Windows®|Applications|0|6
 index.ejs|2017-03-02|13:56:26|2017-03-02|13:56:42|0:00:16|Sublime Text 2|Applications|1|6
-https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|13:55:43|2017-03-02|13:55:51|0:00:08|docs.djangoproject.com|Documents|0|6
+https://docs.djangoproject.com/en/1.10/topics/install/#removing-old-versions-of-django|2017-03-02|13:55:43|2017-03-02|13:55:51|0:00:08|docs.djangoproject.com|Documents|1|6
 http://localhost:3000/|2017-03-02|13:55:51|2017-03-02|13:56:02|0:00:11|localhost|Documents|1|6
 index.ejs|2017-03-02|13:56:26|2017-03-02|13:56:42|0:00:16|index.ejs|Documents|1|6
 ejercicios.js|2017-03-02|13:56:42|2017-03-02|13:57:00|0:00:18|Sublime Text 2|Applications|1|6

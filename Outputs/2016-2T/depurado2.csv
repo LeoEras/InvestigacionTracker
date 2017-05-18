@@ -58,7 +58,7 @@ Downloads|2017-01-30|22:39:31|2017-01-30|22:39:43|0:00:12|Windows Explorer|Appli
 Computer|2017-01-30|22:39:43|2017-01-30|22:39:54|0:00:11|Windows Explorer|Applications|0|2
 Users|2017-01-30|22:39:54|2017-01-30|22:39:59|0:00:05|Windows Explorer|Applications|0|2
 Estudiante|2017-01-30|22:39:59|2017-01-30|22:40:05|0:00:06|Windows Explorer|Applications|0|2
-django_download|2017-01-30|22:40:05|2017-01-30|22:40:25|0:00:20|Windows Explorer|Applications|0|2
+django_download|2017-01-30|22:40:05|2017-01-30|22:40:25|0:00:20|Windows Explorer|Applications|1|2
 cmd.exe|2017-01-30|22:40:25|2017-01-30|22:40:31|0:00:06|Windows Command Processor|Applications|1|2
 cmd.exe|2017-01-30|22:40:31|2017-01-30|22:40:38|0:00:07|Windows Command Processor|Applications|1|2
 cmd.exe|2017-01-30|22:40:38|2017-01-30|22:41:12|0:00:34|Windows Command Processor|Applications|1|2
@@ -92,7 +92,7 @@ file_prueba.js|2017-01-30|23:41:44|2017-01-30|23:42:03|0:00:19|Atom|Applications
 |2017-01-30|23:42:03|2017-01-30|23:42:33|0:00:30|Atom|Applications|1|2
 file_prueba.js|2017-01-30|23:42:33|2017-01-30|23:44:08|0:01:35|Atom|Applications|1|2
 Inicio.cmd|2017-01-30|23:44:08|2017-01-30|23:44:19|0:00:11|Atom|Applications|1|2
-django_download|2017-01-30|23:44:19|2017-01-30|23:44:26|0:00:07|Windows Explorer|Applications|0|2
+django_download|2017-01-30|23:44:19|2017-01-30|23:44:26|0:00:07|Windows Explorer|Applications|1|2
 Estudiante|2017-01-30|23:44:26|2017-01-30|23:44:40|0:00:14|Windows Explorer|Applications|0|2
 cmd.exe|2017-01-30|23:44:40|2017-01-30|23:44:48|0:00:08|Windows Command Processor|Applications|1|2
 Windows PowerShell|2017-01-30|23:44:48|2017-01-30|23:44:59|0:00:11|Windows PowerShell|Applications|0|2
@@ -144,7 +144,7 @@ Start menu|2017-02-06|09:58:54|2017-02-06|09:59:52|0:00:58|Windows Explorer|Appl
 Windows Explorer|2017-02-06|09:59:52|2017-02-06|10:00:00|0:00:08|Windows Explorer|Applications|0|2
 Program Manager|2017-02-06|10:00:00|2017-02-06|10:00:33|0:00:33|Windows Explorer|Applications|0|2
 Command Prompt|2017-02-06|10:00:33|2017-02-06|10:02:29|0:01:56|Windows Command Processor|Applications|0|2
-Command Prompt - pip  install django|2017-02-06|10:02:29|2017-02-06|10:02:44|0:00:15|Windows Command Processor|Applications|0|2
+Command Prompt - pip  install django|2017-02-06|10:02:29|2017-02-06|10:02:44|0:00:15|Windows Command Processor|Applications|1|2
 Command Prompt|2017-02-06|10:02:44|2017-02-06|10:03:33|0:00:49|Windows Command Processor|Applications|0|2
 |2017-02-06|10:03:33|2017-02-06|10:03:40|0:00:07|Windows Explorer|Applications|0|2
 Python27|2017-02-06|10:03:40|2017-02-06|10:06:26|0:02:46|Windows Explorer|Applications|1|2
@@ -489,13 +489,13 @@ Program Manager|2017-02-22|03:27:27|2017-02-22|03:36:41|0:09:14|Windows Explorer
 Windows Update|2017-02-22|03:36:41|2017-02-22|03:51:22|0:14:41|Windows Update|Applications|0|2
 Program Manager|2017-02-23|10:56:51|2017-02-23|10:59:42|0:02:51|Windows Explorer|Applications|0|2
 Command Prompt|2017-02-23|10:59:42|2017-02-23|10:59:55|0:00:13|Windows Command Processor|Applications|0|2
-Command Prompt - pip  install django|2017-02-23|10:59:55|2017-02-23|11:00:37|0:00:42|Windows Command Processor|Applications|0|2
+Command Prompt - pip  install django|2017-02-23|10:59:55|2017-02-23|11:00:37|0:00:42|Windows Command Processor|Applications|1|2
 Windows Explorer|2017-02-23|11:00:37|2017-02-23|11:00:43|0:00:06|Windows Explorer|Applications|0|2
 Libraries|2017-02-23|11:00:43|2017-02-23|11:01:17|0:00:34|Windows Explorer|Applications|0|2
 Downloads|2017-02-23|11:01:17|2017-02-23|11:01:49|0:00:32|Windows Explorer|Applications|0|2
 Preparing to recycle|2017-02-23|11:01:49|2017-02-23|11:01:54|0:00:05|Windows Explorer|Applications|0|2
 Downloads|2017-02-23|11:01:54|2017-02-23|11:02:00|0:00:06|Windows Explorer|Applications|0|2
-Command Prompt - pip  install django|2017-02-23|11:02:00|2017-02-23|11:03:47|0:01:47|Windows Command Processor|Applications|0|2
+Command Prompt - pip  install django|2017-02-23|11:02:00|2017-02-23|11:03:47|0:01:47|Windows Command Processor|Applications|1|2
 Program Manager|2017-02-23|11:03:47|2017-02-23|11:05:09|0:01:22|Windows Explorer|Applications|0|2
 Command Prompt|2017-02-23|11:05:09|2017-02-23|11:05:15|0:00:06|Windows Command Processor|Applications|0|2
 taskeng.exe|2017-02-23|11:05:15|2017-02-23|11:05:41|0:00:26|Windows Command Processor|Applications|0|2
@@ -723,7 +723,7 @@ cache|2017-02-23|15:38:48|2017-02-23|15:38:53|0:00:05|Windows Explorer|Applicati
 Local|2017-02-23|15:38:53|2017-02-23|15:39:00|0:00:07|Windows Explorer|Applications|0|2
 Data|2017-02-23|15:39:00|2017-02-23|15:39:05|0:00:05|Windows Explorer|Applications|0|2
 AppData|2017-02-23|15:39:05|2017-02-23|15:39:11|0:00:06|Windows Explorer|Applications|0|2
-django_download|2017-02-23|15:39:11|2017-02-23|15:39:17|0:00:06|Windows Explorer|Applications|0|2
+django_download|2017-02-23|15:39:11|2017-02-23|15:39:17|0:00:06|Windows Explorer|Applications|1|2
 Estudiante|2017-02-23|15:39:17|2017-02-23|15:39:33|0:00:16|Windows Explorer|Applications|0|2
 Control Panel|2017-02-23|15:39:33|2017-02-23|15:39:42|0:00:09|Windows Explorer|Applications|0|2
 Programs and Features|2017-02-23|15:39:42|2017-02-23|15:39:59|0:00:17|Windows Explorer|Applications|0|2

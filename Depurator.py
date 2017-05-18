@@ -11,7 +11,8 @@ filtros = ['stackoverflow', 'Stackoverflow', 'Komodo', 'komodo',
            'phpstorm', 'PhpStorm', 'devenv', 'Devenv', 'jquery',
            'jQuery', 'Jquery', 'JQuery', 'hbs', 'Visual Studio',
            'mlab', 'jade', 'dev.', 'emmet', 'Emmet', 'w3', 'learn',
-           'js', 'datatables', 'bootstrap', 'webtools', 'programacion']
+           'js', 'datatables', 'bootstrap', 'webtools', 'programacion',
+           'Django', 'django']
 
 def depurate(item):
     item = item.replace('"', '').strip()
