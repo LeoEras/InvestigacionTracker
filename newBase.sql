@@ -105,8 +105,10 @@ INSERT INTO Users VALUES(6, 2, "Ruddy Maricela", "Moncayo Rea");
 INSERT INTO Users VALUES(21, 2, "Freddy Edmundo", "Samaniego Oyola");
 
 #UPDATE Users SET first_name = "Joel Eduardo" WHERE id = 9 AND termID = 2;
-
+#use Base;
 #SELECT * FROM Activity where activity = "Install MongoDB Community Edition on Windows — MongoDB Manual 3.2 - Google Chrome";
-#SELECT count(*) FROM Log WHERE termID = 1 AND start_date >= "2016-07-21" AND end_date <= "2016-09-08";
+SELECT applicationID FROM Log WHERE termID = 1 AND start_date >= "2016-07-21" AND end_date <= "2016-09-08" AND userID = 41 AND classID = 1;
 #SELECT dates FROM Dates AS D, Log AS L where L.start_dateID = 273 and L.start_dateID = D.id;
-
+#SELECT * FROM Application WHERE application = "untitled"
+# count(applicationID)
+SELECT * FROM Application WHERE application LIKE "GitHub%" LIMIT 2000;
