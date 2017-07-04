@@ -13,7 +13,7 @@ CREATE TABLE IF NOT EXISTS Application (
 
 CREATE TABLE IF NOT EXISTS Activity (
     id INT PRIMARY KEY AUTO_INCREMENT,
-    activity VARCHAR(300) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL UNIQUE
+    activity VARCHAR(250) CHARACTER SET utf8 COLLATE utf8_bin NOT NULL UNIQUE
 );
 
 CREATE TABLE IF NOT EXISTS Term (
@@ -107,8 +107,8 @@ INSERT INTO Users VALUES(21, 2, "Freddy Edmundo", "Samaniego Oyola");
 #UPDATE Users SET first_name = "Joel Eduardo" WHERE id = 9 AND termID = 2;
 #use Base;
 #SELECT * FROM Activity where activity = "Install MongoDB Community Edition on Windows — MongoDB Manual 3.2 - Google Chrome";
-SELECT applicationID FROM Log WHERE termID = 1 AND start_date >= "2016-07-21" AND end_date <= "2016-09-08" AND userID = 41 AND classID = 1;
+#SELECT applicationID FROM Log WHERE termID = 1 AND start_date >= "2016-07-21" AND end_date <= "2016-09-08" AND userID = 41 AND classID = 1;
 #SELECT dates FROM Dates AS D, Log AS L where L.start_dateID = 273 and L.start_dateID = D.id;
 #SELECT * FROM Application WHERE application = "untitled"
 # count(applicationID)
-SELECT * FROM Application WHERE application LIKE "GitHub%" LIMIT 2000;
+#SELECT * FROM Application WHERE application LIKE "GitHub%" LIMIT 2000;

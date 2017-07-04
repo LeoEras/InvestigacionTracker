@@ -24,7 +24,7 @@ filterwarnings('ignore', category = MySQLdb.Warning)
 
 def depurate(item):
     item = item.replace('"', '').strip()
-    item = item[0:300]
+    item = item[0:250]
     if "c:" in item or "C:" in item:
         word = re.findall(r'\w+\.\w+', item)
         if len(word) > 0:
