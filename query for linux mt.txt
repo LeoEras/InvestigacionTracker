@@ -1,0 +1,1 @@
+select a.ActivityId, a.Name as Event, a.StartLocalTime, a.EndLocalTime, g.Name as Application, t.SchemaName as Type from Ar_Activity a, Ar_Group g, Ar_Timeline t where a.GroupId = g.GroupId and a.ReportId = t.ReportId order by a.ActivityId;
