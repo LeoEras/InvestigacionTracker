@@ -140,4 +140,4 @@ INSERT INTO Users VALUES(24, 3, "Robert Javier", "Loor Zambrano");
 #SELECT * FROM Application WHERE application = "untitled"
 # count(applicationID)
 #SELECT * FROM Application WHERE application LIKE "GitHub%" LIMIT 2000;
-#select * from Users;
+#select count(*) from Log where userID=22 and termID=1;
