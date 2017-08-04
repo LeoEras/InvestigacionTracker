@@ -64,8 +64,12 @@ def populateDatesApplication(filename, user):
             collection[2] = collection[2].replace("\"", "", 2)
             collection[3] = collection[3].replace("\"", "", 2)
             activity = depurate(collection[1])
-            date_time_start = collection[2].split(" ", len(collection[2]))
-            date_time_end = collection[3].split(" ", len(collection[3]))
+            if "T" in collection[2]:
+                date_time_start = collection[2].split("T", len(collection[2]))
+                date_time_end = collection[3].split("T", len(collection[3]))
+            else:
+                date_time_start = collection[2].split(" ", len(collection[2]))
+                date_time_end = collection[3].split(" ", len(collection[3]))
             date_start = date_time_start[0]
             date_end = date_time_end[0]
             application = depurate(collection[4])
@@ -138,8 +142,12 @@ def populateLog(filename, user, term):
             collection[2] = collection[2].replace("\"", "", 2)
             collection[3] = collection[3].replace("\"", "", 2)
             description = depurate(collection[1])
-            date_time_start = collection[2].split(" ", len(collection[2]))
-            date_time_end = collection[3].split(" ", len(collection[3]))
+            if "T" in collection[2]:
+                date_time_start = collection[2].split("T", len(collection[2]))
+                date_time_end = collection[3].split("T", len(collection[3]))
+            else:
+                date_time_start = collection[2].split(" ", len(collection[2]))
+                date_time_end = collection[3].split(" ", len(collection[3]))
             date_start = date_time_start[0]
             time_start = re.sub(r'\.\d*', "", str(date_time_start[1]))
             date_end = date_time_end[0]

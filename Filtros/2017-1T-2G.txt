@@ -1,0 +1,29 @@
+Sublime
+sublime
+Django
+django
+Python
+python
+.py
+HelpMapp
+HelpMap
+helpmap
+helpmapp
+JSON
+json
+Github
+pip
+Formulario
+Editor de textos
+500 Internal
+404 Not Found
+orm
+ORM
+127.0.0.1
+localhost
+GET
+POST
+MVC
+mvc
+Git
+git

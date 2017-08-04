@@ -1,0 +1,32 @@
+Flask
+flask
+.py
+Python
+python
+Formulario
+Node
+node
+.js
+Install
+install
+instalar
+Instalar
+Mongo
+mongo
+.json
+REST
+rest
+sqlite
+Editor de textos
+500 Internal
+404 Not Found
+orm
+ORM
+127.0.0.1
+localhost
+GET
+POST
+MVC
+mvc
+Git
+git

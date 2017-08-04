@@ -1,0 +1,25 @@
+Sublime
+sublime
+stack
+Stack
+.js
+express
+Restaurantes
+restaurantes
+install
+Install
+Mongo
+mongo
+Editor de textos
+500 Internal
+404 Not Found
+orm
+ORM
+127.0.0.1
+localhost
+GET
+POST
+MVC
+mvc
+Git
+git

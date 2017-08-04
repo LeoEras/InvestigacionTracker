@@ -1,0 +1,22 @@
+Python
+python
+.py
+Django
+django
+MySQL
+mysql
+Sublime
+sublime
+Editor de textos
+500 Internal
+404 Not Found
+orm
+ORM
+127.0.0.1
+localhost
+GET
+POST
+MVC
+mvc
+Git
+git

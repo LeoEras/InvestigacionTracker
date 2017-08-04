@@ -1,0 +1,33 @@
+Sublime
+sublime
+Flask
+flask
+PostgreSQL
+postgresql
+MySQL
+mysql
+DigitalOcean
+Comedores
+comedores
+Atom
+atom
+Django
+django
+Python
+python
+.py
+pip
+Formulario
+Editor de textos
+500 Internal
+404 Not Found
+orm
+ORM
+127.0.0.1
+localhost
+GET
+POST
+MVC
+mvc
+Git
+git
