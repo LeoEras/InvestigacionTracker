@@ -54,11 +54,11 @@ def populateDatesApplication(filename, user):
     #    	    \date_time_start      \date_time_end    \
     #description\date_start\time_start\date_end\time_end\elapsed_time\process\process_type\importance
     for line in file_object:
+        if "ComputerUsage" in line or "Away" in line or "Power" in line:
+                continue
         collection = line.split("|", len(line))
         if len(collection) == 6:
             if str(collection[4]) == "":
-                continue
-            if "ComputerUsage" in collection[5]:
                 continue
             collection[1] = collection[1].replace("\"", "", 2)
             collection[2] = collection[2].replace("\"", "", 2)
@@ -132,11 +132,11 @@ def populateLog(filename, user, term):
     #    	    \date_time_start      \date_time_end    \
     #description\date_start\time_start\date_end\time_end\elapsed_time\process\process_type\importance
     for line in file_object:
+        if "ComputerUsage" in line or "Away" in line or "Power" in line:
+            continue
         collection = line.split("|", len(line))
         if len(collection) == 6:
             if str(collection[4]) == "":
-                continue
-            if "ComputerUsage" in collection[5]:
                 continue
             collection[1] = collection[1].replace("\"", "", 2)
             collection[2] = collection[2].replace("\"", "", 2)

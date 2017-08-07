@@ -6,6 +6,8 @@ PostgreSQL
 postgresql
 MySQL
 mysql
+Terminal
+terminal
 DigitalOcean
 Comedores
 comedores

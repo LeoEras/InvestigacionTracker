@@ -7,6 +7,8 @@ MySQL
 mysql
 Sublime
 sublime
+Terminal
+terminal
 Editor de textos
 500 Internal
 404 Not Found

@@ -13,6 +13,8 @@ Editor de textos
 404 Not Found
 orm
 ORM
+Terminal
+terminal
 127.0.0.1
 localhost
 GET

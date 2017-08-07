@@ -122,7 +122,7 @@ INSERT INTO Users VALUES(12, 3, "Luis Fernando", "Zuñiga Rosado");
 INSERT INTO Users VALUES(13, 3, "Anni Rosa", "Santacruz Hernandez");
 INSERT INTO Users VALUES(14, 3, "Johan Alejandro", "Canales Reyes");
 INSERT INTO Users VALUES(15, 3, "Daniel Josué", "Castro Peñafiel");
-INSERT INTO Users VALUES(16, 3, "Paúl Domingo", "Estrada León");
+INSERT INTO Users VALUES(16, 3, "Paul Domingo", "Estrada León");
 INSERT INTO Users VALUES(17, 3, "Bryan Darío", "Tumbaco Moreira");
 INSERT INTO Users VALUES(18, 3, "Elízabeth Meybol", "Sánchez Villamar");
 INSERT INTO Users VALUES(19, 3, "Narcisa Fabiola", "Colcha Melendrez");

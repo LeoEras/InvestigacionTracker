@@ -7,6 +7,8 @@ Formulario
 Node
 node
 .js
+Terminal
+terminal
 Install
 install
 instalar

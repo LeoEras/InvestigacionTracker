@@ -5,6 +5,8 @@ django
 Python
 python
 .py
+Terminal
+terminal
 HelpMapp
 HelpMap
 helpmap

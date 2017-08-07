@@ -4,6 +4,8 @@ stack
 Stack
 .js
 express
+Terminal
+terminal
 Restaurantes
 restaurantes
 install

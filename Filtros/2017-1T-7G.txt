@@ -6,6 +6,8 @@ Python
 python
 .py
 DigitalOcean
+Terminal
+terminal
 MySQL
 mysql
 Formulario
